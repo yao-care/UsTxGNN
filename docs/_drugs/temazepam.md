@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1208
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Temazepam: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,16 +72,20 @@ The TxGNN deep-learning model produced candidates for Temazepam with a score of 
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| NDA018163 | Temazepam | CAPSULE | Valid |
-| ANDA211542 | Temazepam | CAPSULE | Valid |
-| ANDA071457 | temazepam | CAPSULE | Valid |
-| ANDA071456 | temazepam | CAPSULE | Valid |
-| ANDA071620 | Temazepam | CAPSULE | Valid |
-| ANDA201781 | temazepam | CAPSULE | Valid |
+<!-- licenses:begin -->
 
-Only part of the licence list is held in the data; the list may be incomplete.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071427 | TEMAZEPAM | CHARTWELL RX | Capsule; oral | Valid |
+| ANDA071428 | TEMAZEPAM | CHARTWELL RX | Capsule; oral | Valid |
+| ANDA071456 | TEMAZEPAM | NOVEL LABS INC | Capsule; oral | Valid |
+| ANDA071457 | TEMAZEPAM | NOVEL LABS INC | Capsule; oral | Valid |
+| ANDA071620 | TEMAZEPAM | ACTAVIS ELIZABETH | Capsule; oral | Valid |
+| ANDA071638 | Temazepam | Aphena Pharma Solutions - Tennessee, LLC | Capsule; oral | Valid |
+
+Showing 6 of 25 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "ATAZANAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atazanavir: predicted new indication feline acquired immunodeficiency syndrome (evidence level L5). In the US: 11 FDA applications (7 active)"
 ---
 
@@ -70,13 +70,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021567 | REYATAZ | Capsule, gelatin coated | Not recorded in the local data |
-| ANDA212278 | Atazanavir | Capsule | Not recorded in the local data |
-| ANDA204806 | Atazanavir Sulfate | Capsule | Not recorded in the local data |
-| ANDA091673 | Atazanavir Sulfate | Capsule | Not recorded in the local data |
-| ANDA212579 | Atazanavir | Capsule | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091673 | ATAZANAVIR SULFATE | TEVA PHARMS USA | Capsule; oral | Valid |
+| ANDA204806 | ATAZANAVIR SULFATE | AUROBINDO PHARMA | Capsule; oral | Valid |
+| ANDA212278 | ATAZANAVIR SULFATE | HETERO LABS LTD III | Capsule; oral | Valid |
+| ANDA212579 | ATAZANAVIR SULFATE | LAURUS | Capsule; oral | Valid |
+| NDA021567 | REYATAZ | BRISTOL MYERS SQUIBB | Capsule; oral | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

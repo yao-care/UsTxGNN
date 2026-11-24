@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "HUMAN IMMUNOGLOBULIN G"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Human Immunoglobulin G: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). In the US: 17 FDA applications (17 active)"
 ---
 
@@ -82,13 +82,19 @@ The drug is marketed in the US, and no approved indication text was available.
 
 <!-- review:end us-lic-20261106-human_immunoglobulin_g-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| BLA125822 | QIVIGY | Injection, solution | Valid |
-| BLA125668 | Cutaquig | Solution | Valid |
-| BLA125350 | Hizentra | Liquid | Valid |
-| BLA125201 | Privigen | Liquid | Valid |
-| BLA125062 | Octagam Immune Globulin (Human) | Solution | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA101134 | GamaSTAN | GRIFOLS USA, LLC | Injection, solution; intramuscular | Valid |
+| BLA125046 | Gamunex-C | GRIFOLS USA, LLC | Injection; intravenous | Valid |
+| BLA125062 | Octagam Immune Globulin (Human) | Pfizer Laboratories Div Pfizer Inc | Solution; intravenous | Valid |
+| BLA125077 | Flebogamma DIF | GRIFOLS USA, LLC | Injection, solution; intravenous | Valid |
+| BLA125105 | GAMMAGARD Liquid | Takeda Pharmaceuticals America, Inc. | Injection, solution; intravenous, subcutaneous | Valid |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

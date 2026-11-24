@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CYCLOPENTOLATE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyclopentolate: predicted new indication Cauda equina syndrome (evidence level L5). In the US: 14 FDA applications (7 active)"
 ---
 
@@ -73,13 +73,19 @@ Two other predictions were also generated, and both are likewise supported only 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status | Manufacturer |
-|---------|------|------|-----------|------|
-| ANDA040075 | Cyclopentolate Hydrochloride | Solution/drops | Valid | Bausch & Lomb Incorporated |
-| ANDA084110 | Cyclogyl | Solution/drops | Valid | Alcon Laboratories, Inc. |
-| ANDA084108 | Cyclogyl | Solution/drops | Valid | Alcon Laboratories, Inc. |
-| ANDA084109 | Cyclogyl | Solution/drops | Valid | Alcon Laboratories, Inc. |
-| ANDA084300 | Cyclomydril | Solution/drops | Valid | Alcon Laboratories, Inc. |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040075 | PENTOLAIR | BAUSCH AND LOMB INC | Solution/drops; ophthalmic | Valid |
+| ANDA040164 | AKPENTOLATE | RISING | Solution/drops; ophthalmic | Valid |
+| ANDA040165 | AKPENTOLATE | RISING | Solution/drops; ophthalmic | Valid |
+| ANDA084108 | CYCLOGYL | ALCON LABS INC | Solution/drops; ophthalmic | Valid |
+| ANDA084109 | CYCLOGYL | ALCON LABS INC | Solution/drops; ophthalmic | Valid |
+
+Showing 5 of 14 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

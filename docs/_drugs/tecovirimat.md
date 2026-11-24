@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1204
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Tecovirimat: predicted new indication Hordeolum (evidence level L5). Approved use: Smallpox"
 monitor_inn: "TECOVIRIMAT"
 predicted_indications: ["hordeolum", "vibrio infectious disease", "Klebsiella infectious disease", "noma", "lumpy skin disease", "idiopathic severe pneumococcemia", "coinfection", "phlebotomus fever"]
@@ -94,10 +94,14 @@ The records contain no approved-indication text.
 
 <!-- review:end us-lic-20261106-tecovirimat-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA208627 | TPOXX | Capsule | — |
-| NDA214518 | TPOXX | Injection, solution, concentrate | — |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA208627 | TPOXX | SIGA TECHNOLOGIES | Capsule; oral | Valid |
+| NDA214518 | TPOXX | SIGA TECHNOLOGIES | Solution; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1024
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PEMBROLIZUMAB"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "pulmonary sulcus neoplasm", "lung germ cell tumor", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 description: "Pembrolizumab: predicted new indication Fibromatosis, gingival (evidence level L5). In the US: 2 FDA applications (2 active)"
@@ -112,9 +112,14 @@ These support pembrolizumab's established use in malignant lung cancer. They are
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125514 | KEYTRUDA (Merck Sharp & Dohme LLC) | Injection, solution | Not available in the data compiled; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125514 | KEYTRUDA | MERCK SHARP DOHME | Solution; intravenous | Valid |
+| BLA761467 | KEYTRUDA QLEX | MERCK SHARP DOHME | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 This should be verified against the current FDA label, since pembrolizumab is widely marketed in practice.
 

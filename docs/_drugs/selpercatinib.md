@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Selpercatinib"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Selpercatinib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not specified in the approval records compiled for this report (the a…"
 ---
 
@@ -76,10 +76,14 @@ None of these publications address pulmonary hypertension, so they do not suppor
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA218160 | RETEVMO | Tablet, coated | Not available (status: valid) |
-| NDA213246 | RETEVMO | Capsule | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA213246 | RETEVMO | ELI LILLY AND CO | Capsule; oral | Valid |
+| NDA218160 | RETEVMO | ELI LILLY AND CO | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

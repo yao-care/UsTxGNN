@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CAPTOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Captopril: predicted new indication malignant hypertensive renal disease (evidence level L5). In the US: 33 FDA applications (8 active)"
 ---
 
@@ -70,15 +70,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA212809 | Captopril (Bryant Ranch Prepack) | Tablet | Not recorded |
-| ANDA074505 | Captopril (Golden State Medical Supply, Inc.) | Tablet | Not recorded |
-| ANDA074677 | captopril (Method Pharmaceuticals LLC) | Tablet | Not recorded |
-| ANDA074477 | Captopril (Solco Healthcare US, LLC) | Tablet | Not recorded |
-| ANDA074737 | Captopril (Camber Pharmaceuticals, Inc.) | Tablet | Not recorded |
+<!-- licenses:begin -->
 
-The licence list may be partial.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074477 | CAPTOPRIL | PRINSTON INC | Tablet; oral | Valid |
+| ANDA074505 | CAPTOPRIL | HIKMA | Tablet; oral | Valid |
+| ANDA074532 | CAPTOPRIL | WOCKHARDT BIO AG | Tablet; oral | Valid |
+| ANDA074677 | CAPTOPRIL | ANDAS 5 HOLDING | Tablet; oral | Valid |
+| ANDA074737 | CAPTOPRIL | MACLEODS PHARMS | Tablet; oral | Valid |
+
+Showing 5 of 33 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

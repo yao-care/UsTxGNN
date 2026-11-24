@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "NITROFURANTOIN"
 predicted_indications: ["rheumatoid arthritis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "methemoglobinemia, alpha type", "gout", "methemoglobinemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nitrofurantoin: predicted new indication Rheumatoid arthritis (evidence level L5). In the US: 49 FDA applications (26 active)"
 ---
 
@@ -95,13 +95,19 @@ No approved indication text is available in the data.
 
 <!-- review:end us-lic-20261106-nitrofurantoin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA016620 | Nitrofurantoin Macrocrystals (Proficient Rx LP) | Capsule | Not available |
-| ANDA073652 | Nitrofurantoin (Bryant Ranch Prepack) | Capsule | Not available |
-| ANDA073671 | Nitrofurantoin Macrocrystals (AvPAK) | Capsule | Not available |
-| ANDA203233 | Nitrofurantoin macrocrystals (Lupin) | Capsule | Not available |
-| ANDA201693 | Nitrofurantoin (Novel Laboratories) | Suspension | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA073652 | NITROFURANTOIN | IMPAX LABS INC | Capsule; oral | Valid |
+| ANDA073671 | NITROFURANTOIN | IMPAX LABS INC | Capsule; oral | Valid |
+| ANDA074967 | NITROFURANTOIN | AUROBINDO PHARMA USA | Capsule; oral | Valid |
+| ANDA077025 | NITROFURANTOIN | AUROBINDO PHARMA USA | Capsule; oral | Valid |
+| ANDA201355 | NITROFURANTOIN | STRIDES PHARMA | Suspension; oral | Valid |
+
+Showing 5 of 49 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

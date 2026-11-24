@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "METHOCARBAMOL"
 predicted_indications: ["cauda equina syndrome", "irritable bowel syndrome", "panuveitis (disease)", "anaphylaxis", "iris disease", "uveitis", "ventricular tachycardia", "food-dependent exercise-induced anaphylaxis", "conjunctivitis", "obsolete bundle branch block"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Methocarbamol: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not listed in the data compiled for this report (methocarbamol is gen…"
 ---
 
@@ -70,13 +70,19 @@ Currently no related literature available for cauda equina syndrome.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA040489 | Methocarbamol (Bryant Ranch Prepack) | Tablet | Not listed (valid) |
-| ANDA200958 | Methocarbamol (Oncora Pharma) | Tablet, coated | Not listed (valid) |
-| ANDA209312 | Methocarbamol (Granules India) | Tablet, coated | Not listed (valid) |
-| ANDA211504 | Methocarbamol (Sagent Pharmaceuticals) | Injection, solution | Not listed (valid) |
-| ANDA212707 | Tanlor (Forte Bio-Pharma) | Tablet, film coated | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040489 | METHOCARBAMOL | OXFORD PHARMS | Tablet; oral | Valid |
+| ANDA086988 | METHOCARBAMOL | PRINSTON INC | Tablet; oral | Valid |
+| ANDA086989 | Methocarbamol | Aphena Pharma Solutions - Tennessee, LLC | Tablet; oral | Valid |
+| ANDA090200 | METHOCARBAMOL | HETERO LABS LTD III | Tablet; oral | Valid |
+| ANDA200958 | METHOCARBAMOL | BOSTAL | Tablet; oral | Valid |
+
+Showing 5 of 81 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Only the first five are shown above. Available forms include oral tablets (plain, coated and film coated) and an injectable solution.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ROPEGINTERFERON ALFA-2B"
 predicted_indications: ["Laubry-Pezzi syndrome", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "Jeune syndrome situs inversus", "partial deletion of the long arm of chromosome 22", "orofacial clefting syndrome", "pulmonary valve disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ropeginterferon Alfa-2B: predicted new indication Laubry-Pezzi syndrome (evidence level L5). Approved use: Acquired polycythemia vera (also listed: plasmacytoma, polycythemia)"
 ---
 
@@ -71,9 +71,13 @@ Currently no related literature available for Laubry-Pezzi syndrome.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761166 | BESREMi (PharmaEssentia USA) | Injection | Not listed in the data compiled for this report (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761166 | BESREMI | PHARMAESSENTIA CORP | Injectable; subcutaneous | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

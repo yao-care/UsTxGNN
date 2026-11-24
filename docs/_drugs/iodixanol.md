@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "IODIXANOL"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Iodixanol: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not available"
 ---
 
@@ -94,10 +94,15 @@ Literature for the second prediction (rheumatoid arthritis): [36628042](https://
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA214271 | Iodixanol (Fresenius Kabi USA, LLC) | Injection, solution | Not listed in the compiled records |
-| NDA020351 | Visipaque (GE Healthcare Inc.) | Injection, solution | Not listed in the compiled records |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA214271 | IODIXANOL | HENGRUI PHARMA | Injectable; injection | Valid |
+| NDA020351 | VISIPAQUE 270 | GE HEALTHCARE | Injectable; injection | Valid |
+| NDA020808 | VISIPAQUE 320 | GE HEALTHCARE | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ---
 

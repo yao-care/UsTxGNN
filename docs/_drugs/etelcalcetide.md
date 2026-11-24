@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "ETELCALCETIDE"
 predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices with bleeding", "esophageal varices without bleeding", "varicose disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etelcalcetide: predicted new indication Hyperphosphatemia (disease) (evidence level L4). In the US: 1 FDA application (1 active)"
 ---
 
@@ -78,9 +78,13 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA208325 | PARSABIV (Amgen Inc) | Injection, solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA208325 | PARSABIV | KAI PHARMS INC | Solution; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "TRYPTOPHAN"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Tryptophan: predicted new indication Restless legs syndrome (evidence level L3). Approved use: Not available"
 ---
 
@@ -128,9 +128,19 @@ These glaucoma findings are associative only. Primary hereditary glaucoma and th
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available (cancelled) | Tryptophan (BioActive Nutritional, Inc.) | Liquid (also listed as solution/drops and spray) | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 43742-0770 | Tryptophan | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43857-0232 | Tryptophan | BioActive Nutritional, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43857-0416 | Tryptophan | BioActive Nutritional, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 63083-7423 | L-Tryptophan 7423 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 63083-7424 | L-Tryptophan High 7424 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

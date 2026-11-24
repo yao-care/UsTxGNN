@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DALBAVANCIN"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa", "ophthalmic herpes zoster", "infectious mononucleosis", "orbital cellulitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dalbavancin: predicted new indication Postinfectious vasculitis (evidence level L5). In the US: 6 FDA applications (6 active)"
 ---
 
@@ -84,12 +84,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA217591 | Dalbavancin Hydrochloride (Fresenius Kabi USA, LLC) | Injection, powder, for solution | Not available (valid) |
-| NDA021883 | Dalvance (Allergan, Inc.) | Injection, powder, for solution | Not available (valid) |
-| ANDA219465 | Dalbavancin (Teva Pharmaceuticals, Inc.) | Injection, powder, for solution | Not available (valid) |
-| ANDA218929 | Dalbavancin (Meitheal Pharmaceuticals Inc) | Injection, powder, lyophilized, for solution | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA217591 | DALBAVANCIN HYDROCHLORIDE | FRESENIUS KABI USA | Powder; intravenous | Valid |
+| ANDA218602 | DALBAVANCIN HYDROCHLORIDE | LONG GROVE PHARMS | Powder; intravenous | Valid |
+| ANDA218929 | DALBAVANCIN HYDROCHLORIDE | KINDOS | Powder; intravenous | Valid |
+| ANDA219465 | DALBAVANCIN HYDROCHLORIDE | TEVA PHARMS INC | Powder; intravenous | Valid |
+| ANDA219604 | DALBAVANCIN HYDROCHLORIDE | BE PHARMS | Powder; intravenous | Valid |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

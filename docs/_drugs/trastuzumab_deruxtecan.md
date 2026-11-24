@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TRASTUZUMAB DERUXTECAN"
 predicted_indications: ["drug-induced osteoporosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Trastuzumab Deruxtecan: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not specified in the data compiled for this report"
 ---
 
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761139 | Enhertu (Daiichi Sankyo Inc.) | Lyophilized powder for injection solution | Not listed (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761139 | ENHERTU | DAIICHI SANKYO | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

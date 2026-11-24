@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 840
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LATANOPROSTENE BUNOD"
 predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "idiopathic spontaneous coronary artery dissection", "angiodysplasia of stomach", "lymphangiectasis", "hemangioendothelioma"]
 description: "Latanoprostene Bunod: predicted new indication Visceral calciphylaxis (evidence level L5). In the US: 2 FDA applications (2 active)"
@@ -88,10 +88,14 @@ For reference, the only publications linked to other top-10 predictions are indi
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA207795 | Vyzulta (Bausch & Lomb Incorporated) | Ophthalmic solution/drops | Not listed; valid |
-| ANDA217387 | Latanoprostene Bunod Ophthalmic Solution, 0.024% (Gland Pharma Limited) | Ophthalmic solution/drops | Not listed; valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA217387 | LATANOPROSTENE BUNOD | GLAND | Solution/drops; ophthalmic | Valid |
+| NDA207795 | VYZULTA | BAUSCH AND LOMB | Solution/drops; ophthalmic | Valid |
+
+<!-- licenses:end -->
 
 The drug was approved by the FDA in November 2017 for open-angle glaucoma and ocular hypertension.
 

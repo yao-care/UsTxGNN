@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 601
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DIAZOXIDE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
 description: "Diazoxide: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). In the US: 7 FDA applications (3 active)"
@@ -97,11 +97,19 @@ The macaque study is the only direct efficacy evidence, and it is preclinical.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA211050 | Diazoxide (e5 Pharma, LLC) | Suspension | Not listed; status valid |
-| ANDA210799 | Diazoxide (Par Health USA, LLC) | Suspension | Not listed; status valid |
-| NDA017453 | Proglycem (Teva Pharmaceuticals USA, Inc.) | Suspension | Not listed; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA210799 | DIAZOXIDE | NOVITIUM PHARMA | Suspension; oral | Valid |
+| ANDA211050 | DIAZOXIDE | E5 PHARMA INC | Suspension; oral | Valid |
+| NDA017453 | PROGLYCEM | TEVA BRANDED PHARM | Suspension; oral | Valid |
+| ANDA071519 | DIAZOXIDE | ABRAXIS PHARM | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA071908 | DIAZOXIDE | QUAD PHARMS | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Only an oral suspension is on record. No topical formulation is listed.
 

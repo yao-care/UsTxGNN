@@ -72,10 +72,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M021 | Crest Pro Health | Paste, dentifrice | Not stated (status: valid) |
-| M022 | parodontax | Paste | Not stated (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0126-0165 | Gel-Kam Fruit and Berry | Colgate Oral Pharmaceuticals, Inc. | Gel, dentifrice | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0126-0192 | Gel-Kam Mint | Colgate Oral Pharmaceuticals, Inc. | Gel, dentifrice | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0135-0547 | SENSODYNE Repair and Protect Extra Fresh | Haleon US Holdings LLC | Paste | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0135-0548 | SENSODYNE Repair and Protect | Haleon US Holdings LLC | Paste | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0135-0572 | Sensodyne Complete Protection Extra Fresh | Haleon US Holdings LLC | Paste | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 180 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

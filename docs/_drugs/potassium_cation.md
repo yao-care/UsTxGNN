@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "POTASSIUM CATION"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Braddock syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Potassium Cation: predicted new indication Hypertensive disorder (evidence level L5). In the US: no FDA-approved application; 1 OTC monograph/unapproved NDC listing"
 ---
 
@@ -80,9 +80,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Sore Throat 911 (DelCorean, LLC) | Lotion | Not stated (license cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 35484-204 | Sore Throat 911 | DelCorean, LLC | Lotion | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

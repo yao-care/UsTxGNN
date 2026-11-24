@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "SECRETIN HUMAN"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Secretin Human: predicted new indication Open-angle glaucoma (evidence level L5). Approved use: Not stated in the data compiled for this report"
 ---
 
@@ -70,9 +70,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021256 | ChiRhoStim (ChiRhoClin, Inc.) | Injection, powder, lyophilized, for solution | Not listed; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021256 | CHIRHOSTIM | CHIRHOCLIN | For solution; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "STREPTOZOCIN"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "small cell lung carcinoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung", "hereditary breast ovarian cancer syndrome", "primary pulmonary lymphoma", "lymphosarcoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Streptozocin: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -80,9 +80,14 @@ No literature is available for the top prediction (relapsing-remitting multiple 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available (cancelled) | Zanosar | Powder, for solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA050577 | ZANOSAR | TEVA PHARMS USA | Injectable; injection | Discontinued in Drugs@FDA |
+| NDC 68118-500 | Zanosar | ESTEVE PHARMACEUTICALS, S.A. | Powder, for solution | NDC listing, no FDA application (unapproved drug for use in drug shortage) |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

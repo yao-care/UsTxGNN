@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 559
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "CYPROHEPTADINE"
 predicted_indications: ["nasal cavity disease"]
 description: "Cyproheptadine: predicted new indication Nasal cavity disease (evidence level L5). In the US: 41 FDA applications (14 active)"
@@ -89,13 +89,19 @@ Overall, the evidence is small, old and mostly comparative. Modern controlled da
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA212491 | Cyproheptadine Hydrochloride (Bryant Ranch Prepack) | Tablet | Not listed (valid) |
-| ANDA206553 | Cyproheptadine Hydrochloride (TruPharma) | Tablet | Not listed (valid) |
-| ANDA203191 | Cyproheptadine (Chartwell RX) | Syrup | Not listed (valid) |
-| ANDA205087 | Cyproheptadine Hydrochloride (Ingenus) | Tablet | Not listed (valid) |
-| ANDA212423 | Cyproheptadine Hydrochloride (Bryant Ranch Prepack) | Solution | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040537 | CYPROHEPTADINE HYDROCHLORIDE | MOUNTAIN | Tablet; oral | Valid |
+| ANDA040644 | CYPROHEPTADINE HYDROCHLORIDE | KENTON | Tablet; oral | Valid |
+| ANDA040668 | CYPROHEPTADINE HYDROCHLORIDE | RISING | Syrup; oral | Valid |
+| ANDA088212 | CYPROHEPTADINE HYDROCHLORIDE | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA203191 | CYPROHEPTADINE HYDROCHLORIDE | CHARTWELL MOLECULAR | Syrup; oral | Valid |
+
+Showing 5 of 41 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

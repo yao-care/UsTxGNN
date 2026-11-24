@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 729
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "FLUTAMIDE"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 description: "Flutamide: predicted new indication Fibroma of prostate (evidence level L5). In the US: 6 FDA applications (1 active)"
@@ -72,9 +72,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075298 | Eulexin (Waylis Therapeutics LLC) | Capsule (oral) | Not specified in the license record; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075298 | FLUTAMIDE | WAYLIS THERAP | Capsule; oral | Valid |
+| ANDA075780 | FLUTAMIDE | CIPLA | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA075818 | FLUTAMIDE | CHARTWELL RX | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA075820 | FLUTAMIDE | ACTAVIS LABS FL INC | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA076224 | FLUTAMIDE | PHARMOBEDIENT | Capsule; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

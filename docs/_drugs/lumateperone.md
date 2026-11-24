@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "LUMATEPERONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "syndromic myopia", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lumateperone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
 ---
 
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA209500 | CAPLYTA (Intra-Cellular Therapies, Inc) | Capsule (oral) | Not listed in the data compiled; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA209500 | CAPLYTA | INTRA-CELLULAR | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

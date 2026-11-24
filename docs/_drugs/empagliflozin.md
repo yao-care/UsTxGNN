@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Empagliflozin: predicted new indication Classic stiff person syndrome (evidence level L5). In the US: 8 FDA applications (6 active)"
 ---
 
@@ -74,11 +74,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA204629 | JARDIANCE (A-S Medication Solutions) | Film-coated tablet | Not available (status: valid) |
-| NDA208658 | Synjardy (Boehringer Ingelheim) | Extended-release tablet | Not available (status: valid) |
-| NDA206111 | Synjardy (Boehringer Ingelheim) | Tablet | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA212330 | EMPAGLIFLOZIN | INVAGEN PHARMS | Tablet; oral | Valid |
+| NDA204629 | JARDIANCE | BOEHRINGER INGELHEIM | Tablet; oral | Valid |
+| NDA206073 | GLYXAMBI | BOEHRINGER INGELHEIM | Tablet; oral | Valid |
+| NDA206111 | SYNJARDY | BOEHRINGER INGELHEIM | Tablet; oral | Valid |
+| NDA208658 | SYNJARDY XR | BOEHRINGER INGELHEIM | Tablet, extended release; oral | Valid |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

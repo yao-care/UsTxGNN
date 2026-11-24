@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 656
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ENTECAVIR"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
 description: "Entecavir: predicted new indication Chronic hepatitis C virus infection (evidence level L4). In the US: 20 FDA applications (10 active)"
@@ -97,15 +97,21 @@ None of these publications shows entecavir treating HCV infection. They cover HB
 
 ## US Market Information
 
-The drug is marketed in the US, with 10 valid licenses. The table shows five of them.
+The drug is marketed in the US, with 10 valid licenses.
 
-| Authorization Number | Product Name | Dosage Form | Status | Approved Indication |
-|---------|------|------|------|-----------|
-| NDA021797 | BARACLUDE | Tablet, film coated | Valid | Not specified in the compiled data |
-| NDA021798 | BARACLUDE | Solution | Valid | Not specified in the compiled data |
-| ANDA212126 | Entecavir | Tablet | Valid | Not specified in the compiled data |
-| ANDA206872 | Entecavir | Tablet, film coated | Valid | Not specified in the compiled data |
-| ANDA205740 | Entecavir | Tablet | Valid | Not specified in the compiled data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205740 | ENTECAVIR | HETERO LABS LTD V | Tablet; oral | Valid |
+| ANDA206217 | ENTECAVIR | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA206652 | ENTECAVIR | AMNEAL PHARMS | Tablet; oral | Valid |
+| ANDA206745 | ENTECAVIR | ZYDUS PHARMS | Tablet; oral | Valid |
+| ANDA206872 | ENTECAVIR | CIPLA | Tablet; oral | Valid |
+
+Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

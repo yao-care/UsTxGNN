@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ZINC GLUCONATE"
 predicted_indications: ["anemia of prematurity", "injury", "cell proliferation disorder", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "radiation or chemically induced disorder", "disease by subcellular system affected", "iatrogenic disease", "regional odontodysplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Zinc Gluconate: predicted new indication Anemia of prematurity (evidence level L5). In the US: no FDA-approved application; 86 OTC monograph/unapproved NDC listings"
 ---
 
@@ -73,9 +73,19 @@ Currently no related literature is available for anemia of prematurity.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Zinc Cold Therapy (BETTER LIVING BRANDS LLC) | Chewable tablet | Not stated (status: cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0363-1180 | Walgreen Cold Therapy Cherry Flavor | WALGREENS CO. | Tablet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0363-1181 | Walgreen Zinc Cold Therapy Citrus Flavor | WALGREENS CO. | Tablet, chewable | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0363-1188 | Ultra Zinc Cold Therapy | WALGREEN COMPANY | Tablet, chewable | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 11673-118 | Target Zinc Cold Therapy Citrus Flavor | TARGET CORPORATION | Tablet, chewable | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 11822-1181 | Rite Aid Ultra Zinc Cold Therapy | RITE AID CORPORATION | Tablet, chewable | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 86 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Other dosage forms in the data are oral tablets and lozenges.
 

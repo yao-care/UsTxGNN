@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DIETHYLPROPION"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diethylpropion: predicted new indication Hypervitaminosis (evidence level L5). In the US: 16 FDA applications (3 active)"
 ---
 
@@ -88,11 +88,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA091680 | Diethylpropion Hydrochloride ER (Chartwell RX, LLC.) | Extended-release tablet | Not listed (status: valid) |
-| ANDA200177 | Diethylpropion (Chartwell RX, LLC.) | Tablet | Not listed (status: valid) |
-| ANDA201212 | Diethylpropion Hydrochloride (Bryant Ranch Prepack) | Tablet | Not listed (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091680 | DIETHYLPROPION HYDROCHLORIDE | LANNETT CO INC | Tablet, extended release; oral | Valid |
+| ANDA200177 | DIETHYLPROPION HYDROCHLORIDE | LANNETT CO INC | Tablet; oral | Valid |
+| ANDA201212 | DIETHYLPROPION HYDROCHLORIDE | AVANTHI INC | Tablet; oral | Valid |
+| ANDA040828 | DIETHYLPROPION HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA085544 | DIETHYLPROPION HYDROCHLORIDE | UCB INC | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

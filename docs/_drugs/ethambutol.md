@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ETHAMBUTOL"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Ethambutol: predicted new indication Epiglottitis (evidence level L5). In the US: 4 FDA applications (3 active)"
 ---
 
@@ -72,11 +72,16 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075095 | Ethambutol Hydrochloride (Epic Pharma) | Tablet, film coated | Not specified (status: valid) |
-| NDA016320 | Ethambutol Hydrochloride (Marlex Pharmaceuticals) | Tablet, film coated | Not specified (status: valid) |
-| ANDA078939 | Ethambutol Hydrochloride (Lupin Pharmaceuticals) | Tablet | Not specified (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075095 | ETHAMBUTOL HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Valid |
+| ANDA078939 | ETHAMBUTOL HYDROCHLORIDE | LUPIN | Tablet; oral | Valid |
+| NDA016320 | MYAMBUTOL | KANCHAN HLTHCARE | Tablet; oral | Valid |
+| ANDA076057 | ETHAMBUTOL HYDROCHLORIDE | BARR | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

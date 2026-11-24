@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1014
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Papaverine: predicted new indication Ischemic disease (evidence level L4). Approved use: Peripheral vascular disease, intermittent claudication…"
 monitor_inn: "PAPAVERINE"
 predicted_indications: ["ischemic disease", "intracranial arteriosclerosis", "non-inflammatory vasculopathy", "vascular ectasia", "fibrocartilaginous embolism", "venous thromboembolism", "vascular insufficiency disorder", "angiodysplasia", "Raynaud disease", "Monckeberg arteriosclerosis"]
@@ -99,9 +99,16 @@ No randomized controlled trial of papaverine for ischemic disease was found.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Papaverine Hydrochloride (Nexus Pharmaceuticals, LLC) | Injection | Not available (license cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0517-4002 | Papaverine Hydrochloride | American Regent, Inc. | Injection, solution | NDC listing, no FDA application (unapproved drug other) |
+| NDC 14789-121 | Papaverine Hydrochloride | Nexus Pharmaceuticals, LLC | Injection | NDC listing, no FDA application (unapproved drug other) |
+| NDC 54288-142 | PAPAVERINE HYDROCHLORIDE | BPI Labs LLC | Injection, solution | NDC listing, no FDA application (unapproved drug other) |
+| NDC 72516-024 | Papaverine Hydrochloride | Oryza Pharmaceuticals Inc. | Injection, solution | NDC listing, no FDA application (unapproved drug other) |
+
+<!-- licenses:end -->
 
 ---
 

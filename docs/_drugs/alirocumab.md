@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALIROCUMAB"
 predicted_indications: ["ichthyosis, X-linked, without steroid sulfatase deficiency", "disorder of other vitamins and cofactors metabolism and transport", "xanthomatosis (disease)", "46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect", "cholesterol catabolic process disease", "46,XY disorder of sex development due to a cholesterol synthesis defect", "dappled diaphyseal dysplasia", "neutral lipid storage disease", "3-hydroxyacyl-CoA dehydrogenase deficiency", "spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alirocumab: predicted new indication ichthyosis, X-linked, without steroid sulfatase deficiency (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -68,9 +68,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125559 | Praluent | Injection, solution | Indication text not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125559 | PRALUENT | REGENERON PHARMACEUTICALS | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

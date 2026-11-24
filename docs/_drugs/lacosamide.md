@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LACOSAMIDE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lacosamide: predicted new indication Manic bipolar affective disorder (evidence level L5). In the US: 48 FDA applications (40 active)"
 ---
 
@@ -100,15 +100,19 @@ These links are plausible but still partly indirect. Most of the clinical trials
 
 ## US Market Information
 
-Five are listed below.
+<!-- licenses:begin -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA214695 | Lacosamide (American Health Packaging) | Film-coated tablet | Not available |
-| ANDA208308 | Lacosamide (Florida Pharmaceutical Products) | Tablet | Not available |
-| ANDA216335 | Lacosamide (XLCare Pharmaceuticals) | Injection | Not available |
-| ANDA216151 | Lacosamide (PAI Pharma) | Solution | Not available |
-| ANDA204974 | Lacosamide (Alembic) | Film-coated tablet | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204787 | LACOSAMIDE | HETERO LABS LTD V | Tablet; oral | Valid |
+| ANDA204921 | LACOSAMIDE | MSN LABS PVT LTD | Tablet; oral | Valid |
+| ANDA204974 | LACOSAMIDE | ALEMBIC | Tablet; oral | Valid |
+| ANDA204994 | LACOSAMIDE | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| ANDA205006 | LACOSAMIDE | GLENMARK PHARMS LTD | Tablet; oral | Valid |
+
+Showing 5 of 48 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Available dosage forms across all licenses: oral tablets (plain and film-coated), oral solution, and injection.
 

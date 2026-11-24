@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "CLOFARABINE"
 predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clofarabine: predicted new indication myeloid leukemia (evidence level L1). In the US: 13 FDA applications (7 active)"
 ---
 
@@ -96,13 +96,19 @@ The publications retrieved are mainly reviews; no randomized trial report is amo
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA212457 | CLOFARABINE (Eugia US LLC) | Injection | Not recorded |
-| ANDA213461 | Clofarabine (Meitheal Pharmaceuticals Inc.) | Injection | Not recorded |
-| ANDA205375 | Clofarabine (Dr.Reddy's Laboratories Inc) | Injection | Not recorded |
-| ANDA207831 | Clofarabine (Gland Pharma Limited) | Injection | Not recorded |
-| ANDA204029 | CLOFARABINE (Fresenius Kabi USA, LLC) | Injection | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205375 | CLOFARABINE | DR REDDYS | Solution; intravenous | Valid |
+| ANDA207831 | CLOFARABINE | GLAND | Solution; intravenous | Valid |
+| ANDA208857 | CLOFARABINE | AMNEAL | Solution; intravenous | Valid |
+| ANDA209775 | CLOFARABINE | MSN | Solution; intravenous | Valid |
+| ANDA212034 | CLOFARABINE | ACCORD HLTHCARE | Solution; intravenous | Valid |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 663
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eptifibatide: predicted new indication rheumatoid arthritis (evidence level L5). Approved use: Acute coronary syndrome"
 monitor_inn: "EPTIFIBATIDE"
 predicted_indications: ["rheumatoid arthritis", "sickle cell-hemoglobin E disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin d disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin c disease syndrome", "hemoglobinopathy", "female breast carcinoma", "beta-thalassemia with other manifestations", "partial deletion of the short arm of chromosome 16"]
@@ -101,13 +101,19 @@ The mechanistic link is plausible, but efficacy is not established. Bleeding ris
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA206127 (Eugia US LLC) | Eptifibatide | Injection | Not recorded |
-| ANDA208554 (Baxter Healthcare) | Eptifibatide | Injection | Not recorded |
-| ANDA203258 (Mylan Institutional) | Eptifibatide | Injection, solution | Not recorded |
-| ANDA213081 (Avenacy Inc.) | Eptifibatide | Injection, solution | Not recorded |
-| ANDA213599 (Meitheal Pharmaceuticals) | Eptifibatide | Injection, solution | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090854 | EPTIFIBATIDE | TEVA PHARMS USA | Injectable; injection | Valid |
+| ANDA203258 | EPTIFIBATIDE | MYLAN LABS LTD | Injectable; injection | Valid |
+| ANDA204693 | EPTIFIBATIDE | SAGENT PHARMS INC | Injectable; injection | Valid |
+| ANDA206127 | EPTIFIBATIDE | EUGIA PHARMA | Injectable; injection | Valid |
+| ANDA208554 | EPTIFIBATIDE | BAXTER HLTHCARE CORP | Injectable; injection | Valid |
+
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

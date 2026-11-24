@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "SIPONIMOD"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura", "Prinzmetal angina", "rheumatoid arthritis", "atrophoderma vermiculata"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Siponimod: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -85,9 +85,16 @@ For context, the literature found for other predicted indications (not for the l
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA209884 | MAYZENT (Novartis Pharmaceuticals Corporation) | Tablet, film coated | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA218228 | SIPONIMOD | CIPLA | Tablet; oral | Valid |
+| NDA209884 | MAYZENT | NOVARTIS | Tablet; oral | Valid |
+| ANDA218444 | SIPONIMOD | RICONPHARMA LLC | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA218459 | SIPONIMOD | AUROBINDO PHARMA LTD | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

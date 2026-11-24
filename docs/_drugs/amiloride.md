@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "AMILORIDE"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amiloride: predicted new indication malignant hypertensive renal disease (evidence level L5). In the US: 11 FDA applications (5 active), plus 1 OTC monograph/unapproved NDC listing"
 ---
 
@@ -76,11 +76,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018200 | amiloride hydrochloride (Padagis US LLC) | Tablet | Not recorded |
-| ANDA079133 | Amiloride Hydrochloride (Sigmapharm Laboratories, LLC) | Tablet | Not recorded |
-| ANDA070346 | Amiloride Hydrochloride (Bryant Ranch Prepack) | Tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070346 | AMILORIDE HYDROCHLORIDE | PH HEALTH | Tablet; oral | Valid |
+| ANDA079133 | AMILORIDE HYDROCHLORIDE | SIGMAPHARM LABS LLC | Tablet; oral | Valid |
+| NDA018200 | MIDAMOR | PADAGIS US | Tablet; oral | Valid |
+| ANDA071111 | AMILORIDE HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE | BARR | Tablet; oral | Valid |
+| ANDA073209 | AMILORIDE HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE | RISING | Tablet; oral | Valid |
+
+Showing 5 of 12 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

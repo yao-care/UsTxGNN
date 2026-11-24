@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 662
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eplerenone: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "EPLERENONE"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome"]
@@ -113,13 +113,19 @@ No approved indication text was available for any of them.
 
 <!-- review:end us-lic-20261106-eplerenone-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021437 | Eplerenone (Mylan Pharmaceuticals Inc.) | Tablet, film coated | Not available |
-| ANDA214663 | Eplerenone (Rising Pharma Holdings, Inc.) | Tablet | Not available |
-| ANDA207842 | Eplerenone (Proficient Rx LP) | Tablet, coated | Not available |
-| ANDA213812 | Eplerenone (Camber Pharmaceuticals, Inc.) | Tablet, film coated | Not available |
-| ANDA206922 | Eplerenone (Accord Healthcare, Inc.) | Tablet, film coated | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078482 | EPLERENONE | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA078510 | EPLERENONE | SANDOZ | Tablet; oral | Valid |
+| ANDA206922 | EPLERENONE | ACCORD HLTHCARE | Tablet; oral | Valid |
+| ANDA207842 | EPLERENONE | EVEREST LIFESCIENCES | Tablet; oral | Valid |
+| ANDA208283 | EPLERENONE | BRECKENRIDGE | Tablet; oral | Valid |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

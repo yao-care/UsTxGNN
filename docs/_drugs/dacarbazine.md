@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "DACARBAZINE"
 predicted_indications: ["upper aerodigestive tract neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dacarbazine: predicted new indication Upper aerodigestive tract neoplasm (evidence level L5). In the US: 10 FDA applications (3 active)"
 ---
 
@@ -91,11 +91,19 @@ Approved indication text is not available in the records.
 
 <!-- review:end us-lic-20261106-dacarbazine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075259 (Meitheal Pharmaceuticals) | Dacarbazine | Injection, powder, for solution | Not available |
-| ANDA075371 (Fresenius Kabi USA) | Dacarbazine | Injection, powder, for solution | Not available |
-| ANDA075812 (Hikma Pharmaceuticals USA) | Dacarbazine | Injection, powder, lyophilised, for solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075259 | DACARBAZINE | MEITHEAL | Injectable; injection | Valid |
+| ANDA075371 | DACARBAZINE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA075812 | DACARBAZINE | HIKMA | Injectable; injection | Valid |
+| ANDA070821 | DACARBAZINE | QUAD PHARMS | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA070822 | DACARBAZINE | QUAD PHARMS | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

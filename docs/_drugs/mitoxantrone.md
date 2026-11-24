@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 937
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MITOXANTRONE"
 predicted_indications: ["upper aerodigestive tract neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "head and neck cancer", "bladder exstrophy-epispadias-cloacal exstrophy complex"]
 description: "Mitoxantrone: predicted new indication Upper aerodigestive tract neoplasm (evidence level L5). In the US: 9 FDA applications (4 active)"
@@ -101,11 +101,19 @@ The compiled data do not include approved indication text for them.
 
 <!-- review:end us-lic-20261106-mitoxantrone-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA077496 | Mitoxantrone (Fresenius Kabi USA) | Injection, solution | Valid |
-| ANDA077356 | mitoXANTRONE (Meitheal Pharmaceuticals) | Injection, solution, concentrate | Valid |
-| ANDA076871 | Mitoxantrone (Hospira) | Injection, solution, concentrate | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076611 | MITOXANTRONE HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA076871 | MITOXANTRONE HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+| ANDA077356 | MITOXANTRONE HYDROCHLORIDE | MEITHEAL | Injectable; injection | Valid |
+| ANDA077496 | MITOXANTRONE HYDROCHLORIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA078606 | MITOXANTRONE HYDROCHLORIDE | FRESENIUS KABI ONCOL | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

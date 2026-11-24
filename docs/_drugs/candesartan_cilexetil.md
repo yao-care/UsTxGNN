@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CANDESARTAN CILEXETIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Candesartan Cilexetil: predicted new indication malignant hypertensive renal disease (evidence level L5). In the US: 15 FDA applications (13 active)"
 ---
 
@@ -70,15 +70,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020838 | Candesartan cilexetil | Tablet | Not recorded |
-| ANDA210302 | Candesartan cilexetil | Tablet | Not recorded |
-| ANDA209119 | Candesartan cilexetil | Tablet | Not recorded |
-| ANDA078702 | Candesartan cilexetil | Tablet | Not recorded |
-| ANDA203813 | Candesartan | Tablet | Not recorded |
+<!-- licenses:begin -->
 
-The list may be partial.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078702 | CANDESARTAN CILEXETIL | MYLAN | Tablet; oral | Valid |
+| ANDA091390 | CANDESARTAN CILEXETIL | ZYDUS LIFESCIENCES | Tablet; oral | Valid |
+| ANDA203813 | CANDESARTAN CILEXETIL | MACLEODS PHARMS | Tablet; oral | Valid |
+| ANDA206233 | CANDESARTAN CILEXETIL | PRINSTON | Tablet; oral | Valid |
+| ANDA209119 | CANDESARTAN CILEXETIL | ALEMBIC | Tablet; oral | Valid |
+
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

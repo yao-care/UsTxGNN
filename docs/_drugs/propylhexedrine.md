@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "PROPYLHEXEDRINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "migraine disorder", "faciodigitogenital syndrome", "migraine with brainstem aura", "erectile dysfunction (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis", "trichotillomania", "Tourette syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Propylhexedrine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Not available"
 ---
 
@@ -82,9 +82,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M012 (cancelled) | BENZEDREX | Inhalant | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0225-0611 | BENZEDREX | BF ASCHER AND CO INC | Inhalant | NDC listing, no FDA application (OTC monograph drug) |
+
+<!-- licenses:end -->
 
 The manufacturer was BF Ascher and Co Inc.
 

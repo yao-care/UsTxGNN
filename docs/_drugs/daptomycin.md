@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "DAPTOMYCIN"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Daptomycin: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not available in the compiled data (the retrieved literature describe…"
 ---
 
@@ -103,13 +103,19 @@ The approved indication text is not available for any of them. Five representati
 
 <!-- review:end us-lic-20261105-daptomycin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA213645 | DAPZURA RT (Baxter Healthcare) | Lyophilized powder for injection (solution) | Not available |
-| NDA217415 | Daptomycin (Xellia) | Lyophilized powder for injection (solution) | Not available |
-| NDA208385 | Daptomycin (Sagent) | Lyophilized powder for injection (solution) | Not available |
-| NDA210282 | Daptomycin (Hospira) | Lyophilized powder for injection (solution) | Not available |
-| NDA217630 | Daptomycin (MAIA) | Lyophilized powder for injection (solution) | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091039 | DAPTOMYCIN | TEVA PHARMS USA | Powder; intravenous | Valid |
+| ANDA205037 | DAPTOMYCIN | MYLAN LABS LTD | Powder; intravenous | Valid |
+| ANDA206005 | DAPTOMYCIN | XELLIA PHARMS APS | Powder; intravenous | Valid |
+| ANDA206077 | DAPTOMYCIN | FRESENIUS KABI USA | Powder; intravenous | Valid |
+| ANDA207104 | DAPTOMYCIN | SAGENT PHARMS INC | Powder; intravenous | Valid |
+
+Showing 5 of 32 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

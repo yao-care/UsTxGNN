@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CHLOROQUINE"
 predicted_indications: ["rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis", "juvenile chronic polyarthritis", "juvenile idiopathic arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chloroquine: predicted new indication rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (evidence level L5). In the US: 15 FDA applications (5 active), plus 10 OTC monograph/unapproved NDC listings"
 ---
 
@@ -80,13 +80,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA040516 | Chloroquine Phosphate | Tablet | Not recorded |
-| ANDA214756 | Chloroquine Phosphate | Tablet, coated | Not recorded |
-| ANDA091621 | Chloroquine Phosphate | Tablet | Not recorded |
-| ANDA090612 | Chloroquine Phosphate | Tablet | Not recorded |
-| ANDA080880 | Chloroquine Phosphate | Tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040516 | CHLOROQUINE PHOSPHATE | IMPAX LABS | Tablet; oral | Valid |
+| ANDA080880 | CHLOROQUINE PHOSPHATE | IMPAX LABS | Tablet; oral | Valid |
+| ANDA090612 | CHLOROQUINE PHOSPHATE | NATCO PHARMA LTD | Tablet; oral | Valid |
+| ANDA091621 | CHLOROQUINE PHOSPHATE | NATCO PHARMA LTD | Tablet; oral | Valid |
+| ANDA214756 | CHLOROQUINE PHOSPHATE | COHANCE LIFESCIENCES | Tablet; oral | Valid |
+
+Showing 5 of 25 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

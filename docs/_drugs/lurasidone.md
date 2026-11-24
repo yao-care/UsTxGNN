@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 878
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LURASIDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "syndromic myopia", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
 description: "Lurasidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). In the US: 20 FDA applications (17 active)"
@@ -86,13 +86,19 @@ One caution: a case report (PMID 31298818) describes lurasidone-induced mania, w
 
 No approved-indication text is recorded for any of them. The table shows 5 of the 12.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA212244 | Lurasidone hydrochloride (Ascend Laboratories) | Film-coated tablet | Not recorded |
-| ANDA213248 | Lurasidone hydrochloride (Alembic) | Film-coated tablet | Not recorded |
-| ANDA208058 | Lurasidone hydrochloride (Avet) | Film-coated tablet | Not recorded |
-| ANDA208045 | Lurasidone hydrochloride (Aurobindo) | Tablet | Not recorded |
-| ANDA208002 | Lurasidone hydrochloride (Amneal) | Coated tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208028 | LURASIDONE HYDROCHLORIDE | INVAGEN PHARMS | Tablet; oral | Valid |
+| ANDA208031 | LURASIDONE HYDROCHLORIDE | LUPIN | Tablet; oral | Valid |
+| ANDA208037 | LURASIDONE HYDROCHLORIDE | MSN | Tablet; oral | Valid |
+| ANDA208045 | LURASIDONE HYDROCHLORIDE | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| ANDA208047 | LURASIDONE HYDROCHLORIDE | DR REDDYS | Tablet; oral | Valid |
+
+Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

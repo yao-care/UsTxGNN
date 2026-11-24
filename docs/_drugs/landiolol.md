@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "LANDIOLOL"
 predicted_indications: ["lingual-facial-buccal dyskinesia", "chronic tic disorder", "psychogenic movement disorders", "extrapyramidal and movement disease", "benign shuddering attacks", "primary orthostatic tremor"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Landiolol: predicted new indication Lingual-facial-buccal dyskinesia (evidence level L5). Approved use: Supraventricular tachycardia (atrial fibrillation and atrial flutter)…"
 ---
 
@@ -80,9 +80,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA217202 | RAPIBLYK (AOP Orphan Pharmaceuticals GmbH) | Injection, powder, lyophilized, for solution | Not listed in the license record (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA217202 | RAPIBLYK | AOP HLTH US | Powder; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CHLORPROMAZINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorpromazine: predicted new indication retinal dystrophy with or without extraocular anomalies (evidence level L5). In the US: 84 FDA applications (28 active), plus 2 OTC monograph/unapproved NDC listings"
 ---
 
@@ -84,6 +84,20 @@ Currently no related clinical trials registered.
 ## US Market Information
 
 The data compiled for this report list 11 US generic (ANDA) records for single-ingredient chlorpromazine. The list may be partial. Dosage forms include:
+
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA080365 | CHLORPROMAZINE HYDROCHLORIDE | DR REDDYS | Injectable; injection | Valid |
+| ANDA080983 | SONAZINE | SCIEGEN PHARMS | Concentrate; oral | Valid |
+| ANDA083329 | CHLORPROMAZINE HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA083386 | CHLORPROMAZINE HYDROCHLORIDE | UPSHER SMITH LABS | Tablet; oral | Valid |
+| ANDA084112 | CHLORPROMAZINE HYDROCHLORIDE | UPSHER SMITH LABS | Tablet; oral | Valid |
+
+Showing 5 of 86 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 - Oral: tablets, sugar-coated tablets, film-coated tablets, coated tablets
 - Injectable: injection

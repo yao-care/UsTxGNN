@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1123
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RILPIVIRINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Rilpivirine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). In the US: 11 FDA applications (10 active)"
@@ -112,12 +112,19 @@ Approved indication text was not available for any of them.
 
 <!-- review:end us-lic-20261105-rilpivirine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA219016 | EDURANT PED | Tablet, for suspension | Valid |
-| ANDA218798 | Rilpivirine (Somerset Therapeutics) | Tablet, film coated | Valid |
-| NDA202022 | EDURANT | Tablet, film coated | Valid |
-| NDA210192 | Juluca | Tablet, film coated | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA218798 | RILPIVIRINE HYDROCHLORIDE | SOMERSET THERAPS LLC | Tablet; oral | Valid |
+| ANDA219788 | RILPIVIRINE HYDROCHLORIDE | LAURUS | Tablet; oral | Valid |
+| NDA202022 | EDURANT | JANSSEN PRODS | Tablet; oral | Valid |
+| NDA219016 | EDURANT PED | JANSSEN PRODS | Tablet, for suspension; oral | Valid |
+| NDA210192 | JULUCA | VIIV HLTHCARE | Tablet; oral | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "POVIDONE"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Povidone: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Dry eye syndrome, xerophthalmia"
 ---
 
@@ -72,9 +72,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M018 (cancelled) | iVIZIA Dry Eye | Solution/drops | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 82584-700 | iVIZIA Dry Eye | Thea Pharma Inc. | Solution/ drops | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0023-0506 | REFRESH Classic | Allergan, Inc. | Solution/ drops | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0363-0796 | Walgreens Soothing Eye Relief Lubricant Eye Drops | Walgreens Co. | Solution/ drops | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 10742-8459 | Rohto Dual Light Relief | The Mentholatum Company | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 24385-006 | GOOD NEIGHBOR PHARMACY ARTIFICAL TEARS LUBRICANT EYE DROPS | AmerisourceBergen | Solution/ drops | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 48 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Other dosage forms recorded for povidone include a topical gel and a liquid.
 

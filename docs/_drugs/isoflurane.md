@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "ISOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar affective disorder", "trichotillomania", "dysthymic disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isoflurane: predicted new indication Prinzmetal angina (evidence level L5). In the US: 7 FDA applications (5 active)"
 ---
 
@@ -85,13 +85,19 @@ The table lists the most relevant publications. Several other retrieved papers (
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA017624 | FORANE (Baxter Healthcare) | Inhalant | Not recorded (valid) |
-| ANDA074502 | Isoflurane (Piramal Critical Care) | Liquid | Not recorded (valid) |
-| ANDA074416 | Isoflurane (Piramal Critical Care) | Liquid | Not recorded (valid) |
-| ANDA075225 | Isoflurane (Halocarbon Life Sciences) | Liquid | Not recorded (valid) |
-| ANDA216527 | Isoflurane (Shandong New Time Pharmaceutical) | Liquid | Not recorded (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074416 | ISOFLURANE | PIRAMAL CRITICAL | Liquid; inhalation | Valid |
+| ANDA074502 | ISOFLURANE | PIRAMAL PHARMA | Liquid; inhalation | Valid |
+| ANDA075225 | ISOFLURANE | HALOCARBON PRODS | Liquid; inhalation | Valid |
+| ANDA216527 | ISOFLURANE | SHANDONG | Liquid; inhalation | Valid |
+| NDA017624 | FORANE | BAXTER HLTHCARE | Liquid; inhalation | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

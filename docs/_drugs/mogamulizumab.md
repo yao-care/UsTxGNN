@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "MOGAMULIZUMAB"
 predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "human herpesvirus 8-related tumor", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mogamulizumab: predicted new indication Prostatic urethra urothelial carcinoma (evidence level L5). Approved use: Mycosis fungoides and variants"
 ---
 
@@ -74,9 +74,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761051 | POTELIGEO (Kyowa Kirin, Inc.) | Injection | Not listed in the compiled data; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761051 | POTELIGEO | KYOWA KIRIN | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

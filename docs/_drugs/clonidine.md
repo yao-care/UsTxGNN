@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 541
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clonidine: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Hypertension (other listed indications: open-angle glaucoma, ADHD)"
 monitor_inn: "CLONIDINE"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
@@ -112,7 +112,7 @@ No literature was found for faciodigitogenital syndrome. Selected publications f
 
 ## US Market Information
 
-The drug is marketed in this country. No approved indication text was available. The first five are listed.
+The drug is marketed in this country. No approved indication text was available.
 
 <!-- review:begin us-lic-20261106-clonidine-2 -->
 
@@ -120,13 +120,19 @@ The drug is marketed in this country. No approved indication text was available.
 
 <!-- review:end us-lic-20261106-clonidine-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA200300 | Clonidine Hydrochloride (Hikma) | Injection, solution | Not available |
-| ANDA070974 | Clonidine Hydrochloride (NuCare) | Tablet | Not available |
-| ANDA202297 | Clonidine Hydrochloride (Bryant Ranch Prepack) | Tablet | Not available |
-| ANDA070925 | Clonidine hydrochloride (Northwind Health) | Tablet | Not available |
-| ANDA091368 | Clonidine hydrochloride (Alembic) | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070886 | CLONIDINE HYDROCHLORIDE | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| ANDA070923 | CLONIDINE HYDROCHLORIDE | TP ANDA HOLDINGS | Tablet; oral | Valid |
+| ANDA070924 | Clonidine hydrochloride | Northwind Health Company, LLC | Tablet; oral | Valid |
+| ANDA070925 | Clonidine hydrochloride | NuCare Pharmaceuticals,Inc. | Tablet; oral | Valid |
+| ANDA070974 | CLONIDINE HYDROCHLORIDE | ACTAVIS ELIZABETH | Tablet; oral | Valid |
+
+Showing 5 of 74 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The remaining authorizations include a tablet (several), extended-release tablets, and transdermal patches (standard and extended-release).
 

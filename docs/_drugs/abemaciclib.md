@@ -3,7 +3,7 @@ layout: default
 title: Abemaciclib
 parent: Known Uses Only (No New Predictions)
 nav_order: 43
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Abemaciclib: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -70,9 +70,14 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Abemaciclib,
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| NDA208716 | abemaciclib | TABLET | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA208716 | VERZENIO | ELI LILLY AND CO | Tablet; oral | Valid |
+| NDA208855 | VERZENIO | ELI LILLY AND CO | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

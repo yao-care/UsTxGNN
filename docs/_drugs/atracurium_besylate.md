@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ATRACURIUM BESYLATE"
 predicted_indications: ["preeclampsia", "cauda equina syndrome", "blepharospasm", "migraine disorder", "obsolete neurogenic bladder (disease)", "thrombotic disease", "migraine with brainstem aura", "severe pre-eclampsia", "mild pre-eclampsia", "irritable bowel syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atracurium Besylate: predicted new indication preeclampsia (evidence level L5). In the US: 23 FDA applications (6 active)"
 ---
 
@@ -70,6 +70,20 @@ Currently no related literature available.
 ## US Market Information
 
 The compiled licence records list six single-ingredient ANDA injection (solution) products from AuroMedics Pharma LLC, Meitheal Pharmaceuticals Inc. and Hospira, Inc. No approved-indication text is recorded for them in the local data. Market status is recorded as marketed.
+
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074900 | ATRACURIUM BESYLATE PRESERVATIVE FREE | HIKMA | Injectable; injection | Valid |
+| ANDA074901 | ATRACURIUM BESYLATE | HIKMA | Injectable; injection | Valid |
+| ANDA090761 | ATRACURIUM BESYLATE | HOSPIRA INC | Injectable; injection | Valid |
+| ANDA090782 | ATRACURIUM BESYLATE PRESERVATIVE FREE | HOSPIRA INC | Injectable; injection | Valid |
+| ANDA091488 | ATRACURIUM BESYLATE PRESERVATIVE FREE | MEITHEAL | Injectable; injection | Valid |
+
+Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

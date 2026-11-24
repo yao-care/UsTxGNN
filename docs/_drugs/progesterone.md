@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1089
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PROGESTERONE"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Progesterone: predicted new indication Breast fibrocystic disease (evidence level L4). In the US: 27 FDA applications (20 active), plus 45 OTC monograph/unapproved NDC listings"
@@ -88,13 +88,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019781 | Prometrium | Capsule | Not available |
-| NDA017362 | Progesterone | Injection, solution | Not available |
-| ANDA075906 | Progesterone | Injection, solution | Not available |
-| ANDA211285 | Progesterone | Capsule | Not available |
-| ANDA200456 | Progesterone | Capsule | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075906 | PROGESTERONE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA091033 | PROGESTERONE | HIKMA FARMACEUTICA | Injectable; injection | Valid |
+| ANDA200456 | PROGESTERONE | SOFGEN PHARMS | Capsule; oral | Valid |
+| ANDA200900 | PROGESTERONE | BIONPHARMA | Capsule; oral | Valid |
+| ANDA205229 | PROGESTERONE | XIROMED | Capsule; oral | Valid |
+
+Showing 5 of 72 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

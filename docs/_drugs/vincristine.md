@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "VINCRISTINE"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vincristine: predicted new indication Vertebral anomalies and variable endocrine and T-cell dysfunction (evidence level L5). In the US: 18 FDA applications (1 active)"
 ---
 
@@ -87,9 +87,19 @@ The literature consists mainly of case reports, small series and reviews. Select
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA071484 | VinCRIStine Sulfate (Hospira, Inc.) | Injection, solution | Indication text not available in the licence record |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071484 | VINCRISTINE SULFATE PFS | HOSPIRA | Injectable; injection | Valid |
+| ANDA070411 | VINCRISTINE SULFATE | ABRAXIS PHARM | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA070777 | VINCRISTINE SULFATE | QUAD PHARMS | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA070778 | VINCRISTINE SULFATE | QUAD PHARMS | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA070867 | VINCREX | BRISTOL MYERS SQUIBB | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

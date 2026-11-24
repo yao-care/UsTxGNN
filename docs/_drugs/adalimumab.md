@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ADALIMUMAB"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adalimumab: predicted new indication hypermobility of coccyx (evidence level L5). In the US: 11 FDA applications (11 active)"
 ---
 
@@ -69,12 +69,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761059 | Hadlima | Solution | Not recorded in local data |
-| BLA761024 | AMJEVITA | Injection | Not recorded in local data |
-| BLA761071 | Adalimumab (Sandoz) | Injection, solution | Not recorded in local data |
-| BLA761216 | YUSIMRY | Injection, solution | Not recorded in local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125057 | HUMIRA | ABBVIE INC | Vial | Valid |
+| BLA761024 | AMJEVITA | AMGEN INC | Injectable; injection | Valid |
+| BLA761058 | CYLTEZO | BOEHRINGER INGELHEIM | Injectable; injection | Valid |
+| BLA761059 | HADLIMA | SAMSUNG BIOEPIS CO LTD | Injectable; injection | Valid |
+| BLA761071 | HYRIMOZ | SANDOZ INC | Injectable; injection | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The list of approvals may be partial (at least 4 records, all currently valid).
 

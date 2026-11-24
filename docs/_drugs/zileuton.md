@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1305
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ZILEUTON"
 predicted_indications: ["bronchitis", "atopic eczema", "bronchial neoplasm (disease)", "Laubry-Pezzi syndrome", "heart disease", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome"]
 description: "Zileuton: predicted new indication Bronchitis (evidence level L5). In the US: 8 FDA applications (4 active)"
@@ -76,11 +76,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA215742 | Zileuton (Camber Pharmaceuticals) | Tablet, film coated, extended release | Not specified; status valid |
-| ANDA212670 | Zileuton (Strides Pharma Science) | Tablet, multilayer, extended release | Not specified; status valid |
-| ANDA204929 | Zileuton (Rising Pharma Holdings) | Tablet, extended release | Not specified; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204929 | ZILEUTON | RISING | Tablet, extended release; oral | Valid |
+| ANDA211390 | ZILEUTON | AIZANT | Tablet, extended release; oral | Valid |
+| ANDA212670 | ZILEUTON | STRIDES PHARMA INTL | Tablet, extended release; oral | Valid |
+| ANDA215742 | ZILEUTON | ANNORA PHARMA | Tablet, extended release; oral | Valid |
+| ANDA211043 | ZILEUTON | TEVA PHARMS USA | Tablet, extended release; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

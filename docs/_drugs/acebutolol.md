@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ACEBUTOLOL"
 predicted_indications: ["malignant hypertensive renal disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acebutolol: predicted new indication malignant hypertensive renal disease (evidence level L5). In the US: 4 FDA applications (2 active)"
 ---
 
@@ -70,10 +70,16 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA074007 | Acebutolol Hydrochloride | Capsule | Not recorded |
-| ANDA075047 | Acebutolol Hydrochloride | Capsule | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074007 | ACEBUTOLOL HYDROCHLORIDE | ANI PHARMS | Capsule; oral | Valid |
+| ANDA075047 | ACEBUTOLOL HYDROCHLORIDE | AMNEAL PHARM | Capsule; oral | Valid |
+| ANDA074288 | ACEBUTOLOL HYDROCHLORIDE | PHARMOBEDIENT | Capsule; oral | Discontinued in Drugs@FDA |
+| NDA018917 | SECTRAL | PROMIUS PHARMA | Capsule; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

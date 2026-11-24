@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 4
 monitor_inn: "ROPIVACAINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ropivacaine: predicted new indication Migraine disorder (evidence level L3). In the US: 17 FDA applications (15 active)"
 ---
 
@@ -100,13 +100,19 @@ The data compiled for this report contain no approved indication text for any of
 
 <!-- review:end us-lic-20261106-ropivacaine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA211907 | Ropivacaine Hydrochloride (Hikma) | Injection, solution | Not available |
-| ANDA214074 | Ropivacaine Hydrochloride (Hikma) | Injection | Not available |
-| ANDA212808 | Ropivacaine Hydrochloride (Caplin Steriles) | Injection | Not available |
-| ANDA206091 | Ropivacaine Hydrochloride (Mylan Institutional) | Injection, solution | Not available |
-| ANDA219883 | Ropivacaine Hydrochloride (Glenmark) | Injection, solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078601 | ROPIVACAINE HYDROCHLORIDE | NAVINTA LLC | Solution; injection | Valid |
+| ANDA203955 | ROPIVACAINE HYDROCHLORIDE | RISING | Solution; injection | Valid |
+| ANDA204636 | ROPIVACAINE HYDROCHLORIDE | RISING | Solution; injection | Valid |
+| ANDA205612 | ROPIVACAINE HYDROCHLORIDE | EUGIA PHARMA | Solution; injection | Valid |
+| ANDA206091 | ROPIVACAINE HYDROCHLORIDE | MYLAN LABS LTD | Solution; injection | Valid |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

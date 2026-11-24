@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 596
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 monitor_inn: "DEXPANTHENOL"
 predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]
 description: "Dexpanthenol: predicted new indication Anorectal stricture (evidence level L5). In the US: 14 FDA applications (6 active), plus 2 OTC monograph/unapproved NDC listings"
@@ -87,11 +87,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M018 | Eyelash Serum (FlexiGo Inc) | Liquid | Not specified (status: valid) |
-| Not available | ReOrganic Eyelash Growth Boosting Serum (LAON COMMERCE co ltd) | Liquid | Not specified (status: cancelled) |
+<!-- licenses:begin -->
 
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA210273 | MULTIPLE VITAMINS INJECTION ADULT | APOTEX | Solution; intravenous | Valid |
+| ANDA210456 | MULTIPLE VITAMINS INJECTION PEDIATRIC (PHARMACY BULK PACKAGE) | APOTEX | Injectable; intravenous | Valid |
+| ANDA210671 | MULTIPLE VITAMINS INJECTION PEDIATRIC | APOTEX | Injectable; intravenous | Valid |
+| ANDA210672 | MULTIPLE VITAMINS INJECTION ADULT | APOTEX | Solution; intravenous | Valid |
+| NDA021163 | INFUVITE ADULT | SANDOZ CANADA INC | Solution; intravenous | Valid |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

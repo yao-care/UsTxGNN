@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 892
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MECHLORETHAMINE"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "follicular lymphoma"]
 description: "Mechlorethamine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). In the US: 2 FDA applications (1 active)"
@@ -72,9 +72,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA202317 | VALCHLOR (Helsinn Therapeutics (U.S.), Inc.) | Gel (topical) | No indication text available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA202317 | VALCHLOR | HELSINN | Gel; topical | Valid |
+| NDA006695 | MUSTARGEN | RECORDATI RARE | Injectable; injection | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 At least one licence is currently valid, and the drug is marketed in the US only as a topical gel.
 

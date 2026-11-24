@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 397
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ARIPIPRAZOLE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 description: "Aripiprazole: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). In the US: 46 FDA applications (31 active)"
@@ -104,13 +104,19 @@ The drug is marketed in the US, and no approved indication text is recorded.
 
 <!-- review:end us-lic-20261106-aripiprazole-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021436 | ABILIFY | Tablet | Not recorded |
-| NDA207202 | Abilify MyCite | Tablet with sensor | Not recorded |
-| NDA216655 | OPIPZA | Soluble film | Not recorded |
-| ANDA207105 | Aripiprazole (Ascend Laboratories) | Tablet | Not recorded |
-| ANDA204838 | Aripiprazole (Amneal) | Tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090165 | ARIPIPRAZOLE | SQUARE PHARMS | Tablet, orally disintegrating; oral | Valid |
+| ANDA201519 | ARIPIPRAZOLE | TORRENT | Tablet; oral | Valid |
+| ANDA202101 | ARIPIPRAZOLE | ALEMBIC | Tablet; oral | Valid |
+| ANDA202102 | ARIPIPRAZOLE | ALEMBIC | Tablet, orally disintegrating; oral | Valid |
+| ANDA202547 | ARIPIPRAZOLE | ORBION PHARMS | Tablet, orally disintegrating; oral | Valid |
+
+Showing 5 of 46 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Six further generic tablet ANDAs are also listed as cancelled.
 

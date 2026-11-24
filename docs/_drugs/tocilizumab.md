@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1238
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tocilizumab: predicted new indication Ankylosing spondylitis (evidence level L3). Approved use: Rheumatoid arthritis, juvenile idiopathic arthritis…"
 monitor_inn: "TOCILIZUMAB"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
@@ -98,13 +98,19 @@ The clinical record is less supportive. Two randomized placebo-controlled trials
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761420 | AVTOZMA (Celltrion USA) | Injection, solution | Not available (status: valid) |
-| BLA761354 | TOFIDENCE (Organon) | Injection | Not available (status: valid) |
-| BLA125472 | Actemra (Genentech) | Injection, solution | Not available (status: valid) |
-| BLA761449 | TYENNE (Fresenius Kabi) | Injection, solution | Not available (status: valid) |
-| BLA125276 | ACTEMRA (Genentech) | Injection, solution, concentrate | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125276 | ACTEMRA | GENENTECH | Injectable; injection | Valid |
+| BLA125472 | ACTEMRA | GENENTECH | Injectable; intravenous, subcutaneous | Valid |
+| BLA761275 | TYENNE | FRESENIUS KABI USA | Injectable; intravenous | Valid |
+| BLA761354 | TOFIDENCE | BIOGEN MA | Injectable; injection | Valid |
+| BLA761420 | AVTOZMA | CELLTRION INC | Injectable; intravenous | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also listed. The drug is marketed in this country.
 

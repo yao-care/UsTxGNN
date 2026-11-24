@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 787
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Idelalisib: predicted new indication Mantle cell lymphoma (evidence level L2). Approved use: Follicular lymphoma, B-cell neoplasms, acute lymphoblastic leukemia…"
 monitor_inn: "IDELALISIB"
 predicted_indications: ["mantle cell lymphoma", "Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "small intestinal Burkitt lymphoma", "colon adenocarcinoma"]
@@ -108,9 +108,15 @@ No randomized controlled trial for mantle cell lymphoma appears in the literatur
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA205858 | Zydelig (Gilead Sciences) | Film-coated tablet | Not specified in the data; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA205858 | ZYDELIG | GILEAD SCIENCES INC | Tablet; oral | Valid |
+| NDA206545 | ZYDELIG | GILEAD SCIENCES INC | Tablet; oral | Valid |
+| ANDA216921 | IDELALISIB | NATCO | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 The product is oral only. One published review (PMID 36939665) notes that serious adverse effects reported in 2016 led to termination of post-marketing registry trials, and that Gilead voluntarily withdrew the drug for the accelerated approval indication in 2022.
 

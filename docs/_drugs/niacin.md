@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 963
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Niacin: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,19 +72,23 @@ The TxGNN model (score ≥ 0.99) produced candidates for Niacin. Every candidate
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| ANDA203899 | Niacin | TABLET, EXTENDED RELEASE | Valid |
-| nan | Niacinamide | CREAM | Valid |
-| ANDA203578 | Niacin | TABLET, EXTENDED RELEASE | Valid |
-| ANDA204934 | Niacin | TABLET | Valid |
-| ANDA200484 | NIACIN | TABLET, FILM COATED, EXTENDED RELEASE | Valid |
-| M016 | Niacinamide | CREAM | Valid |
-| ANDA090892 | NIACIN | TABLET, EXTENDED RELEASE | Valid |
-| ANDA201273 | NIACIN | TABLET, FILM COATED, EXTENDED RELEASE | Valid |
-| ANDA040378 | Niacin | TABLET | Valid |
+<!-- licenses:begin -->
 
-Only part of the licence list is held in the data; the list may be incomplete.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040378 | NIACOR | AVONDALE PHARMS | Tablet; oral | Valid |
+| ANDA076250 | NIACIN | BARR | Tablet, extended release; oral | Valid |
+| ANDA076378 | NIACIN | BARR | Tablet, extended release; oral | Valid |
+| ANDA090446 | NIACIN | CHARTWELL RX | Tablet, extended release; oral | Valid |
+| ANDA090860 | NIACIN | CHARTWELL RX | Tablet, extended release; oral | Valid |
+| ANDA090892 | NIACIN | CHARTWELL RX | Tablet, extended release; oral | Valid |
+| ANDA200484 | NIACIN | SUN PHARM | Tablet, extended release; oral | Valid |
+| ANDA201273 | NIACIN | SUN PHARM | Tablet, extended release; oral | Valid |
+| ANDA203578 | NIACIN | AMNEAL PHARMS | Tablet, extended release; oral | Valid |
+
+Showing 9 of 77 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BENZOIC ACID"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dry eye syndrome", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "hereditary angioedema with C1Inh deficiency", "posterior leukoencephalopathy syndrome", "C1 inhibitor deficiency"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Benzoic Acid: predicted new indication bronchitis (evidence level L5). In the US: 7 FDA applications (5 active), plus 90 OTC monograph/unapproved NDC listings"
 ---
 
@@ -85,9 +85,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not recorded | Acidum Benzoicum (Hahnemann Laboratories, INC.) | Pellet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205880 | SODIUM PHENYLACETATE AND SODIUM BENZOATE | NAVINTA LLC | Solution; intravenous | Valid |
+| ANDA207096 | SODIUM PHENYLACETATE AND SODIUM BENZOATE | AILEX PHARMS LLC | Solution; intravenous | Valid |
+| ANDA208521 | SODIUM PHENYLACETATE AND SODIUM BENZOATE | MAIA PHARMS INC | Solution; intravenous | Valid |
+| ANDA217526 | SODIUM PHENYLACETATE AND SODIUM BENZOATE | NAVINTA LLC | Solution; intravenous | Valid |
+| NDA215025 | SODIUM PHENYLACETATE AND SODIUM BENZOATE | MAIA PHARMS INC | Solution; intravenous | Valid |
+
+Showing 5 of 97 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

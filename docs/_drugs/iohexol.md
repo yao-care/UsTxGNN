@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "IOHEXOL"
 predicted_indications: ["insomnia (disease)", "anxiety"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Iohexol: predicted new indication Insomnia (disease) (evidence level L5). In the US: 4 FDA applications (3 active)"
 ---
 
@@ -81,10 +81,16 @@ For the second predicted indication (anxiety), four publications were retrieved.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018956 | OMNIPAQUE (GE Healthcare Inc.) | Injection, solution | Not stated; status: valid |
-| ANDA217737 | Iohexol (Amneal Pharmaceuticals Private Limited) | Injection, solution | Not stated; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA217737 | IOHEXOL | AMNEAL | Solution; injection, oral, rectal | Valid |
+| NDA018956 | OMNIPAQUE 140 | GE HEALTHCARE | Injectable; injection | Valid |
+| NDA020608 | OMNIPAQUE 350 | GE HEALTHCARE | Solution; injection, oral | Valid |
+| NDA205383 | ORALTAG | INTERPHARMA PRAHA AS | For solution; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

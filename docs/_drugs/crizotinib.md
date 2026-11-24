@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CRIZOTINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Crizotinib: predicted new indication fibromatosis, gingival (evidence level L5). In the US: 2 FDA applications (2 active)"
 ---
 
@@ -78,10 +78,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA217581 | Xalkori | Capsule, coated pellets | Not recorded in the local data |
-| NDA202570 | Xalkori | Capsule | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA202570 | XALKORI | PF PRISM CV | Capsule; oral | Valid |
+| NDA217581 | XALKORI | PF PRISM CV | Capsule, pellets; oral | Valid |
+
+<!-- licenses:end -->
 
 ---
 

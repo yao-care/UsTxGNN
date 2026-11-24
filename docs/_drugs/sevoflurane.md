@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "SEVOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "migraine disorder", "inclusion body myositis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sevoflurane: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not specified in the data compiled for this report (used as an inhale…"
 ---
 
@@ -72,13 +72,19 @@ For context, the next-ranked predictions have only incidental literature. For ex
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020478 | Ultane (AbbVie Inc.) | Liquid | Not listed (valid) |
-| ANDA077867 | Sojourn (Piramal Critical Care Inc) | Liquid | Not listed (valid) |
-| ANDA075895 | Sevoflurane (Baxter Healthcare Corporation) | Liquid | Not listed (valid) |
-| ANDA078650 | Sevoflurane (Halocarbon Life Sciences, LLC) | Liquid | Not listed (valid) |
-| ANDA203793 | Sevoflurane (Sandoz Inc.) | Liquid | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075895 | SEVOFLURANE | BAXTER HLTHCARE | Liquid; inhalation | Valid |
+| ANDA077867 | SOJOURN | PIRAMAL CRITICAL | Liquid; inhalation | Valid |
+| ANDA078650 | SEVOFLURANE | HALOCARBON PRODS | Liquid; inhalation | Valid |
+| ANDA203793 | SEVOFLURANE | SHANGHAI HENGRUI | Liquid; inhalation | Valid |
+| ANDA214382 | SEVOFLURANE | SHANDONG | Liquid; inhalation | Valid |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 One further authorization (ANDA214382, Lannett Company, Inc.) is also valid. All six authorizations are valid.
 

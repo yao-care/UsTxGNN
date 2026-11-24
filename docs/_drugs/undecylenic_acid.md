@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "UNDECYLENIC ACID"
 predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease", "pityriasis versicolor"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Undecylenic Acid: predicted new indication Ectothrix infectious disease (evidence level L5). Approved use: Tinea pedis, tinea corporis, tinea infection"
 ---
 
@@ -85,11 +85,19 @@ Currently no related literature available.
 
 At least 3 licences are on record; the list may be partial. None of the records contains approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M005 | ViLLsure Antifungal Pen | Liquid | Not stated in the record |
-| part333C | CVS Pharmacy | Liquid | Not stated in the record |
-| M002 | SFEIXE Antifungal Pen | Paste | Not stated in the record |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 36800-754 | TopCare Antifungal Maximum Strength | TOPCO ASSOCIATES LLC | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 49283-025 | Undecylenic Acid | Chemco Corporation | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 49283-250 | ANTIFUNGAL | Chemco Corporation | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 52083-242 | Myco Nail A Antifungal Solution | Kramer Novis | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 53145-019 | Hongocura Pinceladas | Menper Distributors, Inc. | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 180 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All three are single-ingredient products. Other dosage forms on record include cream and spray.
 

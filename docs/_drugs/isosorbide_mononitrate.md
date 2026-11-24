@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ISOSORBIDE MONONITRATE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "alopecia", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pulmonary arterial hypertension"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isosorbide Mononitrate: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not stated in the compiled data (the drug is known as a nitrate vasod…"
 ---
 
@@ -89,13 +89,19 @@ The drug is marketed. Approved-indication text was not available.
 
 <!-- review:end us-lic-20261106-isosorbide_mononitrate-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA210822 | Isosorbide Mononitrate (Chartwell RX) | Tablet, extended release | Not available |
-| ANDA210918 | Isosorbide Mononitrate (Ingenus) | Tablet, extended release | Not available |
-| NDA020215 | Isosorbide Mononitrate (Proficient Rx) | Tablet | Not available |
-| ANDA075522 | Isosorbide Mononitrate (NuCare) | Tablet, extended release | Not available |
-| ANDA200270 | Isosorbide Mononitrate (American Health Packaging) | Tablet, extended release | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075037 | ISOSORBIDE MONONITRATE | GENUS | Tablet; oral | Valid |
+| ANDA075147 | ISOSORBIDE MONONITRATE | ANI PHARMS | Tablet; oral | Valid |
+| ANDA075155 | ISOSORBIDE MONONITRATE | CHARTWELL MOLECULAR | Tablet, extended release; oral | Valid |
+| ANDA075395 | ISOSORBIDE MONONITRATE | ZYDUS HLTHCARE | Tablet, extended release; oral | Valid |
+| ANDA075522 | ISOSORBIDE MONONITRATE | DEXCEL LTD | Tablet, extended release; oral | Valid |
+
+Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

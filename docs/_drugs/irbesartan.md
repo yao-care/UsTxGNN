@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 809
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "IRBESARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 description: "Irbesartan: predicted new indication Malignant hypertensive renal disease (evidence level L5). In the US: 40 FDA applications (25 active)"
@@ -95,13 +95,19 @@ These findings are indirect: they come mostly from cardiac or high-altitude anim
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020757 | Avapro (Sanofi-Aventis U.S. LLC) | Tablet, film coated | Not available (valid) |
-| ANDA202910 | Irbesartan (AvPAK) | Tablet | Not available (valid) |
-| ANDA203071 | Irbesartan (A-S Medication Solutions) | Tablet | Not available (valid) |
-| ANDA091236 | Irbesartan (Alembic Pharmaceuticals Inc.) | Tablet | Not available (valid) |
-| ANDA202254 | Irbesartan (Macleods Pharmaceuticals Limited) | Tablet | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077159 | IRBESARTAN | TEVA PHARMS | Tablet; oral | Valid |
+| ANDA077205 | IRBESARTAN | CHARTWELL MOLECULAR | Tablet; oral | Valid |
+| ANDA077466 | IRBESARTAN | SANDOZ | Tablet; oral | Valid |
+| ANDA079213 | IRBESARTAN | ZYDUS PHARMS USA INC | Tablet; oral | Valid |
+| ANDA091236 | IRBESARTAN | ALEMBIC PHARMS LTD | Tablet; oral | Valid |
+
+Showing 5 of 40 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Only the first five are listed above.
 

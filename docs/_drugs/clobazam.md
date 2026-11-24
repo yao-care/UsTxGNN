@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 536
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "CLOBAZAM"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "cryptogenic late-onset epileptic spasms", "photosensitive occipital lobe epilepsy", "atypical childhood epilepsy with centrotemporal spikes", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
 description: "Clobazam: predicted new indication Febrile infection-related epilepsy syndrome (evidence level L5). In the US: 34 FDA applications (20 active)"
@@ -83,13 +83,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA210833 | SYMPAZAN (Aquestive Therapeutics) | Film | Not recorded |
-| NDA202067 | Onfi (Lundbeck) | Tablet | Not recorded |
-| NDA203993 | Onfi (Lundbeck) | Suspension | Not recorded |
-| ANDA209440 | Clobazam (Taro) | Tablet | Not recorded |
-| ANDA210545 | Clobazam (Lupin) | Tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208819 | CLOBAZAM | BIONPHARMA | Suspension; oral | Valid |
+| ANDA208825 | CLOBAZAM | BIONPHARMA | Tablet; oral | Valid |
+| ANDA209687 | CLOBAZAM | UPSHER SMITH LABS | Tablet; oral | Valid |
+| ANDA209718 | CLOBAZAM | AMNEAL PHARMS CO | Tablet; oral | Valid |
+| ANDA209795 | CLOBAZAM | HETERO LABS LTD III | Tablet; oral | Valid |
+
+Showing 5 of 34 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The list may be partial.
 

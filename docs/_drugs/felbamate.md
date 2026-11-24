@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "FELBAMATE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Felbamate: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (partial epilepsy, Lennox-Gastaut syndrome)"
 ---
 
@@ -91,13 +91,19 @@ No publications were found for trigeminal nerve neoplasm.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020189 | Felbatol (Viatris Specialty LLC) | Tablet | Not listed (valid) |
-| ANDA208970 | Felbamate (Zydus Lifesciences) | Tablet | Not listed (valid) |
-| ANDA201680 | Felbamate (Amneal Pharmaceuticals) | Tablet | Not listed (valid) |
-| ANDA207093 | Felbamate (Taro Pharmaceuticals U.S.A.) | Tablet | Not listed (valid) |
-| ANDA211333 | Felbamate (Novitium Pharma) | Suspension | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA201680 | FELBAMATE | AMNEAL PHARMS | Tablet; oral | Valid |
+| ANDA202284 | FELBAMATE | ANI PHARMS | Tablet; oral | Valid |
+| ANDA202385 | FELBAMATE | AMNEAL PHARMS | Suspension; oral | Valid |
+| ANDA206314 | FELBAMATE | TARO | Suspension; oral | Valid |
+| ANDA207093 | FELBAMATE | TARO | Tablet; oral | Valid |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The table shows five of them.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CALASPARGASE PEGOL"
 predicted_indications: ["insomnia (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Calaspargase Pegol: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not listed in the available regulatory data"
 ---
 
@@ -77,9 +77,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761102 | Asparlas (Servier Pharmaceuticals LLC) | Injection, solution | Not listed (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761102 | ASPARLAS | SERVIER PHARMA LLC | Injectable; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

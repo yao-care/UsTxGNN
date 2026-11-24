@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ADENOSINE"
 predicted_indications: ["obsolete bundle branch block"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adenosine: predicted new indication obsolete bundle branch block (evidence level L5). In the US: 23 FDA applications (14 active), plus 74 OTC monograph/unapproved NDC listings"
 ---
 
@@ -71,13 +71,19 @@ Currently no related literature available.
 
 The data compiled for this report list 8 US records (ANDA generic injectables and one cosmetic cream record). The list may be partial, and the records carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA090212 | Adenosine | Injection, solution | Mylan Institutional LLC |
-| ANDA077425 | Adenosine | Injection, solution | Meitheal Pharmaceuticals Inc. |
-| ANDA206778 | Adenosine | Solution | Gland Pharma Limited |
-| ANDA077133 | Adenosine | Injection, solution | Henry Schein, Inc. |
-| ANDA202313 | Adenosine | Injection, solution | Heritage Pharmaceuticals Inc. (Avet) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076404 | ADENOSINE | HIKMA | Injectable; injection | Valid |
+| ANDA076500 | ADENOSINE | HIKMA | Injectable; injection | Valid |
+| ANDA077133 | ADENOSINE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA077283 | ADENOSINE | GLAND PHARMA LTD | Injectable; injection | Valid |
+| ANDA077425 | ADENOSINE | MEITHEAL | Solution; intravenous | Valid |
+
+Showing 5 of 97 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

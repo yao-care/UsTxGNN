@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TRANEXAMIC ACID"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tranexamic Acid: predicted new indication Amenorrhea (disease) (evidence level L5). In the US: 36 FDA applications (27 active)"
 ---
 
@@ -83,13 +83,19 @@ The first five are listed below.
 
 <!-- review:end us-lic-20261105-tranexamic_acid-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA203521 | Tranexamic Acid | Injection, solution | Not available |
-| ANDA205035 | Tranexamic Acid | Injection, solution | Not available |
-| ANDA202093 | Tranexamic Acid | Tablet, film coated | Not available |
-| ANDA218320 | Tranexamic Acid | Tablet | Not available |
-| ANDA212676 | Tranexamic Acid | Injection, solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091657 | TRANEXAMIC ACID | MYLAN INSTITUTIONAL | Injectable; injection | Valid |
+| ANDA201580 | TRANEXAMIC ACID | PHARMOBEDIENT | Injectable; injection | Valid |
+| ANDA202093 | TRANEXAMIC ACID | ACTAVIS LABS FL INC | Tablet; oral | Valid |
+| ANDA202373 | TRANEXAMIC ACID | EPIC PHARMA LLC | Injectable; injection | Valid |
+| ANDA202436 | TRANEXAMIC ACID | HERITAGE | Injectable; injection | Valid |
+
+Showing 5 of 36 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Other licences include NDA212020 (tranexamic acid in sodium chloride, Exela Pharma Sciences). Available routes are injectable and oral.
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 732
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "FLUVOXAMINE"
 predicted_indications: ["paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Fluvoxamine: predicted new indication Paranoid personality disorder (evidence level L5). In the US: 27 FDA applications (13 active)"
@@ -73,15 +73,21 @@ Neither publication directly studies the predicted disease. The evidence level i
 
 ## US Market Information
 
-Fluvoxamine is marketed in the United States as single-ingredient products, and at least one licence is currently valid. The list below shows five of the licences on record and may be partial. Approved-indication text is not recorded in the local data.
+Fluvoxamine is marketed in the United States as single-ingredient products, and at least one licence is currently valid. Approved-indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA091482 | Fluvoxamine Maleate (AvKARE) | Capsule, extended release | Valid |
-| NDA021519 | Fluvoxamine Maleate (ANI Pharmaceuticals) | Tablet, coated | Valid |
-| ANDA219055 | Fluvoxamine Maleate (Ajanta Pharma USA) | Capsule, extended release | Valid |
-| ANDA212182 | Fluvoxamine Maleate (Bionpharma) | Capsule, extended release | Valid |
-| ANDA075902 | Fluvoxamine Maleate (Apotex) | Tablet | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075888 | FLUVOXAMINE MALEATE | AIPING PHARM INC | Tablet; oral | Valid |
+| ANDA075902 | FLUVOXAMINE MALEATE | APOTEX | Tablet; oral | Valid |
+| ANDA091476 | FLUVOXAMINE MALEATE | PH HEALTH | Capsule, extended release; oral | Valid |
+| ANDA091482 | FLUVOXAMINE MALEATE | ACTAVIS ELIZABETH | Capsule, extended release; oral | Valid |
+| ANDA212182 | FLUVOXAMINE MALEATE | BIONPHARMA | Capsule, extended release; oral | Valid |
+
+Showing 5 of 27 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

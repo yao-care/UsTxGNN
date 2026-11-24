@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1082
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PRIMAQUINE"
 predicted_indications: ["myiasis", "creeping myiasis", "furuncular myiasis", "wound myiasis", "toxoplasmosis", "nocardiosis", "pneumocystosis"]
 description: "Primaquine: predicted new indication Myiasis (evidence level L5). In the US: 5 FDA applications (3 active)"
@@ -88,11 +88,17 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| NDA008316 | Primaquine Phosphate | Tablet, film coated | Sanofi-Aventis U.S. LLC | Valid |
-| ANDA206043 | Primaquine Phosphate | Tablet, film coated | Ingenus Pharmaceuticals, LLC | Valid |
-| ANDA204476 | Primaquine Phosphate | Tablet | Unichem Pharmaceuticals (USA), Inc. | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204476 | PRIMAQUINE PHOSPHATE | UNICHEM | Tablet; oral | Valid |
+| ANDA206043 | PRIMAQUINE PHOSPHATE | INGENUS PHARMS LLC | Tablet; oral | Valid |
+| NDA008316 | PRIMAQUINE | SANOFI AVENTIS US | Tablet; oral | Valid |
+| ANDA203924 | PRIMAQUINE PHOSPHATE | ALVOGEN | Tablet; oral | Discontinued in Drugs@FDA |
+| NDA014860 | ARALEN PHOSPHATE W/ PRIMAQUINE PHOSPHATE | SANOFI AVENTIS US | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ---
 

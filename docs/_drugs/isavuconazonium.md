@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ISAVUCONAZONIUM"
 predicted_indications: ["pneumocystosis", "mycetoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isavuconazonium: predicted new indication Pneumocystosis (evidence level L5). In the US: 2 FDA applications (2 active)"
 ---
 
@@ -88,10 +88,14 @@ For the second prediction, mycetoma, one indirect item was found:
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA207500 | CRESEMBA (Astellas Pharma US, Inc.) | Capsule | Not available (status: valid) |
-| NDA207501 | CRESEMBA (Astellas Pharma US, Inc.) | Lyophilized powder for injection solution | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA207500 | CRESEMBA | ASTELLAS | Capsule; oral | Valid |
+| NDA207501 | CRESEMBA | ASTELLAS | Powder; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 986
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Olaparib: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,9 +72,14 @@ All of the model's candidates for Olaparib (TxGNN, score ≥ 0.99) that can be t
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| NDA208558 | olaparib | TABLET, FILM COATED | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA208558 | LYNPARZA | ASTRAZENECA | Tablet; oral | Valid |
+| NDA206162 | LYNPARZA | ASTRAZENECA | Capsule; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

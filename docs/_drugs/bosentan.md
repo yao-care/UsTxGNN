@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 465
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bosentan: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Pulmonary arterial hypertension (including pulmonary hypertension and…"
 monitor_inn: "BOSENTAN"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
@@ -87,13 +87,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021290 | Tracleer (Actelion) | Tablet, film coated | Not available (status: valid) |
-| NDA209279 | Tracleer (Actelion) | Tablet, for suspension | Not available (status: valid) |
-| ANDA213154 | Bosentan (Lupin) | Tablet, for suspension | Not available (status: valid) |
-| ANDA209324 | Bosentan (Sun Pharmaceutical) | Tablet, film coated | Not available (status: valid) |
-| ANDA207760 | Bosentan (Zydus Lifesciences) | Tablet | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA207110 | BOSENTAN | WATSON LABS INC | Tablet; oral | Valid |
+| ANDA207760 | BOSENTAN | ZYDUS PHARMS | Tablet; oral | Valid |
+| ANDA209324 | BOSENTAN | SUN PHARM | Tablet; oral | Valid |
+| ANDA213154 | BOSENTAN | NATCO PHARMA LTD | Tablet, for suspension; oral | Valid |
+| ANDA213981 | BOSENTAN | ZYDUS PHARMS | Tablet, for suspension; oral | Valid |
+
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

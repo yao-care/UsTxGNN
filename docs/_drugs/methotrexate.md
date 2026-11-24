@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 911
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "METHOTREXATE"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Methotrexate: predicted new indication Pulmonary blastoma (evidence level L5). In the US: 66 FDA applications (29 active)"
@@ -87,13 +87,19 @@ The drug is marketed, and the compiled records contain no approved indication te
 
 <!-- review:end us-lic-20261106-methotrexate-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA208400 | Xatmep (Azurity Pharmaceuticals) | Solution | Valid |
-| NDA205776 | Rasuvo (Medexus Pharma) | Injection, solution | Valid |
-| NDA011719 | Methotrexate (Hospira) | Injection, solution | Valid |
-| ANDA040385 | Trexall (Teva Women's Health) | Tablet, film coated | Valid |
-| ANDA040716 | Methotrexate (Accord Healthcare) | Injection | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040054 | METHOTREXATE SODIUM | HIKMA | Tablet; oral | Valid |
+| ANDA040263 | METHOTREXATE SODIUM | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA040266 | METHOTREXATE PRESERVATIVE FREE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA040385 | TREXALL | BARR | Tablet; oral | Valid |
+| ANDA040632 | METHOTREXATE SODIUM PRESERVATIVE FREE | HIKMA | Injectable; injection | Valid |
+
+Showing 5 of 66 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The records also include tablet, solution and lyophilized-powder generics from other manufacturers.
 

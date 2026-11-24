@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "MEPOLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mepolizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Eosinophilic pneumonia"
 ---
 
@@ -74,10 +74,14 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125526 | Nucala (GlaxoSmithKline LLC) | Injection, powder, for solution | Not available (status: valid) |
-| BLA761122 | Nucala (GlaxoSmithKline LLC) | Injection, solution | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125526 | NUCALA | GLAXOSMITHKLINE LLC | Injectable; subcutaneous lyophilized power | Valid |
+| BLA761122 | NUCALA | GLAXOSMITHKLINE | Injectable; subcutaneous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

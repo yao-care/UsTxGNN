@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1198
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TAMOXIFEN"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Tamoxifen: predicted new indication Mammary Paget disease (evidence level L5). In the US: 14 FDA applications (6 active)"
@@ -97,13 +97,19 @@ The table lists the most relevant of the 35 registered trials, prioritizing thos
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA070929 | Tamoxifen Citrate (Bryant Ranch Prepack) | Tablet | Not listed (valid) |
-| ANDA074732 | Tamoxifen Citrate (Mylan) | Tablet | Not listed (valid) |
-| ANDA213358 | Tamoxifen Citrate (Aurobindo) | Film-coated tablet | Not listed (valid) |
-| NDA021807 | SOLTAMOX (Mayne Pharma) | Liquid | Not listed (valid) |
-| ANDA075797 | Tamoxifen Citrate (Dr. Reddy's) | Film-coated tablet | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070929 | TAMOXIFEN CITRATE | ACTAVIS LABS FL INC | Tablet; oral | Valid |
+| ANDA074732 | TAMOXIFEN CITRATE | MYLAN | Tablet; oral | Valid |
+| ANDA075797 | TAMOXIFEN CITRATE | DR REDDYS LABS SA | Tablet; oral | Valid |
+| ANDA206694 | TAMOXIFEN CITRATE | ZYDUS PHARMS | Tablet; oral | Valid |
+| ANDA213358 | TAMOXIFEN CITRATE | EUGIA PHARMA | Tablet; oral | Valid |
+
+Showing 5 of 14 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The label may differ by region or in other sources.
 

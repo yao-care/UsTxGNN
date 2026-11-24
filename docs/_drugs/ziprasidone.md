@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1310
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ZIPRASIDONE"
 predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 description: "Ziprasidone: predicted new indication Trichotillomania (evidence level L5). In the US: 15 FDA applications (12 active)"
@@ -80,15 +80,21 @@ Currently no related literature available.
 
 ## US Market Information
 
-The approved indication text is not recorded in the local data. The list below may be partial.
+The approved indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020825 | Geodon (Roerig) | Capsule | Not listed |
-| ANDA077561 | Ziprasidone Hydrochloride (American Health Packaging) | Capsule | Not listed |
-| ANDA090348 | Ziprasidone (Chartwell RX) | Capsule | Not listed |
-| ANDA204375 | Ziprasidone Hydrochloride (Macleods) | Capsule | Not listed |
-| ANDA211908 | Ziprasidone mesylate (Dr. Reddy's) | Lyophilized powder for injection | Not listed |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077561 | ZIPRASIDONE HYDROCHLORIDE | APOTEX | Capsule; oral | Valid |
+| ANDA077562 | ZIPRASIDONE HYDROCHLORIDE | SANDOZ INC | Capsule; oral | Valid |
+| ANDA077565 | ZIPRASIDONE HYDROCHLORIDE | DR REDDYS LABS INC | Capsule; oral | Valid |
+| ANDA090348 | ZIPRASIDONE HYDROCHLORIDE | CHARTWELL RX | Capsule; oral | Valid |
+| ANDA204117 | ZIPRASIDONE HYDROCHLORIDE | AUROBINDO PHARMA | Capsule; oral | Valid |
+
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Both oral (capsule) and injectable forms are present among the licences.
 

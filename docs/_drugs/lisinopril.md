@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 864
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LISINOPRIL"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
 description: "Lisinopril: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). In the US: 39 FDA applications (26 active)"
@@ -87,13 +87,19 @@ For context, the table below lists the most relevant publications retrieved for 
 
 <!-- review:end us-lic-20261106-lisinopril-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019777 | Zestril (Upsher-Smith) | Tablet | Not recorded; valid |
-| ANDA076180 | Lisinopril (Proficient Rx) | Tablet | Not recorded; valid |
-| ANDA075903 | Lisinopril (XLCare) | Tablet | Not recorded; valid |
-| ANDA076164 | Lisinopril (A-S Medication Solutions) | Tablet | Not recorded; valid |
-| ANDA077321 | Lisinopril (RemedyRepack) | Tablet | Not recorded; valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075743 | LISINOPRIL | PRINSTON | Tablet; oral | Valid |
+| ANDA075903 | LISINOPRIL | ANNORA PHARMA | Tablet; oral | Valid |
+| ANDA075944 | LISINOPRIL | SUN PHARM INDS LTD | Tablet; oral | Valid |
+| ANDA075994 | LISINOPRIL | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA076059 | LISINOPRIL | WATSON LABS | Tablet; oral | Valid |
+
+Showing 5 of 39 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

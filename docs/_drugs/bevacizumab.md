@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BEVACIZUMAB"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bevacizumab: predicted new indication epiglottis neoplasm (evidence level L5). In the US: 8 FDA applications (8 active)"
 ---
 
@@ -70,13 +70,19 @@ Currently no related literature available for this prediction.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761175 | JOBEVNE | Injection | Not recorded |
-| BLA125085 | Avastin | Injection, solution | Not recorded |
-| BLA761268 | Vegzelma | Injection, solution | Not recorded |
-| BLA761198 | Avzivi | Injection, solution | Not recorded |
-| BLA761231 | ALYMSYS | Injection, solution | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125085 | AVASTIN | GENENTECH | Vial; intravenous | Valid |
+| BLA761028 | MVASI | AMGEN INC | Injectable; injection | Valid |
+| BLA761099 | ZIRABEV | PFIZER INC | Injectable; injection | Valid |
+| BLA761175 | JOBEVNE | BIOCON BIOLOGICS INC | Injectable; injection | Valid |
+| BLA761198 | AVZIVI | BIO-THERA SOLUTIONS LTD | Injectable; injection | Valid |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

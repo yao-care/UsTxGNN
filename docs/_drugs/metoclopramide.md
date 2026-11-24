@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 918
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
 description: "Metoclopramide: predicted new indication Gastroduodenitis (evidence level L5). In the US: 67 FDA applications (15 active)"
@@ -106,7 +106,7 @@ Most retrieved publications are general reviews of dyspepsia, gastroparesis, ref
 
 ## US Market Information
 
-No approved indication text is recorded. The first 5 are listed below.
+No approved indication text is recorded.
 
 <!-- review:begin us-lic-20261106-metoclopramide-1 -->
 
@@ -114,13 +114,19 @@ No approved indication text is recorded. The first 5 are listed below.
 
 <!-- review:end us-lic-20261106-metoclopramide-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA072801 | Metoclopramide (Bryant Ranch Prepack) | Tablet | Not recorded |
-| ANDA078807 | Metoclopramide (Ipca Laboratories) | Tablet | Not recorded |
-| ANDA071402 | Metoclopramide (Bryant Ranch Prepack) | Solution | Not recorded |
-| ANDA091392 | Metoclopramide (Fresenius Kabi USA) | Injection, solution | Not recorded |
-| ANDA070184 | Metoclopramide (AvKARE) | Tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070184 | METOCLOPRAMIDE HYDROCHLORIDE | TEVA | Tablet; oral | Valid |
+| ANDA071402 | METOCLOPRAMIDE HYDROCHLORIDE | ANI PHARMS | Solution; oral | Valid |
+| ANDA072215 | METOCLOPRAMIDE HYDROCHLORIDE | AIPING PHARM INC | Tablet; oral | Valid |
+| ANDA072744 | METOCLOPRAMIDE HYDROCHLORIDE | PAI HOLDINGS | Solution; oral | Valid |
+| ANDA072801 | METOCLOPRAMIDE HYDROCHLORIDE | TEVA | Tablet; oral | Valid |
+
+Showing 5 of 67 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

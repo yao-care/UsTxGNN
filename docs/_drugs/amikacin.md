@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "AMIKACIN"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "meningococcemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amikacin: predicted new indication paratyphoid fever (evidence level L5). In the US: 26 FDA applications (8 active)"
 ---
 
@@ -83,13 +83,19 @@ Currently no related clinical trials registered.
 
 The licence records compiled for this report list injectable and suspension products, including amikacin sulfate injections and ARIKAYCE (a suspension). The records carry no indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA063315 | Amikacin Sulfate | Injection | Not recorded |
-| ANDA204040 | Amikacin Sulfate | Injection, solution | Not recorded |
-| ANDA218146 | Amikacin Sulfate | Injection, solution | Not recorded |
-| ANDA203323 | Amikacin Sulfate | Injection, solution | Not recorded |
-| ANDA205604 | Amikacin Sulfate | Injection, solution | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA063313 | AMIKACIN SULFATE | HIKMA | Injectable; injection | Valid |
+| ANDA063315 | AMIKACIN SULFATE | HIKMA | Injectable; injection | Valid |
+| ANDA064045 | AMIKACIN SULFATE | MEITHEAL | Injectable; injection | Valid |
+| ANDA203323 | AMIKACIN SULFATE | SAGENT PHARMS INC | Injectable; injection | Valid |
+| ANDA204040 | AMIKACIN SULFATE | AVET LIFESCIENCES | Injectable; injection | Valid |
+
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

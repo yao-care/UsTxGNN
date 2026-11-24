@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "METYRAPONE"
 predicted_indications: ["exercise-induced malignant hyperthermia", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metyrapone: predicted new indication Exercise-induced malignant hyperthermia (evidence level L5). Approved use: Not stated in the US license data. Pharmacology sources describe use…"
 ---
 
@@ -103,9 +103,13 @@ The only publication identified across the ten predictions concerns the rank 8 p
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA012911 | Metopirone (ESTEVE PHARMACEUTICALS, S.A.) | Capsule, gelatin coated (oral) | Not stated in the license data. Status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA012911 | METOPIRONE | ESTEVE | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ---
 

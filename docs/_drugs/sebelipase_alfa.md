@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1146
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SEBELIPASE ALFA"
 predicted_indications: ["Scheie syndrome", "Hurler syndrome", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "Gaucher disease", "lysosomal storage disease with skeletal involvement", "autosomal ichthyosis syndrome with fatal disease course", "Tay-Sachs disease", "benign neoplasm of adrenal gland"]
 description: "Sebelipase Alfa: predicted new indication Scheie syndrome (evidence level L5). In the US: 1 FDA application (1 active)"
@@ -68,9 +68,13 @@ Currently no related literature available for Scheie syndrome.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125561 | KANUMA (Alexion Pharmaceuticals, Inc.) | Injection, solution, concentrate | Not stated in the data compiled; license status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125561 | KANUMA | ALEXION PHARM | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 The one listed licence is valid, and the product is marketed as a single-ingredient injectable (manufacturer: Alexion Pharmaceuticals, Inc.).
 

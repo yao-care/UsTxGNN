@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "VERTEPORFIN"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Verteporfin: predicted new indication mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). Approved use: Macular degeneration"
 ---
 
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021119 | Visudyne (Bausch & Lomb Incorporated; status: valid) | Injection, powder, lyophilized, for solution | Not listed in the data compiled for this report |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021119 | VISUDYNE | BAUSCH LOMB IRELAND | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

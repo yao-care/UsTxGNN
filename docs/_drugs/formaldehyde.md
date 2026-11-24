@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FORMALDEHYDE"
 predicted_indications: ["leishmaniasis, diffuse cutaneous", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency", "mucocutaneous leishmaniasis", "pyelonephritis", "streptococcal pneumonia", "X-linked lymphoproliferative syndrome", "trigonitis", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection", "Plasmodium falciparum malaria"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Formaldehyde: predicted new indication Leishmaniasis, diffuse cutaneous (evidence level L5). In the US: no FDA-approved application; 16 OTC monograph/unapproved NDC listings"
 ---
 
@@ -81,9 +81,19 @@ For other predicted indications, the retrieved papers do not show a therapeutic 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Formalinum (Hahnemann Laboratories, Inc.) | Pellet | Not stated (status: cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0220-2135 | Formalinum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43742-1288 | Formaldehyde | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43742-1252 | Aspartame/MSG Detox | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43857-0487 | Additox | BioActive Nutritional, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43742-1453 | Household Detox | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

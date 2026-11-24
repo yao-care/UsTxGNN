@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "CEFPROZIL"
 predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "pneumonia", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Cefprozil: predicted new indication urinary tract infection (disease) (evidence level L2). In the US: 18 FDA applications (7 active)"
 ---
 
@@ -93,6 +93,20 @@ Currently no related clinical trials registered for urinary tract infection.
 ## US Market Information
 
 The data compiled for this report show the drug as marketed in the United States, with six single-ingredient generic (ANDA) records in oral tablet and powder-for-suspension forms. The record list may be partial, and the licence text carries no indication wording.
+
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA065208 | CEFPROZIL | TEVA | Tablet; oral | Valid |
+| ANDA065235 | CEFPROZIL | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA065261 | CEFPROZIL | LUPIN | For suspension; oral | Valid |
+| ANDA065276 | CEFPROZIL | LUPIN | Tablet; oral | Valid |
+| ANDA065340 | CEFPROZIL | AUROBINDO PHARMA | Tablet; oral | Valid |
+
+Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

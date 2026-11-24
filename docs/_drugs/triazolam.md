@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1259
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Triazolam: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,11 +72,19 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Triazolam
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| ANDA213003 | Triazolam | TABLET | Valid |
-| NDA017892 | triazolam | TABLET | Valid |
-| ANDA214219 | Triazolam | TABLET | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA213003 | TRIAZOLAM | ZYDUS PHARMS | Tablet; oral | Valid |
+| ANDA214219 | TRIAZOLAM | INGENUS PHARMS LLC | Tablet; oral | Valid |
+| NDA017892 | HALCION | PFIZER | Tablet; oral | Valid |
+| ANDA074031 | TRIAZOLAM | PHARMOBEDIENT | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA074224 | TRIAZOLAM | HIKMA | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

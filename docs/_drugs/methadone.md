@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "METHADONE"
 predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Methadone: predicted new indication Tourette syndrome (evidence level L4). In the US: 34 FDA applications (26 active)"
 ---
 
@@ -95,13 +95,19 @@ Five representative licenses are listed below.
 
 <!-- review:end us-lic-20261105-methadone-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA017058 | DISKETS (Hikma) | Tablet | Not available (valid) |
-| ANDA074184 | METHADOSE DISPERSIBLE (SpecGx) | Tablet | Not available (valid) |
-| ANDA218609 | Methadone Hydrochloride (Hikma) | Injection | Not available (valid) |
-| ANDA089897 | Methadone Hydrochloride (Hikma) | Concentrate | Not available (valid) |
-| ANDA087393 | Methadone Hydrochloride (Precision Dose) | Solution | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040088 | METHADONE HYDROCHLORIDE | VISTAPHARM LLC | Concentrate; oral | Valid |
+| ANDA040180 | METHADONE HYDROCHLORIDE | HIKMA | Concentrate; oral | Valid |
+| ANDA040517 | METHADONE HYDROCHLORIDE | SPECGX LLC | Tablet; oral | Valid |
+| ANDA074184 | METHADOSE | SPECGX LLC | Tablet, for suspension; oral | Valid |
+| ANDA075082 | METHADONE HYDROCHLORIDE | VISTAPHARM LLC | Tablet, for suspension; oral | Valid |
+
+Showing 5 of 34 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

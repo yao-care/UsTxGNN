@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ETOPOSIDE"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etoposide: predicted new indication Well-differentiated fetal adenocarcinoma of the lung (evidence level L5). In the US: 21 FDA applications (8 active)"
 ---
 
@@ -120,13 +120,19 @@ Approved indication text was not available.
 
 <!-- review:end us-lic-20261106-etoposide-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075635 | Etoposide (Mylan) | Capsule | Not available |
-| ANDA074290 | Etoposide (Hikma) | Injection | Not available |
-| ANDA074513 | Etoposide (BluePoint) | Injection | Not available |
-| NDA020457 | Etopophos (H2-Pharma) | Lyophilised powder for injection | Not available |
-| ANDA074529 | Etoposide (BluePoint) | Concentrated injection solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074290 | ETOPOSIDE | HIKMA | Injectable; injection | Valid |
+| ANDA074513 | ETOPOSIDE | ACCORD HLTHCARE | Injectable; injection | Valid |
+| ANDA074529 | ETOPOSIDE | MEITHEAL | Injectable; injection | Valid |
+| ANDA074983 | ETOPOSIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA075635 | ETOPOSIDE | MYLAN | Capsule; oral | Valid |
+
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

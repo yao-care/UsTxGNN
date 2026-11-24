@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1006
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Ozanimod: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,9 +72,13 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidate indications fo
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| NDA209899 | ozanimod hydrochloride | CAPSULE | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA209899 | ZEPOSIA | BRISTOL | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

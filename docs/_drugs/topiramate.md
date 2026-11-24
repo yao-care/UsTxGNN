@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1242
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TOPIRAMATE"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Topiramate: predicted new indication Trigeminal nerve neoplasm (evidence level L5). In the US: 61 FDA applications (41 active)"
@@ -98,13 +98,19 @@ No approved indication text is available in these records.
 
 <!-- review:end us-lic-20261106-topiramate-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA078235 | Topiramate (Zydus Pharmaceuticals USA) | Tablet, film coated | Not available |
-| ANDA090278 | Topiramate (Proficient Rx) | Tablet, film coated | Not available |
-| ANDA216683 | Topiramate (Advagen Pharma) | Capsule | Not available |
-| ANDA207382 | Topiramate (Zydus Pharmaceuticals USA) | Capsule, extended release | Not available |
-| ANDA090162 | Topiramate (A-S Medication Solutions) | Tablet, film coated | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076311 | TOPIRAMATE | ACCORD HLTHCARE | Tablet; oral | Valid |
+| ANDA076343 | TOPIRAMATE | CIPLA LTD | Tablet; oral | Valid |
+| ANDA077627 | TOPIRAMATE | GLENMARK PHARMS LTD | Tablet; oral | Valid |
+| ANDA078235 | TOPIRAMATE | ZYDUS PHARMS USA INC | Tablet; oral | Valid |
+| ANDA078418 | TOPIRAMATE | STRIDES PHARMA | Capsule; oral | Valid |
+
+Showing 5 of 61 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

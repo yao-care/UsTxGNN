@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1077
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PREDNISOLONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
 description: "Prednisolone: predicted new indication Alopecia areata (evidence level L2). In the US: 134 FDA applications (26 active)"
@@ -101,13 +101,19 @@ The drug is marketed in the US. Approved-indication text is not available. Five 
 
 <!-- review:end us-lic-20261106-prednisolone-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021959 | Orapred | Tablet, orally disintegrating | Not available |
-| NDA017011 | Prednisolone Acetate | Suspension/drops | Not available |
-| NDA017469 | Prednisolone Acetate | Suspension/drops | Not available |
-| ANDA218083 | Prednisolone | Tablet | Not available |
-| ANDA075988 | Prednisolone Sodium Phosphate | Solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040070 | PREDNISOLONE SODIUM PHOSPHATE | BAUSCH AND LOMB INC | Solution/drops; ophthalmic | Valid |
+| ANDA040323 | PREDNISOLONE | CHARTWELL RX | Solution; oral | Valid |
+| ANDA040571 | PREDNISOLONE | PHARM ASSOC | Solution; oral | Valid |
+| ANDA040775 | PREDNISOLONE | LANNETT CO INC | Solution; oral | Valid |
+| ANDA075988 | PREDNISOLONE SODIUM PHOSPHATE | CHARTWELL RX | Solution; oral | Valid |
+
+Showing 5 of 134 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Note that some listed licenses are for methylprednisolone products (e.g., SOLU-MEDROL), which are a related but different drug.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "LINCOMYCIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lincomycin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). In the US: 9 FDA applications (6 active)"
 ---
 
@@ -82,13 +82,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050317 | Lincocin (Pharmacia & Upjohn) | Injection, solution | Valid |
-| ANDA212770 | Lincomycin (PAI Pharma) | Injection | Valid |
-| ANDA215657 | Lincomycin (Sagent) | Injection, solution | Valid |
-| ANDA216662 | Lincomycin (Slate Run) | Injection, solution | Valid |
-| ANDA201746 | Lincomycin (Henry Schein) | Injection, solution | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA201746 | LINCOMYCIN HYDROCHLORIDE | XGEN PHARMS | Injectable; injection | Valid |
+| ANDA212770 | LINCOMYCIN HYDROCHLORIDE | QUAGEN | Injectable; injection | Valid |
+| ANDA215082 | LINCOMYCIN HYDROCHLORIDE | MICRO LABS | Injectable; injection | Valid |
+| ANDA215657 | LINCOMYCIN HYDROCHLORIDE | GLAND | Injectable; injection | Valid |
+| ANDA216662 | LINCOMYCIN HYDROCHLORIDE | HAINAN POLY | Injectable; injection | Valid |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

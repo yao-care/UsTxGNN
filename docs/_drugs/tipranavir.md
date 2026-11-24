@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1232
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TIPRANAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
 description: "Tipranavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). In the US: 3 FDA applications (2 active)"
@@ -75,9 +75,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021814 | Aptivus | Capsule, liquid filled (oral) | Not specified (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021814 | APTIVUS | BOEHRINGER INGELHEIM | Capsule; oral | Valid |
+| NDA021822 | APTIVUS | BOEHRINGER INGELHEIM | Solution; oral | Valid |
+| NDA022292 | APTIVUS | BOEHRINGER INGELHEIM | Solution; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

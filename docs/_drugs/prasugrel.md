@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "PRASUGREL"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prasugrel: predicted new indication Pulmonary hypertension (evidence level L5). In the US: 11 FDA applications (7 active)"
 ---
 
@@ -82,13 +82,19 @@ The supporting evidence is indirect. It consists of a retrospective review of th
 
 Approved indication text was not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022307 | Effient (Cosette Pharmaceuticals) | Coated tablet | Not available |
-| ANDA213315 | Prasugrel (Unichem) | Film-coated tablet | Not available |
-| ANDA205913 | Prasugrel (Amneal) | Film-coated tablet | Not available |
-| ANDA205897 | Prasugrel (Apotex) | Film-coated tablet | Not available |
-| ANDA205927 | Prasugrel (Mylan) | Film-coated tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205888 | PRASUGREL | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA205897 | PRASUGREL | PANACEA | Tablet; oral | Valid |
+| ANDA205927 | PRASUGREL | MYLAN | Tablet; oral | Valid |
+| ANDA205987 | PRASUGREL | ACCORD HLTHCARE | Tablet; oral | Valid |
+| ANDA206021 | PRASUGREL | HEC PHARM | Tablet; oral | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

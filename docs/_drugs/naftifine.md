@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 952
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "NAFTIFINE"
 predicted_indications: ["ectothrix infectious disease", "pityriasis versicolor", "endothrix infectious disease"]
 description: "Naftifine: predicted new indication Ectothrix infectious disease (evidence level L5). In the US: 9 FDA applications (6 active)"
@@ -93,12 +93,19 @@ Currently no related clinical trials registered for cutaneous candidiasis.
 
 The approved-indication text is not recorded for these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA204286 | Naftin | Gel | Not recorded |
-| ANDA206901 | Naftifine Hydrochloride | Cream | Not recorded |
-| ANDA208201 | Naftifine Hydrochloride | Gel | Not recorded |
-| ANDA205975 | Naftifine Hydrochloride | Cream | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205975 | NAFTIFINE HYDROCHLORIDE | SUN PHARMA CANADA | Cream; topical | Valid |
+| ANDA206901 | NAFTIFINE HYDROCHLORIDE | SUN PHARMA CANADA | Cream; topical | Valid |
+| ANDA208201 | NAFTIFINE HYDROCHLORIDE | SUN PHARMA CANADA | Gel; topical | Valid |
+| ANDA210038 | NAFTIFINE HYDROCHLORIDE | XIROMED | Cream; topical | Valid |
+| NDA019599 | NAFTIN | LEGACY | Cream; topical | Valid |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

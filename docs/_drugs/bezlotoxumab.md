@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BEZLOTOXUMAB"
 predicted_indications: ["acute female pelvic peritonitis", "embryonic cyst of fallopian tube", "tubal pregnancy", "salpingitis isthmica nodosa", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "abdominal cystic lymphangioma", "pelvic varices"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bezlotoxumab: predicted new indication acute female pelvic peritonitis (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761046 | ZINPLAVA | Injection, solution | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761046 | ZINPLAVA | MERCK SHARP DOHME | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 The licence record lists Merck Sharp & Dohme LLC as manufacturer. The product is administered as an injectable.
 

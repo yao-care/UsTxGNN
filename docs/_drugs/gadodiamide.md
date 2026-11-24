@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "GADODIAMIDE"
 predicted_indications: ["rheumatoid arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Gadodiamide: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not available in the data compiled for this report (a diagnostic MRI…"
 ---
 
@@ -88,9 +88,14 @@ All three studies concern imaging diagnosis, not therapeutic efficacy.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020123 | OMNISCAN (GE Healthcare Inc.) | Injection | Not listed (license status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA020123 | OMNISCAN | GE HEALTHCARE | Injectable; injection | Valid |
+| NDA022066 | OMNISCAN | GE HEALTHCARE | Injectable; injection | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ---
 

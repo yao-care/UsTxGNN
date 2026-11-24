@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 664
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Eptinezumab: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,9 +72,13 @@ All candidates produced by the TxGNN model for Eptinezumab that can be traced to
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| BLA761119 | eptinezumab-jjmr | INJECTION | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761119 | VYEPTI | Lundbeck Seattle BioPharmaceuticals, Inc. | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

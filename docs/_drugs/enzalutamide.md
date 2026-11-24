@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 657
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ENZALUTAMIDE"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
 description: "Enzalutamide: predicted new indication Prostate leiomyoma (evidence level L5). In the US: 6 FDA applications (3 active)"
@@ -78,10 +78,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA213674 | Xtandi (Astellas Pharma US, Inc.) | Tablet | Not listed (status: valid) |
-| NDA203415 | Xtandi (Astellas Pharma US, Inc.) | Capsule | Not listed (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA216068 | ENZALUTAMIDE | SANDOZ | Tablet; oral | Valid |
+| NDA203415 | XTANDI | ASTELLAS | Capsule; oral | Valid |
+| NDA213674 | XTANDI | ASTELLAS | Tablet; oral | Valid |
+| ANDA209614 | ENZALUTAMIDE | ACTAVIS LABS FL INC | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA209645 | ENZALUTAMIDE | APOTEX | Capsule; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

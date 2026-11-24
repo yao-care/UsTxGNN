@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1042
 evidence_level: L3
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PHENYLEPHRINE"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Phenylephrine: predicted new indication Nasal cavity disease (evidence level L3). In the US: 58 FDA applications (41 active), plus 1456 OTC monograph/unapproved NDC listings"
@@ -96,13 +96,19 @@ The records contain no approved-indication text. Main entries:
 
 <!-- review:end us-lic-20261105-phenylephrine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA207926 | Phenylephrine Hydrochloride (Alcon Laboratories) | Solution/drops | Not recorded |
-| ANDA218129 | Phenylephrine Hydrochloride (Dr. Reddy's) | Solution/drops | Not recorded |
-| part341 | CVS Health Four Actions Nasal Decongestant | Spray | Not recorded |
-| M012 | Sinus Pressure and Congestion Relief PE (Rite Aid) | Tablet, film coated | Not recorded |
-| ANDA211078 | Phenylephrine hydrochloride (Amneal) | Injection | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208905 | PHENYLEPHRINE HYDROCHLORIDE | SANDOZ | Solution; intravenous | Valid |
+| ANDA209967 | PHENYLEPHRINE HYDROCHLORIDE | SAGENT PHARMS INC | Solution; intravenous | Valid |
+| ANDA209968 | PHENYLEPHRINE HYDROCHLORIDE | AVET LIFESCIENCES | Solution; intravenous | Valid |
+| ANDA210025 | PHENYLEPHRINE HYDROCHLORIDE | PH HEALTH | Solution; intravenous | Valid |
+| ANDA210333 | PHENYLEPHRINE HYDROCHLORIDE | MEITHEAL | Solution; intravenous | Valid |
+
+Showing 5 of 1514 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The remaining authorizations are injectable generics.
 

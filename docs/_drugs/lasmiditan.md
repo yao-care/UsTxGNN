@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 838
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Lasmiditan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Lasmiditan: predicted new indication Atrophoderma vermiculata (evidence level L5). In the US: 1 FDA application (0 active)"
@@ -82,9 +82,13 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA211280 (cancelled) | Reyvow | Tablet | Not specified in the data compiled for this report |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA211280 | REYVOW | ELI LILLY AND CO | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

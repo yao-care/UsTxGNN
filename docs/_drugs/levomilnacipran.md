@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 856
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LEVOMILNACIPRAN"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder"]
 description: "Levomilnacipran: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). In the US: 5 FDA applications (2 active)"
@@ -80,9 +80,17 @@ Currently no related literature available for benign paroxysmal torticollis of i
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA204168 | Fetzima | Capsule, extended release (oral) | Status: valid (Allergan, Inc.) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA210771 | LEVOMILNACIPRAN HYDROCHLORIDE | PRINSTON | Capsule, extended release; oral | Valid |
+| NDA204168 | FETZIMA | ABBVIE | Capsule, extended release; oral | Valid |
+| ANDA210732 | LEVOMILNACIPRAN HYDROCHLORIDE | HIKMA | Capsule, extended release; oral | Discontinued in Drugs@FDA |
+| ANDA210790 | LEVOMILNACIPRAN HYDROCHLORIDE | AMNEAL PHARMS CO | Capsule, extended release; oral | Discontinued in Drugs@FDA |
+| ANDA210826 | LEVOMILNACIPRAN HYDROCHLORIDE | AUROBINDO PHARMA LTD | Capsule, extended release; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

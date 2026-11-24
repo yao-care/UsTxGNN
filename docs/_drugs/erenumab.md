@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 666
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Erenumab: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,9 +72,13 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Erenumab.
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| BLA761077 | erenumab-aooe | INJECTION | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761077 | AIMOVIG | AMGEN INC | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CLARITHROMYCIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clarithromycin: predicted new indication polyclonal hyperviscosity syndrome (evidence level L5). In the US: 33 FDA applications (15 active)"
 ---
 
@@ -80,13 +80,19 @@ Currently no related literature available.
 
 The local data list 7 ANDA records for single-ingredient clarithromycin products (the list may be partial). Indication text is not recorded in these records.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA065489 | Clarithromycin | Film-coated tablet | A-S Medication Solutions |
-| ANDA203584 | Clarithromycin | Film-coated tablet | Lannett Company, Inc. |
-| ANDA210459 | Clarithromycin | Film-coated tablet | Alembic Pharmaceuticals Limited |
-| ANDA065384 | Clarithromycin | Film-coated tablet | Chartwell RX, LLC. |
-| ANDA065136 | Clarithromycin | Tablet | PD-Rx Pharmaceuticals, Inc. |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA065136 | CLARITHROMYCIN | SANDOZ | Tablet; oral | Valid |
+| ANDA065144 | CLARITHROMYCIN | SANDOZ | Tablet; oral | Valid |
+| ANDA065145 | CLARITHROMYCIN | ACTAVIS LABS FL INC | Tablet, extended release; oral | Valid |
+| ANDA065154 | CLARITHROMYCIN | DR REDDYS LABS SA | Tablet, extended release; oral | Valid |
+| ANDA065283 | CLARITHROMYCIN | SANDOZ | For suspension; oral | Valid |
+
+Showing 5 of 33 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

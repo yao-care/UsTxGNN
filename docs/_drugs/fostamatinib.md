@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 740
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fostamatinib: predicted new indication Autosomal thrombocytopenia with normal platelets (evidence level L5). Approved use: Thrombocytopenia due to immune destruction"
 monitor_inn: "FOSTAMATINIB"
 predicted_indications: ["autosomal thrombocytopenia with normal platelets", "non-syndromic esophageal malformation"]
@@ -74,9 +74,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA209299 | TAVALISSE (Rigel Pharmaceuticals, Inc.) | Tablet (oral) | Not listed in the data compiled; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA217329 | FOSTAMATINIB DISODIUM | ANNORA PHARMA | Tablet; oral | Valid |
+| NDA209299 | TAVALISSE | RIGEL PHARMS | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

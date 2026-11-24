@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CEVIMELINE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cevimeline: predicted new indication Hypertrichosis (disease) (evidence level L5). In the US: 11 FDA applications (10 active)"
 ---
 
@@ -82,13 +82,19 @@ The approved-indication text is not available in the compiled data.
 
 <!-- review:end us-lic-20261106-cevimeline-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020989 | cevimeline hydrochloride (Cosette Pharmaceuticals) | Capsule | Not available |
-| ANDA216682 | Cevimeline hydrochloride (Bryant Ranch Prepack) | Capsule | Not available |
-| ANDA215056 | Cevimeline hydrochloride (Aurobindo Pharma) | Capsule | Not available |
-| ANDA091591 | Cevimeline hydrochloride (Hikma Pharmaceuticals USA) | Capsule | Not available |
-| ANDA204746 | Cevimeline hydrochloride (Lupin Pharmaceuticals) | Capsule | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091591 | CEVIMELINE HYDROCHLORIDE | HIKMA | Capsule; oral | Valid |
+| ANDA203775 | CEVIMELINE HYDROCHLORIDE | RISING | Capsule; oral | Valid |
+| ANDA204746 | CEVIMELINE HYDROCHLORIDE | NOVEL LABS INC | Capsule; oral | Valid |
+| ANDA206808 | CEVIMELINE HYDROCHLORIDE | MACLEODS PHARMS | Capsule; oral | Valid |
+| ANDA215056 | CEVIMELINE HYDROCHLORIDE | AUROBINDO PHARMA | Capsule; oral | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

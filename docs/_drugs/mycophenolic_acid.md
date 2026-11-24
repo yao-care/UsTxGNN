@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MYCOPHENOLIC ACID"
 predicted_indications: ["hemoglobinopathy", "migraine disorder", "migraine with brainstem aura", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "pyropoikilocytosis, hereditary", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyruvate kinase deficiency of red cells", "rheumatoid arthritis", "antithrombin deficiency type 2"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mycophenolic Acid: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not specified in the available US license data"
 ---
 
@@ -84,9 +84,19 @@ The link to hemoglobinopathy is **indirect**. The drug does not correct the unde
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA091248 (cancelled) | Mycophenolic Acid (Archis Pharma LLC) | Delayed-release tablet (oral) | Not listed |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091558 | MYCOPHENOLATE SODIUM | APOTEX INC | Tablet, delayed release; oral | Valid |
+| ANDA202555 | MYCOPHENOLATE SODIUM | ACCORD HLTHCARE | Tablet, delayed release; oral | Valid |
+| ANDA208315 | MYCOPHENOLATE SODIUM | ALKEM LABS LTD | Tablet, delayed release; oral | Valid |
+| ANDA211173 | MYCOPHENOLATE SODIUM | CONCORD BIOTECH LTD | Tablet, delayed release; oral | Valid |
+| ANDA214376 | MYCOPHENOLATE SODIUM | YICHANG HUMANWELL | Tablet, delayed release; oral | Valid |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

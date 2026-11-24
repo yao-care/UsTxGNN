@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FLUORESCEIN"
 predicted_indications: ["Prinzmetal angina", "antithrombin deficiency type 2", "rheumatoid arthritis", "factor 5 excess with spontaneous thrombosis", "hemoglobinopathy", "heparin cofactor 2 deficiency", "thrombophilia", "hyperthyroidism", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluorescein: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Diagnostic use"
 ---
 
@@ -84,13 +84,19 @@ Literature was retrieved for other lower-ranked predictions, but it concerns flu
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021980 | FLUORESCITE (Alcon) | Injection, solution | Not available (valid) |
-| ANDA215709 | Fluorescein (Nexus Pharmaceuticals) | Injection | Not available (valid) |
-| NDA022186 | AK-FLUOR (Long Grove Pharmaceuticals) | Injection | Not available (valid) |
-| NDA211039 | Fluorescein Sodium and Benoxinate Hydrochloride (Bausch & Lomb) | Solution/drops | Not available (valid) |
-| NDA208582 | ALTAFLUOR (Altaire Pharmaceuticals) | Solution | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA215709 | FLUORESCEIN SODIUM | NEXUS | Injectable; intravenous | Valid |
+| ANDA218651 | FLUORESCEIN SODIUM | ZYDUS LIFESCIENCES | Injectable; intravenous | Valid |
+| ANDA220046 | FLUORESCEIN SODIUM | BPI LABS | Injectable; intravenous | Valid |
+| NDA021980 | FLUORESCITE | ALCON LABS INC | Injectable; intravenous | Valid |
+| NDA022186 | AK-FLUOR 10% | LONG GROVE PHARMS | Injectable; intravenous | Valid |
+
+Showing 5 of 12 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 A sixth authorization, for fluorescein sodium ophthalmic strips (Vistamerica USA), is also cancelled.
 

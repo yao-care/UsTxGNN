@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1240
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TOLMETIN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome"]
 description: "Tolmetin: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In the US: 16 FDA applications (2 active)"
@@ -91,10 +91,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA074473 | Tolmetin Sodium | Tablet, film coated (oral) | Not available (valid) |
-| ANDA073393 | Tolmetin Sodium | Capsule (oral) | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA073393 | TOLMETIN SODIUM | RISING | Capsule; oral | Valid |
+| ANDA074473 | TOLMETIN SODIUM | RISING | Tablet; oral | Valid |
+| ANDA073290 | TOLMETIN SODIUM | PHARMAZONE | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA073308 | TOLMETIN SODIUM | ANI PHARMS | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA073310 | TOLMETIN SODIUM | SUN PHARM INDUSTRIES | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

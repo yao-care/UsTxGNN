@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "PALBOCICLIB"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Palbociclib: predicted new indication Hyperthyroidism (evidence level L5). In the US: 3 FDA applications (2 active)"
 ---
 
@@ -97,10 +97,15 @@ Several other retrieved papers on thrombosis are tangential or unrelated and are
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212436 | Ibrance (Pfizer) | Film-coated tablet | Not available; status: valid |
-| NDA207103 | Ibrance (Pfizer) | Capsule | Not available; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA207103 | IBRANCE | PFIZER | Capsule; oral | Valid |
+| NDA212436 | IBRANCE | PFIZER | Tablet; oral | Valid |
+| ANDA215570 | PALBOCICLIB | ZYDUS LIFESCIENCES | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

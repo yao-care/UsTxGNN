@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "CEFAZOLIN"
 predicted_indications: ["infectious otitis media", "bronchitis", "middle ear disease", "chronic otitis media", "suppurative otitis media", "otosalpingitis", "non-suppurative otitis media", "allergic otitis media"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cefazolin: predicted new indication infectious otitis media (evidence level L5). In the US: 41 FDA applications (12 active)"
 ---
 
@@ -75,15 +75,21 @@ No study directly evaluates cefazolin for infectious otitis media, so the eviden
 
 ## US Market Information
 
-Eleven US authorizations are recorded for single-ingredient cefazolin products, all injectable or solution forms. The list may be partial. Main records:
+Eleven US authorizations are recorded for single-ingredient cefazolin products, all injectable or solution forms.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA062831 | Cefazolin (Sandoz Inc) | Injection, powder, for solution | Not recorded in local data |
-| ANDA203661 | Cefazolin (Apotex Corp.) | Injection, powder, for solution | Not recorded in local data |
-| NDA216109 | Cefazolin (Hikma Pharmaceuticals USA Inc.) | Injection, powder, for solution | Not recorded in local data |
-| NDA050779 | Cefazolin Sodium (B. Braun Medical Inc.) | Solution | Not recorded in local data |
-| NDA207131 | Cefazolin (Baxter Healthcare Corporation) | Injection, solution | Not recorded in local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA062831 | CEFAZOLIN SODIUM | SANDOZ | Injectable; injection | Valid |
+| ANDA065047 | CEFAZOLIN SODIUM | HIKMA FARMACEUTICA | Injectable; injection | Valid |
+| ANDA065141 | CEFAZOLIN SODIUM | SAMSON MEDCL | Injectable; injection | Valid |
+| ANDA065143 | CEFAZOLIN SODIUM | HIKMA FARMACEUTICA | Injectable; injection | Valid |
+| ANDA065303 | CEFAZOLIN SODIUM | ACS DOBFAR | Injectable; injection | Valid |
+
+Showing 5 of 41 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

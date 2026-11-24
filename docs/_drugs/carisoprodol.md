@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CARISOPRODOL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carisoprodol: predicted new indication insomnia (disease) (evidence level L5). In the US: 36 FDA applications (14 active)"
 ---
 
@@ -73,13 +73,19 @@ Currently no related clinical trials registered.
 
 Carisoprodol has six single-ingredient US licence records in the data compiled for this report (ANDA and NDA, oral tablets; the brand product is Soma). The list may be partial, and the records carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA011792 | Soma | Tablet | Not recorded |
-| ANDA040188 | Carisoprodol | Tablet | Not recorded |
-| ANDA040792 | carisoprodol | Tablet | Not recorded |
-| ANDA040245 | Carisoprodol | Tablet | Not recorded |
-| ANDA203374 | Carisoprodol | Tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040188 | CARISOPRODOL | OXFORD PHARMS | Tablet; oral | Valid |
+| ANDA040245 | CARISOPRODOL | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA040576 | CARISOPRODOL | ACCELRX LABS | Tablet; oral | Valid |
+| ANDA040792 | CARISOPRODOL | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA040823 | CARISOPRODOL | INGENUS PHARMS LLC | Tablet; oral | Valid |
+
+Showing 5 of 36 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

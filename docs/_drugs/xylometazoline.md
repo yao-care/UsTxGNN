@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1299
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Xylometazoline: predicted new indication Nasal cavity disease (evidence level L3). Approved use: Pharyngitis, common cold"
 monitor_inn: "XYLOMETAZOLINE"
 predicted_indications: ["nasal cavity disease"]
@@ -77,9 +77,13 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Metarivin Soln. 0.1% (Lydia Co., Ltd.) | Liquid | Not available (licence cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 72988-0030 | Metarivin Soln. 0.1% | Lydia Co., Ltd. | Liquid | NDC listing, no FDA application (unapproved drug other) |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

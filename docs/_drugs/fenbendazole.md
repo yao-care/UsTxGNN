@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FENBENDAZOLE"
 predicted_indications: ["urinary bladder carcinoma", "urinary bladder neoplasm", "infiltrating bladder urothelial carcinoma", "non-invasive bladder urothelial carcinoma", "bladder urachal urothelial carcinoma", "bladder squamous papilloma", "bladder signet ring cell adenocarcinoma", "bladder mixed adenocarcinoma", "bladder colonic type adenocarcinoma", "bladder colloid adenocarcinoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Fenbendazole: predicted new indication Urinary bladder carcinoma (evidence level L5). In the US: no FDA-approved application; 1 OTC monograph/unapproved NDC listing"
 ---
 
@@ -80,9 +80,13 @@ No literature was found under "urinary bladder carcinoma." The following were re
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Fenbendazole 222 MG (B & L Healthcare Products INC) | Capsule | No indication text (status: cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 85130-100 | Fenbendazole 222 MG | B & L Healthcare Products INC | Capsule | NDC listing, no FDA application (unapproved drug other) |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

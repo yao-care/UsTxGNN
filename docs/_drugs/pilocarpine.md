@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1044
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Pilocarpine: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,20 +72,24 @@ The TxGNN deep-learning model produced candidates for Pilocarpine at a score of 
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| ANDA077220 | Pilocarpine Hydrochloride | TABLET, FILM COATED | Valid |
-| ANDA076963 | PILOCARPINE HYDROCHLORIDE | TABLET, FILM COATED | Valid |
-| NDA214028 | Pilocarpine Hydrochloride | SOLUTION/ DROPS | NDA (Discontinued in Drugs@FDA) |
-| NDA217836 | Pilocarpine Hydrochloride | SOLUTION | Valid |
-| ANDA077248 | PILOCARPINE HYDROCHLORIDE | TABLET, FILM COATED | Valid |
-| NDA020237 | Pilocarpine Hydrochloride | TABLET, FILM COATED | Valid |
-| NDA200890 | pilocarpine hydrochloride | SOLUTION/ DROPS | Valid |
-| ANDA214193 | Pilocarpine Hydrochloride | SOLUTION/ DROPS | Valid |
-| ANDA212377 | pilocarpine hydrochloride | TABLET, FILM COATED | Valid |
-| ANDA076746 | pilocarpine hydrchloride | TABLET, FILM COATED | ANDA (Discontinued in Drugs@FDA) |
+<!-- licenses:begin -->
 
-Only part of the licence list is held in the data; the list may be incomplete.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076963 | PILOCARPINE HYDROCHLORIDE | INNOGENIX | Tablet; oral | Valid |
+| ANDA077220 | PILOCARPINE HYDROCHLORIDE | LANNETT CO INC | Tablet; oral | Valid |
+| ANDA077248 | PILOCARPINE HYDROCHLORIDE | IMPAX LABS | Tablet; oral | Valid |
+| ANDA204398 | PILOCARPINE HYDROCHLORIDE | RISING | Solution/drops; ophthalmic | Valid |
+| ANDA210384 | PILOCARPINE HYDROCHLORIDE | SOMERSET THERAPS LLC | Solution/drops; ophthalmic | Valid |
+| ANDA212377 | PILOCARPINE HYDROCHLORIDE | QUAGEN | Tablet; oral | Valid |
+| ANDA214193 | PILOCARPINE HYDROCHLORIDE | AMNEAL | Solution/drops; ophthalmic | Valid |
+| ANDA217052 | PILOCARPINE HYDROCHLORIDE | FDC LTD | Solution/drops; ophthalmic | Valid |
+| ANDA217733 | PILOCARPINE HYDROCHLORIDE | AMNEAL | Solution/drops; ophthalmic | Valid |
+| NDA020237 | SALAGEN | ADVANZ PHARMA | Tablet; oral | Valid |
+
+Showing 10 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1013
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PANTOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: predicted new indication Duodenal obstruction (evidence level L5). In the US: 47 FDA applications (34 active)"
@@ -84,13 +84,19 @@ Other pantoprazole trials related to ulcer disease (for example, prevention of r
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA077619 | Pantoprazole (Dr. Reddy's) | Delayed-release tablet | Not available (valid) |
-| ANDA219087 | Pantoprazole Sodium (Rising Pharma) | Delayed-release tablet | Not available (valid) |
-| ANDA202038 | Pantoprazole Sodium (Aurobindo) | Delayed-release tablet | Not available (valid) |
-| ANDA217416 | Pantoprazole Sodium (American Health Packaging) | For suspension | Not available (valid) |
-| NDA020988 | Protonix (Cardinal Health 107) | Powder for injection solution | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077619 | PANTOPRAZOLE SODIUM | DR REDDYS LABS LTD | Tablet, delayed release; oral | Valid |
+| ANDA078281 | PANTOPRAZOLE SODIUM | LANNETT CO INC | Tablet, delayed release; oral | Valid |
+| ANDA079197 | PANTOPRAZOLE SODIUM | EPIC PHARMA LLC | Injectable; intravenous | Valid |
+| ANDA090074 | PANTOPRAZOLE SODIUM | TORRENT PHARMS | Tablet, delayed release; oral | Valid |
+| ANDA090807 | PANTOPRAZOLE SODIUM | RUBICON RESEARCH | Tablet, delayed release; oral | Valid |
+
+Showing 5 of 47 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 These are repackager and manufacturer listings, and this does not necessarily reflect the overall US market availability of pantoprazole.
 

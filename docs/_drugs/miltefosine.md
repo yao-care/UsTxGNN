@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "MILTEFOSINE"
 predicted_indications: ["echinococcus granulosus infectious disease", "alveolar echinococcosis", "Smouldering systemic mastocytosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Miltefosine: predicted new indication Echinococcus granulosus infectious disease (evidence level L5). Approved use: Leishmaniasis (including mucocutaneous and visceral leishmaniasis)"
 ---
 
@@ -83,9 +83,13 @@ For the related prediction alveolar echinococcosis, one publication was supplied
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA204684 | IMPAVIDO (Profounda, Inc.) | Capsule (oral) | Not available in the data compiled for this report |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA204684 | IMPAVIDO | ETON | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

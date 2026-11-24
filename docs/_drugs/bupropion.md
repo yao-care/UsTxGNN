@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "BUPROPION"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "benign paroxysmal torticollis of infancy", "trigeminal nerve neoplasm", "obsolete hypertelorism (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bupropion: predicted new indication Attention deficit-hyperactivity disorder (evidence level L1). Approved use: Major depressive disorder, anxiety disorder…"
 ---
 
@@ -92,7 +92,7 @@ The ten most relevant of the 20 retrieved publications are listed below. Systema
 
 ## US Market Information
 
-The records contain no approved-indication text. The five main authorisations are listed below.
+The records contain no approved-indication text.
 
 <!-- review:begin us-lic-20261106-bupropion-1 -->
 
@@ -100,13 +100,19 @@ The records contain no approved-indication text. The five main authorisations ar
 
 <!-- review:end us-lic-20261106-bupropion-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA210497 | Bupropion Hydrochloride (RemedyRepack) | Extended-release tablet | Not stated in record |
-| ANDA206122 | Bupropion Hydrochloride (ScieGen) | Film-coated extended-release tablet | Not stated in record |
-| ANDA090693 | Bupropion Hydrochloride (RemedyRepack) | Extended-release tablet | Not stated in record |
-| ANDA211347 | Bupropion Hydrochloride (Bryant Ranch Prepack) | Extended-release tablet | Not stated in record |
-| ANDA203013 | Bupropion Hydrochloride (Alembic) | Film-coated tablet | Not stated in record |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075491 | BUPROPION HYDROCHLORIDE | AUROBINDO PHARMA USA | Tablet; oral | Valid |
+| ANDA075584 | BUPROPION HYDROCHLORIDE | PHARMAZONE | Tablet; oral | Valid |
+| ANDA075913 | BUPROPION HYDROCHLORIDE | IMPAX LABS | Tablet, extended release; oral | Valid |
+| ANDA075914 | BUPROPION HYDROCHLORIDE | IMPAX LABS | Tablet, extended release; oral | Valid |
+| ANDA075932 | BUPROPION HYDROCHLORIDE | EPIC PHARMA LLC | Tablet, extended release; oral | Valid |
+
+Showing 5 of 73 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All forms are oral (tablets, including film-coated and extended-release).
 

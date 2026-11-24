@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1191
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: predicted new indication Seborrheic dermatitis (evidence level L1). In the US: 26 FDA applications (23 active)"
@@ -92,13 +92,19 @@ The main ones are:
 
 <!-- review:end us-lic-20261106-tacrolimus-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050777 | Tacrolimus (Padagis) | Ointment | Not available |
-| NDA204096 | ASTAGRAF XL | Extended-release capsule | Not available |
-| ANDA200744 | Tacrolimus (Fougera) | Ointment | Not available |
-| ANDA210393 | Tacrolimus (Glenmark) | Ointment | Not available |
-| ANDA212387 | Tacrolimus (Encube) | Ointment | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA065461 | TACROLIMUS | SANDOZ | Capsule; oral | Valid |
+| ANDA090509 | TACROLIMUS | DR REDDYS LABS LTD | Capsule; oral | Valid |
+| ANDA090596 | TACROLIMUS | MYLAN | Capsule; oral | Valid |
+| ANDA090687 | TACROLIMUS | STRIDES PHARMA | Capsule; oral | Valid |
+| ANDA090802 | TACROLIMUS | PANACEA | Capsule; oral | Valid |
+
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

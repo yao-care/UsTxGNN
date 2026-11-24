@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sofosbuvir: predicted new indication Top TxGNN prediction: hepatitis B virus infection . Best-supported ca… (evidence level L2). Approved use: Chronic hepatitis C virus infection"
 ---
 
@@ -117,13 +117,19 @@ The licence records contain no approved-indication text.
 
 <!-- review:end us-lic-20261105-sofosbuvir-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA204671 | Sovaldi | Tablet, film coated | Not available |
-| NDA212480 | Sovaldi | Pellet | Not available |
-| NDA205834 | Ledipasvir and Sofosbuvir | Tablet, film coated | Not available |
-| NDA214187 | Epclusa | Pellet | Not available |
-| NDA208341 | Sofosbuvir and Velpatasvir | Tablet, film coated | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA204671 | SOVALDI | GILEAD SCIENCES INC | Tablet; oral | Valid |
+| NDA212480 | SOVALDI | GILEAD SCIENCES INC | Pellets; oral | Valid |
+| NDA205834 | HARVONI | GILEAD SCIENCES INC | Tablet; oral | Valid |
+| NDA208341 | EPCLUSA | GILEAD SCIENCES INC | Tablet; oral | Valid |
+| NDA212477 | HARVONI | GILEAD SCIENCES INC | Pellets; oral | Valid |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Two further licences are not listed here: NDA212477 (Harvoni, pellet) and NDA209195 (Vosevi, tablet, film coated).
 

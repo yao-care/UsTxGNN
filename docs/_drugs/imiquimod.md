@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 793
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "IMIQUIMOD"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
 description: "Imiquimod: predicted new indication Pre-malignant neoplasm (evidence level L5). In the US: 12 FDA applications (7 active)"
@@ -95,13 +95,19 @@ No randomized controlled trial publications were identified in this set. The evi
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022483 | Zyclara (Bausch Health US) | Cream | Not available |
-| ANDA078837 | Imiquimod (Padagis Israel) | Cream | Not available |
-| ANDA201994 | Imiquimod (Glenmark) | Cream | Not available |
-| ANDA200173 | Imiquimod (Sun Pharmaceutical) | Cream | Not available |
-| ANDA205971 | Imiquimod (Sun Pharmaceutical) | Cream | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078548 | IMIQUIMOD | FOUGERA PHARMS | Cream; topical | Valid |
+| ANDA078837 | IMIQUIMOD | PADAGIS ISRAEL | Cream; topical | Valid |
+| ANDA200173 | IMIQUIMOD | TARO | Cream; topical | Valid |
+| ANDA201994 | IMIQUIMOD | GLENMARK PHARMS | Cream; topical | Valid |
+| ANDA205971 | IMIQUIMOD | TARO | Cream; topical | Valid |
+
+Showing 5 of 12 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

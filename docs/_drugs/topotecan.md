@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1243
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Topotecan: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Ovarian cancer (including ovarian germ cell tumours…"
 monitor_inn: "TOPOTECAN"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
@@ -97,13 +97,19 @@ The approved indication text is not available in the data compiled for this repo
 
 <!-- review:end us-lic-20261105-topotecan-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020671 | HYCAMTIN (Novartis) | Injection, powder, lyophilized, for solution | Not available (valid) |
-| NDA020981 | HYCAMTIN (Sandoz) | Capsule | Not available (valid) |
-| NDA200582 | Topotecan (Hospira) | Injection, solution, concentrate | Not available (valid) |
-| ANDA091089 | Topotecan Hydrochloride (Fresenius Kabi) | Injection, powder, lyophilized, for solution | Not available (valid) |
-| ANDA204406 | Topotecan (Accord Healthcare) | Injection | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090620 | TOPOTECAN HYDROCHLORIDE | ACTAVIS TOTOWA | Injectable; injection | Valid |
+| ANDA091089 | TOPOTECAN HYDROCHLORIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA091199 | TOPOTECAN HYDROCHLORIDE | TEYRO LABS | Injectable; injection | Valid |
+| ANDA091284 | TOPOTECAN HYDROCHLORIDE | SAGENT PHARMS | Injectable; injection | Valid |
+| ANDA201191 | TOPOTECAN HYDROCHLORIDE | DR REDDYS LABS LTD | Injectable; injection | Valid |
+
+Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

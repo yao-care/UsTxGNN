@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pregabalin: predicted new indication Tendinitis (evidence level L5). In the US: 57 FDA applications (34 active)"
 ---
 
@@ -80,7 +80,7 @@ None of the retrieved papers tests pregabalin as a treatment for tendinitis. The
 
 ## US Market Information
 
-The drug is marketed in the US. The records list no approved indication text. The five main authorizations are shown below.
+The drug is marketed in the US. The records list no approved indication text.
 
 <!-- review:begin us-lic-20261106-pregabalin-1 -->
 
@@ -88,13 +88,19 @@ The drug is marketed in the US. The records list no approved indication text. Th
 
 <!-- review:end us-lic-20261106-pregabalin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021446 | Lyrica (Viatris Specialty LLC) | Capsule | Not specified |
-| ANDA212988 | Pregabalin (Eskayef Pharmaceuticals) | Capsule | Not specified |
-| ANDA216197 | Pregabalin (Marksans Pharma) | Capsule | Not specified |
-| ANDA206912 | Pregabalin (NorthStar Rx) | Capsule | Not specified |
-| ANDA215249 | Pregabalin (Advagen Pharma) | Extended-release film-coated tablet | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091222 | PREGABALIN | PHARMOBEDIENT | Capsule; oral | Valid |
+| ANDA203459 | PREGABALIN | ALEMBIC | Capsule; oral | Valid |
+| ANDA205321 | PREGABALIN | AUROBINDO PHARMA | Capsule; oral | Valid |
+| ANDA206912 | PREGABALIN | HETERO LABS LTD III | Capsule; oral | Valid |
+| ANDA206942 | PREGABALIN | TORRENT | Capsule; oral | Valid |
+
+Showing 5 of 57 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

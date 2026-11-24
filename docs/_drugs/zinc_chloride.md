@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ZINC CHLORIDE"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "Sjogren syndrome", "dry eye syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Zinc Chloride: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -82,13 +82,19 @@ The drug is marketed. The data compiled for this report do not include approved 
 
 <!-- review:end us-lic-20261106-zinc_chloride-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA212007 | Zinc Chloride (Exela Pharma Sciences) | Injection | Valid |
-| NDA018959 | ZINC (Hospira) | Injection, solution | Valid |
-| ANDA216152 | Zinc Chloride (Somerset Therapeutics) | Injection | Valid |
-| M022 | Gumsol (Kramer Novis) | Spray | Valid |
-| Not listed | Zincum Muriaticum (Hahnemann Laboratories) | Pellet | Cancelled |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA212007 | ZINC CHLORIDE | EXELA PHARMA | Injectable; injection | Valid |
+| ANDA216152 | ZINC CHLORIDE | SOMERSET | Injectable; injection | Valid |
+| ANDA217625 | ZINC CHLORIDE | STIRA | Injectable; injection | Valid |
+| NDA018959 | ZINC CHLORIDE IN PLASTIC CONTAINER | HOSPIRA | Injectable; injection | Valid |
+| NDC 37662-4087 | Zincum Muriaticum | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 56 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

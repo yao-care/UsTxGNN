@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CANAKINUMAB"
 predicted_indications: ["hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "syndrome with combined immunodeficiency", "periodic fever-infantile enterocolitis-autoinflammatory syndrome", "extracutaneous mastocytoma", "Blau syndrome", "monosomy X", "liver angiosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Canakinumab: predicted new indication hepatic infarction (evidence level L5). In the US: 1 FDA application (1 active), plus 5 OTC monograph/unapproved NDC listings"
 ---
 
@@ -68,10 +68,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125319 | Ilaris | Injection, solution | Not recorded in the local data |
-| Not recorded | GUNA-ANTI IL 1 | Solution/drops | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125319 | ILARIS | NOVARTIS PHARMS | Injectable; subcutaneous | Valid |
+| NDC 17089-398 | GUNA-ANTI IL 1 | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-295 | GUNA-DERMO | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-294 | GUNA-SLEEP | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-076 | CITOMIX | Guna spa | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The local records list two licences. Both are single-ingredient products.
 

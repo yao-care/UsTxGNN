@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SCOPOLAMINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "atopic conjunctivitis", "rosacea conjunctivitis", "vernal conjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Scopolamine: predicted new indication Cauda equina syndrome (evidence level L5). In the US: 8 FDA applications (8 active), plus 12 OTC monograph/unapproved NDC listings"
 ---
 
@@ -84,13 +84,19 @@ Currently no related literature available.
 
 The nine US license records for scopolamine are all valid. No approved indication text is available in these records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA017874 | Transderm Scop (Baxter Healthcare Corporation) | Patch, extended release | Not listed (valid) |
-| ANDA215329 | Scopolamine (Bryant Ranch Prepack) | Patch, extended release | Not listed (valid) |
-| ANDA218384 | Scopolamine (Amneal Pharmaceuticals NY LLC) | Patch, extended release | Not listed (valid) |
-| ANDA212342 | Scopolamine (Ingenus Pharmaceuticals, LLC) | Patch, extended release | Not listed (valid) |
-| ANDA217893 | Scopolamine (Zydus Pharmaceuticals USA Inc.) | Patch, extended release | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078830 | SCOPOLAMINE | DIFGEN PHARMS | System; transdermal | Valid |
+| ANDA203753 | SCOPOLAMINE | MYLAN TECHNOLOGIES | System; transdermal | Valid |
+| ANDA208769 | SCOPOLAMINE | ACTAVIS LABS UT INC | System; transdermal | Valid |
+| ANDA212342 | SCOPOLAMINE | RICONPHARMA LLC | System; transdermal | Valid |
+| ANDA215329 | SCOPOLAMINE | RHODES PHARMS | System; transdermal | Valid |
+
+Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

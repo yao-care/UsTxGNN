@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 831
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LAMOTRIGINE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Lamotrigine: predicted new indication Trigeminal nerve neoplasm (evidence level L5). In the US: 61 FDA applications (44 active)"
@@ -87,7 +87,7 @@ Both papers are only tangentially related to the predicted indication.
 
 ## US Market Information
 
-The records contain no approved-indication text. Five representative entries are shown.
+The records contain no approved-indication text.
 
 <!-- review:begin us-lic-20261106-lamotrigine-1 -->
 
@@ -95,13 +95,19 @@ The records contain no approved-indication text. Five representative entries are
 
 <!-- review:end us-lic-20261106-lamotrigine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA 020764 | LAMICTAL | Tablet, for suspension | Valid |
-| ANDA 078947 | SUBVENITE | Tablet | Valid |
-| ANDA 206382 | Lamotrigine | Tablet, orally disintegrating | Valid |
-| ANDA 207497 | Lamotrigine | Tablet, film coated, extended release | Valid |
-| ANDA 213271 | Lamotrigine | Tablet, orally disintegrating | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076701 | LAMOTRIGINE | DR REDDYS LABS LTD | Tablet, for suspension; oral | Valid |
+| ANDA076708 | LAMOTRIGINE | DR REDDYS LABS LTD | Tablet; oral | Valid |
+| ANDA076928 | LAMOTRIGINE | WATSON LABS | Tablet, for suspension; oral | Valid |
+| ANDA077633 | LAMOTRIGINE | ZYDUS PHARMS USA | Tablet; oral | Valid |
+| ANDA078009 | LAMOTRIGINE | ZYDUS PHARMS USA INC | Tablet, for suspension; oral | Valid |
+
+Showing 5 of 61 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All dosage forms are oral.
 

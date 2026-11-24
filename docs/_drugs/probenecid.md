@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "PROBENECID"
 predicted_indications: ["hypouricemia, renal", "Lesch-Nyhan syndrome", "hypoxanthine guanine phosphoribosyltransferase partial deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Probenecid: predicted new indication Hypouricemia, renal (evidence level L4). In the US: 25 FDA applications (7 active)"
 ---
 
@@ -90,13 +90,19 @@ The compiled literature consists of reviews, case reports and genetic or mechani
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA080966 | Probenecid | Tablet, film coated | Not available |
-| ANDA084442 | Probenecid | Tablet, film coated | Not available |
-| ANDA217020 | Probenecid | Tablet | Not available |
-| NDA213972 | ORLYNVAH | Tablet, film coated | Not available |
-| ANDA084279 | Probenecid and Colchicine | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA080966 | PROBALAN | LANNETT | Tablet; oral | Valid |
+| ANDA084442 | PROBENECID | WATSON LABS TEVA | Tablet; oral | Valid |
+| ANDA217020 | PROBENECID | RISING | Tablet; oral | Valid |
+| ANDA040618 | PROBENECID AND COLCHICINE | INGENUS PHARMS LLC | Tablet; oral | Valid |
+| ANDA084279 | COL-PROBENECID | WATSON LABS | Tablet; oral | Valid |
+
+Showing 5 of 25 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

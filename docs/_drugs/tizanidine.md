@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "TIZANIDINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tizanidine: predicted new indication Migraine disorder (evidence level L2). In the US: 32 FDA applications (24 active)"
 ---
 
@@ -85,13 +85,19 @@ Clinical data point in the same direction. A double-blind, placebo-controlled, m
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA091283 | Tizanidine (Proficient Rx LP) | Tablet | Not available |
-| ANDA076416 | Tizanidine (Bryant Ranch Prepack) | Tablet | Not available |
-| ANDA078868 | Tizanidine Hydrochloride (AvKARE) | Capsule, gelatin coated | Not available |
-| ANDA210021 | Tizanidine Hydrochloride (Nivagen Pharmaceuticals) | Capsule | Not available |
-| ANDA076286 | Tizanidine (AvPAK) | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076281 | TIZANIDINE HYDROCHLORIDE | TP ANDA HOLDINGS | Tablet; oral | Valid |
+| ANDA076282 | TIZANIDINE HYDROCHLORIDE | AUROBINDO PHARMA USA | Tablet; oral | Valid |
+| ANDA076286 | TIZANIDINE HYDROCHLORIDE | DR REDDYS LABS INC | Tablet; oral | Valid |
+| ANDA076347 | TIZANIDINE HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Valid |
+| ANDA076354 | TIZANIDINE HYDROCHLORIDE | RISING | Tablet; oral | Valid |
+
+Showing 5 of 32 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

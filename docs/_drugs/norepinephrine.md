@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "NOREPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Norepinephrine: predicted new indication Obstructive lung disease (evidence level L4). In the US: 27 FDA applications (22 active), plus 18 OTC monograph/unapproved NDC listings"
 ---
 
@@ -92,9 +92,19 @@ No randomized trials were found. The retrieved publications are reviews and phys
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| No number recorded (cancelled) | Norepinephrine (BioActive Nutritional, Inc.) | Liquid | No approved indication text recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040455 | NOREPINEPHRINE BITARTRATE | MEITHEAL | Injectable; injection | Valid |
+| ANDA040462 | NOREPINEPHRINE BITARTRATE | HIKMA | Injectable; injection | Valid |
+| ANDA040859 | NOREPINEPHRINE BITARTRATE | BAXTER HLTHCARE CORP | Injectable; injection | Valid |
+| ANDA203662 | NOREPINEPHRINE BITARTRATE | HIKMA | Injectable; injection | Valid |
+| ANDA211242 | NOREPINEPHRINE BITARTRATE | MYLAN LABS LTD | Injectable; injection | Valid |
+
+Showing 5 of 45 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

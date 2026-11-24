@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALLOPURINOL"
 predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "inflammatory myopathy with abundant macrophages"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Allopurinol: predicted new indication hepatic porphyria (evidence level L5). In the US: 37 FDA applications (19 active)"
 ---
 
@@ -73,15 +73,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA214443 | Allopurinol | Tablet | — |
-| ANDA210117 | Allopurinol | Tablet | — |
-| NDA016084 | Allopurinol | Tablet | — |
-| NDA018877 | Allopurinol | Tablet | — |
-| NDA020298 | Aloprim | Injection, lyophilized powder | — |
+<!-- licenses:begin -->
 
-Showing 5 of 14 records; the list may be partial.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA018659 | ALLOPURINOL | MYLAN | Tablet; oral | Valid |
+| ANDA071450 | ALLOPURINOL | SUN PHARM INDUSTRIES | Tablet; oral | Valid |
+| ANDA071586 | Allopurinol | Northwind Health Company, LLC | Tablet; oral | Valid |
+| ANDA071587 | LOPURIN | DR REDDYS | Tablet; oral | Valid |
+| ANDA075798 | ALLOPURINOL | PH HEALTH | Tablet; oral | Valid |
+
+Showing 5 of 37 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

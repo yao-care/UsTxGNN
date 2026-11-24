@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 7
 monitor_inn: "ABATACEPT"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Abatacept: predicted new indication ankylosing spondylitis (evidence level L3). In the US: 1 FDA application (1 active)"
 ---
 
@@ -85,9 +85,13 @@ Because the evidence is small, uncontrolled and mostly from reviews, the evidenc
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125118 | ORENCIA | Injection, solution | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125118 | ORENCIA | BRISTOL MYERS SQUIBB | Injectable; iv (infusion) | Valid |
+
+<!-- licenses:end -->
 
 Other recorded dosage forms are injectable (lyophilized powder for solution).
 

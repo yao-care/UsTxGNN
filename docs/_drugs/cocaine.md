@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "COCAINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "rhinitis", "irritable bowel syndrome", "anaphylaxis", "neurocirculatory asthenia", "atopic conjunctivitis", "food-dependent exercise-induced anaphylaxis", "pharyngitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cocaine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not listed in the US license data"
 ---
 
@@ -72,10 +72,14 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA209575 | Cocaine hydrochloride nasal (Omnivium Pharmaceuticals) | Solution | Not listed; license valid |
-| NDA209963 | Cocaine hydrochloride (LXO US Inc.) | Solution | Not listed; license valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA209575 | NUMBRINO | OMNIVIUM PHARMS | Solution; nasal | Valid |
+| NDA209963 | GOPRELTO | LXO IRELAND | Solution; nasal | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

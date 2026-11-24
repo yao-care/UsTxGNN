@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "MICONAZOLE"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Miconazole: predicted new indication 痤瘡 (acne (disease)) (evidence level L4). In the US: 33 FDA applications (21 active), plus 210 OTC monograph/unapproved NDC listings"
 ---
 
@@ -81,13 +81,19 @@ Currently no related clinical trials registered.
 
 Miconazole is marketed in the US in several topical and vaginal forms (the list below may be partial). The data compiled for this report do not record approved-indication text for these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M005 | MICONAZOLE Nitrate 2% | Cream | Not stated (valid) |
-| ANDA076773 | Miconazole 3 | Cream | Not stated (valid) |
-| ANDA074760 | good sense miconazole 7 | Cream | Not stated (valid) |
-| ANDA073508 | Miconazole Nitrate | Suppository | Not stated (valid) |
-| ANDA091366 | basic care miconazole 3 | Cream | Not stated (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA073507 | MICONAZOLE NITRATE | COSETTE PHARMS NC | Suppository; vaginal | Valid |
+| ANDA073508 | MICONAZOLE NITRATE | ACTAVIS PHARMA | Suppository; vaginal | Valid |
+| ANDA074164 | MICONAZOLE 7 | ENCUBE | Cream; vaginal | Valid |
+| ANDA074444 | MICONAZOLE NITRATE | SUN PHARMA CANADA | Cream; vaginal | Valid |
+| ANDA074760 | MICONAZOLE NITRATE | PERRIGO | Cream; vaginal | Valid |
+
+Showing 5 of 243 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

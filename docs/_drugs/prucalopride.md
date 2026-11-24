@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PRUCALOPRIDE"
 predicted_indications: ["hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "duodenal ulcer (disease)", "oral candidiasis", "obsolete familial combined hyperlipidemia", "amyloidosis (disease)", "strongyloidiasis", "HIV infectious disease", "primary amyloidosis", "acquired amyloid peripheral neuropathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prucalopride: predicted new indication Hypoalphalipoproteinemia (evidence level L5). Approved use: Constipation disorder"
 ---
 
@@ -88,13 +88,19 @@ The drug is marketed. The data compiled for this report contain no approved indi
 
 <!-- review:end us-lic-20261106-prucalopride-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA210166 | MOTEGRITY (Takeda) | Film-coated tablet | Not available |
-| ANDA218812 | Prucalopride (SKG Pharma) | Film-coated tablet | Not available |
-| ANDA218847 | Prucalopride (Lupin) | Film-coated tablet | Not available |
-| ANDA218177 | Prucalopride (Novadoz) | Film-coated tablet | Not available |
-| ANDA219078 | Prucalopride succinate (Somerset) | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA217662 | PRUCALOPRIDE SUCCINATE | HIKMA | Tablet; oral | Valid |
+| ANDA218056 | PRUCALOPRIDE SUCCINATE | ZYDUS LIFESCIENCES | Tablet; oral | Valid |
+| ANDA218177 | PRUCALOPRIDE SUCCINATE | MSN | Tablet; oral | Valid |
+| ANDA218295 | PRUCALOPRIDE SUCCINATE | ALKEM LABS LTD | Tablet; oral | Valid |
+| ANDA218492 | PRUCALOPRIDE SUCCINATE | NOVITIUM PHARMA | Tablet; oral | Valid |
+
+Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

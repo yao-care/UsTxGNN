@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BUMETANIDE"
 predicted_indications: ["acute pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bumetanide: predicted new indication Acute pulmonary heart disease (evidence level L5). In the US: 26 FDA applications (22 active)"
 ---
 
@@ -85,13 +85,19 @@ The records are single-ingredient products.
 
 <!-- review:end us-lic-20261105-bumetanide-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA219500 | Enbumyst (Corstasis USA LLC) | Spray | Valid |
-| ANDA074700 | Bumetanide (A-S Medication Solutions) | Tablet | Valid |
-| ANDA079196 | Bumetanide (Civica, Inc.) | Injection | Valid |
-| ANDA213942 | Bumetanide (Advagen Pharma Limited) | Tablet | Valid |
-| ANDA202900 | Bumetanide (Zydus Pharmaceuticals) | Tablet | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074225 | BUMETANIDE | HERITAGE PHARMA | Tablet; oral | Valid |
+| ANDA074441 | BUMETANIDE | SAGENT | Injectable; injection | Valid |
+| ANDA074700 | BUMETANIDE | SANDOZ | Tablet; oral | Valid |
+| ANDA079196 | BUMETANIDE | WEST-WARD PHARMS INT | Injectable; injection | Valid |
+| ANDA202900 | BUMETANIDE | ZYDUS PHARMS | Tablet; oral | Valid |
+
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

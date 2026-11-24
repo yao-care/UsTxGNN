@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 763
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "GUAIFENESIN"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
 description: "Guaifenesin: predicted new indication Nasal cavity disease (evidence level L5). In the US: 29 FDA applications (24 active), plus 1063 OTC monograph/unapproved NDC listings"
@@ -94,13 +94,19 @@ The drug is marketed in the US. Approved indication text is not available in the
 
 <!-- review:end us-lic-20261106-guaifenesin-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA213420 | Mucus Relief (NUVICARE LLC) | Tablet, extended release | Valid |
-| M012 | Guaifenesin (PAI Pharma) | Solution | Valid |
-| ANDA207342 | Mucus Relief (Best Choice) | Tablet | Valid |
-| ANDA217780 | Guaifenesin 1200 mg (Marksans Pharma) | Tablet | Valid |
-| ANDA078912 | Mucus and Chest Congestion (CVS) | Tablet, multilayer, extended release | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078912 | GUAIFENESIN | PERRIGO R AND D | Tablet, extended release; oral | Valid |
+| ANDA091009 | GUAIFENESIN | ACTAVIS LABS FL | Tablet, extended release; oral | Valid |
+| ANDA207342 | GUAIFENESIN | AMNEAL PHARMS | Tablet, extended release; oral | Valid |
+| ANDA209215 | GUAIFENESIN | GUARDIAN DRUG | Tablet, extended release; oral | Valid |
+| ANDA209254 | GUAIFENESIN | OHM LABS INC | Tablet, extended release; oral | Valid |
+
+Showing 5 of 1092 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

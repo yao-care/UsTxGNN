@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 660
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "EPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L5). In the US: 96 FDA applications (54 active), plus 143 OTC monograph/unapproved NDC listings"
@@ -102,13 +102,19 @@ The drug is marketed in the US. The approved-indication text is not available.
 
 <!-- review:end us-lic-20261106-epinephrine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA214697 | neffy | Spray | Not available |
-| NDA204640 | Adrenalin | Injection | Not available |
-| NDA201739 | AUVI-Q | Injection, solution | Not available |
-| NDA205029 | Epinephrine | Injection, solution, concentrate | Not available |
-| NDA020800 | Epinephrine | Injection | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090589 | EPINEPHRINE (AUTOINJECTOR) | TEVA PHARMS USA | Injectable; intramuscular, subcutaneous | Valid |
+| ANDA211880 | EPINEPHRINE | INTL MEDICATION SYS | Solution; intramuscular, intravenous, subcutaneous | Valid |
+| ANDA213708 | EPINEPHRINE | FRESENIUS KABI USA | Solution; intravenous, intraocular, intramuscular, subcutaneous | Valid |
+| ANDA217192 | EPINEPHRINE | AM REGENT | Solution; intramuscular, intravenous, subcutaneous | Valid |
+| ANDA217426 | EPINEPHRINE | DEVA HLDING | Solution; intramuscular, intravenous, subcutaneous | Valid |
+
+Showing 5 of 239 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

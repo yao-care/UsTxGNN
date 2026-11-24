@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 758
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "GOLIMUMAB"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
 description: "Golimumab: predicted new indication Hypermobility of coccyx (evidence level L5). In the US: 3 FDA applications (3 active)"
@@ -89,10 +89,15 @@ The supporting evidence is indirect, though. No trial or paper provided here tes
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125289 | Simponi (Janssen Biotech, Inc.) | Injection, solution | Not stated in the data; status valid |
-| BLA125433 | Simponi Aria (Janssen Biotech, Inc.) | Solution | Not stated in the data; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125289 | SIMPONI | CENTOCOR ORTHO BIOTECH INC | Injectable; injection | Valid |
+| BLA125433 | SIMPONI ARIA | JANSSEN BIOTECH | Injectable; injection | Valid |
+| BLA761452 | IMMGOLIS | ACCORD BIOPHARMA INC. | Injection; solution | Valid |
+
+<!-- licenses:end -->
 
 ---
 

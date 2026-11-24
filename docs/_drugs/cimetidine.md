@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CIMETIDINE"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cimetidine: predicted new indication peptic ulcer perforation (evidence level L5). In the US: 57 FDA applications (10 active)"
 ---
 
@@ -87,13 +87,19 @@ No randomized trial directly studies peptic ulcer perforation as a cimetidine in
 
 Nine US authorizations are recorded for single-ingredient cimetidine products (the list may be partial). Approved indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020238 | TAGAMET | Tablet | Not recorded |
-| ANDA074329 | CIMETIDINE | Film-coated tablet | Not recorded |
-| ANDA074251 | CIMETIDINE HYDROCHLORIDE | Solution | Not recorded |
-| ANDA074151 | Cimetidine | Film-coated tablet | Not recorded |
-| ANDA218220 | Cimetidine | Film-coated tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074151 | CIMETIDINE | TEVA | Tablet; oral | Valid |
+| ANDA074246 | CIMETIDINE | MYLAN | Tablet; oral | Valid |
+| ANDA074251 | CIMETIDINE HYDROCHLORIDE | CHARTWELL MOLECULAR | Solution; oral | Valid |
+| ANDA074329 | CIMETIDINE | CHARTWELL MOLECULES | Tablet; oral | Valid |
+| ANDA074463 | CIMETIDINE | TEVA | Tablet; oral | Valid |
+
+Showing 5 of 57 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

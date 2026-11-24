@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 394
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Apraclonidine: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,10 +72,16 @@ All candidates that the TxGNN model produced for Apraclonidine (score ≥ 0.99) 
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| NDA020258 | Apraclonidine | SOLUTION | Valid |
-| NDA019779 | apraclonidine hydrochloride ophthalmic solution | SOLUTION/ DROPS | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077764 | APRACLONIDINE HYDROCHLORIDE | RISING | Solution/drops; ophthalmic | Valid |
+| NDA019779 | IOPIDINE | HARROW EYE | Solution/drops; ophthalmic | Valid |
+| NDA020258 | IOPIDINE | HARROW EYE | Solution/drops; ophthalmic | Valid |
+| NDA220341 | BRYTLY | ALCON LABS INC | Solution/drops; ophthalmic | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

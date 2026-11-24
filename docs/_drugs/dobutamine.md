@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DOBUTAMINE"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "Raynaud disease", "primary hereditary glaucoma", "headache disorder", "hypertrichosis (disease)", "migraine disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dobutamine: predicted new indication Alopecia (evidence level L5). Approved use: Not available in the data compiled for this report (the drug is gener…"
 ---
 
@@ -91,13 +91,19 @@ Literature retrieved for lower-ranked predictions is also indirect:
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA 074086 | Dobutamine (HF Acquisition Co LLC, DBA HealthFirst) | Injection, solution, concentrate | Not available (valid) |
-| NDA 020255 | Dobutamine Hydrochloride (HF Acquisition Co LLC, DBA HealthFirst) | Injection | Not available (valid) |
-| NDA 020201 | Dobutamine in Dextrose (Hospira, Inc.) | Injection, solution | Not available (valid) |
-| ANDA 216131 | Dobutamine (Slate Run Pharmaceuticals) | Injection | Not available (valid) |
-| ANDA 074277 | Dobutamine (Hikma Pharmaceuticals USA Inc.) | Injection, solution | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074086 | DOBUTAMINE HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+| ANDA074277 | DOBUTAMINE HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA216131 | DOBUTAMINE HYDROCHLORIDE | HAINAN POLY | Injectable; injection | Valid |
+| NDA020201 | DOBUTAMINE HYDROCHLORIDE IN DEXTROSE 5% IN PLASTIC CONTAINER | HOSPIRA | Solution; intravenous | Valid |
+| NDA020255 | DOBUTAMINE HYDROCHLORIDE IN DEXTROSE 5% IN PLASTIC CONTAINER | BAXTER HLTHCARE | Solution; intravenous | Valid |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All products are injectable only.
 

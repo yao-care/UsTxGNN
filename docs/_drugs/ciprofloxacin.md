@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 531
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ciprofloxacin: predicted new indication Diffuse scleroderma (evidence level L5). Approved use: Bacterial infections (typhoid fever, salmonellosis…"
 monitor_inn: "CIPROFLOXACIN"
 predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
@@ -89,13 +89,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA077859 | Ciprofloxacin (Medsource Pharmaceuticals) | Tablet, film coated | Not recorded |
-| ANDA076639 | Ciprofloxacin (Coupler LLC) | Tablet | Not recorded |
-| ANDA076593 | Ciprofloxacin Hydrochloride (Westminster Pharmaceuticals) | Tablet, film coated | Not recorded |
-| ANDA076558 | Ciprofloxacin (Bryant Ranch Prepack) | Tablet, film coated | Not recorded |
-| ANDA208921 | Ciprofloxacin (Bryant Ranch Prepack) | Tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075593 | CIPROFLOXACIN HYDROCHLORIDE | DR REDDYS LABS LTD | Tablet; oral | Valid |
+| ANDA075817 | CIPROFLOXACIN HYDROCHLORIDE | RISING | Tablet; oral | Valid |
+| ANDA075928 | CIPROFLOXACIN HYDROCHLORIDE | RUBICON RESEARCH | Solution/drops; ophthalmic | Valid |
+| ANDA076089 | CIPROFLOXACIN HYDROCHLORIDE | IVAX SUB TEVA PHARMS | Tablet; oral | Valid |
+| ANDA076126 | CIPROFLOXACIN HYDROCHLORIDE | CARLSBAD | Tablet; oral | Valid |
+
+Showing 5 of 71 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

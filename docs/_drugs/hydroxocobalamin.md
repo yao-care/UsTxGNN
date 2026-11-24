@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "HYDROXOCOBALAMIN"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Hydroxocobalamin: predicted new indication Esophageal varices with bleeding (evidence level L5). In the US: 6 FDA applications (2 active), plus 1 OTC monograph/unapproved NDC listing"
 ---
 
@@ -71,10 +71,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA085998 | Hydroxocobalamin (Actavis Pharma, Inc.) | Injection, solution | Not listed; status: valid |
-| NDA022041 | Cyanokit (BTG International Inc.) | Injection, powder, lyophilized, for solution | Not listed; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA085998 | HYDROXOCOBALAMIN | ACTAVIS | Injectable; injection | Valid |
+| NDA022041 | CYANOKIT | BTG INTL | Injectable; injection | Valid |
+| ANDA080778 | ALPHAREDISOL | MERCK | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA084629 | HYDROXOMIN | BEL MAR | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA084921 | HYDROXOCOBALAMIN | ABRAXIS PHARM | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LIDOCAINE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lidocaine: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Relations recorded in the knowledge graph (not label-confirmed): derm…"
 ---
 
@@ -115,13 +115,19 @@ Nine US licences are listed; the list may be partial. No approved indication tex
 
 <!-- review:end us-lic-20261106-lidocaine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA088327 | Lidocaine Hydrochloride | Injection, solution | Not available |
-| NDA006488 | Xylocain (Lidocaine HCl) | Injection, solution | Not available |
-| ANDA088325 | Lidocaine Hydrochloride | Injection, solution | Not available |
-| ANDA209190 | Tridacaine XL | Patch | Not available |
-| ANDA206463 | Lidocaine | Patch | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040078 | LIDOCAINE HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+| ANDA040302 | LIDOCAINE HYDROCHLORIDE PRESERVATIVE FREE IN PLASTIC CONTAINER | HOSPIRA | Injectable; injection | Valid |
+| ANDA040433 | LIDOCAINE HYDROCHLORIDE | SENTISS | Jelly; topical | Valid |
+| ANDA040708 | LIDOCAINE HYDROCHLORIDE VISCOUS | CHARTWELL MOLECULAR | Solution; oral | Valid |
+| ANDA040710 | LIDOCAINE HYDROCHLORIDE | LANNETT CO INC | Solution; topical | Valid |
+
+Showing 5 of 1536 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Other listed products include topical gels and creams (for example pain relief rollers and numbing creams).
 

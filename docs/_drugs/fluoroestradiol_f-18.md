@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FLUOROESTRADIOL F-18"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluoroestradiol F-18: predicted new indication Amenorrhea (evidence level L5). Approved use: Not available"
 ---
 
@@ -64,9 +64,13 @@ The high TxGNN score (0.994) most likely reflects structural and target similari
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212155 | CERIANNA (GE Healthcare Inc.) | Injection | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA212155 | CERIANNA | GE HEALTHCARE | Solution; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

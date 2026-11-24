@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "POLYVINYL ALCOHOL"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis", "bathing suit ichthyosis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Polyvinyl Alcohol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). In the US: no FDA-approved application; 10 OTC monograph/unapproved NDC listings"
 ---
 
@@ -81,9 +81,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M018 (cancelled) | Polyvinyl Alcohol (A-S Medication Solutions) | Solution / drops | Not stated on the license record |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 50090-5996 | Rugby Lubricating Drops | A-S Medication Solutions | Solution/ drops | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 50090-7119 | Polyvinyl Alcohol | A-S Medication Solutions | Solution/ drops | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 50090-7606 | Rugby Polyvinyl Alcohol 1.4% Lubricating Eye Drops | A-S Medication Solutions | Solution/ drops | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 50268-678 | Polyvinyl Alcohol | AvPAK | Solution/ drops | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0363-0796 | Walgreens Soothing Eye Relief Lubricant Eye Drops | Walgreens Co. | Solution/ drops | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The drug is currently marketed in the US.
 

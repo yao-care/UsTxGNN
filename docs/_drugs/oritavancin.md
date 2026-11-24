@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ORITAVANCIN"
 predicted_indications: ["Bacteroidaceae infectious disease", "ophthalmic herpes zoster", "Mycoplasma pneumoniae pneumonia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oritavancin: predicted new indication Bacteroidaceae infectious disease (evidence level L5). Approved use: Skin disease caused by infection"
 ---
 
@@ -80,10 +80,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA214155 | Kimyrsa | Lyophilized powder for injection solution | Not available (status: valid) |
-| NDA206334 | Orbactiv | Lyophilized powder for injection solution | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA206334 | ORBACTIV | MELINTA THERAP | Powder; intravenous | Valid |
+| NDA214155 | KIMYRSA | MELINTA THERAP | Powder; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

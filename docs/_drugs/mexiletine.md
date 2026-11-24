@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MEXILETINE"
 predicted_indications: ["hypertrichosis (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "migraine disorder", "isolated genetic hair shaft abnormality", "pulmonary hypertension", "migraine with brainstem aura", "headache disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mexiletine: predicted new indication Hypertrichosis (disease) (evidence level L5). In the US: 13 FDA applications (10 active)"
 ---
 
@@ -102,13 +102,19 @@ The following publications relate to other predictions and offer only indirect s
 
 The approved indication text is not available in the compiled data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA214089 | Mexiletine Hydrochloride (Bryant Ranch Prepack) | Capsule | Not available |
-| ANDA074450 | Mexiletine Hydrochloride (ANI Pharmaceuticals) | Capsule | Not available |
-| ANDA214352 | Mexiletine Hydrochloride (Ingenus Pharmaceuticals) | Capsule | Not available |
-| ANDA074377 | Mexiletine Hydrochloride (Teva Pharmaceuticals USA) | Capsule | Not available |
-| ANDA216463 | Mexiletine Hydrochloride (Camber Pharmaceuticals) | Capsule | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074377 | MEXILETINE HYDROCHLORIDE | TEVA | Capsule; oral | Valid |
+| ANDA074450 | MEXILETINE HYDROCHLORIDE | ANI PHARMS | Capsule; oral | Valid |
+| ANDA213500 | MEXILETINE HYDROCHLORIDE | CROSSMEDIKA SA | Capsule; oral | Valid |
+| ANDA214089 | MEXILETINE HYDROCHLORIDE | PHARMAZONE | Capsule; oral | Valid |
+| ANDA214352 | MEXILETINE HYDROCHLORIDE | INGENUS PHARMS LLC | Capsule; oral | Valid |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

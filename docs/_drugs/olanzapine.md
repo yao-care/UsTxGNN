@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 985
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "OLANZAPINE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Olanzapine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). In the US: 57 FDA applications (43 active)"
@@ -80,13 +80,19 @@ No approved-indication text was available.
 
 <!-- review:end us-lic-20261106-olanzapine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA203708 | Olanzapine (Aurobindo Pharma) | Orally disintegrating tablet | Not available |
-| ANDA204319 | Olanzapine (Qilu Pharmaceutical) | Tablet | Not available |
-| ANDA091265 | Olanzapine (Golden State Medical Supply) | Orally disintegrating tablet | Not available |
-| ANDA076133 | Olanzapine (American Health Packaging) | Film-coated tablet | Not available |
-| ANDA203044 | Olanzapine (Macleods Pharmaceuticals) | Orally disintegrating tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076133 | OLANZAPINE | DR REDDYS LABS LTD | Tablet; oral | Valid |
+| ANDA076255 | OLANZAPINE | DR REDDYS LABS LTD | Tablet; oral | Valid |
+| ANDA076534 | OLANZAPINE | DR REDDYS LABS LTD | Tablet, orally disintegrating; oral | Valid |
+| ANDA077243 | OLANZAPINE | BARR LABS INC | Tablet, orally disintegrating; oral | Valid |
+| ANDA078109 | OLANZAPINE | STRIDES PHARMA INTL | Tablet, orally disintegrating; oral | Valid |
+
+Showing 5 of 57 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TITANIUM DIOXIDE"
 predicted_indications: ["drug-induced osteoporosis", "diabetic retinopathy", "diabetic cataract", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "tetanic cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Titanium Dioxide: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: No approved indication text recorded (products are a sunscreen lotion…"
 ---
 
@@ -92,10 +92,19 @@ For context, the second-ranked prediction (diabetic retinopathy) returned five p
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M020 (cancelled) | Kiehl's Since 1851 Dermatologist Solutions SuperFluid UV Mineral Defense Broad Spectrum SPF 50 Plus Sunscreen | Lotion | Not recorded |
-| Not available (cancelled) | Titanium metallicum (Boiron) | Pellet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021471 | ANTHELIOS 20 | LOREAL USA | Cream; topical | Valid |
+| NDA022009 | ANTHELIOS 40 | LOREAL USA | Cream; topical | Valid |
+| NDC 0363-1812 | Walgreens SPF 50 Tinted Mineral Fluid | Walgreens | Lotion | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 11559-030 | DOUBLE WEAR MAXIMUM COVER CAMOUFLAGE MAKEUP FOR FACE AND BODY BROAD… | ESTEE LAUDER INC | Cream | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 22700-084 | Covergirl Aquasmooth Broadspectrum SPF 20 All shades | Noxell Corporation | Cream | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 2728 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

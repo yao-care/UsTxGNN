@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ROMIPLOSTIM"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "platelet-type bleeding disorder", "autosomal dominant macrothrombocytopenia", "Ehlers-Danlos syndrome, fibronectinemic type"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Romiplostim: predicted new indication Primary release disorder of platelets (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -109,9 +109,13 @@ For the most plausible alternative (fetal and neonatal alloimmune thrombocytopen
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125268 | Nplate (Amgen, Inc) | Injection, powder, lyophilized, for solution | Not stated in the licence record; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125268 | NPLATE | AMGEN | Injectable; subcutaneous | Valid |
+
+<!-- licenses:end -->
 
 ---
 

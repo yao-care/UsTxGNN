@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DEFIBROTIDE"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "thrombotic thrombocytopenic purpura", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor V deficiency", "fetal and neonatal alloimmune thrombocytopenia", "thrombocytopenic purpura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Defibrotide: predicted new indication Pseudo-von Willebrand disease (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -85,9 +85,13 @@ No literature is available for pseudo-von Willebrand disease. The table below li
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA208114 | DEFITELIO (Jazz Pharmaceuticals, Inc.) | Injection, solution | Not listed in the data compiled for this report (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA208114 | DEFITELIO | JAZZ PHARMS INC | Solution; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

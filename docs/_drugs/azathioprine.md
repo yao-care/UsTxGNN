@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 434
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Azathioprine: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Rheumatoid arthritis"
 monitor_inn: "AZATHIOPRINE"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
@@ -88,12 +88,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA077621 | Azathioprine (NuCare Pharmaceuticals) | Tablet | Not specified (valid) |
-| ANDA074069 | Azathioprine (Amneal Pharmaceuticals NY) | Tablet | Not specified (valid) |
-| ANDA208687 | Azathioprine (Ascend Laboratories) | Tablet | Not specified (valid) |
-| ANDA075252 | Azasan (Salix Pharmaceuticals) | Tablet | Not specified (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074069 | AZATHIOPRINE | AMNEAL | Tablet; oral | Valid |
+| ANDA074419 | AZATHIOPRINE SODIUM | HIKMA | Injectable; injection | Valid |
+| ANDA075252 | AZASAN | AAIPHARMA LLC | Tablet; oral | Valid |
+| ANDA075568 | AZATHIOPRINE | RISING | Tablet; oral | Valid |
+| ANDA077621 | AZATHIOPRINE | ZYDUS PHARMS USA | Tablet; oral | Valid |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

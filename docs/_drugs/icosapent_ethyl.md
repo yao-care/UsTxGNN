@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ICOSAPENT ETHYL"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Icosapent Ethyl: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Hypertriglyceridemia"
 ---
 
@@ -80,13 +80,19 @@ All 10 authorizations below are listed as valid. No approved indication text was
 
 <!-- review:end us-lic-20261106-icosapent_ethyl-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| NDA202057 | Vascepa | Capsule | Bryant Ranch Prepack | Valid |
-| ANDA209525 | Icosapent Ethyl | Capsule, liquid filled | AvKARE | Valid |
-| ANDA209457 | Icosapent Ethyl | Capsule | Hikma Pharmaceuticals USA Inc. | Valid |
-| ANDA209437 | Icosapent Ethyl | Capsule | Apotex Corp | Valid |
-| ANDA209499 | Icosapent Ethyl | Capsule | Dr. Reddy's Laboratories, Inc. | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA209437 | ICOSAPENT ETHYL | APOTEX | Capsule; oral | Valid |
+| ANDA209457 | ICOSAPENT ETHYL | HIKMA | Capsule; oral | Valid |
+| ANDA209499 | ICOSAPENT ETHYL | DR REDDYS | Capsule; oral | Valid |
+| ANDA209525 | ICOSAPENT ETHYL | TEVA PHARMS USA | Capsule; oral | Valid |
+| ANDA216811 | ICOSAPENT ETHYL | ASCENT PHARMS INC | Capsule; oral | Valid |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

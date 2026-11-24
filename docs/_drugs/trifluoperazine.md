@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TRIFLUOPERAZINE"
 predicted_indications: ["manic bipolar affective disorder"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Trifluoperazine: predicted new indication Manic bipolar affective disorder (evidence level L5). In the US: 22 FDA applications (5 active)"
 ---
 
@@ -91,13 +91,19 @@ No approved indication text is recorded for them.
 
 <!-- review:end us-lic-20261106-trifluoperazine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA085786 | Trifluoperazine Hydrochloride (Sandoz Inc.) | Tablet, film coated | Not recorded |
-| ANDA085785 | Trifluoperazine Hydrochloride (Sandoz Inc.) | Tablet, film coated | Not recorded |
-| ANDA040209 | Trifluoperazine Hydrochloride (RemedyRepack Inc.) | Tablet, film coated | Not recorded |
-| ANDA085789 | Trifluoperazine Hydrochloride (Sandoz Inc.) | Tablet, film coated | Not recorded |
-| ANDA085788 | Trifluoperazine Hydrochloride (Sandoz Inc.) | Tablet, film coated | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040209 | TRIFLUOPERAZINE HYDROCHLORIDE | MYLAN | Tablet; oral | Valid |
+| ANDA085785 | TRIFLUOPERAZINE HYDROCHLORIDE | SANDOZ | Tablet; oral | Valid |
+| ANDA085786 | TRIFLUOPERAZINE HYDROCHLORIDE | SANDOZ | Tablet; oral | Valid |
+| ANDA085788 | TRIFLUOPERAZINE HYDROCHLORIDE | SANDOZ | Tablet; oral | Valid |
+| ANDA085789 | TRIFLUOPERAZINE HYDROCHLORIDE | SANDOZ | Tablet; oral | Valid |
+
+Showing 5 of 22 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

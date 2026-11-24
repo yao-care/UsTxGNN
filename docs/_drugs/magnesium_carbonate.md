@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 882
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "MAGNESIUM CARBONATE"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
 description: "Magnesium Carbonate: predicted new indication Gastroduodenitis (evidence level L5). In the US: 1 FDA application (1 active), plus 92 OTC monograph/unapproved NDC listings"
@@ -75,10 +75,19 @@ Related literature for other predicted gastric and duodenal conditions is limite
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M001 (cancelled) | Humco Dewees Carminative | Suspension | Not specified |
-| Not available (cancelled) | Magnesia carbonica (Boiron) | Pellet | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA019481 | RENACIDIN | UNITED GUARDIAN | Solution; irrigation | Valid |
+| NDC 0220-3240 | Magnesia carbonica | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-3241 | Magnesia carbonica | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-3242 | Magnesia carbonica | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-3243 | Magnesia carbonica | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 93 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

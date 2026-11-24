@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "IVABRADINE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ivabradine: predicted new indication Hypertrichosis (disease) (evidence level L5). In the US: 8 FDA applications (6 active)"
 ---
 
@@ -88,13 +88,19 @@ The data compiled for this report contain no approved indication text for any of
 
 <!-- review:end us-lic-20261105-ivabradine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA206143 | Corlanor (Amgen Inc) | Film-coated tablet | Not available |
-| ANDA214051 | Ivabradine (Golden State Medical Supply) | Film-coated tablet | Not available |
-| ANDA213442 | Ivabradine (Zydus Pharmaceuticals USA) | Tablet | Not available |
-| ANDA215238 | Ivabradine (Alembic Pharmaceuticals) | Film-coated tablet | Not available |
-| ANDA213483 | Ivabradine (Novadoz Pharmaceuticals) | Film-coated tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA213276 | IVABRADINE HYDROCHLORIDE | BIONPHARMA | Tablet; oral | Valid |
+| ANDA213366 | IVABRADINE HYDROCHLORIDE | ANNORA PHARMA | Tablet; oral | Valid |
+| ANDA213442 | IVABRADINE HYDROCHLORIDE | ZYDUS PHARMS | Tablet; oral | Valid |
+| ANDA213483 | IVABRADINE HYDROCHLORIDE | MSN | Tablet; oral | Valid |
+| ANDA214051 | IVABRADINE HYDROCHLORIDE | INGENUS PHARMS LLC | Tablet; oral | Valid |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

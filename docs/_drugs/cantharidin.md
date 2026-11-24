@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CANTHARIDIN"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cantharidin: predicted new indication Amenorrhea (evidence level L5). Approved use: No approved indication text is recorded in the license data"
 ---
 
@@ -70,9 +70,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212905 | YCANTH (Verrica Pharmaceuticals Inc.) | Solution | Not recorded (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA212905 | YCANTH | VERRICA PHARMS | Solution; topical | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

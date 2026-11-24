@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "MITOMYCIN"
 predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "mixed ductal-endocrine carcinoma of pancreas", "undifferentiated pancreatic carcinoma", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mitomycin: predicted new indication Solid pseudopapillary carcinoma of pancreas (evidence level L5). In the US: 18 FDA applications (13 active)"
 ---
 
@@ -70,7 +70,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-Mitomycin is marketed in the US only as an injectable (lyophilised powder for solution). The list may be partial. The approved indication text is not recorded in the local data. The table shows the first five licences.
+Mitomycin is marketed in the US only as an injectable (lyophilised powder for solution). The list may be partial. The approved indication text is not recorded in the local data.
 
 <!-- review:begin us-lic-20261106-mitomycin-1 -->
 
@@ -78,13 +78,19 @@ Mitomycin is marketed in the US only as an injectable (lyophilised powder for so
 
 <!-- review:end us-lic-20261106-mitomycin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA215687 | Mitomycin (Fresenius Kabi USA) | Injection, powder, lyophilized, for solution | Not available |
-| ANDA216732 | Mitomycin (BluePoint Laboratories) | Injection, powder, lyophilized, for solution | Not available |
-| ANDA202670 | Mitomycin (Bryant Ranch Prepack) | Injection, powder, lyophilized, for solution | Not available |
-| ANDA064144 | Mitomycin (BluePoint Laboratories) | Injection, powder, lyophilized, for solution | Not available |
-| ANDA064117 | Mitomycin (Hikma Pharmaceuticals USA) | Injection, powder, lyophilized, for solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA064117 | MITOMYCIN | HIKMA | Injectable; injection | Valid |
+| ANDA064144 | MITOMYCIN | ACCORD HLTHCARE | Injectable; injection | Valid |
+| ANDA064180 | MITOMYCIN | HIKMA | Injectable; injection | Valid |
+| ANDA202670 | MITOMYCIN | ADAPTIS | Injectable; injection | Valid |
+| ANDA203386 | MITOMYCIN | ADAPTIS | Injectable; injection | Valid |
+
+Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

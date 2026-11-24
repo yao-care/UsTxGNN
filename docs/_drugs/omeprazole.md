@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 993
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "OMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Omeprazole: predicted new indication Duodenal obstruction (evidence level L5). In the US: 62 FDA applications (45 active), plus 1 OTC monograph/unapproved NDC listing"
@@ -94,13 +94,19 @@ No randomized controlled trials were identified.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022032 | Omeprazole (Publix Super Markets) | Delayed-release tablet | Not available (valid) |
-| NDA209400 | Omeprazole (H E B) | Orally disintegrating delayed-release tablet | Not available (valid) |
-| ANDA212977 | Omeprazole (RemedyRepack) | Delayed-release capsule | Not available (valid) |
-| ANDA203270 | Omeprazole (Rising Pharma) | Delayed-release capsule | Not available (valid) |
-| ANDA091672 | Omeprazole (Preferred Pharmaceuticals) | Delayed-release capsule | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075347 | OMEPRAZOLE | ACTAVIS LABS FL INC | Capsule, delayed rel pellets; oral | Valid |
+| ANDA075410 | OMEPRAZOLE | LANNETT CO INC | Capsule, delayed rel pellets; oral | Valid |
+| ANDA075576 | OMEPRAZOLE | DR REDDYS LABS LTD | Capsule, delayed rel pellets; oral | Valid |
+| ANDA075757 | OMEPRAZOLE | SANDOZ | Capsule, delayed rel pellets; oral | Valid |
+| ANDA075785 | OMEPRAZOLE | IMPAX LABS | Capsule, delayed rel pellets; oral | Valid |
+
+Showing 5 of 63 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 978
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "NYSTATIN"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 description: "Nystatin: predicted new indication Disease of orbital region (evidence level L5). In the US: 124 FDA applications (51 active)"
@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The list below shows 5 of the 12 licences on record. The list may be partial. The licence records carry no indication text.
+The list may be partial. The licence records carry no indication text.
 
 <!-- review:begin us-lic-20261112-nystatin-1 -->
 
@@ -80,13 +80,19 @@ The list below shows 5 of the 12 licences on record. The list may be partial. Th
 
 <!-- review:end us-lic-20261112-nystatin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA203621 | Nystatin | Suspension | Not available |
-| ANDA062506 | Nystatin | Tablet, film coated | Not available |
-| ANDA062225 | Nystatin | Cream | Not available |
-| ANDA207767 | Nystatin | Ointment | Not available |
-| ANDA208581 | Nystatin | Powder | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA061966 | NYSTATIN | COSETTE PHARMS NC | Cream; topical | Valid |
+| ANDA062124 | NYSTATIN | FOUGERA PHARMS | Ointment; topical | Valid |
+| ANDA062129 | NYSTATIN | FOUGERA PHARMS | Cream; topical | Valid |
+| ANDA062225 | NYSTATIN | PADAGIS US | Cream; topical | Valid |
+| ANDA062472 | NYSTATIN | PADAGIS US | Ointment; topical | Valid |
+
+Showing 5 of 124 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Across all records, the dosage forms include suspension, ointment, powder, film-coated tablet (oral) and cream (topical).
 

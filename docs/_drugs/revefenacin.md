@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1118
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "REVEFENACIN"
 predicted_indications: ["bronchitis"]
 description: "Revefenacin: predicted new indication Bronchitis (evidence level L5). In the US: 1 FDA application (1 active)"
@@ -120,9 +120,13 @@ No literature was found specific to bronchitis. The publications below are the m
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA210598 | YUPELRI (Viatris Specialty LLC) | Solution | Status: valid; indication text not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA210598 | YUPELRI | MYLAN IRELAND LTD | Solution; inhalation | Valid |
+
+<!-- licenses:end -->
 
 ---
 

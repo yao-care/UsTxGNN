@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FENOFIBRATE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fenofibrate: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). In the US: 56 FDA applications (39 active)"
 ---
 
@@ -75,15 +75,21 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-At least 16 US authorizations are on record (the list may be partial). Approved indication text is not available in the data compiled for this report. Five are shown below.
+At least 16 US authorizations are on record (the list may be partial). Approved indication text is not available in the data compiled for this report.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021695 | ANTARA (Lupin) | Capsule | Not available |
-| ANDA076509 | Fenofibrate (Amneal) | Tablet | Not available |
-| ANDA209660 | Fenofibrate (Alembic) | Film-coated tablet | Not available |
-| ANDA202856 | Fenofibrate (Mylan) | Film-coated tablet | Not available |
-| ANDA211407 | Fenofibrate (Chartwell RX) | Capsule | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076433 | FENOFIBRATE | RHODES PHARMS | Tablet; oral | Valid |
+| ANDA076509 | FENOFIBRATE | IMPAX LABS | Tablet; oral | Valid |
+| ANDA076635 | FENOFIBRATE | SUN PHARM INDS LTD | Tablet; oral | Valid |
+| ANDA090856 | FENOFIBRATE | LUPIN LTD | Tablet; oral | Valid |
+| ANDA090859 | FENOFIBRATE (MICRONIZED) | CHARTWELL RX | Capsule; oral | Valid |
+
+Showing 5 of 56 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

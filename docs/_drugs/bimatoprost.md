@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BIMATOPROST"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bimatoprost: predicted new indication malformation syndrome with odontal and/or periodontal component (evidence level L5). In the US: 20 FDA applications (15 active)"
 ---
 
@@ -69,15 +69,21 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA211911 | DURYSTA | Implant | Not recorded in the local data |
-| NDA022369 | LATISSE | Solution/drops | Not recorded in the local data |
-| NDA217307 | ZOLYMBUS | Gel | Not recorded in the local data |
-| NDA022184 | LUMIGAN | Solution/drops | Not recorded in the local data |
-| ANDA207601 | Bimatoprost | Solution/drops | Not recorded in the local data |
+<!-- licenses:begin -->
 
-At least 11 licence records exist, and this list may be partial. Only the five main entries are shown.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090449 | BIMATOPROST | APOTEX | Solution/drops; ophthalmic | Valid |
+| ANDA202505 | BIMATOPROST | MICRO LABS | Solution/drops; ophthalmic | Valid |
+| ANDA202565 | BIMATOPROST | SANDOZ | Solution/drops; ophthalmic | Valid |
+| ANDA202719 | BIMATOPROST | SANDOZ | Solution/drops; topical | Valid |
+| ANDA205537 | BIMATOPROST | EUGIA PHARMA | Solution/drops; ophthalmic | Valid |
+
+Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
+
+At least 11 licence records exist, and this list may be partial.
 
 ## Safety Considerations
 

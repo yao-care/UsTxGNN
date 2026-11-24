@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "RALTEGRAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Raltegravir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease"
 ---
 
@@ -97,11 +97,19 @@ The approved indication text is not available in the compiled data.
 
 <!-- review:end us-lic-20261105-raltegravir-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA203045 | ISENTRESS (Merck Sharp & Dohme LLC) | Chewable tablet | Not available (status: valid) |
-| NDA022145 | ISENTRESS (Proficient Rx LP) | Film-coated tablet | Not available (status: valid) |
-| NDA205786 | ISENTRESS (Merck Sharp & Dohme LLC) | Granules for suspension | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA203540 | RALTEGRAVIR POTASSIUM | HETERO LABS LTD III | Tablet; oral | Valid |
+| ANDA217990 | RALTEGRAVIR POTASSIUM | LUPIN | Tablet; oral | Valid |
+| NDA022145 | ISENTRESS HD | MSD SUB MERCK | Tablet; oral | Valid |
+| NDA203045 | ISENTRESS | MSD SUB MERCK | Tablet, chewable; oral | Valid |
+| NDA205786 | ISENTRESS | MSD SUB MERCK | Powder; oral | Valid |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

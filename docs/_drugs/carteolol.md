@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 501
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Carteolol: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,9 +72,17 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Carteolol
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| ANDA075476 | Carteolol Hydrochloride | SOLUTION | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075476 | CARTEOLOL HYDROCHLORIDE | SANDOZ | Solution/drops; ophthalmic | Valid |
+| ANDA075546 | CARTEOLOL HYDROCHLORIDE | BAUSCH AND LOMB | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
+| ANDA076097 | CARTEOLOL HYDROCHLORIDE | APOTEX INC | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
+| NDA019204 | CARTROL | ABBVIE | Tablet; oral | Discontinued in Drugs@FDA |
+| NDA019972 | OCUPRESS | NOVARTIS | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

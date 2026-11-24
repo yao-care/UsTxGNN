@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "VASOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteoporosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vasopressin: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -79,13 +79,19 @@ No clinical trials are registered for this indication, so the clinical trial sec
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA217569 | Vasopressin in 0.9% Sodium Chloride (Baxter Healthcare) | Injection | Valid |
-| ANDA213206 | Vasopressin (Fresenius Kabi USA) | Injection, solution | Valid |
-| ANDA214314 | Vasopressin (Eugia US) | Injection | Valid |
-| ANDA216963 | Vasopressin (Gland Pharma) | Injection | Valid |
-| NDA204485 | Vasostrict (Par Health USA) | Injection | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA211857 | VASOPRESSIN | AMPHASTAR PHARMS INC | Solution; intravenous | Valid |
+| ANDA212068 | VASOPRESSIN | SANDOZ | Solution; intravenous | Valid |
+| ANDA212069 | VASOPRESSIN | SANDOZ | Solution; intravenous | Valid |
+| ANDA212944 | VASOPRESSIN | AMNEAL | Solution; intravenous | Valid |
+| ANDA213206 | VASOPRESSIN | FRESENIUS KABI USA | Solution; intravenous | Valid |
+
+Showing 5 of 14 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

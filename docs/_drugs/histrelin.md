@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 771
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "HISTRELIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pelvic organ prolapse", "female genital tuberculosis", "physiological sexual disorder"]
 description: "Histrelin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). In the US: 3 FDA applications (1 active)"
@@ -72,9 +72,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022058 | SUPPRELIN (Endo USA, Inc.) | Implant | Not specified; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA022058 | SUPPRELIN LA | ENDO OPERATIONS | Implant; subcutaneous | Valid |
+| NDA019836 | SUPPRELIN | SHIRE | Injectable; injection | Discontinued in Drugs@FDA |
+| NDA021732 | VANTAS | ENDO OPERATIONS | Implant; subcutaneous | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

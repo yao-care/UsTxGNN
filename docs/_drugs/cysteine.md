@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "CYSTEINE"
 predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cysteine: predicted new indication Dry eye syndrome (evidence level L4). In the US: 4 FDA applications (2 active), plus 32 OTC monograph/unapproved NDC listings"
 ---
 
@@ -92,11 +92,19 @@ The most relevant publications are listed below. All are preclinical or review-l
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA212535 | Cysteine Hydrochloride (Baxter Healthcare) | Injection | Valid |
-| NDA210660 | ELCYS (Exela Pharma Sciences) | Injection, solution | Valid |
-| Not available | L-Cysteine (Professional Complementary Health Formulas) | Liquid | Cancelled |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA210660 | ELCYS | EXELA PHARMA | Solution; intravenous | Valid |
+| NDA212535 | NOURESS | BAXTER HLTHCARE CORP | Solution; intravenous | Valid |
+| ANDA214082 | CYSTEINE HYDROCHLORIDE | DR REDDYS LABS SA | Solution; intravenous | Discontinued in Drugs@FDA |
+| NDA019523 | CYSTEINE HYDROCHLORIDE | HOSPIRA | Injectable; injection | Discontinued in Drugs@FDA |
+| NDC 63083-7403 | L-Cysteine 7403 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 36 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

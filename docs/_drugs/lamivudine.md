@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 830
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LAMIVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 description: "Lamivudine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). In the US: 65 FDA applications (34 active)"
@@ -93,13 +93,19 @@ The drug is marketed in this country, and no approved indication text is availab
 
 <!-- review:end us-lic-20261106-lamivudine-3 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA020564 | EPIVIR | Film-coated tablet | ViiV Healthcare Company |
-| NDA020596 | EPIVIR | Solution | ViiV Healthcare Company |
-| ANDA077464 | Lamivudine | Film-coated tablet | Aurobindo Pharma Limited |
-| ANDA205217 | Lamivudine | Film-coated tablet | Lupin Pharmaceuticals, Inc. |
-| ANDA077695 | Lamivudine | Solution | Rising Pharma Holdings, Inc. |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077221 | LAMIVUDINE | CIPLA | Tablet; oral | Valid |
+| ANDA077464 | LAMIVUDINE | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA077695 | LAMIVUDINE | AUROBINDO PHARMA | Solution; oral | Valid |
+| ANDA090198 | LAMIVUDINE | MACLEODS PHARMS | Tablet; oral | Valid |
+| ANDA090457 | LAMIVUDINE | STRIDES PHARMA | Tablet; oral | Valid |
+
+Showing 5 of 65 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

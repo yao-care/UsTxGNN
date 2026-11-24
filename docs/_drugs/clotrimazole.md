@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 543
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "CLOTRIMAZOLE"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
 description: "Clotrimazole: predicted new indication Acne (disease) (evidence level L5). In the US: 43 FDA applications (24 active), plus 195 OTC monograph/unapproved NDC listings"
@@ -82,12 +82,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| ANDA072641 | Clotrimazole | Cream | Sun Pharmaceutical Industries, Inc. | Valid |
-| M005 | Clotrimazole | Cream | Proficient Rx LP | Valid |
-| ANDA072640 | Clotrimazole | Cream | Sun Pharmaceutical Industries, Inc. | Valid |
-| ANDA078338 | Clotrimazole | Cream | E. Fougera & Co. (Fougera Pharmaceuticals Inc.) | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA072640 | CLOTRIMAZOLE | SUN PHARMA CANADA | Cream; topical | Valid |
+| ANDA072641 | CLOTRIMAZOLE | SUN PHARMA CANADA | Cream; vaginal | Valid |
+| ANDA073306 | CLOTRIMAZOLE | TEVA | Solution; topical | Valid |
+| ANDA074165 | CLOTRIMAZOLE | ENCUBE | Cream; vaginal | Valid |
+| ANDA074580 | CLOTRIMAZOLE | SUN PHARMA CANADA | Solution; topical | Valid |
+
+Showing 5 of 238 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The list may be partial.
 

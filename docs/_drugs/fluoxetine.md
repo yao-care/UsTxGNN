@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "FLUOXETINE"
 predicted_indications: ["histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluoxetine: predicted new indication Histrionic personality disorder (disease) (evidence level L5). In the US: 80 FDA applications (38 active)"
 ---
 
@@ -94,13 +94,19 @@ Approved-indication text is not available in the records compiled for this repor
 
 <!-- review:end us-lic-20261106-fluoxetine-1 -->
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| ANDA078619 | Fluoxetine (Aurobindo Pharma Limited) | Capsule |
-| ANDA075525 | Fluoxetine (Saptalis Pharmaceuticals, LLC.) | Solution |
-| ANDA075452 | Fluoxetine (Teva Pharmaceuticals USA, Inc.) | Capsule |
-| ANDA213286 | Fluoxetine (Aurobindo Pharma Limited) | Tablet, film coated |
-| ANDA209695 | Fluoxetine (Nivagen Pharmaceuticals, Inc.) | Tablet |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075049 | FLUOXETINE HYDROCHLORIDE | PHARMAZONE | Capsule; oral | Valid |
+| ANDA075245 | FLUOXETINE HYDROCHLORIDE | IVAX SUB TEVA PHARMS | Capsule; oral | Valid |
+| ANDA075292 | FLUOXETINE HYDROCHLORIDE | SOLIS PHARMS | Solution; oral | Valid |
+| ANDA075452 | FLUOXETINE HYDROCHLORIDE | TEVA | Capsule; oral | Valid |
+| ANDA075464 | FLUOXETINE HYDROCHLORIDE | LANDELA PHARM | Capsule; oral | Valid |
+
+Showing 5 of 80 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

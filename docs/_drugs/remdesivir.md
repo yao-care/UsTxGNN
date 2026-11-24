@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "REMDESIVIR"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Remdesivir: predicted new indication Multiple endocrine neoplasia (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -81,9 +81,13 @@ Currently no related literature available for multiple endocrine neoplasia.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA214787 | Veklury (Gilead Sciences, Inc.) | Lyophilized powder for injection solution | Not listed in the data compiled for this report; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA214787 | VEKLURY | GILEAD SCIENCES INC | Powder; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

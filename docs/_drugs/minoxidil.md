@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 933
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MINOXIDIL"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with chronic hemolytic anemia"]
 description: "Minoxidil: predicted new indication Hypotrichosis simplex of the scalp (evidence level L4). In the US: 38 FDA applications (23 active), plus 175 OTC monograph/unapproved NDC listings"
@@ -84,13 +84,19 @@ At least 10 licence records are listed in the data compiled for this report, and
 
 <!-- review:end us-lic-20261112-minoxidil-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA071839 | Minoxidil (A-S Medication Solutions) | Tablet | Not recorded |
-| ANDA075598 | Equate hair regrowth treatment (Walmart) | Solution | Not recorded |
-| ANDA076239 | Remixdil Extra Strength hair regrowth treatment for Men | Solution | Not recorded |
-| ANDA091344 | Basic care hair regrowth treatment | Aerosol, foam | Not recorded |
-| ANDA208092 | Minoxidil for Women (BosleyMD) | Aerosol, foam | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071344 | MINOXIDIL | WATSON LABS | Tablet; oral | Valid |
+| ANDA071345 | MINOXIDIL | WATSON LABS | Tablet; oral | Valid |
+| ANDA071826 | MINOXIDIL | PH HEALTH | Tablet; oral | Valid |
+| ANDA071839 | MINOXIDIL | PH HEALTH | Tablet; oral | Valid |
+| ANDA072708 | MINOXIDIL | AvKARE | Tablet; oral | Valid |
+
+Showing 5 of 213 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Available dosage forms include topical solutions, foams, liquids and shampoos, as well as oral tablets.
 

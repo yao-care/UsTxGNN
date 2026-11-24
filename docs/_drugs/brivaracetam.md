@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BRIVARACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Brivaracetam: predicted new indication beta-ketothiolase deficiency (evidence level L5). In the US: 23 FDA applications (21 active)"
 ---
 
@@ -71,6 +71,20 @@ Currently no related literature available.
 ## US Market Information
 
 According to the data compiled for this report, 10 US licence records exist for brivaracetam (brand and generic), covering oral tablets, oral solutions and an injection. The list may be partial. No approved-indication text is recorded for these licences. The licence records show conflicting status information, so the status of individual licences should be verified against the current FDA listing.
+
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA214501 | BRIVARACETAM | ZYDUS PHARMS | Tablet; oral | Valid |
+| ANDA214748 | BRIVARACETAM | SUNSHINE | Tablet; oral | Valid |
+| ANDA214848 | BRIVARACETAM | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| ANDA214875 | BRIVARACETAM | APOTEX | Tablet; oral | Valid |
+| ANDA214880 | BRIVARACETAM | MICRO LABS | Solution; intravenous | Valid |
+
+Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

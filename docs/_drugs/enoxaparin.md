@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ENOXAPARIN"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Enoxaparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). In the US: 13 FDA applications (13 active)"
 ---
 
@@ -72,13 +72,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA020164 | Lovenox (Sanofi-Aventis U.S. LLC) | Injection | Valid |
-| ANDA076726 | Enoxaparin Sodium (Zydus Pharmaceuticals USA Inc.) | Injection, solution | Valid |
-| ANDA076684 | Enoxaparin Sodium (BluePoint Laboratories) | Injection | Valid |
-| ANDA077857 | Enoxaparin Sodium (Cardinal Health 107, LLC) | Injection | Valid |
-| ANDA205660 | Enoxaparin Sodium (Hepalink USA Inc.) | Injection, solution | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076684 | ENOXAPARIN SODIUM (PRESERVATIVE FREE) | AMPHASTAR PHARM | Injectable; subcutaneous | Valid |
+| ANDA076726 | ENOXAPARIN SODIUM (PRESERVATIVE FREE) | ZYDUS PHARMS | Injectable; subcutaneous | Valid |
+| ANDA077857 | ENOXAPARIN SODIUM (PRESERVATIVE FREE) | SANDOZ | Injectable; subcutaneous | Valid |
+| ANDA078660 | ENOXAPARIN SODIUM | SANDOZ INC | Injectable; intravenous, subcutaneous | Valid |
+| ANDA078990 | ENOXAPARIN SODIUM (PRESERVATIVE FREE) | GLAND | Injectable; subcutaneous | Valid |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Two further ANDAs (ANDA214646, ANDA206834) are also on record. Approved indication text is not available in the license records. The drug is marketed in the US.
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 776
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "HYDROCORTISONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Hydrocortisone: predicted new indication Alopecia areata (evidence level L2). In the US: 292 FDA applications (72 active), plus 479 OTC monograph/unapproved NDC listings"
@@ -92,13 +92,19 @@ There is an important caveat. In the available Phase 3 trial, low-potency hydroc
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA089074 | hydrocortisone (Bryant Ranch Prepack) | Lotion | Not available |
-| ANDA207029 | Hydrocortisone (PD-Rx Pharmaceuticals) | Tablet | Not available |
-| ANDA040646 | Hydrocortisone (Amneal) | Tablet | Not available |
-| ANDA089682 | Hydrocortisone (Proficient Rx) | Cream | Not available |
-| ANDA088799 | Proctosol-HC (Bryant Ranch Prepack) | Cream | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040396 | MICORT-HC | LEGACY | Cream; topical | Valid |
+| ANDA040646 | HYDROCORTISONE | IMPAX LABS INC | Tablet; oral | Valid |
+| ANDA040879 | HYDROCORTISONE | RISING | Cream; topical | Valid |
+| ANDA075042 | HYDROCORTISONE VALERATE | SUN PHARMA CANADA | Cream; topical | Valid |
+| ANDA075043 | HYDROCORTISONE VALERATE | SUN PHARMA CANADA | Ointment; topical | Valid |
+
+Showing 5 of 771 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The list may be partial.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "FLUVASTATIN"
 predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "fibroma of prostate"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluvastatin: predicted new indication HIV infectious disease (evidence level L5). Approved use: Arteriosclerosis disorder, atherosclerosis…"
 ---
 
@@ -88,13 +88,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021192 | Lescol (Sandoz Inc) | Tablet, extended release | Not stated in the data compiled |
-| ANDA078407 | Fluvastatin (Teva Pharmaceuticals USA, Inc.) | Capsule | Not stated in the data compiled |
-| ANDA090595 | Fluvastatin Sodium (Mylan Pharmaceuticals Inc.) | Capsule | Not stated in the data compiled |
-| ANDA079011 | Fluvastatin Sodium (Teva Pharmaceuticals USA, Inc.) | Tablet, film coated, extended release | Not stated in the data compiled |
-| ANDA209397 | Fluvastatin Sodium (Lannett Company, Inc.) | Tablet, film coated, extended release | Not stated in the data compiled |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078407 | FLUVASTATIN SODIUM | TEVA PHARMS | Capsule; oral | Valid |
+| ANDA079011 | FLUVASTATIN SODIUM | TEVA PHARMS USA | Tablet, extended release; oral | Valid |
+| ANDA090595 | FLUVASTATIN SODIUM | MYLAN PHARMS INC | Capsule; oral | Valid |
+| ANDA209397 | FLUVASTATIN SODIUM | BEIJING | Tablet, extended release; oral | Valid |
+| NDA021192 | LESCOL XL | SANDOZ | Tablet, extended release; oral | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All forms are oral.
 

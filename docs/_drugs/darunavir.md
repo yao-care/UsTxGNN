@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DARUNAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Darunavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). In the US: 16 FDA applications (15 active)"
 ---
 
@@ -109,13 +109,19 @@ The data compiled for this report contains no approved-indication text for any o
 
 <!-- review:end us-lic-20261112-darunavir-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021976 | PREZISTA (Janssen Products LP) | Tablet, film coated | Not available in the data |
-| NDA202895 | PREZISTA (Janssen Products LP) | Suspension | Not available in the data |
-| ANDA216168 | Darunavir (Camber Pharmaceuticals) | Tablet, film coated | Not available in the data |
-| ANDA206288 | Darunavir 600 and 800 mg (Cipla USA) | Tablet | Not available in the data |
-| ANDA202073 | Darunavir (Lupin Pharmaceuticals) | Tablet, film coated | Not available in the data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA202073 | DARUNAVIR | LUPIN | Tablet; oral | Valid |
+| ANDA202083 | DARUNAVIR | HETERO LABS LTD III | Tablet; oral | Valid |
+| ANDA202136 | DARUNAVIR | MYLAN | Tablet; oral | Valid |
+| ANDA206288 | DARUNAVIR | CIPLA | Tablet; oral | Valid |
+| ANDA210677 | DARUNAVIR | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

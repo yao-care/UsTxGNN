@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "TELAVANCIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "septicemic plague", "premalignant hematological system disease", "hematological disease associated with an acquired peripheral neuropathy", "monoclonal gammopathy", "congenital hematological disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Telavancin: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Bacterial pneumonia"
 ---
 
@@ -82,9 +82,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022110 | VIBATIV (Cumberland Pharmaceuticals Inc.) | Injection, powder, lyophilized, for solution | Not listed (license status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA022110 | VIBATIV | APOTEX | Powder; intravenous | Valid |
+| NDA022407 | VIBATIV | THERAVANCE INC | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ---
 

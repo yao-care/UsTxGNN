@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BLACK COHOSH"
 predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus", "orofacial clefting syndrome", "disorder of fucoglycosan synthesis", "pulmonary valve disease", "interventricular septum aneurysm"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Black Cohosh: predicted new indication Heart disease (evidence level L5). Approved use: Not available"
 ---
 
@@ -78,9 +78,19 @@ The publications below were retrieved for the heart disease prediction. None tes
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available (cancelled) | Cimicifuga Racemosa (Hahnemann Laboratories, Inc.) | Pellet | Not stated |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0220-1346 | Cimifuga racemosa | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-1347 | Cimifuga racemosa | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-1354 | Cimifuga racemosa | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-1355 | Cimifuga racemosa | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-1358 | Cimifuga racemosa | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 163 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Other dosage forms recorded for black cohosh products are tablet (soluble), globule and liquid.
 

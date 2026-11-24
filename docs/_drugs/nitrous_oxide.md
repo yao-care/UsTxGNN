@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "NITROUS OXIDE"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Nitrous Oxide: predicted new indication Benign prostatic hyperplasia (evidence level L5). Approved use: Not specified in the US license records compiled for this report"
 ---
 
@@ -76,11 +76,19 @@ The only clinical connection is procedural. Nitrous oxide has been used to reduc
 
 All three listed authorizations are valid, and no approved indication text is recorded for them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA206009 | Nitrous Oxide | Gas | Not recorded |
-| NDA209989 | Nitrous Oxide | Gas | Not recorded |
-| NDA205704 | Nitrous Oxide | Gas | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA205704 | NITROUS OXIDE, USP | AIR LIQUIDE AMERICA SPECIALITY GASES | Gas; inhalation | Valid |
+| NDA206009 | NITROUS OXIDE, USP | NITROUS OXIDE CORP | Gas; inhalation | Valid |
+| NDA206014 | NITROUS OXIDE, USP | NITROUS OXIDE OF CANADA | Gas; inhalation | Valid |
+| NDA208069 | NITROUS OXIDE, USP | STRATA MEDICAL INNOVATIONS | Gas; inhalation | Valid |
+| NDA209989 | NITROUS OXIDE, USP | MATHESON TRI-GAS INC | Gas; inhalation | Valid |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

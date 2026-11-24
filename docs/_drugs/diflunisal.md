@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 606
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DIFLUNISAL"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "ankylosing spondylitis", "brachyolmia", "hypermobility of coccyx", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "inflammatory spondylopathy"]
 description: "Diflunisal: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In the US: 10 FDA applications (3 active)"
@@ -94,11 +94,19 @@ The literature below is for ankylosing spondylitis. The same set was retrieved f
 
 No approved indication text is available.
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA202845 | Dolobid (INA Pharmaceutics Inc) | Film-coated tablet | Valid |
-| ANDA203547 | Diflunisal (Zydus Lifesciences Limited) | Tablet | Valid |
-| ANDA073673 | Diflunisal (Teva Pharmaceuticals USA, Inc.) | Film-coated tablet | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA073673 | DIFLUNISAL | TEVA | Tablet; oral | Valid |
+| ANDA202845 | DIFLUNISAL | HERITAGE PHARMA | Tablet; oral | Valid |
+| ANDA203547 | DIFLUNISAL | ZYDUS PHARMS | Tablet; oral | Valid |
+| ANDA073562 | DIFLUNISAL | DASTECH INTL | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA073563 | DIFLUNISAL | DASTECH INTL | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

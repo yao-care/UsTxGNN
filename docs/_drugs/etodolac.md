@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 683
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ETODOLAC"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 description: "Etodolac: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In the US: 42 FDA applications (15 active)"
@@ -83,13 +83,19 @@ Evidence for **ankylosing spondylitis** (the same set supports inflammatory spon
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075074 | Etodolac (Advanced Rx of Tennessee) | Film-coated tablet | Not available (valid) |
-| ANDA076004 | Etodolac (Bryant Ranch Prepack) | Film-coated tablet | Not available (valid) |
-| ANDA075126 | Etodolac (ANI Pharmaceuticals) | Capsule | Not available (valid) |
-| ANDA075665 | Etodolac (Teva) | Film-coated extended-release tablet | Not available (valid) |
-| ANDA091134 | Etodolac (Zydus) | Film-coated extended-release tablet | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074903 | ETODOLAC | PANGEA | Tablet; oral | Valid |
+| ANDA075074 | ETODOLAC | TARO PHARM INDS | Tablet; oral | Valid |
+| ANDA075078 | ETODOLAC | TARO | Capsule; oral | Valid |
+| ANDA075126 | ETODOLAC | ANI PHARMS | Capsule; oral | Valid |
+| ANDA075419 | ETODOLAC | APOTEX | Capsule; oral | Valid |
+
+Showing 5 of 42 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

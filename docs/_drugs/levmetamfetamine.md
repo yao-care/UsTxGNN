@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 851
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "LEVMETAMFETAMINE"
 predicted_indications: ["nasal cavity disease"]
 description: "Levmetamfetamine: predicted new indication Nasal cavity disease (evidence level L5). In the US: no FDA-approved application; 7 OTC monograph/unapproved NDC listings"
@@ -70,9 +70,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M012 (cancelled) | Vapor Inhaler (Topco Associates LLC) | Inhalant | Not stated in the record |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0363-0564 | Vapor Inhaler | Walgreens | Inhalant | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 36800-294 | Vapor Inhaler levmetamfetamine nasal decongestant, TopCare health | Topco Associates LLC | Inhalant | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 41163-031 | Vapor Inhaler levmetamfetamine nasal decongestant, Equaline | Supervalu Inc. | Inhalant | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 55910-265 | Vapor Inhaler levmetamfetamine nasal decongestant, DG health | Dolgencorp Inc. | Inhalant | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 63868-267 | Vapor Inhaler | C.D.M.A., Inc. | Inhalant | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

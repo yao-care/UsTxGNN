@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ANASTROZOLE"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Anastrozole: predicted new indication neuroblastoma (evidence level L5). In the US: 21 FDA applications (10 active)"
 ---
 
@@ -70,13 +70,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA079220 | ANASTROZOLE | Tablet | Not recorded in the local data |
-| ANDA078921 | Anastrozole | Tablet, coated | Not recorded in the local data |
-| ANDA090568 | Anastrozole | Tablet | Not recorded in the local data |
-| ANDA212434 | Anastrozole | Tablet, film coated | Not recorded in the local data |
-| ANDA206037 | Anastrozole | Tablet | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078058 | ANASTROZOLE | TEVA PHARMS | Tablet; oral | Valid |
+| ANDA078921 | ANASTROZOLE | ZYDUS PHARMS USA INC | Tablet; oral | Valid |
+| ANDA078944 | ANASTROZOLE | KENTON | Tablet; oral | Valid |
+| ANDA079220 | ANASTROZOLE | NATCO PHARMA LTD | Tablet; oral | Valid |
+| ANDA090568 | ANASTROZOLE | ACCORD HLTHCARE | Tablet; oral | Valid |
+
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The list may be partial; further records exist beyond those shown (NDA020541, ARIMIDEX, is also on file).
 

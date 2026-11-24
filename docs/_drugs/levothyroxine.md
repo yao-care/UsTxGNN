@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "LEVOTHYROXINE"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Levothyroxine: predicted new indication Renal hypodysplasia/aplasia (evidence level L5). Approved use: Hypothyroidism"
 ---
 
@@ -74,13 +74,19 @@ Currently no related literature available.
 
 The records below are single-ingredient levothyroxine products. Indication text is not included in the licence records. The list shows 5 of at least 11 approvals and may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021402 | Synthroid (AbbVie Inc.) | Tablet | Not stated in the records |
-| NDA021924 | Tirosint (IBSA Pharma Inc.) | Capsule | Not stated in the records |
-| NDA202231 | Levothyroxine Sodium (Fresenius Kabi USA, LLC) | Lyophilized powder for injection | Not stated in the records |
-| NDA021116 | Levothyroxine sodium (Preferred Pharmaceuticals, Inc.) | Tablet | Not stated in the records |
-| ANDA216729 | Levothyroxine Sodium (OneSource Specialty Pharma Limited) | Lyophilized powder for injection | Not stated in the records |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076187 | LEVOTHYROXINE SODIUM | MYLAN | Tablet; oral | Valid |
+| ANDA207588 | LEVOTHYROXINE SODIUM | WATSON LABS TEVA | Tablet; oral | Valid |
+| ANDA208749 | LEVOTHYROXINE SODIUM | MAIA PHARMS INC | Powder; intravenous | Valid |
+| ANDA209713 | LEVOTHYROXINE SODIUM | LUPIN | Tablet; oral | Valid |
+| ANDA211417 | LEVOTHYROXINE SODIUM | MACLEODS PHARMS | Tablet; oral | Valid |
+
+Showing 5 of 96 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Available routes: oral (tablet, capsule) and injectable (lyophilized powder).
 

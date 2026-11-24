@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Finasteride: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 ---
 
@@ -84,13 +84,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA078341 | Finasteride (Aurobindo Pharma) | Film-coated tablet | Not listed (valid) |
-| NDA020788 | PROPECIA (Organon) | Film-coated tablet | Not listed (valid) |
-| ANDA204304 | Finasteride (Proficient Rx) | Film-coated tablet | Not listed (valid) |
-| ANDA090121 | Finasteride (Proficient Rx) | Film-coated tablet | Not listed (valid) |
-| ANDA090060 | Finasteride (NuCare Pharmaceuticals) | Film-coated tablet | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076436 | FINASTERIDE | DR REDDYS LABS INC | Tablet; oral | Valid |
+| ANDA076437 | FINASTERIDE | DR REDDYS LABS LTD | Tablet; oral | Valid |
+| ANDA076511 | FINASTERIDE | TEVA | Tablet; oral | Valid |
+| ANDA078341 | FINASTERIDE | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA078900 | FINASTERIDE | ZYDUS PHARMS USA INC | Tablet; oral | Valid |
+
+Showing 5 of 30 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

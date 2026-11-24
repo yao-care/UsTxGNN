@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ATENOLOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atenolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension and myocardial infarction"
 ---
 
@@ -71,13 +71,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018240 | TENORMIN (Upsher-Smith Laboratories) | Tablet | Not stated in the compiled records |
-| ANDA077443 | Atenolol (direct rx) | Tablet | Not stated in the compiled records |
-| ANDA074056 | Atenolol (QPharma) | Tablet | Not stated in the compiled records |
-| ANDA078512 | Atenolol (Northwind Health) | Tablet | Not stated in the compiled records |
-| ANDA076900 | Atenolol (A-S Medication Solutions) | Tablet | Not stated in the compiled records |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA072304 | ATENOLOL | AIPING PHARM INC | Tablet; oral | Valid |
+| ANDA073026 | ATENOLOL | PHARMOBEDIENT | Tablet; oral | Valid |
+| ANDA073457 | ATENOLOL | MYLAN | Tablet; oral | Valid |
+| ANDA074056 | ATENOLOL | TEVA | Tablet; oral | Valid |
+| ANDA076900 | ATENOLOL | ZYDUS PHARMS USA | Tablet; oral | Valid |
+
+Showing 5 of 42 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Eight single-ingredient oral tablet authorizations are listed in total, and the list may be partial.
 

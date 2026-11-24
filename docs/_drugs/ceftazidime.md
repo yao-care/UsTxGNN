@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CEFTAZIDIME"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "infectious otitis media", "Peptostreptococcus infectious disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ceftazidime: predicted new indication polyclonal hyperviscosity syndrome (evidence level L5). In the US: 17 FDA applications (4 active)"
 ---
 
@@ -69,6 +69,20 @@ Currently no related literature available.
 ## US Market Information
 
 Ceftazidime is marketed in the United States as an injectable (powder for solution) dosage form, under single-ingredient products from more than one manufacturer. No indication text is recorded in the local data for these products.
+
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA062640 | CEFTAZIDIME | ACS DOBFAR | Injectable; injection | Valid |
+| ANDA062662 | TAZICEF | HOSPIRA | Injectable; injection | Valid |
+| ANDA064032 | TAZICEF | HOSPIRA | Injectable; injection | Valid |
+| NDA206494 | AVYCAZ | ABBVIE | Powder; intravenous | Valid |
+| ANDA062655 | TAZIDIME | LILLY | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

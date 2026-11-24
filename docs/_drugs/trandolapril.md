@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1247
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Trandolapril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "TRANDOLAPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
@@ -64,11 +64,19 @@ Other predictions from the same model run include malignant renovascular hyperte
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA078438 | Trandolapril (Rising Pharma Holdings, Inc.) | Tablet | Not listed (status: valid) |
-| ANDA077522 | Trandolapril (Lupin Pharmaceuticals, Inc.) | Tablet | Not listed (status: valid) |
-| ANDA078508 | Trandolapril (Epic Pharma, LLC) | Tablet | Not listed (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077522 | TRANDOLAPRIL | LUPIN | Tablet; oral | Valid |
+| ANDA078438 | TRANDOLAPRIL | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA078508 | TRANDOLAPRIL | EPIC PHARMA | Tablet; oral | Valid |
+| ANDA079135 | TRANDOLAPRIL AND VERAPAMIL HYDROCHLORIDE | GLENMARK PHARMS LTD | Tablet, extended release; oral | Valid |
+| ANDA077256 | TRANDOLAPRIL | EPIC PHARMA LLC | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

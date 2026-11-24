@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "CORTISONE"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "myelodysplastic syndrome", "lymphosarcoma", "candidiasis", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Cortisone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L4). In the US: 20 FDA applications (0 active), plus 65 OTC monograph/unapproved NDC listings"
 ---
 
@@ -92,10 +92,19 @@ All of these are old, small, descriptive reports with no controlled comparison. 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not recorded | Cortisone aceticum (Boiron) | Pellet | Not recorded in the local data |
-| ANDA080694 | Cortisone Acetate (Chartwell RX, LLC) | Tablet | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA080333 | CORTISONE ACETATE | VITARINE | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA080341 | CORTISONE ACETATE | WHITEWORTH TOWN PLSN | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA080493 | CORTISONE ACETATE | PUREPAC PHARM | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA080630 | CORTISONE ACETATE | IVAX SUB TEVA PHARMS | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA080694 | CORTISONE ACETATE | CHARTWELL MOLECULAR | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 85 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Cortisone is marketed in the US.
 

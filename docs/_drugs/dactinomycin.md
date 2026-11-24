@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 564
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DACTINOMYCIN"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "liver sarcoma", "upper aerodigestive tract neoplasm", "head and neck cancer"]
 description: "Dactinomycin: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). In the US: 7 FDA applications (4 active)"
@@ -102,12 +102,19 @@ The data compiled for this report contain no approved indication text for them.
 
 <!-- review:end us-lic-20261105-dactinomycin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA203385 | Dactinomycin (Eugia US LLC) | Lyophilized powder for injection | Not available |
-| ANDA203999 | Dactinomycin (XGen Pharmaceuticals DJB, Inc.) | Lyophilized powder for injection | Not available |
-| ANDA207232 | Dactinomycin (Hisun Pharmaceuticals USA, Inc.) | Lyophilized powder for injection | Not available |
-| ANDA213463 | Dactinomycin (Meitheal Pharmaceuticals Inc.) | Lyophilized powder for injection | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA203385 | DACTINOMYCIN | EUGIA PHARMA | Injectable; injection | Valid |
+| ANDA203999 | DACTINOMYCIN | XGEN PHARMS | Injectable; injection | Valid |
+| ANDA207232 | DACTINOMYCIN | HISUN PHARM HANGZHOU | Injectable; injection | Valid |
+| ANDA213463 | DACTINOMYCIN | MEITHEAL | Injectable; injection | Valid |
+| ANDA090304 | DACTINOMYCIN | HIKMA | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

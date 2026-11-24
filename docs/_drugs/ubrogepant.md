@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1274
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "UBROGEPANT"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Ubrogepant: predicted new indication Atrophoderma vermiculata (evidence level L5). In the US: 2 FDA applications (2 active)"
@@ -84,9 +84,14 @@ None of these publications is specific to the brainstem aura subtype.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA211765 | UBRELVY (Allergan, Inc.) | Tablet | Status: valid in the data compiled for this report |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA219218 | UBROGEPANT | MSN LABORATORIES PRIVATE LIMITED | Tablet; oral | Valid |
+| NDA211765 | UBRELVY | ABBVIE | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

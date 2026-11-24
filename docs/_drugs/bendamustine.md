@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "BENDAMUSTINE"
 predicted_indications: ["mantle cell lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Hodgkins lymphoma", "small intestinal Burkitt lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "MALT lymphoma", "relapsing-remitting multiple sclerosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bendamustine: predicted new indication mantle cell lymphoma (evidence level L1). In the US: 17 FDA applications (12 active)"
 ---
 
@@ -94,13 +94,19 @@ Ten of the most relevant trials are shown below.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022249 | TREANDA | Lyophilized powder for injection | Not recorded in local data |
-| NDA208194 | Bendeka | Injectable solution | Not recorded in local data |
-| NDA205580 | BELRAPZO | Injection | Not recorded in local data |
-| NDA212209 | VIVIMUSTA | Injection | Not recorded in local data |
-| ANDA205574 | bendamustine hydrochloride | Lyophilized powder for injection | Not recorded in local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205376 | BENDAMUSTINE HYDROCHLORIDE | DR REDDYS | Powder; intravenous | Valid |
+| ANDA205574 | BENDAMUSTINE HYDROCHLORIDE | ACCORD HLTHCARE | Powder; intravenous | Valid |
+| ANDA211001 | BENDAMUSTINE HYDROCHLORIDE | MEITHEAL | Powder; intravenous | Valid |
+| ANDA214739 | BENDAMUSTINE HYDROCHLORIDE | EUGIA PHARMA | Powder; intravenous | Valid |
+| NDA022249 | TREANDA | CEPHALON | Powder; intravenous | Valid |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

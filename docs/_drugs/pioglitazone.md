@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "PIOGLITAZONE"
 predicted_indications: ["opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pioglitazone: predicted new indication Opsismodysplasia (evidence level L5). In the US: 27 FDA applications (20 active)"
 ---
 
@@ -86,13 +86,19 @@ Currently no related literature available for opsismodysplasia.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021073 | Actos (Takeda Pharmaceuticals America, Inc.) | Tablet | Valid |
-| ANDA200268 | Pioglitazone Hydrochloride (A-S Medication Solutions) | Tablet | Valid |
-| ANDA207806 | Pioglitazone (Solco Healthcare LLC) | Tablet | Valid |
-| ANDA202467 | Pioglitazone (Macleods Pharmaceuticals Limited) | Tablet | Valid |
-| ANDA077210 | Pioglitazone (Bryant Ranch Prepack) | Tablet | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076798 | PIOGLITAZONE HYDROCHLORIDE | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA077210 | PIOGLITAZONE HYDROCHLORIDE | TEVA PHARMS USA | Tablet; oral | Valid |
+| ANDA078670 | PIOGLITAZONE HYDROCHLORIDE | AIPING PHARM INC | Tablet; oral | Valid |
+| ANDA200044 | PIOGLITAZONE HYDROCHLORIDE | ACCORD HLTHCARE | Tablet; oral | Valid |
+| ANDA200268 | PIOGLITAZONE HYDROCHLORIDE | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+
+Showing 5 of 27 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Indication text was not available.
 

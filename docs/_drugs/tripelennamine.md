@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1265
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 monitor_inn: "TRIPELENNAMINE"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis"]
 description: "Tripelennamine: predicted new indication Nasal cavity disease (evidence level L5). In the US: 14 FDA applications (0 active), plus 3 OTC monograph/unapproved NDC listings"
@@ -87,10 +87,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M017 | Blue-Emu THRIVE Cooling (valid) | Cream | Not specified |
-| nan | Stomach Drops (valid) | Liquid | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA080713 | TRIPELENNAMINE HYDROCHLORIDE | WATSON LABS | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA080744 | TRIPELENNAMINE HYDROCHLORIDE | BARR | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA080785 | TRIPELENNAMINE HYDROCHLORIDE | IMPAX LABS | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA080790 | TRIPELENNAMINE HYDROCHLORIDE | WATSON LABS | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA083037 | TRIPELENNAMINE HYDROCHLORIDE | ANABOLIC | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 932
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MINOCYCLINE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis"]
 description: "Minocycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 41 FDA applications (23 active)"
@@ -80,13 +80,19 @@ The drug is marketed in the US.
 
 <!-- review:end us-lic-20261106-minocycline-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA065062 | Minocycline Hydrochloride (A-S Medication Solutions) | Capsule | Not available |
-| ANDA065470 | Minocycline Hydrochloride (Advanced Rx Pharmacy of Tennessee) | Capsule | Not available |
-| ANDA203553 | Minocycline Hydrochloride (Zydus) | Extended-release tablet | Not available |
-| ANDA204453 | Minocycline Hydrochloride (Bryant Ranch Prepack) | Film-coated extended-release tablet | Not available |
-| NDA213690 | ZILXI (Journey Medical) | Foam aerosol | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA063009 | MINOCYCLINE HYDROCHLORIDE | ZYDUS | Capsule; oral | Valid |
+| ANDA063011 | MINOCYCLINE HYDROCHLORIDE | ZYDUS | Capsule; oral | Valid |
+| ANDA063065 | MINOCYCLINE HYDROCHLORIDE | WATSON LABS | Capsule; oral | Valid |
+| ANDA063181 | MINOCYCLINE HYDROCHLORIDE | WATSON LABS TEVA | Capsule; oral | Valid |
+| ANDA065005 | MINOCYCLINE HYDROCHLORIDE | IMPAX LABS | Capsule; oral | Valid |
+
+Showing 5 of 41 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ENFORTUMAB VEDOTIN"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Enfortumab Vedotin: predicted new indication Leprosy (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -82,9 +82,13 @@ For reference, the two papers linked to other predicted indications report safet
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761137 | PADCEV (Seagen Inc.) | Lyophilized powder for injection solution | Not listed in the compiled data (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761137 | PADCEV | ASTELLAS | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

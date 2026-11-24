@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "VANDETANIB"
 predicted_indications: ["renal cell carcinoma (disease)", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vandetanib: predicted new indication Renal cell carcinoma (disease) (evidence level L3). In the US: 1 FDA application (1 active)"
 ---
 
@@ -83,9 +83,13 @@ There are important caveats. The available trials are small, two were terminated
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022405 | CAPRELSA (Genzyme Corporation) | Film-coated tablet | Not listed in the data compiled for this report |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA022405 | CAPRELSA | GENZYME CORP | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

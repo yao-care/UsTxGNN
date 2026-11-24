@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TURPENTINE"
 predicted_indications: ["multiple endocrine neoplasia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Turpentine: predicted new indication Multiple endocrine neoplasia (evidence level L5). In the US: no FDA-approved application; 4 OTC monograph/unapproved NDC listings"
 ---
 
@@ -82,11 +82,16 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Terebinthina (Boiron) | Pellet | Not recorded (cancelled) |
-| M017 | Ling Nam Hak Kwai Oil (Ling Nam Medicine Factory (H.K.) Ltd.) | Oil | Not recorded (valid) |
-| M014 | ARTREX (Bioved Pharmaceuticals) | Cream | Not recorded (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 57598-221 | Koong Yick Hak Kwai Oil | Ling Nam Medicine Factory (H.K.) Ltd. | Oil | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 57598-223 | Ling Nam Hak Kwai Oil | Ling Nam Medicine Factory (H.K.) Ltd. | Oil | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 55714-2388 | Bladder - Kidney | Newton Laboratories, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 55714-2389 | Bladder - Kidney | Newton Laboratories, Inc. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 The drug is marketed in this country.
 

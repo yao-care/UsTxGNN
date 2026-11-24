@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "PITAVASTATIN"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pitavastatin: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). In the US: 11 FDA applications (10 active)"
 ---
 
@@ -80,7 +80,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The list may be partial, and no approved-indication text was available in the records. The five main ones are shown below.
+The list may be partial, and no approved-indication text was available in the records.
 
 <!-- review:begin us-lic-20261105-pitavastatin-1 -->
 
@@ -88,13 +88,19 @@ The list may be partial, and no approved-indication text was available in the re
 
 <!-- review:end us-lic-20261105-pitavastatin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA022363 | Livalo | Tablet, film coated | Kowa Pharmaceuticals America, Inc. |
-| NDA208379 | ZYPITAMAG | Tablet, film coated | Medicure International Inc |
-| ANDA205977 | Pitavastatin calcium | Tablet, film coated | Camber Pharmaceuticals, Inc. |
-| ANDA206047 | Pitavastatin calcium | Tablet | Zydus Lifesciences Limited |
-| ANDA206070 | Pitavastatin calcium | Tablet, film coated | Mylan Pharmaceuticals Inc. |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205932 | PITAVASTATIN CALCIUM | ORIENT PHARMA CO LTD | Tablet; oral | Valid |
+| ANDA205955 | PITAVASTATIN CALCIUM | SAWAI USA | Tablet; oral | Valid |
+| ANDA205961 | PITAVASTATIN CALCIUM | AMNEAL PHARMS NY | Tablet; oral | Valid |
+| ANDA205977 | PITAVASTATIN CALCIUM | HETERO LABS LTD V | Tablet; oral | Valid |
+| ANDA206015 | PITAVASTATIN CALCIUM | AUROBINDO PHARMA | Tablet; oral | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

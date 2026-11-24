@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1188
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SULINDAC"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "pseudoachondroplasia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome", "hypermobility of coccyx"]
 description: "Sulindac: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In the US: 14 FDA applications (6 active)"
@@ -71,13 +71,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA072711 | SULINDAC (PuraCap Laboratories / Blu Pharmaceuticals) | Tablet | Not available (valid) |
-| ANDA072051 | SULINDAC (Sun Pharmaceutical Industries) | Tablet | Not available (valid) |
-| ANDA072050 | SULINDAC (PD-Rx Pharmaceuticals) | Tablet | Not available (valid) |
-| ANDA072710 | SULINDAC (PuraCap Laboratories / Blu Pharmaceuticals) | Tablet | Not available (valid) |
-| ANDA071795 | Sulindac (PD-Rx Pharmaceuticals) | Tablet | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071795 | SULINDAC | WATSON LABS | Tablet; oral | Valid |
+| ANDA071891 | SULINDAC | WATSON LABS | Tablet; oral | Valid |
+| ANDA072050 | SULINDAC | SUN PHARM INDUSTRIES | Tablet; oral | Valid |
+| ANDA072051 | SULINDAC | SUN PHARM INDUSTRIES | Tablet; oral | Valid |
+| ANDA072710 | SULINDAC | Epic Pharma, LLC | Tablet; oral | Valid |
+
+Showing 5 of 14 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The only dosage form is oral tablet.
 

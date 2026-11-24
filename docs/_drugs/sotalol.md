@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SOTALOL"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sotalol: predicted new indication Sick sinus syndrome 2, autosomal dominant (evidence level L5). In the US: 21 FDA applications (13 active)"
 ---
 
@@ -69,13 +69,19 @@ Currently no related literature available for the predicted indication.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019865 | BETAPACE AF (Legacy Pharma USA) | Tablet | Not available; status valid |
-| ANDA207428 | Sotalol (Unichem) | Tablet | Not available; status valid |
-| ANDA075563 | Sotalol Hydrochloride (Proficient Rx) | Tablet | Not available; status valid |
-| ANDA075500 | Sotalol Hydrochloride (Bryant Ranch Prepack) | Tablet | Not available; status valid |
-| ANDA076140 | Sotalol Hydrochloride (Bryant Ranch Prepack) | Tablet | Not available; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075429 | SOTALOL HYDROCHLORIDE | TEVA | Tablet; oral | Valid |
+| ANDA075500 | SORINE | AIPING PHARM INC | Tablet; oral | Valid |
+| ANDA075563 | SOTALOL HYDROCHLORIDE | OXFORD PHARMS | Tablet; oral | Valid |
+| ANDA076140 | SOTALOL HYDROCHLORIDE | APOTEX | Tablet; oral | Valid |
+| ANDA076214 | SOTALOL HYDROCHLORIDE | APOTEX | Tablet; oral | Valid |
+
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Two further cancelled ANDAs (Epic Pharma, Aphena Pharma Solutions) are not shown.
 

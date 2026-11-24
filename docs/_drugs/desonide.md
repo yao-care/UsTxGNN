@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DESONIDE"
 predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis", "uterine polyp"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desonide: predicted new indication Polyp of vocal cord (evidence level L5). In the US: 26 FDA applications (14 active)"
 ---
 
@@ -96,13 +96,19 @@ The main ones are listed below; approved indication text was not available for a
 
 <!-- review:end us-lic-20261105-desonide-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| NDA017426 | Desonide | Ointment | Padagis Israel Pharmaceuticals Ltd | Valid |
-| NDA019048 | Desonide | Cream | Proficient Rx LP | Valid |
-| ANDA073548 | Desonide | Cream | Northstar Rx LLC | Valid |
-| ANDA213632 | Desonide | Lotion | Alembic Pharmaceuticals Limited | Valid |
-| ANDA202470 | Desonide | Gel | Cintex Services, LLC | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA073548 | DESONIDE | SUN PHARMA CANADA | Cream; topical | Valid |
+| ANDA074027 | DESONIDE | COSETTE PHARMS NC | Cream; topical | Valid |
+| ANDA074254 | DESONIDE | SUN PHARMA CANADA | Ointment; topical | Valid |
+| ANDA075751 | DESONIDE | FOUGERA PHARMS | Ointment; topical | Valid |
+| ANDA075860 | DESONIDE | FOUGERA PHARMS | Lotion; topical | Valid |
+
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

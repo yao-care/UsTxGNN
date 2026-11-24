@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "AMOXICILLIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amoxicillin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Urinary tract infection, infectious otitis media…"
 ---
 
@@ -71,7 +71,7 @@ Currently no related literature available for polyclonal hyperviscosity syndrome
 
 ## US Market Information
 
-The data compiled for this report do not include approved indication text. The first five are listed below.
+The data compiled for this report do not include approved indication text.
 
 <!-- review:begin us-lic-20261106-amoxicillin-1 -->
 
@@ -79,13 +79,19 @@ The data compiled for this report do not include approved indication text. The f
 
 <!-- review:end us-lic-20261106-amoxicillin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA065271 | Amoxicillin | Capsule | American Health Packaging |
-| ANDA064076 | Amoxicillin | Capsule | REMEDYREPACK INC. |
-| ANDA065334 | Amoxicillin | Powder for suspension | Proficient Rx LP |
-| ANDA065387 | Amoxicillin | Powder for suspension | NuCare Pharmaceuticals, Inc. |
-| ANDA065325 | Amoxil | Powder for suspension | DirectRx |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA061926 | AMOXICILLIN | CHARTWELL RX | Capsule; oral | Valid |
+| ANDA061931 | AMOXICILLIN | CHARTWELL RX | For suspension; oral | Valid |
+| ANDA062058 | AMOXICILLIN | CHARTWELL | Capsule; oral | Valid |
+| ANDA062216 | AMOXIL | US ANTIBIOTICS | Capsule; oral | Valid |
+| ANDA062226 | LAROTID | US ANTIBIOTICS | For suspension; oral | Valid |
+
+Showing 5 of 126 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ADENINE"
 predicted_indications: ["drug-induced osteoporosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Adenine: predicted new indication drug-induced osteoporosis (evidence level L5). In the US: no FDA-approved application; 23 OTC monograph/unapproved NDC listings"
 ---
 
@@ -70,9 +70,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not recorded | Adenine | Liquid | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 44911-0745 | Adenine 3X | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 63083-1546 | Adenine 1546 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 87069-460 | AS-3 | GVS TM INC | Solution | NDC listing, no FDA application (nda) |
+| NDC 87069-462 | AS-3 | GVS TM INC | Solution | NDC listing, no FDA application (nda) |
+| NDC 0942-6305 | CPDA-1 | Fenwal, Inc. | Solution | NDC listing, no FDA application (nda) |
+
+Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The one licence on record is for a single-ingredient product made by Professional Complementary Health Formulas.
 

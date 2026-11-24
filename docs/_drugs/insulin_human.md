@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Insulin human"
 predicted_indications: ["autoimmune oophoritis", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Human: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Type 2 diabetes mellitus, type 1 diabetes mellitus…"
 ---
 
@@ -86,13 +86,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA018780 | HUMULIN R (A-S Medication Solutions) | Injection, solution | Not recorded; status valid |
-| BLA019959 | Novolin (A-S Medication Solutions) | Injection, suspension | Not recorded; status valid |
-| BLA018781 | Humulin (Eli Lilly and Company) | Injection, suspension | Not recorded; status valid |
-| BLA019717 | Humulin (Eli Lilly and Company) | Injection, suspension | Not recorded; status valid |
-| BLA022472 | AFREZZA (Mannkind Corporation) | Powder, metered | Not recorded; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA018780 | HUMULIN R PEN | LILLY | Injectable; injection | Valid |
+| BLA018781 | HUMULIN N | LILLY | Injectable; injection | Valid |
+| BLA019938 | NOVOLIN R | NOVO NORDISK INC | Injectable; injection | Valid |
+| BLA019959 | NOVOLIN N | NOVO NORDISK INC | Injectable; injection | Valid |
+| BLA022472 | AFREZZA | MANNKIND | Powder; inhalation | Valid |
+
+Showing 5 of 19 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Only the first 5 are shown above. The other three are Novolin (BLA019938 and BLA019991, Novo Nordisk) and MYXREDLIN (BLA208157, Baxter Healthcare Corporation).
 

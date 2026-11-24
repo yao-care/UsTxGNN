@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1136
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ROSUVASTATIN"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
 description: "Rosuvastatin: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). In the US: 32 FDA applications (20 active)"
@@ -127,13 +127,19 @@ Other predictions have weaker links. Hepatic lipase deficiency and CYP7A1 defici
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA206465 | Rosuvastatin (Quallent Pharmaceuticals Health LLC) | Tablet, film coated | Valid |
-| ANDA079172 | Rosuvastatin calcium (RemedyRepack Inc.) | Tablet, film coated | Valid |
-| ANDA212059 | Rosuvastatin Calcium (Zhejiang Yongtai Pharmaceutical Co., Ltd.) | Tablet, film coated | Valid |
-| ANDA206381 | Rosuvastatin (RemedyRepack Inc.) | Tablet, film coated | Valid |
-| ANDA207062 | Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC) | Tablet, film coated | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA079167 | ROSUVASTATIN CALCIUM | WATSON LABS INC | Tablet; oral | Valid |
+| ANDA079168 | ROSUVASTATIN CALCIUM | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA079170 | ROSUVASTATIN CALCIUM | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| ANDA079172 | ROSUVASTATIN CALCIUM | GLENMARK SPECLT | Tablet; oral | Valid |
+| ANDA201619 | ROSUVASTATIN CALCIUM | TORRENT | Tablet; oral | Valid |
+
+Showing 5 of 32 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Indication text is not available in these records. Dosage forms are oral tablets (film coated and uncoated).
 

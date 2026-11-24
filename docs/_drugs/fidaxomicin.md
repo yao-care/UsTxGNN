@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "FIDAXOMICIN"
 predicted_indications: ["staphylococcal scalded skin syndrome", "bullous impetigo", "inhalational botulism", "impetigo", "toxin-mediated infectious botulism", "vulvovaginal candidiasis", "hordeolum", "staphylococcus aureus pneumonia", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fidaxomicin: predicted new indication Staphylococcal scalded skin syndrome (evidence level L5). In the US: 7 FDA applications (7 active)"
 ---
 
@@ -79,13 +79,19 @@ No literature is linked to the top-ranked prediction. The only publication linke
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA201699 | Dificid (Merck Sharp & Dohme LLC) | Film-coated tablet | Not available; status valid |
-| NDA213138 | Dificid (Merck Sharp & Dohme LLC) | Granule for suspension | Not available; status valid |
-| ANDA208443 | Fidaxomicin (Teva Pharmaceuticals, Inc.) | Film-coated tablet | Not available; status valid |
-| ANDA219559 | Fidaxomicin (Apotex Corp.) | Film-coated tablet | Not available; status valid |
-| ANDA220374 | Fidaxomicin (Torrent Pharmaceuticals Limited) | Film-coated tablet | Not available; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208443 | FIDAXOMICIN | ACTAVIS LABS FL | Tablet; oral | Valid |
+| ANDA219559 | FIDAXOMICIN | APOTEX | Tablet; oral | Valid |
+| ANDA219737 | FIDAXOMICIN | HIKMA | Tablet; oral | Valid |
+| ANDA220374 | FIDAXOMICIN | TORRENT | Tablet; oral | Valid |
+| ANDA220465 | FIDAXOMICIN | SANDOZ | Tablet; oral | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

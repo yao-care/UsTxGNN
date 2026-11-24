@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 958
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nebivolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertensive disorder / hypertension"
 monitor_inn: "NEBIVOLOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
@@ -82,13 +82,19 @@ Oral tablets only. The drug is marketed, and no approved indication text is avai
 
 <!-- review:end us-lic-20261106-nebivolol-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021742 | Bystolic (Allergan, Inc.) | Tablet | Not available |
-| ANDA203966 | Nebivolol (Torrent Pharmaceuticals Limited) | Tablet | Not available |
-| ANDA203659 | Nebivolol (Golden State Medical Supply, Inc.) | Tablet | Not available |
-| ANDA212682 | Nebivolol (A-S Medication Solutions) | Tablet | Not available |
-| ANDA203825 | Nebivolol (Camber Pharmaceuticals, Inc.) | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA203659 | NEBIVOLOL HYDROCHLORIDE | ANI PHARMS | Tablet; oral | Valid |
+| ANDA203821 | NEBIVOLOL HYDROCHLORIDE | GLENMARK PHARMS LTD | Tablet; oral | Valid |
+| ANDA203825 | NEBIVOLOL HYDROCHLORIDE | HETERO LABS LTD III | Tablet; oral | Valid |
+| ANDA203828 | NEBIVOLOL HYDROCHLORIDE | INDCHEMIE HEALTH | Tablet; oral | Valid |
+| ANDA208717 | NEBIVOLOL HYDROCHLORIDE | CADILA PHARMS LTD | Tablet; oral | Valid |
+
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

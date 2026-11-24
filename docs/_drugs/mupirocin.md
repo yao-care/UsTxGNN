@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "MUPIROCIN"
 predicted_indications: ["pleural empyema (disease)", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mupirocin: predicted new indication Pleural empyema (evidence level L5). Approved use: Impetigo, bullous impetigo"
 ---
 
@@ -78,13 +78,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA065170 | Mupirocin (Proficient Rx LP) | Ointment | Not stated; license valid |
-| ANDA065123 | Mupirocin (Bryant Ranch Prepack) | Ointment | Not stated; license valid |
-| ANDA065085 | Mupirocin (Teva Pharmaceuticals USA, Inc.) | Ointment | Not stated; license valid |
-| ANDA090480 | Mupirocin (Preferred Pharmaceuticals Inc.) | Ointment | Not stated; license valid |
-| ANDA217943 | Mupirocin (Encube Ethicals, Inc.) | Ointment | Not stated; license valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA065085 | MUPIROCIN | TEVA | Ointment; topical | Valid |
+| ANDA065123 | MUPIROCIN | PADAGIS ISRAEL | Ointment; topical | Valid |
+| ANDA065170 | MUPIROCIN | SUN PHARMA CANADA | Ointment; topical | Valid |
+| ANDA065192 | MUPIROCIN | FOUGERA PHARMS | Ointment; topical | Valid |
+| ANDA090480 | MUPIROCIN | GLENMARK PHARMS | Ointment; topical | Valid |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

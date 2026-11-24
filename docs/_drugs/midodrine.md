@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 927
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MIDODRINE"
 predicted_indications: ["variably protease-sensitive prionopathy", "faciodigitogenital syndrome", "attention deficit-hyperactivity disorder", "hypotensive disorder", "attention deficit hyperactivity disorder, inattentive type", "sinoatrial node disease", "monogenic obesity", "specific developmental disorder", "obsolete hypertelorism (disease)", "sinoatrial block"]
 description: "Midodrine: predicted new indication Variably protease-sensitive prionopathy (evidence level L5). In the US: 15 FDA applications (12 active)"
@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The records contain no approved-indication text. The first five are listed below.
+The records contain no approved-indication text.
 
 <!-- review:begin us-lic-20261105-midodrine-1 -->
 
@@ -80,13 +80,19 @@ The records contain no approved-indication text. The first five are listed below
 
 <!-- review:end us-lic-20261105-midodrine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA212774 | Midodrine Hydrochloride (Bryant Ranch Prepack) | Tablet | Not specified |
-| ANDA217271 | Midodrine Hydrochloride (First Nation Group, LLC) | Tablet | Not specified |
-| ANDA207169 | Midodrine Hydrochloride (Bryant Ranch Prepack) | Tablet | Not specified |
-| ANDA214734 | Midodrine Hydrochloride (Alembic Pharmaceuticals Inc.) | Tablet | Not specified |
-| ANDA212543 | Midodrine Hydrochloride (TruPharma, LLC) | Tablet | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076577 | MIDODRINE HYDROCHLORIDE | MYLAN PHARMS INC | Tablet; oral | Valid |
+| ANDA076725 | ORVATEN | BEIJING YILING | Tablet; oral | Valid |
+| ANDA077746 | MIDODRINE HYDROCHLORIDE | APOTEX | Tablet; oral | Valid |
+| ANDA207169 | MIDODRINE HYDROCHLORIDE | PH HEALTH | Tablet; oral | Valid |
+| ANDA207613 | MIDODRINE HYDROCHLORIDE | UNIQUE | Tablet; oral | Valid |
+
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

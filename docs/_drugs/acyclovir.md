@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ACYCLOVIR"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acyclovir: predicted new indication punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 100 FDA applications (49 active)"
 ---
 
@@ -73,13 +73,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075382 | Acyclovir | Tablet | Not recorded |
-| ANDA074889 | Acyclovir | Capsule | Not recorded |
-| ANDA215404 | Acyclovir | Injection, solution | Not recorded |
-| ANDA212202 | Acyclovir | Ointment | Not recorded |
-| ANDA212361 | Acyclovir | Cream | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074556 | ACYCLOVIR | TEVA | Tablet; oral | Valid |
+| ANDA074578 | ACYCLOVIR | TEVA | Capsule; oral | Valid |
+| ANDA074738 | ACYCLOVIR | ACTAVIS MID ATLANTIC | Suspension; oral | Valid |
+| ANDA074889 | ACYCLOVIR | HERITAGE | Capsule; oral | Valid |
+| ANDA074891 | ACYCLOVIR | HERITAGE | Tablet; oral | Valid |
+
+Showing 5 of 100 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The data include at least 16 licence records, and this list may be partial. Several records in the data are for valacyclovir products, and only the acyclovir-named records are listed above.
 

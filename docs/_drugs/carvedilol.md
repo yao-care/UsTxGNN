@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 502
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "CARVEDILOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 description: "Carvedilol: predicted new indication Malignant hypertensive renal disease (evidence level L5). In the US: 21 FDA applications (14 active)"
@@ -93,13 +93,19 @@ For reference, the closest evidence found for the fourth-ranked prediction (pulm
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA204717 | Carvedilol Phosphate (AvKARE) | Capsule, extended release | Not available |
-| ANDA077614 | Carvedilol (A-S Medication Solutions) | Tablet, film coated | Not available |
-| ANDA078384 | Carvedilol (Golden State Medical Supply) | Tablet, film coated | Not available |
-| ANDA076373 | Carvedilol (Teva) | Tablet, film coated | Not available |
-| ANDA078786 | Carvedilol (Method Pharmaceuticals) | Tablet, film coated | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076373 | CARVEDILOL | TEVA | Tablet; oral | Valid |
+| ANDA076649 | CARVEDILOL | RISING | Tablet; oral | Valid |
+| ANDA077474 | CARVEDILOL | CHARTWELL MOLECULAR | Tablet; oral | Valid |
+| ANDA077614 | CARVEDILOL | ZYDUS PHARMS USA INC | Tablet; oral | Valid |
+| ANDA078165 | CARVEDILOL | RUBICON RESEARCH | Tablet; oral | Valid |
+
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

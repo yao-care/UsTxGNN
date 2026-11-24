@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 2
 monitor_inn: "PHENYLALANINE"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Phenylalanine: predicted new indication Sclerosing cholangitis (evidence level L4). Approved use: Not available (the approved indication text is empty)"
 ---
 
@@ -87,9 +87,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available (cancelled) | Phenylalanine Phenolic (Energique, Inc.) | Liquid | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 43857-0439 | Phenylalanine | BioActive Nutritional, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 44911-0412 | Phenylalanine Phenolic | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 63083-1532 | Phenylalanine 1532 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43742-1644 | Egg Allergen Mix | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-259 | OSTEOBIOS | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1214
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Teriflunomide: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,22 +72,26 @@ All candidates produced by the TxGNN model for Teriflunomide that can be traced 
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| ANDA209700 | Teriflunomide | TABLET, FILM COATED | Valid |
-| ANDA218663 | TERIFLUNOMIDE | TABLET, FILM COATED | Valid |
-| NDA202992 | teriflunomide | TABLET, FILM COATED | Valid |
-| ANDA209702 | Teriflunomide | TABLET, FILM COATED | ANDA (Discontinued in Drugs@FDA) |
-| ANDA209668 | Teriflunomide | TABLET, FILM COATED | Valid |
-| ANDA209572 | TERIFLUNOMIDE | TABLET, FILM COATED | Valid |
-| ANDA209639 | Teriflunomide | TABLET, FILM COATED | Valid |
-| ANDA209623 | Teriflunomide | TABLET, FILM COATED | Valid |
-| ANDA209638 | Teriflunomide | TABLET | Valid |
-| ANDA209598 | Teriflunomide | TABLET, FILM COATED | Valid |
-| ANDA209663 | teriflunomide | TABLET, FILM COATED | Valid |
-| ANDA209555 | Teriflunomide | TABLET | Valid |
+<!-- licenses:begin -->
 
-Only part of the licence list is held in the data; the list may be incomplete.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA209555 | TERIFLUNOMIDE | NATCO | Tablet; oral | Valid |
+| ANDA209572 | TERIFLUNOMIDE | ALEMBIC | Tablet; oral | Valid |
+| ANDA209598 | TERIFLUNOMIDE | HETERO LABS LTD V | Tablet; oral | Valid |
+| ANDA209623 | TERIFLUNOMIDE | MSN | Tablet; oral | Valid |
+| ANDA209638 | TERIFLUNOMIDE | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA209639 | TERIFLUNOMIDE | BIOCON PHARMA | Tablet; oral | Valid |
+| ANDA209663 | TERIFLUNOMIDE | GLENMARK SPECLT | Tablet; oral | Valid |
+| ANDA209668 | TERIFLUNOMIDE | ZYDUS PHARMS | Tablet; oral | Valid |
+| ANDA209677 | TERIFLUNOMIDE | SOLA PHARMS | Tablet; oral | Valid |
+| ANDA209690 | TERIFLUNOMIDE | ACCORD HLTHCARE | Tablet; oral | Valid |
+| ANDA209700 | TERIFLUNOMIDE | TEVA PHARMS USA | Tablet; oral | Valid |
+| ANDA209710 | TERIFLUNOMIDE | SANDOZ | Tablet; oral | Valid |
+
+Showing 12 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

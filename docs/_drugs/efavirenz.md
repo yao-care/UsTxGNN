@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EFAVIRENZ"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Efavirenz: predicted new indication Feline acquired immunodeficiency syndrome (a veterinary indication) (evidence level L5). Approved use: HIV infectious disease"
 ---
 
@@ -95,13 +95,19 @@ For the second prediction (SIV infection), the most relevant publications are RT
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022142 | SYMFI | Film-coated tablet | Not specified in the data |
-| ANDA204766 | Efavirenz (Cipla USA) | Film-coated tablet | Not specified in the data |
-| ANDA078064 | Efavirenz (Aurobindo) | Capsule | Not specified in the data |
-| ANDA091579 | Efavirenz (Macleods) | Tablet | Not specified in the data |
-| ANDA203053 | Efavirenz/Emtricitabine/Tenofovir DF (Camber) | Film-coated tablet | Not specified in the data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077673 | EFAVIRENZ | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| ANDA078064 | EFAVIRENZ | AUROBINDO PHARMA | Capsule; oral | Valid |
+| ANDA078886 | EFAVIRENZ | HETERO LABS LTD III | Tablet; oral | Valid |
+| ANDA091579 | EFAVIRENZ | MACLEODS PHARMS | Tablet; oral | Valid |
+| ANDA204766 | EFAVIRENZ | CIPLA | Tablet; oral | Valid |
+
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

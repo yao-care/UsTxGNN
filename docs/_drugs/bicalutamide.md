@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "BICALUTAMIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bicalutamide: predicted new indication Hypertrichosis (disease) (evidence level L4). In the US: 15 FDA applications (8 active)"
 ---
 
@@ -72,12 +72,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020498 | Bicalutamide (ANI Pharmaceuticals) | Tablet | Not recorded in local data |
-| ANDA078917 | Bicalutamide (Proficient Rx) | Tablet | Not recorded in local data |
-| ANDA079110 | Bicalutamide (Sun Pharmaceutical) | Film-coated tablet | Not recorded in local data |
-| ANDA079089 | Bicalutamide (Pinnacle Life Science) | Tablet | Not recorded in local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078575 | BICALUTAMIDE | SANDOZ | Tablet; oral | Valid |
+| ANDA078634 | BICALUTAMIDE | WATSON LABS TEVA | Tablet; oral | Valid |
+| ANDA078917 | BICALUTAMIDE | ACCORD HLTHCARE | Tablet; oral | Valid |
+| ANDA079089 | BICALUTAMIDE | ADAPTIS | Tablet; oral | Valid |
+| ANDA079110 | BICALUTAMIDE | SUN PHARM | Tablet; oral | Valid |
+
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "CYCLOSPORINE"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyclosporine: predicted new indication Granulomatous disease, chronic, autosomal recessive (evidence level L4). Approved use: Rheumatoid arthritis, dry eye syndrome, xerophthalmia…"
 ---
 
@@ -82,13 +82,19 @@ Approved indication text was not available for any of them. Main examples:
 
 <!-- review:end us-lic-20261105-cyclosporine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050715 | Neoral (Novartis) | Capsule, liquid filled | Not available |
-| NDA050790 | Restasis MultiDose (Allergan) | Emulsion | Not available |
-| NDA210913 | CEQUA (Sun Pharmaceutical) | Solution/drops | Not available |
-| NDA217469 | VEVYE (Harrow Eye) | Solution/drops | Not available |
-| NDA214965 | Verkazia (Harrow Eye) | Emulsion | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA065003 | GENGRAF | ABBVIE | Capsule; oral | Valid |
+| ANDA065004 | CYCLOSPORINE | HIKMA | Injectable; injection | Valid |
+| ANDA065017 | CYCLOSPORINE | SANDOZ | Capsule; oral | Valid |
+| ANDA065040 | CYCLOSPORINE | APOTEX | Capsule; oral | Valid |
+| ANDA065044 | CYCLOSPORINE | DR REDDYS LABS SA | Capsule; oral | Valid |
+
+Showing 5 of 38 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

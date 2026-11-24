@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 944
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MOXIFLOXACIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
 description: "Moxifloxacin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). In the US: 31 FDA applications (23 active)"
@@ -69,7 +69,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The drug is marketed in the US. The five main ones are listed below. Approved indication text was not available.
+The drug is marketed in the US. Approved indication text was not available.
 
 <!-- review:begin us-lic-20261106-moxifloxacin-1 -->
 
@@ -83,13 +83,19 @@ The drug is marketed in the US. The five main ones are listed below. Approved in
 
 <!-- review:end us-lic-20261106-moxifloxacin-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA202632 | Moxifloxacin Hydrochloride (Bryant Ranch Prepack) | Tablet, film coated | Not specified |
-| ANDA212616 | Moxifloxacin Hydrochloride (Upsher-Smith) | Solution | Not specified |
-| NDA205572 | Moxifloxacin (Hp Halden Pharma AS) | Injection, solution | Not specified |
-| NDA021598 | Moxifloxacin Ophthalmic Solution (Sandoz) | Solution/drops | Not specified |
-| ANDA208682 | Moxifloxacin Hydrochloride Tablets, 400 mg (Novadoz) | Tablet, film coated | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076938 | MOXIFLOXACIN HYDROCHLORIDE | DR REDDYS | Tablet; oral | Valid |
+| ANDA077437 | MOXIFLOXACIN HYDROCHLORIDE | TEVA PHARMS USA | Tablet; oral | Valid |
+| ANDA090080 | MOXIFLOXACIN HYDROCHLORIDE | APOTEX | Solution/drops; ophthalmic | Valid |
+| ANDA202525 | MOXIFLOXACIN HYDROCHLORIDE | REGCON HOLDINGS | Solution/drops; ophthalmic | Valid |
+| ANDA202632 | MOXIFLOXACIN HYDROCHLORIDE | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+
+Showing 5 of 31 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

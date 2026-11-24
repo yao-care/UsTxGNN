@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 921
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metronidazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Anaerobic bacterial infections (e.g., peritonitis, endocarditis…"
 monitor_inn: "METRONIDAZOLE"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
@@ -101,13 +101,19 @@ The drug is marketed in the US.
 
 <!-- review:end us-lic-20261106-metronidazole-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA076408 | Metronidazole (Fougera) | Cream | Not available |
-| ANDA205245 | Metronidazole (NuCare) | Tablet | Not available |
-| ANDA079067 | Metronidazole (AvPAK) | Tablet | Not available |
-| ANDA203458 | Metronidazole (Redpharm Drug) | Tablet, film coated | Not available |
-| NDA216755 | LIKMEZ (Saptalis) | Suspension | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070027 | METRONIDAZOLE | TEVA PHARMS USA | Tablet; oral | Valid |
+| ANDA070033 | METRONIDAZOLE | PLIVA | Tablet; oral | Valid |
+| ANDA070035 | METRONIDAZOLE | WATSON LABS | Tablet; oral | Valid |
+| ANDA070044 | METRONIDAZOLE | WATSON LABS INC | Tablet; oral | Valid |
+| ANDA070772 | METRONIDAZOLE | INNOGENIX | Tablet; oral | Valid |
+
+Showing 5 of 100 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

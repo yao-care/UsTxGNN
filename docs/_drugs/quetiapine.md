@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "QUETIAPINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Quetiapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). In the US: 41 FDA applications (28 active)"
 ---
 
@@ -90,13 +90,19 @@ The drug is marketed in the US. The data compiled for this report does not inclu
 
 <!-- review:end us-lic-20261106-quetiapine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020639 | SEROQUEL (H2-Pharma) | Film-coated tablet | Not available |
-| ANDA091388 | Quetiapine Fumarate (NorthStar Rx) | Film-coated tablet | Not available |
-| ANDA201190 | Quetiapine Fumarate (Sun Pharmaceutical) | Film-coated tablet | Not available |
-| ANDA207655 | Quetiapine Fumarate (Aurobindo) | Film-coated extended-release tablet | Not available |
-| ANDA204203 | Quetiapine (Major Pharmaceuticals) | Film-coated extended-release tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077380 | QUETIAPINE FUMARATE | RISING | Tablet; oral | Valid |
+| ANDA077745 | QUETIAPINE FUMARATE | TEVA PHARMS | Tablet; oral | Valid |
+| ANDA090120 | QUETIAPINE FUMARATE | HIKMA | Tablet; oral | Valid |
+| ANDA090681 | QUETIAPINE FUMARATE | ACCORD HLTHCARE | Tablet, extended release; oral | Valid |
+| ANDA090749 | QUETIAPINE FUMARATE | HIKMA | Tablet; oral | Valid |
+
+Showing 5 of 41 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

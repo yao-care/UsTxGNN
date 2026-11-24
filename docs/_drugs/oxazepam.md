@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "OXAZEPAM"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oxazepam: predicted new indication Insomnia (evidence level L3). Approved use: Alcohol withdrawal delirium"
 ---
 
@@ -82,11 +82,19 @@ The remaining retrieved publications (a paroxetine review in panic disorder, an 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA072253 | Oxazepam (American Health Packaging) | Capsule, gelatin coated | Not available (valid) |
-| ANDA218261 | Oxazepam (Leading Pharma, LLC) | Capsule | Not available (valid) |
-| ANDA071026 | Oxazepam (TruPharma, LLC) | Capsule | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071026 | OXAZEPAM | TP ANDA HOLDINGS | Capsule; oral | Valid |
+| ANDA071756 | OXAZEPAM | EPIC PHARMA LLC | Capsule; oral | Valid |
+| ANDA072253 | OXAZEPAM | ACTAVIS ELIZABETH | Capsule; oral | Valid |
+| ANDA218261 | OXAZEPAM | LEADING | Capsule; oral | Valid |
+| ANDA070640 | ZAXOPAM | QUANTUM PHARMICS | Capsule; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

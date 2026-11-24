@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "OXACILLIN"
 predicted_indications: ["epiglottitis", "laryngitis", "bacterial arthritis", "urinary tract infection (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oxacillin: predicted new indication Epiglottitis (evidence level L5). In the US: 31 FDA applications (9 active)"
 ---
 
@@ -85,13 +85,19 @@ No approved indication text is recorded for any of them.
 
 <!-- review:end us-lic-20261106-oxacillin-3 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA206198 | Oxacillin (Fresenius Kabi USA) | Injection, powder, for solution | Not recorded |
-| ANDA201539 | Oxacillin (Eugia US) | Injection, powder, for solution | Not recorded |
-| ANDA091486 | Oxacillin (Onesource Specialty Pharma) | Injection, powder, for solution | Not recorded |
-| ANDA201538 | Oxacillin (Eugia US) | Powder, for solution | Not recorded |
-| ANDA207148 | Oxacillin (Wockhardt USA) | Injection, powder, for solution | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091245 | OXACILLIN SODIUM | SAGENT PHARMS | Injectable; injection | Valid |
+| ANDA091486 | OXACILLIN SODIUM | ONESOURCE SPECIALTY | Injectable; injection | Valid |
+| ANDA201538 | OXACILLIN SODIUM | EUGIA PHARMA SPECLTS | Injectable; injection | Valid |
+| ANDA201539 | OXACILLIN SODIUM | EUGIA PHARMA SPECLTS | Injectable; injection | Valid |
+| ANDA206198 | OXACILLIN SODIUM | FRESENIUS KABI USA | Injectable; injection | Valid |
+
+Showing 5 of 31 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

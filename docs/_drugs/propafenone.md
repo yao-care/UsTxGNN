@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1090
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PROPAFENONE"
 predicted_indications: ["manic bipolar affective disorder", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]
 description: "Propafenone: predicted new indication Manic bipolar affective disorder (evidence level L5). In the US: 18 FDA applications (11 active)"
@@ -84,13 +84,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA202445 | Propafenone Hydrochloride (Aurobindo) | Tablet, film coated | Not recorded |
-| ANDA214184 | Propafenone Hydrochloride (Zydus) | Capsule, extended release | Not recorded |
-| ANDA213096 | Propafenone Hydrochloride (Aurobindo) | Capsule, extended release | Not recorded |
-| ANDA075938 | Propafenone Hydrochloride (Strides) | Tablet, film coated | Not recorded |
-| ANDA210339 | Propafenone Hydrochloride (Vitruvias) | Capsule, extended release | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075938 | PROPAFENONE HYDROCHLORIDE | STRIDES PHARMA INTL | Tablet; oral | Valid |
+| ANDA076550 | PROPAFENONE HYDROCHLORIDE | ANI PHARMS | Tablet; oral | Valid |
+| ANDA078540 | PROPAFENONE HYDROCHLORIDE | STRIDES PHARMA INTL | Capsule, extended release; oral | Valid |
+| ANDA202445 | PROPAFENONE HYDROCHLORIDE | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA202688 | PROPAFENONE HYDROCHLORIDE | WATSON LABS INC | Capsule, extended release; oral | Valid |
+
+Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Four further cancelled ANDAs (Northstar, Strides, Rising, Bryant Ranch Prepack) are not listed.
 

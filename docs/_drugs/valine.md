@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "VALINE"
 predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Valine: predicted new indication Sclerosing cholangitis (evidence level L4). In the US: no FDA-approved application; 13 OTC monograph/unapproved NDC listings"
 ---
 
@@ -84,9 +84,19 @@ Both papers are observational and none tests valine as an intervention.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | L-Valine High (Professional Complementary Health Formulas) | Liquid | Not available (status: cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 63083-7429 | L-Valine 7429 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 63083-7430 | L-Valine High 7430 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43857-0428 | Strength M | BioActive Nutritional, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43857-0650 | Strength F | BioActive Nutritional, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43857-0073 | Cardio Tonic | BioActive Nutritional, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

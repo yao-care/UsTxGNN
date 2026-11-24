@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1264
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TRIMETHOPRIM"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 description: "Trimethoprim: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 84 FDA applications (22 active)"
@@ -89,13 +89,19 @@ The drug is marketed in the US. Approved-indication text was not available.
 
 <!-- review:end us-lic-20261106-trimethoprim-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA018679 | Trimethoprim (Dr. Reddy's) | Tablet | Valid |
-| ANDA091437 | Trimethoprim (Lupin) | Tablet | Valid |
-| ANDA216393 | Trimethoprim (Novitium) | Tablet | Valid |
-| ANDA064120 | Polymyxin B Sulfate and Trimethoprim (Proficient Rx) | Solution/drops | Valid |
-| ANDA064211 | Polymyxin B Sulfate and Trimethoprim (NuCare) | Solution | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070049 | TRIMETHOPRIM | WATSON LABS | Tablet; oral | Valid |
+| ANDA091437 | TRIMETHOPRIM | NOVEL LABS INC | Tablet; oral | Valid |
+| ANDA216393 | TRIMETHOPRIM | NOVITIUM PHARMA | Tablet; oral | Valid |
+| ANDA221194 | TRIMETHOPRIM | BIONPHARMA | Tablet; oral | Valid |
+| NDA018679 | TRIMETHOPRIM | DR REDDYS LABS SA | Tablet; oral | Valid |
+
+Showing 5 of 84 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

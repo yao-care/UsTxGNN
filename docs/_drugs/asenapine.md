@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ASENAPINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Asenapine: predicted new indication retinal dystrophy with or without extraocular anomalies (evidence level L5). In the US: 5 FDA applications (5 active)"
 ---
 
@@ -69,15 +69,17 @@ Currently no related literature available for this predicted indication.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA205960 | Asenapine | Tablet | Not recorded |
-| ANDA206107 | ASENAPINE | Tablet | Not recorded |
-| ANDA206098 | Asenapine | Tablet | Not recorded |
-| NDA022117 | SAPHRIS | Tablet | Not recorded |
-| NDA212268 | SECUADO | Film, extended release | Not recorded |
+<!-- licenses:begin -->
 
-The licence list may be partial.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205960 | ASENAPINE MALEATE | BRECKENRIDGE | Tablet; sublingual | Valid |
+| ANDA206098 | ASENAPINE MALEATE | ALEMBIC | Tablet; sublingual | Valid |
+| ANDA206107 | ASENAPINE MALEATE | SIGMAPHARM LABS LLC | Tablet; sublingual | Valid |
+| NDA022117 | SAPHRIS | ABBVIE | Tablet; sublingual | Valid |
+| NDA212268 | SECUADO | HISAMITSU | System; transdermal | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

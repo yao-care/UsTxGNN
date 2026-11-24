@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "DIGOXIN"
 predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Digoxin: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Atrial fibrillation"
 ---
 
@@ -75,13 +75,19 @@ Currently no related clinical trials registered.
 
 The drug is marketed in the US with 11 valid authorizations; approved indication text was not available in the compiled data. The main authorizations are:
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020405 | LANOXIN (Advanz Pharma) | Tablet | Not available |
-| NDA009330 | LANOXIN (Covis Pharma) | Injection, solution | Not available |
-| ANDA083391 | Digoxin (Hikma) | Injection | Not available |
-| ANDA040481 | Digoxin (Sandoz) | Injection, solution | Not available |
-| ANDA215209 | Digoxin (Amici Pharma) | Solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040282 | DIGOXIN | RISING | Tablet; oral | Valid |
+| ANDA040481 | DIGOXIN | SANDOZ | Injectable; injection | Valid |
+| ANDA076268 | DIGOXIN | STEVENS J | Tablet; oral | Valid |
+| ANDA077002 | DIGOXIN | HIKMA | Tablet; oral | Valid |
+| ANDA083391 | DIGOXIN | HIKMA | Injectable; injection | Valid |
+
+Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GARLIC"
 predicted_indications: ["gastrin secretion abnormality", "endometriosis of uterus", "cerebral infarction", "renal hypoplasia, bilateral", "multiple endocrine neoplasia", "renal hypoplasia (disease)", "gelatinous drop-like corneal dystrophy", "HIV infectious disease", "cervix endometriosis", "endometriosis of rectovaginal septum and vagina"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Garlic: predicted new indication Gastrin secretion abnormality (evidence level L5). In the US: 2 FDA applications (2 active), plus 106 OTC monograph/unapproved NDC listings"
 ---
 
@@ -116,11 +116,19 @@ For reference, the most relevant publications for the best-supported alternative
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Allium Sativum (Hahnemann Laboratories) | Pellet | Not available |
-| BLA103753 | Garlic (ALK-Abello) | Injection, solution | Not available |
-| BLA101833 | Garlic (Greer Laboratories) | Solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA101833 | Garlic | Greer Laboratories, Inc. | Solution; intradermal, percutaneous, subcutaneous | Valid |
+| BLA103753 | GARLIC | ALK-Abello, Inc. | Injection, solution; percutaneous | Valid |
+| NDC 0220-0177 | Allium sativum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-0186 | Allium sativum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 37662-3528 | Allium Sativum | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 108 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

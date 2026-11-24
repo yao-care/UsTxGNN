@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1250
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TRASTUZUMAB"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab: predicted new indication Malignant cutaneous granular cell skin tumor (evidence level L5). In the US: 9 FDA applications (9 active)"
@@ -99,13 +99,19 @@ The data compiled for this report do not include approved indication text for an
 
 <!-- review:end us-lic-20261106-trastuzumab-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA103792 | Herceptin | Injection, powder, lyophilized, for solution | Not available |
-| BLA761106 | Herceptin Hylecta | Injection, solution | Not available |
-| BLA761170 | Phesgo | Injection, solution | Not available |
-| BLA761073 | Kanjinti | Injection, powder, lyophilized, for solution | Not available |
-| BLA761081 | Trazimera | Injection, powder, lyophilized, for solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA103792 | HERCEPTIN | GENENTECH | Vial; intravenous | Valid |
+| BLA761073 | KANJINTI | AMGEN INC | Vial; single-dose | Valid |
+| BLA761074 | OGIVRI | MYLAN GMBH | Injectable; injection | Valid |
+| BLA761081 | TRAZIMERA | PFIZER INC | Injectable; injection | Valid |
+| BLA761091 | HERZUMA | CELLTRION INC | Injectable; injection | Valid |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Four further listings are not shown: HERZUMA (BLA761091), OGIVRI (BLA761074), HERCESSI (BLA761346) and Ontruzant (BLA761100).
 

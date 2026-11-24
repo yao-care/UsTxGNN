@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "MEPERIDINE"
 predicted_indications: ["Tourette syndrome", "trichotillomania"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Meperidine: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -78,13 +78,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA021171 | DEMEROL (Hospira, Inc.) | Injection, solution | Valid |
-| ANDA088744 | Meperidine Hydrochloride (Hikma) | Solution | Valid |
-| ANDA080445 | Meperidine Hydrochloride (Hikma) | Injection | Valid |
-| ANDA040331 | Meperidine Hydrochloride (Epic Pharma) | Tablet | Valid |
-| ANDA040893 | Meperidine Hydrochloride (Genus Lifesciences) | Tablet | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040331 | MEPERIDINE HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Valid |
+| ANDA040893 | MEPERIDINE HYDROCHLORIDE | GENUS | Tablet; oral | Valid |
+| ANDA080445 | MEPERIDINE HYDROCHLORIDE | WEST-WARD PHARMS INT | Injectable; injection | Valid |
+| ANDA080455 | MEPERIDINE HYDROCHLORIDE | WEST-WARD PHARMS INT | Injectable; injection | Valid |
+| ANDA081002 | MEPERIDINE HYDROCHLORIDE PRESERVATIVE FREE | WEST-WARD PHARMS INT | Injectable; injection | Valid |
+
+Showing 5 of 49 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

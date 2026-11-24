@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "DIAZEPAM"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diazepam: predicted new indication Insomnia (disease) (evidence level L2). In the US: 97 FDA applications (31 active)"
 ---
 
@@ -105,13 +105,19 @@ The US market status is **Marketed**. The list may be partial. Approved-indicati
 
 <!-- review:end us-lic-20261106-diazepam-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA217843 | Diazepam | Tablet | Not available |
-| NDA020648 | Diazepam | Gel | Not available |
-| NDA211635 | Valtoco | Spray | Not available |
-| ANDA218422 | Diazepam | Injection, solution | Not available |
-| ANDA206477 | Diazepam | Solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070311 | DIAZEPAM | HIKMA | Injectable; injection | Valid |
+| ANDA070313 | DIAZEPAM | HIKMA | Injectable; injection | Valid |
+| ANDA070325 | DIAZEPAM | MYLAN | Tablet; oral | Valid |
+| ANDA070464 | DIAZEPAM | NUVO PHARM | Tablet; oral | Valid |
+| ANDA070928 | DIAZEPAM | HIKMA | Solution; oral | Valid |
+
+Showing 5 of 97 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

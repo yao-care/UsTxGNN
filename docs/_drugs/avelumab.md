@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "AVELUMAB"
 predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "adenosine deaminase deficiency", "reticular dysgenesis", "Immunoerythromyeloid hypoplasia", "non-severe combined immunodeficiency", "kidney pelvis sarcomatoid transitional cell carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Avelumab: predicted new indication human herpesvirus 8-related tumor (evidence level L5). In the US: 2 FDA applications (2 active)"
 ---
 
@@ -71,9 +71,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761049 | BAVENCIO | Injection, solution, concentrate | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761049 | BAVENCIO | EMD SERONO INC | Injectable; injection | Valid |
+| BLA761078 | BAVENCIO | EMD SERONO INC | Injectable; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "LOMUSTINE"
 predicted_indications: ["lymphosarcoma", "malignant tumor of meninges", "spinal cord cancer"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lomustine: predicted new indication Lymphosarcoma (evidence level L4). In the US: 2 FDA applications (2 active)"
 ---
 
@@ -94,10 +94,14 @@ These trials study related lymphoma populations, not lymphosarcoma specifically.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA017588 | Gleostine (Azurity Pharmaceuticals) | Capsule, gelatin coated | Not available (valid) |
-| ANDA219265 | Lomustine (Carnegie Pharmaceuticals) | Capsule | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA219265 | LOMUSTINE | CARNEGIE | Capsule; oral | Valid |
+| NDA017588 | GLEOSTINE | AZURITY | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

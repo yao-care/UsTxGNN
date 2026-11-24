@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ZAFIRLUKAST"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). In the US: 5 FDA applications (5 active)"
 ---
 
@@ -69,12 +69,17 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020547 (Strides Pharma Science) | Zafirlukast | Tablet, coated | Not available |
-| ANDA213163 (Aurobindo Pharma) | Zafirlukast | Tablet, film coated | Not available |
-| ANDA090372 (American Health Packaging) | Zafirlukast | Tablet, film coated | Not available |
-| ANDA212475 (Bryant Ranch Prepack) | Zafirlukast | Tablet, film coated | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090372 | ZAFIRLUKAST | DR REDDYS LABS LTD | Tablet; oral | Valid |
+| ANDA204928 | ZAFIRLUKAST | RISING PHARMS | Tablet; oral | Valid |
+| ANDA212475 | ZAFIRLUKAST | ANNORA PHARMA | Tablet; oral | Valid |
+| ANDA213163 | ZAFIRLUKAST | AUROBINDO PHARMA | Tablet; oral | Valid |
+| NDA020547 | ACCOLATE | STRIDES PHARMA INTL | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 All products are single-ingredient oral tablets.
 

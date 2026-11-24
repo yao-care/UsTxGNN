@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CHLOROPROCAINE"
 predicted_indications: ["cauda equina syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chloroprocaine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not stated in the available data (used as a local anesthetic)"
 ---
 
@@ -76,11 +76,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA009435 | Nesacaine | Injection, solution | Not listed (valid) |
-| NDA216227 | IHEEZO | Gel | Not listed (valid) |
-| ANDA040273 | Chloroprocaine Hydrochloride | Injection, solution | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040273 | CHLOROPROCAINE HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| NDA009435 | NESACAINE-MPF | FRESENIUS KABI USA | Injectable; injection | Valid |
+| NDA216227 | IHEEZO | HARROW EYE | Gel; ophthalmic | Valid |
+| ANDA087446 | CHLOROPROCAINE HYDROCHLORIDE | HOSPIRA | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA087447 | CHLOROPROCAINE HYDROCHLORIDE | HOSPIRA | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

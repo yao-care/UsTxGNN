@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CAMPHOR"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Camphor: predicted new indication migraine disorder (evidence level L5). In the US: no FDA-approved application; 726 OTC monograph/unapproved NDC listings"
 ---
 
@@ -75,15 +75,19 @@ None of these studies directly examines camphor as a treatment for migraine diso
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| nan | Owell Naturals Draw Salve with Camphor 2.0 oz. | Salve | Not recorded |
-| M012 | Quality Choice Vapor Steam | Liquid | Not recorded |
-| M017 | 365 Medicated Lip Balm | Stick | Not recorded |
-| part341 | Discount Drug Mart Value Vapor Steam | Liquid | Not recorded |
-| part348 | Cirlutone | Ointment | Not recorded |
+<!-- licenses:begin -->
 
-The list may be partial.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0220-1121 | Camphora | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-1122 | Camphora | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-5349 | Camphora | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0363-0055 | Vaporizing | Walgreen Co. | Inhalant | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0395-0467 | HUMCO Camphor Spirit | Humco Holding Group, Inc. | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 726 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

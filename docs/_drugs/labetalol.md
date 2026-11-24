@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 827
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LABETALOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 description: "Labetalol: predicted new indication Malignant hypertensive renal disease (evidence level L5). In the US: 34 FDA applications (21 active)"
@@ -87,13 +87,19 @@ Currently no related clinical trials registered.
 
 No approved indication text is available for them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA209603 | Labetalol Hydrochloride (Golden State Medical Supply) | Tablet, film coated | Not available |
-| ANDA211953 | Labetalol Hydrochloride (RemedyRepack) | Tablet, film coated | Not available |
-| ANDA075215 | Labetalol Hydrochloride (Bryant Ranch Prepack) | Tablet, film coated | Not available |
-| ANDA076051 | Labetalol Hydrochloride (Baxter Healthcare) | Injection, solution | Not available |
-| ANDA075303 | Labetalol Hydrochloride (Hikma) | Injection | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074787 | LABETALOL HYDROCHLORIDE | HERITAGE PHARMA | Tablet; oral | Valid |
+| ANDA075113 | LABETALOL HYDROCHLORIDE | AIPING PHARM INC | Tablet; oral | Valid |
+| ANDA075133 | LABETALOL HYDROCHLORIDE | WATSON LABS | Tablet; oral | Valid |
+| ANDA075215 | LABETALOL HYDROCHLORIDE | INNOGENIX | Tablet; oral | Valid |
+| ANDA075239 | LABETALOL HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+
+Showing 5 of 34 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Four more authorizations (oral tablets and injections) are also cancelled.
 

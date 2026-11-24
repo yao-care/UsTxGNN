@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1308
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ZINC OXIDE"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
 description: "Zinc Oxide: predicted new indication Acne (disease) (evidence level L4). In the US: 1 FDA application (1 active), plus 4574 OTC monograph/unapproved NDC listings"
@@ -85,10 +85,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M016 (cancelled) | zinc oxide 20% (Bionpharma Inc) | Ointment | Not stated |
-| M020 (cancelled) | Mineral Sunscreen For Face and Body (Skin Philosophy by Kelly) | Cream | Not stated |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021026 | VUSION | MYLAN | Ointment; topical | Valid |
+| NDC 0132-0323 | Boudreauxs | C.B. Fleet Company, Inc. | Cream | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0132-0324 | Boudreauxs | C.B. Fleet Company, Inc. | Ointment | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0132-0333 | Boudreauxs | C.B. Fleet Company, Inc. | Cream | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0132-0334 | Boudreauxs | C.B. Fleet Company, Inc. | Cream | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 4575 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

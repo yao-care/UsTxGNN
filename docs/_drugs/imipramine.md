@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 792
 evidence_level: L3
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "IMIPRAMINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "benign paroxysmal torticollis of infancy", "obsessive-compulsive disorder"]
 description: "Imipramine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). In the US: 46 FDA applications (14 active)"
@@ -92,13 +92,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA040903 | Imipramine Hydrochloride (PD-Rx Pharmaceuticals) | Film-coated tablet | Valid |
-| ANDA040751 | Imipramine Hydrochloride (Proficient Rx) | Tablet | Valid |
-| ANDA091099 | Imipramine Pamoate (Hikma) | Capsule | Valid |
-| ANDA090442 | Imipramine Hydrochloride (Lupin) | Film-coated tablet | Valid |
-| ANDA090444 | Imipramine Pamoate (Lupin) | Capsule | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040751 | IMIPRAMINE HYDROCHLORIDE | OXFORD PHARMS | Tablet; oral | Valid |
+| ANDA040903 | IMIPRAMINE HYDROCHLORIDE | LEADING | Tablet; oral | Valid |
+| ANDA081049 | IMIPRAMINE HYDROCHLORIDE | SUN PHARM INDUSTRIES | Tablet; oral | Valid |
+| ANDA081050 | IMIPRAMINE HYDROCHLORIDE | SUN PHARM INDUSTRIES | Tablet; oral | Valid |
+| ANDA083745 | IMIPRAMINE HYDROCHLORIDE | SANDOZ | Tablet; oral | Valid |
+
+Showing 5 of 46 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 747
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "GEFITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "pulmonary sulcus neoplasm", "lung germ cell tumor", "junctional epidermolysis bullosa"]
 description: "Gefitinib: predicted new indication Fibromatosis, gingival (evidence level L5). In the US: 7 FDA applications (4 active)"
@@ -83,12 +83,19 @@ Currently no related literature available for gingival fibromatosis.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA206995 | IRESSA (AstraZeneca) | Tablet, coated | Not listed; status valid |
-| ANDA211591 | Gefitinib (Ingenus) | Tablet, coated | Not listed; status valid |
-| ANDA212827 | Gefitinib (Natco) | Tablet, film coated | Not listed; status valid |
-| ANDA208913 | Gefitinib (Teva) | Tablet, film coated | Not listed; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208913 | GEFITINIB | ACTAVIS LABS FL INC | Tablet; oral | Valid |
+| ANDA211591 | GEFITINIB | QILU PHARM HAINAN | Tablet; oral | Valid |
+| ANDA212827 | GEFITINIB | NATCO | Tablet; oral | Valid |
+| NDA206995 | IRESSA | ASTRAZENECA | Tablet; oral | Valid |
+| ANDA209532 | GEFITINIB | APOTEX | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

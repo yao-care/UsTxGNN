@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "DALTEPARIN"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dalteparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -85,9 +85,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020287 | Fragmin (Pfizer Laboratories Div Pfizer Inc) | Injection | Not listed; license status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA020287 | FRAGMIN | PFIZER | Injectable; subcutaneous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1038
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "PHENOL"
 predicted_indications: ["acrodermatitis chronica atrophicans", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "dry eye syndrome"]
 description: "Phenol: predicted new indication Acrodermatitis chronica atrophicans (evidence level L5). In the US: no FDA-approved application; 126 OTC monograph/unapproved NDC listings"
@@ -82,11 +82,19 @@ For dry eye syndrome (rank 8), 20 publications were retrieved, but none involve 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M022 (cancelled) | CVS Sore Throat | Spray | Not listed |
-| nan (cancelled) | Carbolicum acidum | Pellet | Not listed |
-| M017 (cancelled) | Pain Relieving | Salve | Not listed |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0220-1163 | Carbolicum acidum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-1188 | Carbolicum acidum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0363-0376 | Sore throat cherry | Walgreens | Spray | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0363-7030 | Walgreens Sore Throat Cherry Flavor | WALGREEN COMPANY | Spray | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0536-1228 | Rugby Cherry Flavor | RUGBY LABORATORIES | Spray | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 126 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The drug is currently marketed in the US.
 

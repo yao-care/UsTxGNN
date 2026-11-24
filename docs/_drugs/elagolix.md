@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ELAGOLIX"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Elagolix: predicted new indication Amenorrhea (evidence level L5). Approved use: Endometriosis (including endometriosis of the uterus)"
 ---
 
@@ -89,9 +89,15 @@ The publications below concern elagolix in uterine fibroids and heavy menstrual 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA210450 | Orilissa (AbbVie Inc.) | Tablet, film coated (oral) | Not specified in the available data; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA210450 | ORILISSA | ABBVIE | Tablet; oral | Valid |
+| ANDA217650 | SHEUR | TEVA PHARM | Capsule | Valid |
+| NDA213388 | ORIAHNN (COPACKAGED) | ABBVIE | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ---
 

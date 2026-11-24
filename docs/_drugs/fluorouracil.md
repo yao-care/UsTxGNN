@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FLUOROURACIL"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-beta-thalassemia disease syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluorouracil: predicted new indication Botryoid-type embryonal rhabdomyosarcoma of the vagina (evidence level L5). In the US: 52 FDA applications (24 active)"
 ---
 
@@ -89,13 +89,19 @@ Fluorouracil is marketed. The approved indication text was not available in the 
 
 <!-- review:end us-lic-20261106-fluorouracil-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA217295 | Fluorouracil | Injection, solution | Alembic Pharmaceuticals Limited |
-| ANDA210124 | Fluorouracil | Injection, solution | Xiromed LLC |
-| ANDA040278 | Fluorouracil | Injection, solution | Fresenius Kabi USA, LLC |
-| ANDA090368 | Fluorouracil | Cream | Northstar Rx LLC |
-| NDA022259 | TOLAK | Cream | Hill Dermaceuticals, Inc. |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040278 | FLUOROURACIL | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA040279 | FLUOROURACIL | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA040743 | FLUOROURACIL | ACCORD HLTHCARE | Injectable; injection | Valid |
+| ANDA040798 | FLUOROURACIL | ACCORD HLTHCARE | Injectable; injection | Valid |
+| ANDA076526 | FLUOROURACIL | TARO | Solution; topical | Valid |
+
+Showing 5 of 52 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Seven further cancelled ANDAs exist (injection, solution, cream and topical solution forms). Fluorouracil has both injectable and topical (cream) formulations.
 

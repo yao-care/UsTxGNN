@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "HYDROQUINONE"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Hydroquinone: predicted new indication Seborrheic keratosis (evidence level L5). Approved use: No approved indication text is available in the US license record"
 ---
 
@@ -75,9 +75,19 @@ Currently no related clinical trials are registered for seborrheic keratosis.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available (cancelled) | Hydroquinone (Westminster Pharmaceuticals, LLC) | Cream | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021112 | TRI-LUMA | GALDERMA LABS LP | Cream; topical | Valid |
+| NDC 10135-724 | hydroquinone | Marlex Pharmaceuticals, Inc. | Cream | NDC listing, no FDA application (unapproved drug other) |
+| NDC 24689-101 | Hydroquinone cream | APNAR PHARMA LP | Cream | NDC listing, no FDA application (unapproved drug other) |
+| NDC 30815-0040 | Hydro-Q | Dermavance Pharmaceuticals | Gel | NDC listing, no FDA application (unapproved drug other) |
+| NDC 42192-151 | HYDROQUINONE 4% | Acella Pharmaceuticals, LLC | Cream | NDC listing, no FDA application (unapproved drug other) |
+
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Other dosage forms listed for hydroquinone products: gel, emulsion, solution, liquid and lotion.
 

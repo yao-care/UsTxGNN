@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 593
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DEXLANSOPRAZOLE"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
 description: "Dexlansoprazole: predicted new indication Gastroduodenitis (evidence level L5). In the US: 6 FDA applications (5 active)"
@@ -78,12 +78,19 @@ An important caveat: the large Phase 3 trials of dexlansoprazole enrolled patien
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022287 | Dexlansoprazole (A-S Medication Solutions) | Delayed-release capsule | Not available (valid) |
-| ANDA202294 | Dexlansoprazole (A-S Medication Solutions) | Delayed-release capsule | Not available (valid) |
-| ANDA202666 | Dexlansoprazole (Upsher-Smith Laboratories, LLC) | Delayed-release capsule | Not available (valid) |
-| ANDA219115 | Dexlansoprazole (Alembic Pharmaceuticals Inc.) | Delayed-release capsule | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA202294 | DEXLANSOPRAZOLE | PH HEALTH | Capsule, delayed release; oral | Valid |
+| ANDA202666 | DEXLANSOPRAZOLE | TWI PHARMS | Capsule, delayed release; oral | Valid |
+| ANDA205205 | DEXLANSOPRAZOLE | MYLAN | Capsule, delayed release; oral | Valid |
+| ANDA219115 | DEXLANSOPRAZOLE | ALEMBIC | Capsule, delayed release; oral | Valid |
+| NDA022287 | DEXILANT | TAKEDA PHARMS USA | Capsule, delayed release; oral | Valid |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

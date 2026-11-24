@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1185
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SULFACETAMIDE"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis", "exposure keratitis", "parasitic eyelid infestation"]
 description: "Sulfacetamide: predicted new indication Postinfectious vasculitis (evidence level L5). In the US: 55 FDA applications (6 active), plus 113 OTC monograph/unapproved NDC listings"
@@ -97,12 +97,19 @@ For other predicted indications, two papers were retrieved. Neither supports eff
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019931 | Sodium sulfacetamide (Oceanside Pharmaceuticals) | Lotion | Not available |
-| ANDA089560 | Sulfacetamide Sodium (Asclemed USA, Inc.) | Solution | Not available |
-| ANDA040066 | Sulfacetamide Sodium (NuCare Pharmaceuticals, Inc.) | Solution/Drops | Not available |
-| Not listed | PLEXION NS (Eckson Labs, LLC) | Shampoo | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040066 | SULFACETAMIDE SODIUM | BAUSCH AND LOMB | Solution/drops; ophthalmic | Valid |
+| ANDA077015 | SULFACETAMIDE SODIUM | FOUGERA PHARMS | Lotion; topical | Valid |
+| ANDA078649 | SULFACETAMIDE SODIUM | PADAGIS US | Lotion; topical | Valid |
+| ANDA089560 | SULFACETAMIDE SODIUM | CHARTWELL RX | Solution/drops; ophthalmic | Valid |
+| NDA019931 | KLARON | BAUSCH | Lotion; topical | Valid |
+
+Showing 5 of 168 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

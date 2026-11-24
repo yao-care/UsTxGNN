@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 573
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dasatinib: predicted new indication Ewing sarcoma (evidence level L2). Approved use: Chronic myelogenous leukemia…"
 monitor_inn: "DASATINIB"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
@@ -92,13 +92,19 @@ The drug is marketed in this country, and all eight licenses are listed as valid
 
 <!-- review:end us-lic-20261106-dasatinib-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021986 | SPRYCEL (E.R. Squibb & Sons) | Tablet | Not available |
-| NDA216099 | PHYRAGO (Cycle Pharmaceuticals) | Tablet | Not available |
-| ANDA216261 | Dasatinib (Alembic) | Film-coated tablet | Not available |
-| ANDA213383 | Dasatinib (Dr. Reddy's) | Film-coated tablet | Not available |
-| ANDA217217 | Dasatinib (BluePoint) | Film-coated tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA202103 | DASATINIB | APOTEX | Tablet; oral | Valid |
+| ANDA203180 | DASATINIB | APOTEX | Tablet; oral | Valid |
+| ANDA211094 | DASATINIB | TEVA PHARMS USA | Tablet; oral | Valid |
+| ANDA213383 | DASATINIB | DR REDDYS | Tablet; oral | Valid |
+| ANDA214350 | DASATINIB | LUPIN | Tablet; oral | Valid |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

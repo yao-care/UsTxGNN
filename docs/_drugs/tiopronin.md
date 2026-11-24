@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1231
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TIOPRONIN"
 predicted_indications: ["renal tubular acidosis", "adult polyglucosan body disease", "tricarboxylic acid cycle disorder", "disease of transporter activity", "pyruvate metabolism disorder", "inborn disorder of fatty acid oxidation and ketone body metabolism"]
 description: "Tiopronin: predicted new indication Renal tubular acidosis (evidence level L5). In the US: 9 FDA applications (7 active)"
@@ -72,13 +72,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019569 | Thiola | Tablet, sugar coated | Not available (valid) |
-| NDA211843 | Tiopronin (BioComp Pharma) | Tablet, delayed release | Not available (valid) |
-| ANDA216990 | VENXXIVA | Tablet, delayed release | Not available (valid) |
-| ANDA216456 | Tiopronin (Teva Pharmaceuticals, Inc.) | Tablet, delayed release | Not available (valid) |
-| ANDA217219 | Tiopronin (Endo USA, Inc.) | Tablet, delayed release | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA214326 | TIOPRONIN | TEVA PHARMS USA INC | Tablet; oral | Valid |
+| ANDA216456 | TIOPRONIN | TEVA PHARMS INC | Tablet, delayed release; oral | Valid |
+| ANDA216990 | VENXXIVA | TORRENT | Tablet, delayed release; oral | Valid |
+| ANDA217219 | TIOPRONIN | PH HEALTH | Tablet, delayed release; oral | Valid |
+| NDA019569 | THIOLA | MISSION PHARMA | Tablet; oral | Valid |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Two further licenses are not shown: ANDA216278 (Amneal, delayed-release tablet) and ANDA214326 (Teva, sugar-coated tablet).
 

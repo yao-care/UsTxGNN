@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 274
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Aluminum Hydroxide: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -74,11 +74,19 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Aluminum 
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| M001 | aluminum hydroxide | LIQUID | Valid |
-| M | aluminum hydroxide | LIQUID | Valid |
-| M016 | Aluminum Hydroxide Gel 2% | OINTMENT | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071793 | FOAMCOAT | GUARDIAN DRUG | Tablet, chewable; oral | Discontinued in Drugs@FDA |
+| ANDA072687 | FOAMICON | NOVARTIS | Tablet, chewable; oral | Discontinued in Drugs@FDA |
+| ANDA089449 | ALUMINUM HYDROXIDE AND MAGNESIUM TRISILICATE | PENNEX | Tablet, chewable; oral | Discontinued in Drugs@FDA |
+| NDA018685 | GAVISCON | CHATTEM SANOFI | Tablet, chewable; oral | Discontinued in Drugs@FDA |
+| NDC 0536-0091 | Aluminum Hydroxide | Rugby Laboratories | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 143 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

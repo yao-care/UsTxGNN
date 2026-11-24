@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ADAPALENE"
 predicted_indications: ["zinc, elevated plasma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adapalene: predicted new indication zinc, elevated plasma (evidence level L5). Approved use: Acne"
 ---
 
@@ -71,15 +71,21 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA021753 | Adapalene (Mayne Pharma Commercial LLC.) | Gel | Valid |
-| ANDA204593 | Adapalene (CALL INC. dba Rochester Pharmaceuticals) | Swab | Valid |
-| ANDA090824 | Adapalene (Bryant Ranch Prepack) | Cream | Valid |
-| ANDA090962 | Adapalene (YYBA CORP) | Gel | Valid |
-| ANDA091314 | Adapalene (Glenmark Therapeutics Inc., USA) | Gel | Valid |
+<!-- licenses:begin -->
 
-Approved indication text is not available for these authorizations. Only the first 5 are listed here. All forms are topical or swab formulations.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090824 | ADAPALENE | FOUGERA PHARMS | Cream; topical | Valid |
+| ANDA090962 | ADAPALENE | P AND L | Gel; topical | Valid |
+| ANDA091314 | ADAPALENE | GLENMARK PHARMS | Gel; topical | Valid |
+| ANDA200298 | ADAPALENE | ENCUBE ETHICALS | Gel; topical | Valid |
+| ANDA201000 | ADAPALENE | ACTAVIS MID ATLANTIC | Gel; topical | Valid |
+
+Showing 5 of 32 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
+
+Approved indication text is not available for these authorizations. All forms are topical or swab formulations.
 
 <!-- review:begin us-lic-20261106-adapalene-1 -->
 

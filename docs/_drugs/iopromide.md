@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "IOPROMIDE"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Iopromide: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not available"
 ---
 
@@ -69,9 +69,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020220 | Ultravist (Bayer HealthCare Pharmaceuticals Inc.) | Injection | Not listed in the available record |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA020220 | ULTRAVIST 300 | BAYER HLTHCARE | Injectable; injection | Valid |
+| NDA021425 | ULTRAVIST (PHARMACY BULK) | BAYER HLTHCARE | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

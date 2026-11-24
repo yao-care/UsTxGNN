@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "MEMANTINE"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Memantine: predicted new indication Pulmonary hypertension (evidence level L5). In the US: 52 FDA applications (34 active)"
 ---
 
@@ -89,7 +89,7 @@ A placebo-controlled RCT in migraine without aura ([PMID 26638119](https://pubme
 
 ## US Market Information
 
-No approved-indication text was recorded. The first five are shown below.
+No approved-indication text was recorded.
 
 <!-- review:begin us-lic-20261106-memantine-1 -->
 
@@ -97,13 +97,19 @@ No approved-indication text was recorded. The first five are shown below.
 
 <!-- review:end us-lic-20261106-memantine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA213985 | Memantine Hydrochloride (Vitruvias) | Extended-release capsule | Not recorded |
-| ANDA202840 | Memantine Hydrochloride (Macleods) | Tablet | Not recorded |
-| ANDA200022 | Memantine Hydrochloride (Unichem) | Film-coated tablet | Not recorded |
-| ANDA200891 | Memantine Hydrochloride (Alembic) | Coated tablet | Not recorded |
-| ANDA203293 | Memantine Hydrochloride (Zydus) | Extended-release capsule | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090041 | MEMANTINE HYDROCHLORIDE | AMNEAL PHARMS | Tablet; oral | Valid |
+| ANDA090043 | MEMANTINE HYDROCHLORIDE | UPSHER SMITH LABS | Tablet; oral | Valid |
+| ANDA090048 | MEMANTINE HYDROCHLORIDE | DR REDDYS LABS LTD | Tablet; oral | Valid |
+| ANDA090051 | MEMANTINE HYDROCHLORIDE | LUPIN | Tablet; oral | Valid |
+| ANDA090058 | MEMANTINE HYDROCHLORIDE | SUN PHARM | Tablet; oral | Valid |
+
+Showing 5 of 52 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Available forms are oral (extended-release capsule, tablet, film-coated tablet, coated tablet) and an oral solution.
 

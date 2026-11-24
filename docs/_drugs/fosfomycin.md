@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "FOSFOMYCIN"
 predicted_indications: ["uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fosfomycin: predicted new indication Uterine inflammatory disease (evidence level L5). Approved use: Urinary tract infection"
 ---
 
@@ -89,9 +89,19 @@ Both trials were graded as having no disease-specific relevance.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212271 | Contepo (Meitheal Pharmaceuticals Inc.) | Injection, powder, for solution | Indication text not available in the licence record |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA210426 | FOSFOMYCIN TROMETHAMINE | NOVITIUM PHARMA | For solution; oral | Valid |
+| ANDA211881 | FOSFOMYCIN TROMETHAMINE | CIPLA | For solution; oral | Valid |
+| ANDA212548 | FOSFOMYCIN TROMETHAMINE | XIROMED | For solution; oral | Valid |
+| ANDA214554 | FOSFOMYCIN TROMETHAMINE | ALKEM LABS LTD | For solution; oral | Valid |
+| ANDA216600 | FOSFOMYCIN TROMETHAMINE | AMNEAL | For solution; oral | Valid |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 A 2026 publication (PMID 41711122) describes intravenous fosfomycin (Contepo) as FDA-approved for complicated urinary tract infection. Uterine inflammatory disease is not an approved use.
 

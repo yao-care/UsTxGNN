@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "EMICIZUMAB"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombotic thrombocytopenic purpura", "fetal and neonatal alloimmune thrombocytopenia", "flood factor deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Emicizumab: predicted new indication Pseudo-von Willebrand disease (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -96,9 +96,13 @@ Currently no related clinical trials are registered in the data compiled for thi
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761083 | Hemlibra (Genentech, Inc.) | Injection, solution | Not listed in the compiled data; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761083 | HEMLIBRA | GENENTECH INC | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ---
 

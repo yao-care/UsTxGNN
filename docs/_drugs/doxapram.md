@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DOXAPRAM"
 predicted_indications: ["vascular disease", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "angiodysplasia of stomach", "blue toe syndrome", "hemangioendothelioma", "atheroembolism of kidney", "neurogenic thoracic outlet syndrome", "visceral calciphylaxis", "lymphangiectasis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxapram: predicted new indication Vascular disease (evidence level L5). Approved use: Respiratory failure"
 ---
 
@@ -94,9 +94,15 @@ Most items are animal studies, case reports, or safety reports. None tests doxap
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA014879 | DOXAPRAM HYDROCHLORIDE (HF Acquisition Co LLC, DBA HealthFirst) | Injection | Not listed (license valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076266 | DOXAPRAM HYDROCHLORIDE | CHARTWELL INJECTABLE | Injectable; injection | Valid |
+| NDA014879 | DOPRAM | HIKMA | Injectable; injection | Valid |
+| ANDA073529 | DOXAPRAM HYDROCHLORIDE | WATSON LABS | Injectable; injection | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ---
 

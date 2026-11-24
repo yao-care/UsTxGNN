@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "TASIMELTEON"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "insomnia (disease)", "amyotrophic lateral sclerosis", "endogenous depression", "axial spondylometaphyseal dysplasia", "monomelic amyotrophy", "lower motor neuron syndrome with late-adult onset", "Mills syndrome", "amyotrohpic lateral sclerosis type 22"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tasimelteon: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Non-24-hour sleep-wake syndrome"
 ---
 
@@ -71,13 +71,17 @@ Currently no related literature available.
 
 All five authorizations are valid, and the compiled data does not list approved indication text for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA205677 | Hetlioz (Vanda Pharmaceuticals) | Capsule | Not specified |
-| NDA214517 | Hetlioz (Vanda Pharmaceuticals) | Suspension | Not specified |
-| ANDA211654 | Tasimelteon (Amneal) | Capsule | Not specified |
-| ANDA211601 | Tasimelteon (Teva) | Capsule, gelatin coated | Not specified |
-| ANDA211607 | Tasimelteon (Apotex) | Capsule | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA211601 | TASIMELTEON | TEVA PHARMS USA INC | Capsule; oral | Valid |
+| ANDA211607 | TASIMELTEON | APOTEX | Capsule; oral | Valid |
+| ANDA211654 | TASIMELTEON | MSN | Capsule; oral | Valid |
+| NDA205677 | HETLIOZ | VANDA PHARMS INC | Capsule; oral | Valid |
+| NDA214517 | HETLIOZ LQ | VANDA PHARMS INC | Suspension; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

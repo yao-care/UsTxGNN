@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "APREPITANT"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "hypertrichosis (disease)", "pulmonary hypertension", "leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "kyphoscoliotic heart disease", "syndrome with a Dandy-Walker malformation as major feature", "subarachnoid hemorrhage (disease)", "isolated genetic hair shaft abnormality"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Aprepitant: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -84,13 +84,19 @@ The main ones are shown below.
 
 <!-- review:end us-lic-20261106-aprepitant-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021549 | EMEND | Capsule | Not available |
-| NDA207865 | EMEND | Powder, for suspension | Not available |
-| NDA209296 | CINVANTI | Injection, emulsion | Not available |
-| NDA216457 | APONVIE | Emulsion | Not available |
-| ANDA207777 | Aprepitant (Glenmark) | Capsule | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090999 | APREPITANT | SANDOZ | Capsule; oral | Valid |
+| ANDA207777 | APREPITANT | GLENMARK SPECLT | Capsule; oral | Valid |
+| ANDA211835 | APREPITANT | TORRENT | Capsule; oral | Valid |
+| NDA021549 | EMEND | MSD | Capsule; oral | Valid |
+| NDA209296 | CINVANTI | HERON THERAPS INC | Emulsion; intravenous | Valid |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The remaining authorizations are generic aprepitant capsules and generic fosaprepitant lyophilized injections.
 

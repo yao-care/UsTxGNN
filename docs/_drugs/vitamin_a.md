@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "VITAMIN A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "florid cemento-osseous dysplasia", "perinatal disease", "segmental odontomaxillary dysplasia", "disease by subcellular system affected", "radiation or chemically induced disorder"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Vitamin A: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Vitamin deficiency disorder / vitamin A deficiency"
 ---
 
@@ -77,12 +77,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA006823 | AQUASOL A | Injection, solution | Valid |
-| M016 | SKINEEZ | Cloth | Valid |
-| Not available | Tri-Vite Drops with Fluoride | Solution | Cancelled |
-| 505G(a)(3) | NOAVIA Retinol Moisturizer | Cream | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA006823 | AQUASOL A | CASPER PHARMA LLC | Injectable; injection | Valid |
+| ANDA210273 | MULTIPLE VITAMINS INJECTION ADULT | APOTEX | Solution; intravenous | Valid |
+| ANDA210456 | MULTIPLE VITAMINS INJECTION PEDIATRIC (PHARMACY BULK PACKAGE) | APOTEX | Injectable; intravenous | Valid |
+| ANDA210671 | MULTIPLE VITAMINS INJECTION PEDIATRIC | APOTEX | Injectable; intravenous | Valid |
+| ANDA210672 | MULTIPLE VITAMINS INJECTION ADULT | APOTEX | Solution; intravenous | Valid |
+
+Showing 5 of 138 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

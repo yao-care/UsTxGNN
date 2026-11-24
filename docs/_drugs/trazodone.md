@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1254
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Trazodone: predicted new indication Obsessive-compulsive disorder (evidence level L3). Approved use: Unipolar depression, major depressive disorder"
 monitor_inn: "TRAZODONE"
 predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
@@ -89,13 +89,19 @@ The 1992 placebo-controlled study is the strongest item, but the data compiled f
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA205253 | Trazodone Hydrochloride (Cardinal Health 107) | Tablet | Not stated (valid) |
-| ANDA071524 | Trazodone Hydrochloride (Vangard Labs) | Tablet | Not stated (valid) |
-| ANDA202180 | Trazodone Hydrochloride (Torrent) | Tablet | Not stated (valid) |
-| ANDA071196 | Trazodone Hydrochloride (RemedyRepack) | Tablet | Not stated (valid) |
-| ANDA204852 | Trazodone Hydrochloride (Bryant Ranch Prepack) | Tablet | Not stated (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071196 | TRAZODONE HYDROCHLORIDE | APOTEX INC | Tablet; oral | Valid |
+| ANDA071258 | TRAZODONE HYDROCHLORIDE | APOTEX | Tablet; oral | Valid |
+| ANDA071523 | TRAZODONE HYDROCHLORIDE | TEVA PHARMS USA | Tablet; oral | Valid |
+| ANDA071524 | TRAZODONE HYDROCHLORIDE | TEVA PHARMS USA | Tablet; oral | Valid |
+| ANDA071525 | TRAZODONE HYDROCHLORIDE | PLIVA | Tablet; oral | Valid |
+
+Showing 5 of 36 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

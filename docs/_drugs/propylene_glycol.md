@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PROPYLENE GLYCOL"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "immature cataract"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Propylene Glycol: predicted new indication Bronchitis (evidence level L5). In the US: no FDA-approved application; 98 OTC monograph/unapproved NDC listings"
 ---
 
@@ -104,11 +104,19 @@ Evidence from the diabetic retinopathy prediction (rank 3) is also not direct:
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M018 | Equate Complete Relief Lubricant Eye Drops (Valid) | Solution/drops | Not specified |
-| M003 | Instant Hand Sanitizeing Wipe (Valid) | Cloth | Not specified |
-| M031 | EGHMTW hair oil (Valid) | Liquid | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0065-0481 | Systane COMPLETE | Alcon Laboratories, Inc. | Emulsion | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0065-1433 | Systane Balance | Alcon Laboratories, Inc. | Emulsion | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0065-1509 | Systane COMPLETE PF | Alcon Laboratories, Inc. | Emulsion | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0065-1530 | Systane COMPLETE PF | Alcon Laboratories, Inc. | Emulsion | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0065-2509 | Systane Complete PF | Alcon Laboratories, Inc. | Emulsion | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 98 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The drug is marketed.
 

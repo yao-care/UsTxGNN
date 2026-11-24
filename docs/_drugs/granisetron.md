@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GRANISETRON"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Granisetron: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not stated in the compiled regulatory data (granisetron is generally…"
 ---
 
@@ -85,13 +85,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA022445 | SUSTOL (Heron Therapeutics) | Injection | NDA (Discontinued in Drugs@FDA) |
-| NDA022198 | SANCUSO (Cumberland Pharmaceuticals) | Patch | Valid |
-| ANDA091136 | Granisetron Hydrochloride (Mylan Institutional) | Injection, solution | Valid |
-| ANDA204238 | Granisetron Hydrochloride (Eugia US) | Injection, solution | ANDA (Discontinued in Drugs@FDA) |
-| ANDA219282 | Granisol (Intra-Sana Laboratories) | Solution | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077177 | GRANISETRON HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA077186 | GRANISETRON HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA077187 | GRANISETRON HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA077297 | GRANISETRON HYDROCHLORIDE | DR REDDYS | Injectable; injection | Valid |
+| ANDA077913 | GRANISETRON HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+
+Showing 5 of 53 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The compiled records contain no approved indication text for these licenses.
 

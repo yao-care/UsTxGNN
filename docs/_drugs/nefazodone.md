@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 2
 monitor_inn: "NEFAZODONE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nefazodone: predicted new indication Migraine disorder (evidence level L4). In the US: 10 FDA applications (1 active)"
 ---
 
@@ -74,9 +74,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA076037 | Nefazodone Hydrochloride (Teva Pharmaceuticals USA, Inc.) | Tablet (oral) | Not listed; license valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076037 | NEFAZODONE HYDROCHLORIDE | TEVA | Tablet; oral | Valid |
+| ANDA075763 | NEFAZODONE HYDROCHLORIDE | IVAX SUB TEVA PHARMS | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA076072 | NEFAZODONE HYDROCHLORIDE | ANI PHARMS | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA076073 | NEFAZODONE HYDROCHLORIDE | WATSON LABS | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA076129 | NEFAZODONE HYDROCHLORIDE | AUROBINDO PHARMA USA | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

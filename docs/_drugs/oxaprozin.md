@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1000
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "OXAPROZIN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 description: "Oxaprozin: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In the US: 16 FDA applications (5 active)"
@@ -75,13 +75,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA208633 | Oxaprozin (Bryant Ranch Prepack) | Tablet | Not available (valid) |
-| ANDA075845 | Oxaprozin (St. Mary's Medical Park Pharmacy) | Tablet | Not available (valid) |
-| ANDA075855 | Oxaprozin (Bryant Ranch Prepack) | Tablet, film coated | Not available (valid) |
-| NDA217927 | Oxaprozin (Ayurax, LLC) | Capsule | Not available (valid) |
-| ANDA075987 | Oxaprozin (Chartwell RX, LLC) | Tablet | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075845 | OXAPROZIN | PANGEA | Tablet; oral | Valid |
+| ANDA075855 | OXAPROZIN | DR REDDYS LABS LTD | Tablet; oral | Valid |
+| ANDA075987 | OXAPROZIN | CHARTWELL | Tablet; oral | Valid |
+| ANDA208633 | OXAPROZIN | AMNEAL PHARMS CO | Tablet; oral | Valid |
+| NDA217927 | COXANTO | SOLUBIOMIX | Capsule; oral | Valid |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All listed products are oral formulations.
 

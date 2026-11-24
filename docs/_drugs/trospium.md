@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1270
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Trospium: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,19 +72,23 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| ANDA091573 | TROSPIUM CHLORIDE | TABLET, FILM COATED | Valid |
-| ANDA206472 | Trospium Chloride | TABLET | Valid |
-| ANDA091289 | Trospium Chloride | CAPSULE, EXTENDED RELEASE | Valid |
-| ANDA213185 | TROSPIUM CHLORIDE | CAPSULE, EXTENDED RELEASE | Valid |
-| ANDA091688 | Trospium Chloride | TABLET, FILM COATED | Valid |
-| ANDA215781 | Trospium Chloride | TABLET, FILM COATED | Valid |
-| ANDA201291 | Trospium Chloride | CAPSULE, EXTENDED RELEASE | Valid |
-| ANDA204945 | TROSPIUM CHLORIDE | TABLET, FILM COATED | Valid |
-| ANDA091575 | Trospium Chloride | TABLET, FILM COATED | Valid |
+<!-- licenses:begin -->
 
-Only part of the licence list is held in the data; the list may be incomplete.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091289 | TROSPIUM CHLORIDE | ACTAVIS LABS FL INC | Capsule, extended release; oral | Valid |
+| ANDA091513 | TROSPIUM CHLORIDE | APOTEX | Tablet; oral | Valid |
+| ANDA091573 | TROSPIUM CHLORIDE | PADAGIS US | Tablet; oral | Valid |
+| ANDA091575 | TROSPIUM CHLORIDE | GLENMARK PHARMS LTD | Tablet; oral | Valid |
+| ANDA091688 | TROSPIUM CHLORIDE | INVAGEN PHARMS | Tablet; oral | Valid |
+| ANDA201291 | TROSPIUM CHLORIDE | PADAGIS US | Capsule, extended release; oral | Valid |
+| ANDA204945 | TROSPIUM CHLORIDE | HERITAGE PHARMS INC | Tablet; oral | Valid |
+| ANDA206472 | TROSPIUM CHLORIDE | MACLEODS PHARMS | Tablet; oral | Valid |
+| ANDA213185 | TROSPIUM CHLORIDE | GRANULES | Capsule, extended release; oral | Valid |
+
+Showing 9 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

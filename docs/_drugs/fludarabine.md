@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "FLUDARABINE"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fludarabine: predicted new indication Plasma cell myeloma (evidence level L2). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -108,12 +108,19 @@ No indication text is recorded for them.
 
 <!-- review:end us-lic-20261106-fludarabine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA090724 | Fludarabine Phosphate (Areva Pharmaceuticals) | Injection | Not recorded |
-| ANDA076661 | Fludarabine Phosphate (Sagent Pharmaceuticals) | Injection, solution | Not recorded |
-| ANDA078393 | Fludarabine (Fresenius Kabi USA) | Injection, solution | Not recorded |
-| ANDA078610 | Fludarabine phosphate (Actavis Pharma) | Injection, powder, lyophilized, for solution | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076349 | FLUDARABINE PHOSPHATE | HIKMA | Injectable; injection | Valid |
+| ANDA076661 | FLUDARABINE PHOSPHATE | SAGENT PHARMS INC | Injectable; injection | Valid |
+| ANDA078393 | FLUDARABINE PHOSPHATE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA078544 | FLUDARABINE PHOSPHATE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA078610 | FLUDARABINE PHOSPHATE | ACTAVIS TOTOWA | Injectable; injection | Valid |
+
+Showing 5 of 14 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

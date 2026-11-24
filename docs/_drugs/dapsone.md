@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 1
 monitor_inn: "DAPSONE"
 predicted_indications: ["pneumocystosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dapsone: predicted new indication Pneumocystosis (evidence level L1). In the US: 29 FDA applications (23 active)"
 ---
 
@@ -102,13 +102,19 @@ The five below are representative.
 
 <!-- review:end us-lic-20261105-dapsone-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021794 | Dapsone (Pacific Pharma) | Gel | Not available (valid) |
-| NDA207154 | Aczone (Almirall) | Gel | Not available (valid) |
-| ANDA086841 | Dapsone (Westminster) | Tablet | Not available (valid) |
-| ANDA086842 | Dapsone (Westminster) | Tablet | Not available (valid) |
-| ANDA206505 | Dapsone (ANI) | Tablet | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA086841 | DAPSONE | EVEREST LIFE SCI | Tablet; oral | Valid |
+| ANDA086842 | DAPSONE | EVEREST LIFE SCI | Tablet; oral | Valid |
+| ANDA203887 | DAPSONE | SOLIS PHARMS | Tablet; oral | Valid |
+| ANDA204380 | DAPSONE | ACTAVIS LLC | Tablet; oral | Valid |
+| ANDA206505 | DAPSONE | NOVITIUM PHARMA | Tablet; oral | Valid |
+
+Showing 5 of 29 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Oral tablets and topical gels have both been marketed. Only the oral form is relevant to PCP.
 

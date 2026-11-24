@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 469
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Brinzolamide: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,12 +72,17 @@ The TxGNN model's candidates for Brinzolamide (score ≥ 0.99) are all known use
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| ANDA211914 | brinzolamide | SUSPENSION/ DROPS | ANDA (Discontinued in Drugs@FDA) |
-| ANDA204884 | brinzolamide | SUSPENSION/ DROPS | Valid |
-| NDA020816 | brinzolamide | SUSPENSION/ DROPS | Valid |
-| NDA204251 | brinzolamide/brimonidine tartrate | SUSPENSION/ DROPS | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204884 | BRINZOLAMIDE | BAUSCH AND LOMB | Suspension/drops; ophthalmic | Valid |
+| ANDA209406 | BRINZOLAMIDE | WATSON LABS INC | Suspension/drops; ophthalmic | Valid |
+| NDA020816 | AZOPT | SANDOZ | Suspension/drops; ophthalmic | Valid |
+| NDA204251 | SIMBRINZA | ALCON LABS INC | Suspension/drops; ophthalmic | Valid |
+| ANDA211914 | BRINZOLAMIDE | PADAGIS US | Suspension/drops; ophthalmic | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

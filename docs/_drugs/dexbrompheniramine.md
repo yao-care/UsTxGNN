@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "DEXBROMPHENIRAMINE"
 predicted_indications: ["recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis"]
 description: "Dexbrompheniramine: predicted new indication Recalcitrant atopic dermatitis (evidence level L5). In the US: 8 FDA applications (0 active), plus 22 OTC monograph/unapproved NDC listings"
@@ -79,9 +79,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M012 (cancelled) | ALA-HIST IR (Poly Pharmaceuticals, Inc.) | Tablet (oral) | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA011814 | DISOMER | SCHERING | Syrup; oral | Discontinued in Drugs@FDA |
+| ANDA070770 | DISOBROM | SANDOZ | Tablet, extended release; oral | Discontinued in Drugs@FDA |
+| ANDA078648 | DEXBROMPHENIRAMINE MALEATE AND PSEUDOEPHEDRINE SULFATE | AVANTHI INC | Tablet, extended release; oral | Discontinued in Drugs@FDA |
+| ANDA089116 | BROMPHERIL | COPLEY PHARM | Tablet, extended release; oral | Discontinued in Drugs@FDA |
+| ANDA089139 | RESPORAL | PIONEER PHARMS | Tablet, extended release; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 30 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

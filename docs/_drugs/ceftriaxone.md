@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CEFTRIAXONE"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ceftriaxone: predicted new indication polyclonal hyperviscosity syndrome (evidence level L5). In the US: 42 FDA applications (15 active)"
 ---
 
@@ -70,13 +70,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA065169 | Ceftriaxone Sodium (Hospira, Inc) | Injection, powder, for solution | Not recorded |
-| ANDA065342 | Ceftriaxone (Civica, Inc.) | Injection, powder, for solution | Not recorded |
-| ANDA203702 | Ceftriaxone Sodium (Apotex Corp.) | Injection, powder, for solution | Not recorded |
-| ANDA065204 | Ceftriaxone Sodium (Hospira, Inc) | Injection, powder, for solution | Not recorded |
-| ANDA065329 | Ceftriaxone (WG Critical Care, LLC) | Injection, powder, for solution | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA065168 | CEFTRIAXONE | SANDOZ | Injectable; injection | Valid |
+| ANDA065169 | CEFTRIAXONE | SANDOZ | Injectable; intramuscular, intravenous | Valid |
+| ANDA065180 | CEFTRIAXONE | APOTEX | Injectable; injection | Valid |
+| ANDA065224 | CEFTRIAXONE IN PLASTIC CONTAINER | BAXTER HLTHCARE | Injectable; injection | Valid |
+| ANDA065305 | CEFTRIAXONE | EPIC PHARMA LLC | Injectable; intramuscular, intravenous | Valid |
+
+Showing 5 of 42 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The list shows five of the records in the local data and may be partial.
 

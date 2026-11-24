@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1226
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Tiagabine: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,11 +72,17 @@ The TxGNN deep-learning model produced candidates for Tiagabine, but every candi
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| NDA020646 | Tiagabine Hydrochloride | TABLET, FILM COATED | Valid |
-| ANDA214816 | Tiagabine Hydrochloride | TABLET | Valid |
-| ANDA077555 | TIAGABINE HYDROCHLORIDE | TABLET, FILM COATED | ANDA (Discontinued in Drugs@FDA) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA214816 | TIAGABINE HYDROCHLORIDE | MSN | Tablet; oral | Valid |
+| NDA020646 | GABITRIL | CEPHALON | Tablet; oral | Valid |
+| ANDA077555 | TIAGABINE HYDROCHLORIDE | SUN PHARM INDS | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA206857 | TIAGABINE HYDROCHLORIDE | WILSHIRE PHARMS INC | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA208181 | TIAGABINE HYDROCHLORIDE | AMNEAL PHARMS CO | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 1
 monitor_inn: "ARMODAFINIL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Armodafinil: predicted new indication insomnia (disease) (evidence level L2). In the US: 7 FDA applications (5 active)"
 ---
 
@@ -89,6 +89,20 @@ The very high TxGNN score (0.9989) is a computational prediction and should not 
 ## US Market Information
 
 The drug is marketed in the United States as oral tablets. The local records list authorizations from several manufacturers. The list may be partial.
+
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA200043 | ARMODAFINIL | MYLAN PHARMS INC | Tablet; oral | Valid |
+| ANDA201514 | ARMODAFINIL | MACLEODS PHARMS | Tablet; oral | Valid |
+| ANDA202768 | ARMODAFINIL | NATCO PHARMA LTD | Tablet; oral | Valid |
+| ANDA206069 | ARMODAFINIL | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| NDA021875 | NUVIGIL | NUVO PHARMS | Tablet; oral | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "OCTREOTIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Octreotide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). In the US: 27 FDA applications (19 active)"
 ---
 
@@ -79,13 +79,19 @@ The main ones are below; approved indication text was not available for them.
 
 <!-- review:end us-lic-20261112-octreotide-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA019667 | Sandostatin | Injection, solution | Novartis Pharmaceuticals Corporation |
-| NDA208232 | Mycapssa | Capsule, delayed release | Chiesi USA, Inc. |
-| NDA213224 | BYNFEZIA Pen | Injection | Sun Pharmaceutical Industries, Inc. |
-| ANDA076330 | Octreotide Acetate | Injection, solution | Hikma Pharmaceuticals USA Inc. |
-| ANDA077450 | Octreotide | Injection, solution | Fresenius Kabi USA, LLC |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075957 | OCTREOTIDE ACETATE | MEITHEAL | Injectable; injection | Valid |
+| ANDA075959 | OCTREOTIDE ACETATE | MEITHEAL | Injectable; injection | Valid |
+| ANDA076313 | OCTREOTIDE ACETATE (PRESERVATIVE FREE) | WEST-WARD PHARMS INT | Injectable; injection | Valid |
+| ANDA076330 | OCTREOTIDE ACETATE | WEST-WARD PHARMS INT | Injectable; injection | Valid |
+| ANDA077450 | OCTREOTIDE ACETATE | FRESENIUS KABI USA | Injectable; injection | Valid |
+
+Showing 5 of 27 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

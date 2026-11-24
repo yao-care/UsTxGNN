@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1010
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Paliperidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia, schizoaffective disorder, schizophreniform disorder…"
 monitor_inn: "PALIPERIDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
@@ -79,13 +79,19 @@ The table lists five of them, and approved indication text was not available for
 
 <!-- review:end us-lic-20261105-paliperidone-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022264 | INVEGA SUSTENNA | Injection | Not specified |
-| NDA207946 | INVEGA TRINZA | Injection, suspension, extended release | Not specified |
-| NDA216352 | Erzofri extended-release | Injection | Not specified |
-| ANDA203802 | Paliperidone | Tablet, film coated, extended release | Not specified |
-| ANDA204707 | Paliperidone | Tablet, extended release | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204452 | PALIPERIDONE | ADAPTIS | Tablet, extended release; oral | Valid |
+| ANDA204707 | PALIPERIDONE | AMNEAL PHARMS | Tablet, extended release; oral | Valid |
+| ANDA205402 | PALIPERIDONE | PHARMAZONE | Tablet, extended release; oral | Valid |
+| ANDA205559 | PALIPERIDONE | DR REDDYS | Tablet, extended release; oral | Valid |
+| ANDA205618 | PALIPERIDONE | SUN PHARM | Tablet, extended release; oral | Valid |
+
+Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Available dosage forms include extended-release oral tablets and extended-release injectables.
 

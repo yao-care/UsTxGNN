@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 648
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Emapalumab: predicted new indication Autosomal recessive familial Mediterranean fever (evidence level L5). Approved use: Hemophagocytic lymphohistiocytosis / hemophagocytic syndrome"
 monitor_inn: "EMAPALUMAB"
 predicted_indications: ["autosomal recessive familial Mediterranean fever", "hepatic infarction", "hepatic veno-occlusive disease", "X-linked lymphoproliferative disease due to SH2D1A deficiency", "familial Mediterranean fever", "A20 haploinsufficiency", "immune dysregulation with inflammatory bowel disease", "peliosis hepatis"]
@@ -69,9 +69,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761107 | GAMIFANT (Swedish Orphan Biovitrum AB) | Injection | — (no indication text in the data; the drug's original indication is HLH) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761107 | GAMIFANT | NOVIMMUNE S.A. | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 This should be verified against the current FDA record before any decision relies on it.
 

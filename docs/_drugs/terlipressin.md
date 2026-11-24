@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "TERLIPRESSIN"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Terlipressin: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -86,9 +86,13 @@ The table lists the publications most relevant to pulmonary hypertension. Papers
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022231 | Terlivaz (Mallinckrodt Hospital Products Inc.; status: valid) | Injection, powder, lyophilized, for solution | Not available in the data compiled for this report |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA022231 | TERLIVAZ | MALLINCKRODT IRELAND | Powder; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1218
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TETRACAINE"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
 description: "Tetracaine: predicted new indication Acrodermatitis chronica atrophicans (evidence level L5). In the US: 6 FDA applications (5 active), plus 16 OTC monograph/unapproved NDC listings"
@@ -97,13 +97,19 @@ Eight other predictions were generated for tetracaine. None has therapeutic evid
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA208135 | Tetracaine Hydrochloride (Alcon Laboratories) | Solution | Not available |
-| ANDA217227 | Tetracaine Hydrochloride (Somerset Therapeutics) | Solution | Not available |
-| M017 | BLT 3 (Centura Pharmaceuticals) | Ointment | Not available |
-| NDA210821 | Tetracaine Hydrochloride (Bausch & Lomb) | Solution/Drops | Not available |
-| Not available | Tetracaine HCL (BPI Labs) | Injection | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA217227 | TETRACAINE HYDROCHLORIDE | SOMERSET THERAPS LLC | Solution; ophthalmic | Valid |
+| NDA208135 | TETRACAINE HYDROCHLORIDE | ALCON LABS | Solution; ophthalmic | Valid |
+| NDA210821 | TETRACAINE HYDROCHLORIDE | BAUSCH LOMB IRELAND | Solution; ophthalmic | Valid |
+| NDA021717 | PLIAGLIS | CRESCITA THERAP | Cream; topical | Valid |
+| NDA208032 | KOVANAZE | ST RENATUS | Spray, metered; nasal | Valid |
+
+Showing 5 of 22 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

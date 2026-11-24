@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "AMMONIUM CHLORIDE"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Ammonium Chloride: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Pharyngitis, common cold, nasopharyngitis"
 ---
 
@@ -75,11 +75,19 @@ Currently no related literature available.
 
 The licences listed are the ones available in the compiled data. The list may be partial, and all three are single-ingredient products.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Bardown Smelling Salts | Liquid | Not stated in the records |
-| 505G(a)(3) | LRNASH Smelling Salts | Granule | Not stated in the records |
-| M011 | Smelling Salt | Inhalant | Not stated in the records |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA088366 | AMMONIUM CHLORIDE IN PLASTIC CONTAINER | HOSPIRA | Injectable; injection | Valid |
+| ANDA083130 | AMMONIUM CHLORIDE | ABBOTT | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA085734 | AMMONIUM CHLORIDE 2.14% | B BRAUN | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA086205 | AMMONIUM CHLORIDE | GD SEARLE LLC | Injectable; injection | Discontinued in Drugs@FDA |
+| NDA006580 | AMMONIUM CHLORIDE 0.9% IN NORMAL SALINE | MCGAW | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 54 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

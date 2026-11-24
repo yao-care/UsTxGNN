@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SILVER"
 predicted_indications: ["bone Paget disease"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Silver: predicted new indication Bone Paget disease (evidence level L5). Approved use: Not available"
 ---
 
@@ -85,9 +85,19 @@ None of these papers evaluates silver as a therapy for Paget disease of bone.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Colloidal Silver (BioActive Nutritional, Inc.) | Liquid | Not listed (status: cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0093-9614 | Silver Nitrate | Teva Pharmaceuticals USA, Inc. | Solution | NDC listing, no FDA application (unapproved drug other) |
+| NDC 0220-0457 | Argentum nitricum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-0458 | Argentum nitricum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-0461 | Argentum nitricum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-0462 | Argentum nitricum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 424 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Other silver dosage forms appear in the records (pellet, gel, spray, ointment).
 

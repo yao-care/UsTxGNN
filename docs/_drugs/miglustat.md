@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MIGLUSTAT"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Miglustat: predicted new indication Autosomal ichthyosis syndrome with fatal disease course (evidence level L5). In the US: 6 FDA applications (5 active)"
 ---
 
@@ -109,13 +109,19 @@ The abstracts available for this report do not state the efficacy results of the
 
 <!-- review:end us-lic-20261112-miglustat-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021348 | Zavesca (Actelion) | Capsule | Not available; valid |
-| NDA215211 | OPFOLDA (Amicus) | Capsule | Not available; valid |
-| ANDA219111 | Miglustat (Navinta) | Capsule | Not available; valid |
-| ANDA209821 | Yargesa (Edenbridge) | Capsule | Not available; valid |
-| ANDA208342 | Miglustat (ANI Pharmaceuticals) | Capsule | Not available; valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208342 | MIGLUSTAT | ANI PHARMS | Capsule; oral | Valid |
+| ANDA209821 | YARGESA | EDENBRIDGE PHARMS | Capsule; oral | Valid |
+| ANDA219111 | MIGLUSTAT | NAVINTA LLC | Capsule; oral | Valid |
+| NDA021348 | ZAVESCA | ACTELION | Capsule; oral | Valid |
+| NDA215211 | OPFOLDA | AMICUS THERAP US | Capsule; oral | Valid |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

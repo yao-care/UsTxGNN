@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1045
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PIMECROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
 description: "Pimecrolimus: predicted new indication Seborrheic dermatitis (evidence level L2). In the US: 3 FDA applications (3 active)"
@@ -99,11 +99,15 @@ Several other retrieved publications were only tangentially related and are not 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021302 | Pimecrolimus (Oceanside Pharmaceuticals) | Cream | Not listed (status: valid) |
-| ANDA209345 | Pimecrolimus (Actavis Pharma, Inc.) | Cream | Not listed (status: valid) |
-| ANDA211769 | Pimecrolimus (Glenmark Pharmaceuticals Inc., USA) | Cream | Not listed (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA209345 | PIMECROLIMUS | ACTAVIS LABS UT INC | Cream; topical | Valid |
+| ANDA211769 | PIMECROLIMUS | GLENMARK PHARMS LTD | Cream; topical | Valid |
+| NDA021302 | ELIDEL | BAUSCH | Cream; topical | Valid |
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MAGNESIUM HYDROXIDE"
 predicted_indications: ["stomach disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Magnesium Hydroxide: predicted new indication Stomach disease (evidence level L5). Approved use: Peptic ulcer disease, gastroesophageal reflux disease, esophagitis…"
 ---
 
@@ -86,13 +86,21 @@ Most items below involve combination antacids (aluminium hydroxide plus magnesiu
 
 ## US Market Information
 
-The list below may be partial. The records compiled for this report contain no approved indication text.
+The records compiled for this report contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M007 | Milk of Magnesia Cherry (CVS) | Liquid | Not stated in available records |
-| 505G(a)(3) | Dulcolax (Chattem, Inc.) | Liquid | Not stated in available records |
-| M001 | Humco Milk of Magnesia (Humco Holding Group, Inc.) | Suspension | Not stated in available records |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077355 | FAMOTIDINE, CALCIUM CARBONATE, AND MAGNESIUM HYDROXIDE | PERRIGO R AND D | Tablet, chewable; oral | Valid |
+| NDA020958 | PEPCID COMPLETE | KENVUE BRANDS | Tablet, chewable; oral | Valid |
+| ANDA204782 | FAMOTIDINE, CALCIUM CARBONATE, AND MAGNESIUM HYDROXIDE | PERRIGO R AND D | Tablet, chewable; oral | Discontinued in Drugs@FDA |
+| NDA021850 | ZEGERID | SANTARUS | Tablet, chewable; oral | Discontinued in Drugs@FDA |
+| NDA022456 | MAGNESIUM HYDROXIDE AND OMEPRAZOLE AND SODIUM BICARBONATE | SANTARUS | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 263 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

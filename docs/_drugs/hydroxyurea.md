@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 781
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "HYDROXYUREA"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
 description: "Hydroxyurea: predicted new indication Female breast carcinoma (evidence level L5). In the US: 10 FDA applications (7 active)"
@@ -93,13 +93,19 @@ Several other retrieved papers are only loosely related, such as cervical cancer
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| NDA016295 | HYDREA | Capsule | H2-Pharma LLC | Valid |
-| NDA208843 | Siklos | Film-coated tablet | Medunik | Valid |
-| NDA216593 | XROMI | Solution | Nova Laboratories, Ltd. | Valid |
-| ANDA075340 | Hydroxyurea | Capsule | Endo USA, Inc. | Valid |
-| ANDA075143 | Hydroxyurea | Capsule | AvKARE | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075143 | HYDROXYUREA | BARR | Capsule; oral | Valid |
+| ANDA075340 | HYDROXYUREA | PH HEALTH | Capsule; oral | Valid |
+| ANDA213438 | HYDROXYUREA | LEADING | Capsule; oral | Valid |
+| ANDA218021 | HYDROXYUREA | QILU | Capsule; oral | Valid |
+| NDA016295 | DROXIA | WAYLIS THERAP | Capsule; oral | Valid |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Approved-indication text is not available for these entries.
 

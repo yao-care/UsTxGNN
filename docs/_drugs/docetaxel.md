@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 617
 evidence_level: L2
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DOCETAXEL"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
 description: "Docetaxel: predicted new indication Ewing sarcoma (evidence level L2). In the US: 31 FDA applications (21 active)"
@@ -90,13 +90,19 @@ Clinical use has focused on combinations. Gemcitabine plus docetaxel and docetax
 
 Licences recorded for docetaxel in the United States are all injectable. Approved indication text is not recorded in the local data. The table shows 5 of the 15 recorded licences; the list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020449 | Docetaxel (Sanofi-Aventis U.S. LLC) | Injection, solution, concentrate | Not recorded |
-| NDA022234 | Docetaxel (Hospira, Inc.) | Injection, solution | Not recorded |
-| NDA022534 | Docetaxel (Sun Pharmaceutical Industries, Inc.) | Injection, solution | Not recorded |
-| NDA203551 | Docetaxel (Actavis Pharma, Inc.) | Injection, solution, concentrate | Not recorded |
-| NDA201525 | Docetaxel (Baxter Healthcare Corporation) | Injection, solution | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204193 | DOCETAXEL | DR REDDYS | Injectable; injection | Valid |
+| ANDA204490 | DOCETAXEL | HIKMA | Injectable; injection | Valid |
+| ANDA207252 | DOCETAXEL | HENGRUI PHARMA | Injectable; injection | Valid |
+| ANDA208137 | DOCETAXEL | MYLAN LABS LTD | Injectable; injection | Valid |
+| ANDA208859 | DOCETAXEL | MYLAN LABS LTD | Injectable; injection | Valid |
+
+Showing 5 of 31 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

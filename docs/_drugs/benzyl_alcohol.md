@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BENZYL ALCOHOL"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzyl Alcohol: predicted new indication bronchitis (evidence level L5). In the US: 1 FDA application (0 active), plus 30 OTC monograph/unapproved NDC listings"
 ---
 
@@ -71,12 +71,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M022 | Zilactin | Gel | Not recorded in the local data |
-| M017 | Lidocaine Plus Pain Relieving | Liquid | Not recorded in the local data |
-| 505G(a)(3) | CVS Maximum Strength LIDOCAINE PLUS | Spray | Not recorded in the local data |
-| part348 | Ivy-Dry Super | Spray | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA022129 | ULESFIA | SHIONOGI | Lotion; topical | Discontinued in Drugs@FDA |
+| NDC 42829-468 | Zilactin Early Relief Cold Sore | ASCENT CONSUMER PRODUCTS, INC | Gel | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 87710-002 | 0.9% Benzyl Alcohol Solution (Laboratory Use Only) | Guangzhou Huanmei Cosmetics Co., Ltd | Liquid | NDC listing, no FDA application (unapproved drug other) |
+| NDC 88095-101 | BACTERIOSTATIC | Elementco, S.A.P.I. de C.V. | Injection | NDC listing, no FDA application (unapproved drug other) |
+| NDC 0225-0495 | ITCH X | BF ASCHER AND CO INC | Gel | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 31 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

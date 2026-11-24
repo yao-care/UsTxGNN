@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CALCITRIOL"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Calcitriol: predicted new indication obsolete vitamin D deficiency (evidence level L5). In the US: 23 FDA applications (14 active)"
 ---
 
@@ -70,6 +70,20 @@ Currently no related literature available.
 ## US Market Information
 
 The local records list 10 single-ingredient licences, in oral capsule, ointment, solution and injection forms. The records may be partial. The licences carry no indication text, so no approved-indication summary can be given here.
+
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075765 | CALCITRIOL | TEVA | Capsule; oral | Valid |
+| ANDA076242 | CALCITRIOL | HIKMA | Solution; oral | Valid |
+| ANDA076917 | CALCITRIOL | HIKMA | Capsule; oral | Valid |
+| ANDA078066 | CALCITRIOL | LONG GROVE PHARMS | Injectable; injection | Valid |
+| ANDA091174 | CALCITRIOL | BIONPHARMA | Capsule; oral | Valid |
+
+Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

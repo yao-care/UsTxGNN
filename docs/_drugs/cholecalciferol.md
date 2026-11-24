@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CHOLECALCIFEROL"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cholecalciferol: predicted new indication acromesomelic dysplasia, Campailla Martinelli type (evidence level L5). In the US: 7 FDA applications (7 active), plus 102 OTC monograph/unapproved NDC listings"
 ---
 
@@ -69,10 +69,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021762 | FOSAMAX PLUS D | Tablet | Not recorded in the local data |
-| Not recorded | GROWTH SUPPORTPATCH, HAUTUKI | Patch | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021762 | FOSAMAX PLUS D | ORGANON LLC | Tablet; oral | Valid |
+| ANDA210273 | MULTIPLE VITAMINS INJECTION ADULT | APOTEX | Solution; intravenous | Valid |
+| ANDA210456 | MULTIPLE VITAMINS INJECTION PEDIATRIC (PHARMACY BULK PACKAGE) | APOTEX | Injectable; intravenous | Valid |
+| ANDA210671 | MULTIPLE VITAMINS INJECTION PEDIATRIC | APOTEX | Injectable; intravenous | Valid |
+| ANDA210672 | MULTIPLE VITAMINS INJECTION ADULT | APOTEX | Solution; intravenous | Valid |
+
+Showing 5 of 109 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

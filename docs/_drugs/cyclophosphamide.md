@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 556
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "CYCLOPHOSPHAMIDE"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 description: "Cyclophosphamide: predicted new indication Vertebral anomalies and variable endocrine and T-cell dysfunction (evidence level L5). In the US: 32 FDA applications (23 active)"
@@ -78,13 +78,19 @@ Cyclophosphamide is marketed in the United States. The list below shows 5 of the
 
 <!-- review:end us-lic-20261105-cyclophosphamide-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA203856 | Cyclophosphamide (Hikma Pharmaceuticals USA) | Capsule | Not available |
-| NDA012141 | Cyclophosphamide (Baxter Healthcare) | Tablet | Not available |
-| NDA212501 | Cyclophosphamide (BluePoint Laboratories) | Injection, solution | Not available |
-| NDA210852 | Cyclophosphamide (Avyxa Pharma) | Injection | Not available |
-| NDA210735 | Cyclophosphamide (Eugia US) | Injection | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040745 | CYCLOPHOSPHAMIDE | BAXTER HLTHCARE | Injectable; injection | Valid |
+| ANDA204555 | CYCLOPHOSPHAMIDE | HENGRUI PHARMA | Injectable; injection | Valid |
+| ANDA209872 | CYCLOPHOSPHAMIDE | PHARMAZONE | Capsule; oral | Valid |
+| ANDA210046 | CYCLOPHOSPHAMIDE | AMNEAL | Injectable; injection | Valid |
+| ANDA210890 | CYCLOPHOSPHAMIDE | AMNEAL PHARMS | Capsule; oral | Valid |
+
+Showing 5 of 32 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

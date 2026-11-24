@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 991
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "OMADACYCLINE"
 predicted_indications: ["drug-induced osteoporosis", "orbital cellulitis", "post-infectious syndrome", "postinfectious vasculitis", "post-bacterial disorder", "ophthalmic herpes zoster", "otitis externa", "infective urethral stricture", "infection-related hemolytic uremic syndrome"]
 description: "Omadacycline: predicted new indication Drug-induced osteoporosis (evidence level L5). In the US: 2 FDA applications (2 active)"
@@ -81,10 +81,14 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA209816 | NUZYRA | Tablet, film coated | Not specified (status: valid) |
-| NDA209817 | NUZYRA | Injection, powder, lyophilized, for solution | Not specified (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA209816 | NUZYRA | PARATEK PHARMS | Tablet; oral | Valid |
+| NDA209817 | NUZYRA | PARATEK PHARMS | Powder; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1278
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ustekinumab: predicted new indication Dermatitis (evidence level L2). Approved use: Psoriatic arthritis, psoriasis, parapsoriasis"
 monitor_inn: "USTEKINUMAB"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
@@ -90,13 +90,19 @@ The very high TxGNN score should be read with caution. "Dermatitis" covers heter
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125261 | STELARA | Injection, solution | Not available in compiled data (status: valid) |
-| BLA761331 | WEZLANA | Injection, solution | Not available in compiled data (status: valid) |
-| BLA761338 | STEQEYMA | Injection, solution | Not available in compiled data (status: valid) |
-| BLA761343 | Selarsdi | Injection, solution | Not available in compiled data (status: valid) |
-| BLA761406 | YESINTEK | Solution | Not available in compiled data (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125261 | STELARA | CENTOCOR ORTHO BIOTECH INC | Injectable; injection | Valid |
+| BLA761044 | STELARA | JANSSEN BIOTECH | Injectable; injection | Valid |
+| BLA761285 | WEZLANA | AMGEN INC | Injectable; intravenous, subcutaneous | Valid |
+| BLA761331 | WEZLANA | AMGEN INC | Injectable; intravenous, subcutaneous | Valid |
+| BLA761338 | STEQEYMA | CELLTRION, INC. | Injectable; subcutaneous | Valid |
+
+Showing 5 of 12 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 This should be verified against current FDA records.
 

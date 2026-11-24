@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Insulin lispro"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Lispro: predicted new indication Autoimmune oophoritis (evidence level L5). In the US: 6 FDA applications (6 active)"
 ---
 
@@ -70,13 +70,19 @@ Currently no related literature available for autoimmune oophoritis.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|-----------|
-| BLA020563 | HUMALOG | Injection, solution | A-S Medication Solutions | Valid |
-| BLA021018 | Humalog | Injection, suspension | Eli Lilly and Company | Valid |
-| BLA021017 | Humalog | Injection, suspension | Eli Lilly and Company | Valid |
-| BLA209196 | ADMELOG | Injection, solution | Sanofi-Aventis U.S. LLC | Valid |
-| BLA205747 | Humalog | Injection, solution | Eli Lilly and Company | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA020563 | HUMALOG KWIKPEN | LILLY | Injectable; injection | Valid |
+| BLA205747 | HUMALOG KWIKPEN | ELI LILLY AND CO | Solution; subcutaneous | Valid |
+| BLA209196 | ADMELOG | SANOFI-AVENTIS US | Solution; intravenous, subcutaneous | Valid |
+| BLA761109 | LYUMJEV | ELI LILLY AND CO | Injectable; injection | Valid |
+| BLA021017 | HUMALOG MIX 75/25 | LILLY | Injectable; injection | Valid |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Approved indication text was not available for these entries.
 

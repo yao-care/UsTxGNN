@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1249
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TRANYLCYPROMINE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "agoraphobia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
 description: "Tranylcypromine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). In the US: 4 FDA applications (4 active)"
@@ -95,12 +95,16 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA012342 | PARNATE (Advanz Pharma) | Tablet, film coated | Valid |
-| ANDA213503 | Tranylcypromine (Solco Healthcare) | Tablet | Valid |
-| ANDA206856 | Tranylcypromine (Novitium Pharma) | Tablet | Valid |
-| ANDA040640 | Tranylcypromine sulfate (Strides Pharma) | Tablet, film coated | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040640 | TRANYLCYPROMINE SULFATE | STRIDES PHARMA INTL | Tablet; oral | Valid |
+| ANDA206856 | TRANYLCYPROMINE SULFATE | NOVITIUM PHARMA | Tablet; oral | Valid |
+| ANDA213503 | TRANYLCYPROMINE SULFATE | CROSSMEDIKA SA | Tablet; oral | Valid |
+| NDA012342 | PARNATE | ADVANZ PHARMA | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ---
 

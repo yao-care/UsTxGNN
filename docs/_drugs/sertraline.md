@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1157
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SERTRALINE"
 predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Sertraline: predicted new indication Paranoid personality disorder (evidence level L5). In the US: 39 FDA applications (24 active)"
@@ -99,13 +99,19 @@ The list may be partial. Indication text is not recorded in the local data.
 
 <!-- review:end us-lic-20261106-sertraline-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA214790 | Sertraline Hydrochloride (Camber Pharmaceuticals) | Tablet | Valid |
-| ANDA077206 | Sertraline Hydrochloride (PD-Rx Pharmaceuticals) | Tablet, film coated | Valid |
-| ANDA076465 | Sertraline (Bryant Ranch Prepack) | Tablet, film coated | Valid |
-| ANDA077670 | Sertraline (A-S Medication Solutions) | Tablet, film coated | Valid |
-| ANDA219714 | Sertraline Hydrochloride (ANI Pharmaceuticals) | Capsule | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076442 | SERTRALINE HYDROCHLORIDE | SCIEGEN PHARMS | Tablet; oral | Valid |
+| ANDA076465 | SERTRALINE HYDROCHLORIDE | HERITAGE | Tablet; oral | Valid |
+| ANDA076881 | SERTRALINE HYDROCHLORIDE | STRIDES PHARMA | Tablet; oral | Valid |
+| ANDA076882 | SERTRALINE HYDROCHLORIDE | MACLEODS PHARMS | Tablet; oral | Valid |
+| ANDA076934 | SERTRALINE HYDROCHLORIDE | STRIDES PHARMA | Concentrate; oral | Valid |
+
+Showing 5 of 39 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

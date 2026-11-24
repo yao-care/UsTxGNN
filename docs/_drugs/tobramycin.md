@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1237
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TOBRAMYCIN"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
 description: "Tobramycin: predicted new indication Exposure keratitis (evidence level L4). In the US: 73 FDA applications (41 active)"
@@ -96,13 +96,19 @@ The drug is marketed. Approved indication text is not available in the data comp
 
 <!-- review:end us-lic-20261106-tobramycin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA201688 | TOBI Podhaler (Viatris Specialty LLC) | Capsule | Not available (valid) |
-| NDA205433 | Kitabis Pak (Pari Respiratory Equipment) | Solution | Not available (valid) |
-| ANDA207444 | Tobramycin (St. Mary's Medical Park Pharmacy) | Solution/Drops | Not available (valid) |
-| ANDA211189 | Tobramycin (Xiromed LLC) | Lyophilized powder for injection | Not available (valid) |
-| ANDA217344 | Tobramycin (Micro Labs Limited) | Inhalant | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA062535 | TOBREX | SANDOZ | Solution/drops; ophthalmic | Valid |
+| ANDA063111 | TOBRAMYCIN SULFATE | HOSPIRA | Injectable; injection | Valid |
+| ANDA063117 | TOBRAMYCIN SULFATE | HIKMA | Injectable; injection | Valid |
+| ANDA064052 | TOBRAMYCIN | BAUSCH AND LOMB INC | Solution/drops; ophthalmic | Valid |
+| ANDA065013 | TOBRAMYCIN SULFATE | XGEN PHARMS | Injectable; injection | Valid |
+
+Showing 5 of 73 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

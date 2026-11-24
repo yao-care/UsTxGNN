@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CABERGOLINE"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cabergoline: predicted new indication progeria-short stature-pigmented nevi syndrome (evidence level L5). In the US: 11 FDA applications (6 active)"
 ---
 
@@ -70,13 +70,19 @@ Currently no related literature available.
 
 The drug is marketed in the United States as an oral tablet. The records compiled for this report list these single-ingredient products. No indication text is recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA020664 | Cabergoline | Tablet | Mylan Pharmaceuticals Inc. |
-| ANDA077750 | Cabergoline | Tablet | Teva Pharmaceuticals USA, Inc. |
-| ANDA076310 | Cabergoline | Tablet | Strides Pharma Science Limited |
-| ANDA204735 | Cabergoline | Tablet | A-S Medication Solutions |
-| ANDA218109 | Cabergoline | Tablet | Somerset Therapeutics, LLC |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076310 | CABERGOLINE | STRIDES PHARMA INTL | Tablet; oral | Valid |
+| ANDA077750 | CABERGOLINE | IVAX SUB TEVA PHARMS | Tablet; oral | Valid |
+| ANDA204735 | CABERGOLINE | INGENUS PHARMS LLC | Tablet; oral | Valid |
+| ANDA218109 | CABERGOLINE | SOMERSET THERAPS LLC | Tablet; oral | Valid |
+| ANDA218618 | CABERGOLINE | AMNEAL | Tablet; oral | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 797
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "INSULIN DEGLUDEC"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome"]
 description: "Insulin Degludec: predicted new indication Autoimmune oophoritis (evidence level L5). In the US: 3 FDA applications (2 active)"
@@ -111,9 +111,15 @@ The data compiled for this report includes 40 registered trials. The most releva
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA203314 | Tresiba (Novo Nordisk) | Injection, solution | Not available; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA203314 | TRESIBA | NOVO | Solution; subcutaneous | Valid |
+| BLA208583 | XULTOPHY 100/3.6 | NOVO | Solution; subcutaneous | Valid |
+| BLA203313 | RYZODEG 70/30 | NOVO | Solution; subcutaneous | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ---
 

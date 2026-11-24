@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "AMBRISENTAN"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ambrisentan: predicted new indication pulmonary arteriovenous malformation (disease) (evidence level L5). In the US: 10 FDA applications (8 active)"
 ---
 
@@ -83,13 +83,19 @@ Currently no related clinical trials registered.
 
 At least 9 licence records are listed in the local data, and the list may be partial. All 9 are for single-ingredient oral film-coated tablets. No approved indication text is recorded in these licence records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022081 | Letairis | Tablet, film coated | Not recorded |
-| ANDA208354 | Ambrisentan | Tablet, film coated | Not recorded |
-| ANDA208441 | Ambrisentan | Tablet, film coated | Not recorded |
-| ANDA210701 | Ambrisentan | Tablet, film coated | Not recorded |
-| ANDA210058 | Ambrisentan | Tablet, film coated | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208252 | AMBRISENTAN | WATSON LABS INC | Tablet; oral | Valid |
+| ANDA208354 | AMBRISENTAN | SIGMAPHARM LABS LLC | Tablet; oral | Valid |
+| ANDA208441 | AMBRISENTAN | MYLAN | Tablet; oral | Valid |
+| ANDA210058 | AMBRISENTAN | ZYDUS PHARMS | Tablet; oral | Valid |
+| ANDA210701 | AMBRISENTAN | APOTEX | Tablet; oral | Valid |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

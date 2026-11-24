@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 696
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Felodipine: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "FELODIPINE"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
@@ -100,13 +100,19 @@ No approved indication text is recorded.
 
 <!-- review:end us-lic-20261106-felodipine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA210847 | Felodipine (Westminster Pharmaceuticals) | Tablet, extended release | Not recorded |
-| ANDA204800 | Felodipine (Bryant Ranch Prepack) | Tablet, film coated | Not recorded |
-| ANDA202170 | Felodipine (Bryant Ranch Prepack) | Tablet, extended release | Not recorded |
-| ANDA200815 | Felodipine (Endo USA) | Tablet, extended release | Not recorded |
-| ANDA201964 | Felodipine (Avet Pharmaceuticals) | Tablet, extended release | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090365 | FELODIPINE | GLENMARK PHARMS LTD | Tablet, extended release; oral | Valid |
+| ANDA091200 | FELODIPINE | SUN PHARM INDS LTD | Tablet, extended release; oral | Valid |
+| ANDA201964 | FELODIPINE | HERITAGE | Tablet, extended release; oral | Valid |
+| ANDA202170 | FELODIPINE | TORRENT PHARMS LTD | Tablet, extended release; oral | Valid |
+| ANDA203032 | FELODIPINE | ORBION PHARMS | Tablet, extended release; oral | Valid |
+
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

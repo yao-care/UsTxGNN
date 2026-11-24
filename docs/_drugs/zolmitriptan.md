@@ -88,13 +88,19 @@ Currently no related clinical trials registered.
 
 <!-- review:end us-lic-20261106-zolmitriptan-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021450 | ZOMIG | Metered spray | Not available (status: valid) |
-| ANDA205074 | Zolmitriptan | Orally disintegrating tablet | Not available (status: valid) |
-| ANDA202890 | Zolmitriptan | Orally disintegrating tablet | Not available (status: valid) |
-| ANDA201779 | Zolmitriptan | Film-coated tablet | Not available (status: valid) |
-| ANDA204041 | Zolmitriptan | Tablet | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA201779 | ZOLMITRIPTAN | GLENMARK PHARMS LTD | Tablet; oral | Valid |
+| ANDA202279 | ZOLMITRIPTAN | JUBILANT GENERICS | Tablet; oral | Valid |
+| ANDA202560 | ZOLMITRIPTAN | GLENMARK PHARMS LTD | Tablet, orally disintegrating; oral | Valid |
+| ANDA202890 | ZOLMITRIPTAN | ZYDUS PHARMS USA INC | Tablet, orally disintegrating; oral | Valid |
+| ANDA202956 | ZOLMITRIPTAN | JUBILANT GENERICS | Tablet, orally disintegrating; oral | Valid |
+
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

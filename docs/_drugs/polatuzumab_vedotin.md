@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "POLATUZUMAB VEDOTIN"
 predicted_indications: ["HER2 positive breast carcinoma"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Polatuzumab Vedotin: predicted new indication HER2 positive breast carcinoma (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -69,9 +69,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761121 | POLIVY | Injection, powder, lyophilized, for solution | Not stated in the compiled data (status: valid; manufacturer: Genentech, Inc.) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761121 | POLIVY | GENENTECH | Powder; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

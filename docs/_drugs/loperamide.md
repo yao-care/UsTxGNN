@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 869
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LOPERAMIDE"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "conjunctival folliculosis", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "Angelucci syndrome"]
 description: "Loperamide: predicted new indication Acute contagious conjunctivitis (evidence level L5). In the US: 49 FDA applications (27 active)"
@@ -97,13 +97,19 @@ No literature is available for acute contagious conjunctivitis (rank 1). The fol
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021855 | Anti-diarrheal (Albertsons Companies) | Capsule, liquid filled | Not recorded |
-| ANDA072741 | Loperamide Hydrochloride (Bryant Ranch Prepack) | Capsule | Not recorded |
-| ANDA091292 | Equate Loperamide Hydrochloride (Wal-Mart) | Suspension | Not recorded |
-| ANDA206548 | Loperamide Hydrochloride (Amerisource Bergen) | Tablet | Not recorded |
-| ANDA076497 | Anti-Diarrheal (First Aid Direct) | Tablet, coated | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA072741 | LOPERAMIDE HYDROCHLORIDE | MYLAN | Capsule; oral | Valid |
+| ANDA073192 | LOPERAMIDE HYDROCHLORIDE | TEVA | Capsule; oral | Valid |
+| ANDA074091 | LOPERAMIDE HYDROCHLORIDE | OHM LABS | Tablet; oral | Valid |
+| ANDA075232 | LOPERAMIDE HYDROCHLORIDE | L PERRIGO CO | Tablet; oral | Valid |
+| ANDA076497 | LOPERAMIDE HYDROCHLORIDE | LNK | Tablet; oral | Valid |
+
+Showing 5 of 49 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MERCURIC IODIDE"
 predicted_indications: ["ventricular tachycardia", "obsolete bundle branch block", "multifocal atrial tachycardia (disease)", "His bundle tachycardia", "periodic paralysis with transient compartment-like syndrome", "arrhythmogenic right ventricular cardiomyopathy", "idiopathic neonatal atrial flutter", "incessant infant ventricular tachycardia", "catecholaminergic polymorphic ventricular tachycardia", "atrial fibrillation (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Mercuric Iodide: predicted new indication Ventricular tachycardia (evidence level L5). Approved use: No approved indication text available"
 ---
 
@@ -84,9 +84,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available (cancelled) | Mercurius Iodatus Ruber (Hahnemann Laboratories, Inc.) | Pellet | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0220-3401 | MERCURIUS IODATUS RUBER | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-3403 | Mercurius iodatus ruber | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 37662-2438 | Mercurius Iodatus Ruber | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 37662-2439 | Mercurius Iodatus Ruber | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 37662-2440 | Mercurius Iodatus Ruber | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 24 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 475
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Budesonide: predicted new indication Atopic eczema (evidence level L5). Approved use: Crohn's disease, inflammatory bowel disease, asthma, allergic rhinitis"
 monitor_inn: "BUDESONIDE"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
@@ -84,7 +84,7 @@ No human efficacy trial of budesonide in atopic eczema was found among these pub
 
 ## US Market Information
 
-The drug is marketed in the US. Approved indication text is not available in the records. Up to 5 are listed below.
+The drug is marketed in the US. Approved indication text is not available in the records.
 
 <!-- review:begin us-lic-20261106-budesonide-1 -->
 
@@ -92,13 +92,19 @@ The drug is marketed in the US. Approved indication text is not available in the
 
 <!-- review:end us-lic-20261106-budesonide-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021324 | Budesonide | Capsule | Not available |
-| NDA021949 | Pulmicort | Aerosol, powder | Not available |
-| ANDA078404 | Budesonide Inhalation | Suspension | Not available |
-| ANDA208851 | Budesonide | Tablet, film coated, extended release | Not available |
-| ANDA206623 | Budesonide (enteric coated) | Capsule, delayed release pellets | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077519 | BUDESONIDE | TEVA PHARMS | Suspension; inhalation | Valid |
+| ANDA078202 | BUDESONIDE | NEPHRON | Suspension; inhalation | Valid |
+| ANDA078404 | BUDESONIDE | IMPAX LABS INC | Suspension; inhalation | Valid |
+| ANDA078949 | BUDESONIDE | APOTEX | Spray, metered; nasal | Valid |
+| ANDA090410 | BUDESONIDE | AUROBINDO PHARMA USA | Capsule, delayed release; oral | Valid |
+
+Showing 5 of 39 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

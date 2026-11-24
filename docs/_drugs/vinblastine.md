@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "VINBLASTINE"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vinblastine: predicted new indication Rhabdomyosarcoma (disease) (evidence level L4). In the US: 7 FDA applications (2 active)"
 ---
 
@@ -78,9 +78,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA089515 | Vinblastine Sulfate (Fresenius Kabi USA, LLC) | Injection | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA089395 | VINBLASTINE SULFATE | HIKMA | Injectable; injection | Valid |
+| ANDA089515 | VINBLASTINE SULFATE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA089011 | VINBLASTINE SULFATE | ABRAXIS PHARM | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA089311 | VINBLASTINE SULFATE | QUAD PHARMS | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA089365 | VINBLASTINE SULFATE | QUAD PHARMS | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

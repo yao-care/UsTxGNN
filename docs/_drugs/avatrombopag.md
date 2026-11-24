@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "AVATROMBOPAG"
 predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "dense granule disease", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "lower motor neuron syndrome with late-adult onset", "Mills syndrome", "monomelic amyotrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Avatrombopag: predicted new indication marcothrombocytopenia with mitral valve insufficiency (evidence level L5). In the US: 2 FDA applications (2 active)"
 ---
 
@@ -72,10 +72,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA210238 | DOPTELET | Tablet, film coated | Not recorded in the local data |
-| NDA219696 | Doptelet Sprinkle | Granule | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA210238 | DOPTELET | AKARX INC | Tablet; oral | Valid |
+| NDA219696 | DOPTELET SPRINKLE | AKARX INC | Granule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "BELIMUMAB"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "severe nonproliferative diabetic retinopathy", "autosomal dominant macrothrombocytopenia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Belimumab: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Systemic lupus erythematosus"
 ---
 
@@ -88,10 +88,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125370 | BENLYSTA | Injection, powder, lyophilized, for solution | Not listed (status: valid) |
-| BLA761043 | BENLYSTA | Solution | Not listed (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125370 | BENLYSTA | HUMAN GENOME SCIENCES INC. | Injectable; injection | Valid |
+| BLA761043 | BENLYSTA | GLAXOSMITHKLINE LLC | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

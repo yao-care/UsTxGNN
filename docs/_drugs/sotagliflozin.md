@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1177
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sotagliflozin: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 1 diabetes mellitus (including diabetic ketoacidosis-related con…"
 monitor_inn: "SOTAGLIFLOZIN"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "autoimmune oophoritis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA216203 | INPEFA (Lexicon Pharmaceuticals, Inc.) | Tablet | Not listed (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA216203 | INPEFA | LEXICON PHARMS INC | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

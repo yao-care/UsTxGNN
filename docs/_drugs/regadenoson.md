@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "REGADENOSON"
 predicted_indications: ["anaphylaxis", "food-dependent exercise-induced anaphylaxis", "esotropia", "pseudoallergy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Regadenoson: predicted new indication Anaphylaxis (evidence level L5). Approved use: Diagnostic agent for radionuclide myocardial perfusion imaging (MPI)"
 ---
 
@@ -85,13 +85,19 @@ Approved-indication text is not available for any of them. The main authorizatio
 
 <!-- review:end us-lic-20261105-regadenoson-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022161 | LEXISCAN (Astellas Pharma US, Inc.) | Injection, solution | Not available (status: valid) |
-| ANDA213210 | Regadenoson (Dr. Reddy's Laboratories Inc.) | Injection | Not available (status: valid) |
-| ANDA218054 | Regadenoson (Marlex Pharmaceuticals, Inc.) | Injection, solution | Not available (status: valid) |
-| ANDA216437 | Regadenoson (Eugia US LLC) | Injection | Not available (status: valid) |
-| ANDA207604 | Regadenoson (Apotex Corp.) | Injection, solution | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA207320 | REGADENOSON | GLAND | Solution; intravenous | Valid |
+| ANDA207604 | REGADENOSON | APOTEX | Solution; intravenous | Valid |
+| ANDA212806 | REGADENOSON | MEITHEAL | Solution; intravenous | Valid |
+| ANDA213210 | REGADENOSON | DR REDDYS | Solution; intravenous | Valid |
+| ANDA213236 | REGADENOSON | ACCORD HLTHCARE | Solution; intravenous | Valid |
+
+Showing 5 of 14 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All products are injectable.
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 817
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ISOTRETINOIN"
 predicted_indications: ["malignant hypertensive renal disease"]
 description: "Isotretinoin: predicted new indication Malignant hypertensive renal disease (evidence level L5). In the US: 19 FDA applications (15 active)"
@@ -91,13 +91,19 @@ The records contain no approved indication text.
 
 <!-- review:end us-lic-20261106-isotretinoin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA218194 | Isotretinoin (Aurobindo Pharma) | Capsule | Not available (valid) |
-| ANDA211568 | Isotretinoin (Zydus Pharmaceuticals USA) | Capsule | Not available (valid) |
-| ANDA216633 | Isotretinoin (Zydus Lifesciences) | Capsule | Not available (valid) |
-| NDA021951 | Isotretinoin (Sun Pharmaceutical) | Capsule | Not available (valid) |
-| ANDA076135 | Claravis (Teva) | Capsule, liquid filled | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075945 | AMNESTEEM | MYLAN PHARMS INC | Capsule; oral | Valid |
+| ANDA076135 | CLARAVIS | TEVA PHARMS USA | Capsule; oral | Valid |
+| ANDA076356 | CLARAVIS | TEVA PHARMS USA | Capsule; oral | Valid |
+| ANDA076485 | MYORISAN | UPSHER SMITH LABS | Capsule; oral | Valid |
+| ANDA202099 | ZENATANE | DR REDDYS LABS LTD | Capsule; oral | Valid |
+
+Showing 5 of 19 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

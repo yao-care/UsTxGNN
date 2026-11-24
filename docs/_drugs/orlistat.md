@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ORLISTAT"
 predicted_indications: ["hypervitaminosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Orlistat: predicted new indication Hypervitaminosis (evidence level L5). In the US: 2 FDA applications (2 active)"
 ---
 
@@ -76,10 +76,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020766 | ORLISTAT (H2-Pharma LLC) | Capsule | Not listed; status: valid |
-| NDA021887 | ALLI (Aphena Pharma Solutions - Tennessee, LLC) | Capsule | Not listed; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA020766 | XENICAL | CHEPLAPHARM | Capsule; oral | Valid |
+| NDA021887 | ALLI | HALEON US HOLDINGS | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

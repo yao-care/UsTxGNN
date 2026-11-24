@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 611
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dinutuximab: predicted new indication Vertebral anomalies and variable endocrine and T-cell dysfunction (evidence level L5). Approved use: Neuroblastoma"
 monitor_inn: "DINUTUXIMAB"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "chronic myelogenous leukemia, BCR-ABL1 positive"]
@@ -87,9 +87,13 @@ No literature is available for the top-ranked prediction. The literature below r
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125516 | Unituxin (United Therapeutics Corporation) | Injection | Not listed in the compiled data (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125516 | UNITUXIN | UNITED THERAP | Injectable; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

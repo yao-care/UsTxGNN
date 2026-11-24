@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 796
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "INSULIN ASPART"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
 description: "Insulin Aspart: predicted new indication Autoimmune oophoritis (evidence level L5). In the US: 8 FDA applications (6 active)"
@@ -99,13 +99,19 @@ The compiled data lists 20 publications for type 1 diabetes. The 10 most relevan
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA020986 | NOVOLOG (A-S Medication Solutions) | Injection, solution | Not listed (valid) |
-| BLA761325 | MERILOG (Sanofi-Aventis U.S. LLC) | Injection, solution | Not listed (valid) |
-| BLA021172 | Insulin Aspart Protamine and Insulin Aspart (RemedyRepack) | Injection, suspension | Not listed (valid) |
-| BLA208751 | Fiasp (Novo Nordisk) | Injection, solution | Not listed (valid) |
-| BLA761188 | KIRSTY (Biocon Biologics) | Injection, solution | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA020986 | NOVOLOG PENFILL | NOVO NORDISK INC | Injectable; subcutaneous | Valid |
+| BLA208751 | FIASP PENFILL | NOVO | Solution; subcutaneous | Valid |
+| BLA761188 | KIRSTY | BIOCON BIOLOGICS INC | Injection; solution | Valid |
+| BLA761325 | MERILOG | SANOFI-AVENTIS U.S. LLC | Injection; solution | Valid |
+| BLA761497 | GARZULYS | EMERGE BIOSCIENCE PTE. LTD. | Vial; multidose | Valid |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The applications are biologics licenses (BLAs) rather than NDAs.
 

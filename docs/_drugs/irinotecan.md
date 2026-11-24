@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "IRINOTECAN"
 predicted_indications: ["female breast carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Irinotecan: predicted new indication Female breast carcinoma (evidence level L5). In the US: 29 FDA applications (19 active)"
 ---
 
@@ -100,13 +100,19 @@ No approved-indication text is available in the records.
 
 <!-- review:end us-lic-20261106-irinotecan-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020571 | Camptosar (Pharmacia & Upjohn) | Injection, solution | Not available in records |
-| NDA207793 | Onivyde (Ipsen) | Injection, powder, for solution | Not available in records |
-| ANDA208718 | Irinotecan Hydrochloride (Armas) | Injection | Not available in records |
-| ANDA203380 | Irinotecan Hydrochloride (Apotex) | Injection, solution | Not available in records |
-| ANDA091032 | Irinotecan Hydrochloride (Hikma) | Injection | Not available in records |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077260 | IRINOTECAN HYDROCHLORIDE | TEVA PARENTERAL | Injectable; injection | Valid |
+| ANDA077776 | IRINOTECAN HYDROCHLORIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA077915 | IRINOTECAN HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+| ANDA078589 | IRINOTECAN HYDROCHLORIDE | ACTAVIS TOTOWA | Injectable; injection | Valid |
+| ANDA078753 | IRINOTECAN HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+
+Showing 5 of 29 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

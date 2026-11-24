@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TROLAMINE SALICYLATE"
 predicted_indications: ["exostosis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "fibromyalgia", "inclusion body myositis", "exostoses, multiple,", "rheumatoid arthritis", "headache disorder", "gout"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Trolamine Salicylate: predicted new indication Exostosis (evidence level L5). Approved use: Not stated in the data compiled for this report . The product names s…"
 ---
 
@@ -82,11 +82,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| 505G(a)(3) | MOBISYL | Cream | Not stated | Valid |
-| M017 | Arthritis Relief | Cream | Not stated | Valid |
-| part348 | Pain Relief Cream | Cream | Not stated | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0225-0360 | MOBISYL | BF ASCHER AND CO INC | Cream | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 41167-0570 | Aspercreme Pain Relieving | Chattem, Inc. | Cream | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 41250-356 | Meijer Pain Relieving Balm Analgesic | Meijer Distribution, Inc | Cream | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 41250-418 | Meijer Analgesic with Aloe Topical Analgesic | Meijer Distribution, Inc | Cream | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 50804-207 | Arthritis Relief GoodSense | Geiss, Destin & Dunn, Inc | Cream | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 25 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The drug is also recorded in spray form.
 

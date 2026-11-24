@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "BECLOMETHASONE DIPROPIONATE"
 predicted_indications: ["atopic eczema"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Beclomethasone Dipropionate: predicted new indication Atopic eczema (evidence level L3). Approved use: Asthma, allergic rhinitis"
 ---
 
@@ -82,11 +82,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA207921 | QVAR REDIHALER (Teva Respiratory) | Metered aerosol | Not specified (valid) |
-| ANDA213811 | Beclomethasone Dipropionate (Amneal) | Metered aerosol | Not specified (valid) |
-| NDA202813 | QNASL (Teva Respiratory) | Metered aerosol | Not specified (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA213811 | BECLOMETHASONE DIPROPIONATE | AMNEAL IRELAND LTD | Aerosol, metered; inhalation | Valid |
+| ANDA214418 | BECLOMETHASONE DIPROPIONATE | AUROLIFE PHARMA LLC | Aerosol, metered; inhalation | Valid |
+| NDA202813 | QNASL | TEVA BRANDED PHARM | Aerosol, metered; nasal | Valid |
+| NDA207921 | QVAR REDIHALER | NORTON WATERFORD | Aerosol, metered; inhalation | Valid |
+| NDA017573 | VANCERIL | SCHERING | Aerosol, metered; inhalation | Discontinued in Drugs@FDA |
+
+Showing 5 of 14 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 No topical dermatological formulation is listed.
 

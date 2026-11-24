@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 627
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DOXYCYCLINE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
 description: "Doxycycline: predicted new indication Top-ranked: punctate epithelial keratoconjunctivitis . Best-supported: post-bacterial disorder (punctate epithelial ker… (evidence level L5). Approved use: Not r…"
@@ -120,13 +120,19 @@ The drug is marketed in the US. The license records contain no approved-indicati
 
 <!-- review:end us-lic-20261106-doxycycline-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050641 | Doxycycline Monohydrate (Chartwell RX) | Capsule | Not available (valid) |
-| ANDA062505 | Doxycycline Hyclate (Proficient Rx) | Tablet, film coated | Not available (valid) |
-| ANDA207289 | Doxycycline Hyclate (Bryant Ranch Prepack) | Capsule | Not available (valid) |
-| ANDA065055 | Doxycycline (Strides Pharma) | Capsule | Not available (valid) |
-| ANDA210537 | Doxycycline Hyclate (Alembic) | Tablet, film coated | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA062031 | DOXYCYCLINE HYCLATE | ACTAVIS LABS FL INC | Capsule; oral | Valid |
+| ANDA062269 | DOXYCYCLINE HYCLATE | EPIC PHARMA LLC | Tablet; oral | Valid |
+| ANDA062337 | DOXYCYCLINE HYCLATE | STRIDES PHARMA | Capsule; oral | Valid |
+| ANDA062396 | DOXYCYCLINE HYCLATE | HIKMA | Capsule; oral | Valid |
+| ANDA062421 | DOXYCYCLINE HYCLATE | ACTAVIS LABS FL INC | Tablet; oral | Valid |
+
+Showing 5 of 146 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All products are oral (tablets and capsules).
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 917
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "METHYLPREDNISOLONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Methylprednisolone: predicted new indication Alopecia mucinosa (evidence level L5). In the US: 99 FDA applications (28 active), plus 2 OTC monograph/unapproved NDC listings"
@@ -87,13 +87,19 @@ The list below may be partial.
 
 <!-- review:end us-lic-20261106-methylprednisolone-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA011757 | Depo-Medrol | Injection, suspension | Not available |
-| NDA011153 | Methylprednisolone (Mylan) | Tablet | Not available |
-| ANDA204072 | Methylprednisolone (RemedyRepack) | Tablet | Not available |
-| ANDA206751 | Methylprednisolone (Advanced Rx) | Tablet | Not available |
-| ANDA210043 | Methylprednisolone acetate (Amneal) | Injection, suspension | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040183 | METHYLPREDNISOLONE | PH HEALTH | Tablet; oral | Valid |
+| ANDA040189 | METHYLPREDNISOLONE | JUBILANT CADISTA | Tablet; oral | Valid |
+| ANDA040194 | METHYLPREDNISOLONE | SANDOZ | Tablet; oral | Valid |
+| ANDA040232 | METHYLPREDNISOLONE | WATSON LABS | Tablet; oral | Valid |
+| ANDA040557 | METHYLPREDNISOLONE ACETATE | EMERGE BIOSCIENCE | Injectable; injection | Valid |
+
+Showing 5 of 101 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Available routes are injectable (suspension) and oral (tablet). The approved indication text is not recorded in the local data.
 

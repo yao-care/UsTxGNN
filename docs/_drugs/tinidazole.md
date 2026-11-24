@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1229
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TINIDAZOLE"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "apocrine adenosis of breast", "blunt duct adenosis of breast", "congenital human immunodeficiency virus", "AIDS related complex", "benign mammary dysplasia"]
 description: "Tinidazole: predicted new indication Postmenopausal atrophic vaginitis (evidence level L5). In the US: 7 FDA applications (6 active)"
@@ -98,12 +98,19 @@ The following publications were found for the lower-ranked AIDS prediction. They
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021618 | Tinidazole (BioComp Pharma) | Film-coated tablet | Not available; status valid |
-| ANDA202044 | Tinidazole (Chartwell RX) | Film-coated tablet | Not available; status valid |
-| ANDA202489 | Tindazole (Rising Pharma) | Film-coated tablet | Not available; status valid |
-| ANDA203808 | Tinidazole (Edenbridge) | Tablet | Not available; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA202044 | TINIDAZOLE | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA202489 | TINIDAZOLE | UNIQUE | Tablet; oral | Valid |
+| ANDA203808 | TINIDAZOLE | EDENBRIDGE PHARMS | Tablet; oral | Valid |
+| NDA021618 | TINDAMAX | MISSION PHARMA | Tablet; oral | Valid |
+| NDA021681 | TINDAMAX | MISSION PHARMA | Tablet; oral | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

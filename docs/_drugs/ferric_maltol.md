@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 702
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "FERRIC MALTOL"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "IRIDA syndrome"]
 description: "Ferric Maltol: predicted new indication Vitamin B12- and folate-independent constitutional megaloblastic anemia (evidence level L5). In the US: 1 FDA application (1 active)"
@@ -68,9 +68,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212320 | ACCRUFER (Shield TX (UK) Ltd) | Capsule | Not listed in the data compiled for this report |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA212320 | ACCRUFER | SHIELD TX | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 The data list one valid licence, a single-ingredient product taken by mouth (capsule). The manufacturer is Shield TX (UK) Ltd.
 

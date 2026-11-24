@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "BENZOYL PEROXIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl methacrylate sensitization", "acrodermatitis chronica atrophicans", "acne keloid"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzoyl Peroxide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). In the US: 41 FDA applications (34 active), plus 225 OTC monograph/unapproved NDC listings"
 ---
 
@@ -72,10 +72,19 @@ Currently no related literature available.
 
 Market status is "Marketed", with 2 licences in the local records. The list may be partial, and the licence records contain no approved-indication text. Only the following were recorded:
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| M006 | Neutrogena On-the-Spot Acne Treatment | Cream |
-| M014 | Benzoyl Peroxide | Gel |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA214510 | EPSOLAY | MAYNE PHARMA | Cream; topical | Valid |
+| ANDA065385 | ERYTHROMYCIN AND BENZOYL PEROXIDE | RISING | Gel; topical | Valid |
+| ANDA065443 | CLINDAMYCIN PHOSPHATE AND BENZOYL PEROXIDE | MYLAN PHARMS INC | Gel; topical | Valid |
+| ANDA090979 | CLINDAMYCIN PHOSPHATE AND BENZOYL PEROXIDE | PADAGIS ISRAEL | Gel; topical | Valid |
+| ANDA202440 | CLINDAMYCIN PHOSPHATE AND BENZOYL PEROXIDE | PADAGIS ISRAEL | Gel; topical | Valid |
+
+Showing 5 of 266 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

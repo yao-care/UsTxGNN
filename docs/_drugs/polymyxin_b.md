@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1062
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Polymyxin B: predicted new indication Bronchitis (evidence level L4). Approved use: Not available in the data compiled for this report"
 monitor_inn: "POLYMYXIN B"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
@@ -114,13 +114,19 @@ Approved indication text is not available in the data compiled for this report.
 
 <!-- review:end us-lic-20261106-polymyxin_b-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA202766 | Polymyxin B (Xellia) | Injection, powder, for solution | Not available |
-| ANDA207322 | Polymyxin B (Gland Pharma) | Injection, powder, lyophilized, for solution | Not available |
-| ANDA065372 | Polymyxin B (Fresenius Kabi) | Injection, powder, lyophilized, for solution | Not available |
-| ANDA206589 | Polymyxin B (Eugia) | Injection, powder, lyophilized, for solution | Not available |
-| ANDA060716 | Polymyxin B (Hikma) | Injection, powder, for solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA065372 | POLYMYXIN B SULFATE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA202766 | POLYMYXIN B SULFATE | XELLIA PHARMS APS | Injectable; injection | Valid |
+| ANDA206589 | POLYMYXIN B SULFATE | EUGIA PHARMA | Injectable; injection | Valid |
+| ANDA207322 | POLYMYXIN B SULFATE | GLAND | Injectable; injection | Valid |
+| ANDA060707 | NEOSPORIN G.U. IRRIGANT | MONARCH PHARMS | Solution; irrigation | Valid |
+
+Showing 5 of 395 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "LETERMOVIR"
 predicted_indications: ["vulvovaginal candidiasis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Letermovir: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Cytomegalovirus infection"
 ---
 
@@ -72,11 +72,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA209939 | PREVYMIS | Tablet, film coated | Indication text not available (status: valid) |
-| NDA219104 | PREVYMIS | Pellet | Indication text not available (status: valid) |
-| NDA209940 | PREVYMIS | Injection, solution | Indication text not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA209939 | PREVYMIS | MERCK SHARP DOHME | Tablet; oral | Valid |
+| NDA209940 | PREVYMIS | MERCK SHARP DOHME | Solution; intravenous | Valid |
+| NDA219104 | PREVYMIS | MSD | Pellets; oral | Valid |
+
+<!-- licenses:end -->
 
 This status should be verified against current FDA records before any planning.
 

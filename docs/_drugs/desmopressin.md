@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 586
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DESMOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
 description: "Desmopressin: predicted new indication Congenital prothrombin deficiency (evidence level L5). In the US: 38 FDA applications (19 active)"
@@ -72,7 +72,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-The drug is marketed in the US. The records contain no approved indication text. Up to 5 are listed below.
+The drug is marketed in the US. The records contain no approved indication text.
 
 <!-- review:begin us-lic-20261106-desmopressin-1 -->
 
@@ -80,13 +80,19 @@ The drug is marketed in the US. The records contain no approved indication text.
 
 <!-- review:end us-lic-20261106-desmopressin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018938 | Desmopressin Acetate (Nordic Pharma) | Solution | Not available |
-| NDA019955 | DDAVP (Ferring) | Tablet | Not available |
-| ANDA074830 | Desmopressin Acetate (Oceanside) | Solution | Not available |
-| ANDA201831 | Desmopressin Acetate (Glenmark) | Tablet | Not available |
-| ANDA210223 | Desmopressin Acetate (XGen) | Injection, solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074888 | DESMOPRESSIN ACETATE | MEITHEAL | Injectable; injection | Valid |
+| ANDA076703 | DESMOPRESSIN ACETATE (NEEDS NO REFRIGERATION) | APOTEX | Spray, metered; nasal | Valid |
+| ANDA077414 | DESMOPRESSIN ACETATE | APOTEX | Tablet; oral | Valid |
+| ANDA091345 | DESMOPRESSIN ACETATE (NEEDS NO REFRIGERATION) | ZYDUS PHARMS | Spray, metered; nasal | Valid |
+| ANDA204695 | DESMOPRESSIN ACETATE | SAGENT PHARMS INC | Injectable; injection | Valid |
+
+Showing 5 of 38 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Dosage forms across all authorizations include oral tablets, solutions and injectables.
 

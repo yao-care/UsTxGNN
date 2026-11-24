@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "DEXMEDETOMIDINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dexmedetomidine: predicted new indication nephrogenic syndrome of inappropriate antidiuresis . The top-ranked prediction by score is nephrogenic… (evidence level L5). Approved use: Not available in the data compiled for this report …"
 ---
 
@@ -119,13 +119,19 @@ The five main listings are:
 
 <!-- review:end us-lic-20261106-dexmedetomidine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021038 | Precedex (Hospira, Inc.) | Injection, solution | Not available (valid) |
-| NDA206628 | Dexmedetomidine in Dextrose (WG Critical Care, LLC) | Injection | Not available (valid) |
-| ANDA201072 | Dexmedetomidine Hydrochloride (Fresenius Kabi USA, LLC) | Injection, solution | Not available (valid) |
-| ANDA208532 | Dexmedetomidine HCl in 0.9% Sodium Chloride (Baxter Healthcare Company) | Injection | Not available (valid) |
-| ANDA209065 | Dexmedetomidine (Avenacy Inc.) | Injection, solution, concentrate | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA201072 | DEXMEDETOMIDINE HYDROCHLORIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA202126 | DEXMEDETOMIDINE HYDROCHLORIDE | GLAND | Injectable; injection | Valid |
+| ANDA202585 | DEXMEDETOMIDINE HYDROCHLORIDE | RISING | Injectable; injection | Valid |
+| ANDA202881 | DEXMEDETOMIDINE HYDROCHLORIDE | MYLAN INSTITUTIONAL | Injectable; injection | Valid |
+| ANDA203972 | DEXMEDETOMIDINE HYDROCHLORIDE | PH HEALTH | Injectable; injection | Valid |
+
+Showing 5 of 36 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All products are injectables (injection, injection solution, and injection solution concentrate). The nebulized route used in the headache trials is not an approved route in the compiled data.
 

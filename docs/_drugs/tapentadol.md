@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "TAPENTADOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tapentadol: predicted new indication Migraine disorder (evidence level L5). In the US: 7 FDA applications (5 active)"
 ---
 
@@ -84,11 +84,19 @@ No literature is currently available for the top prediction (migraine disorder).
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA214378 | Tapentadol Hydrochloride (Epic Pharma) | Film-coated tablet | Not recorded (valid) |
-| NDA022304 | Nucynta (Collegium) | Film-coated tablet | Not recorded (valid) |
-| NDA200533 | Nucynta (Collegium) | Film-coated extended-release tablet | Not recorded (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA214378 | TAPENTADOL HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Valid |
+| ANDA219119 | TAPENTADOL HYDROCHLORIDE | NOVITIUM PHARMA | Solution; oral | Valid |
+| ANDA220865 | TAPENTADOL HYDROCHLORIDE | MSN | Tablet; oral | Valid |
+| NDA022304 | NUCYNTA | COLLEGIUM PHARM INC | Tablet; oral | Valid |
+| NDA200533 | NUCYNTA ER | COLLEGIUM PHARM INC | Tablet, extended release; oral | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

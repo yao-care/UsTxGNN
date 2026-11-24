@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1282
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
 description: "Valsartan: predicted new indication Malignant hypertensive renal disease (evidence level L4). In the US: 79 FDA applications (60 active)"
@@ -86,15 +86,19 @@ Literature for other predicted indications is mostly indirect (examples):
 
 ## US Market Information
 
-Five examples:
+<!-- licenses:begin -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021283 | Diovan (Novartis) | Tablet | Not available |
-| ANDA203311 | Valsartan (Proficient Rx) | Film-coated tablet | Not available |
-| ANDA204821 | Valsartan (A-S Medication Solutions) | Tablet | Not available |
-| ANDA214102 | Valsartan (ANI Pharmaceuticals) | Solution | Not available |
-| ANDA090866 | Valsartan (Mylan) | Film-coated tablet | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077492 | VALSARTAN | OHM LABS INC | Tablet; oral | Valid |
+| ANDA090866 | VALSARTAN | MYLAN | Tablet; oral | Valid |
+| ANDA091367 | VALSARTAN | ALEMBIC | Tablet; oral | Valid |
+| ANDA201618 | VALSARTAN | DR REDDYS | Tablet; oral | Valid |
+| ANDA202223 | VALSARTAN | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+
+Showing 5 of 79 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

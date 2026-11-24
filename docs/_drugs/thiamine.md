@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "THIAMINE"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Thiamine: predicted new indication resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (evidence level L5). Approved use: Not available"
 ---
 
@@ -100,13 +100,19 @@ The compiled data list at least 11 records, and the list may be partial. None in
 
 <!-- review:end us-lic-20261106-thiamine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA217181 | Thiamine Hydrochloride (OneSource Specialty Pharma) | Injection, solution | Not available |
-| ANDA215692 | Thiamine (Caplin Steriles) | Injection, solution | Not available |
-| ANDA080571 | Thiamine Hydrochloride (HealthFirst) | Injection, solution | Not available |
-| ANDA206106 | Thiamine Hydrochloride (Sagent) | Injection, solution | Not available |
-| ANDA217800 | Thiamine Hydrochloride (Gland Pharma) | Injection, solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA080556 | THIAMINE HYDROCHLORIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA080571 | THIAMINE HYDROCHLORIDE | DR REDDYS | Injectable; injection | Valid |
+| ANDA080575 | THIAMINE HYDROCHLORIDE | WEST-WARD PHARMS INT | Injectable; injection | Valid |
+| ANDA091623 | THIAMINE HYDROCHLORIDE | MYLAN INSTITUTIONAL | Injectable; injection | Valid |
+| ANDA206106 | THIAMINE HYDROCHLORIDE | SAGENT PHARMS INC | Injectable; injection | Valid |
+
+Showing 5 of 107 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

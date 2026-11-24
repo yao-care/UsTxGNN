@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 560
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "CYSTEAMINE"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "exocrine pancreatic insufficiency", "free sialic acid storage disease", "Hurler syndrome", "Steel syndrome", "Gaucher disease", "autosomal ichthyosis syndrome with fatal disease course", "glycogen storage disease due to GLUT2 deficiency"]
 description: "Cysteamine: predicted new indication Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). In the US: 5 FDA applications (5 active)"
@@ -80,13 +80,17 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA200740 | CYSTARAN | Solution | Not specified in the data (valid) |
-| NDA213491 | PROCYSBI | Granule, delayed release | Not specified in the data (valid) |
-| NDA020392 | Cystagon | Capsule | Not specified in the data (valid) |
-| NDA203389 | PROCYSBI | Capsule, delayed release pellets | Not specified in the data (valid) |
-| NDA211302 | CYSTADROPS | Solution | Not specified in the data (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA020392 | CYSTAGON | MYLAN | Capsule; oral | Valid |
+| NDA200740 | CYSTARAN | LEADIANT BIOSCI INC | Solution/drops; ophthalmic | Valid |
+| NDA203389 | PROCYSBI | HORIZON | Capsule, delayed release; oral | Valid |
+| NDA211302 | CYSTADROPS | RECORDATI RARE | Solution/drops; ophthalmic | Valid |
+| NDA213491 | PROCYSBI | HORIZON | Granule, delayed release; oral | Valid |
+
+<!-- licenses:end -->
 
 All five authorizations are single-ingredient products and all five are valid in the data compiled for this report.
 

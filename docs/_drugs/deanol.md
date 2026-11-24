@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "DEANOL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Deanol: predicted new indication insomnia (evidence level L5). Approved use: Not recorded"
 ---
 
@@ -75,9 +75,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available (cancelled) | DMAE | Liquid | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 63083-1549 | DMAE 1549 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 The only authorization is a single-ingredient product (manufacturer: Professional Complementary Health Formulas), and it is currently valid. The drug is marketed in the United States.
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1124
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Riluzole: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Amyotrophic lateral sclerosis"
 monitor_inn: "RILUZOLE"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
@@ -90,13 +90,19 @@ No approved-indication text is available in the data.
 
 <!-- review:end us-lic-20261105-riluzole-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA204048 | Riluzole (Ascend Laboratories) | Tablet | Valid |
-| ANDA091417 | Riluzole (Sun Pharmaceutical) | Tablet, film coated | ANDA (Discontinued in Drugs@FDA) |
-| ANDA091394 | Riluzole (Glenmark) | Tablet, film coated | Valid |
-| ANDA206045 | Riluzole (AvKARE) | Tablet, film coated | Valid |
-| NDA209080 | TIGLUTIK (EDW Pharma) | Liquid | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076173 | RILUZOLE | IMPAX LABS | Tablet; oral | Valid |
+| ANDA091394 | RILUZOLE | GLENMARK PHARMS LTD | Tablet; oral | Valid |
+| ANDA204048 | RILUZOLE | ALKEM LABS LTD | Tablet; oral | Valid |
+| ANDA206045 | RILUZOLE | KENTON | Tablet; oral | Valid |
+| ANDA216035 | RILUZOLE | ALKEM LABS LTD | Suspension; oral | Valid |
+
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 A sixth entry, Teglutik (EDW Pharma, liquid), is also valid.
 

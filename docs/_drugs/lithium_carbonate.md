@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LITHIUM CARBONATE"
 predicted_indications: ["pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "myosclerosis", "brachyolmia-amelogenesis imperfecta syndrome", "brachydactyly-syndactyly syndrome", "Behr syndrome", "WHIM syndrome", "combined immunodeficiency due to moesin deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lithium Carbonate: predicted new indication Pseudoachondroplasia (evidence level L5). In the US: 36 FDA applications (13 active), plus 71 OTC monograph/unapproved NDC listings"
 ---
 
@@ -84,13 +84,19 @@ Currently no related literature available for pseudoachondroplasia.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA017812 | Lithium Carbonate (Cardinal Health 107) | Capsule, gelatin coated | Not stated; status valid |
-| NDA018558 | Lithium Carbonate (Hikma) | Tablet | Not stated; status valid |
-| ANDA204779 | Lithium Carbonate (RemedyRepack) | Tablet, extended release | Not stated; status valid |
-| ANDA076832 | Lithium Carbonate (Hikma) | Tablet, extended release | Not stated; status valid |
-| ANDA079159 | Lithium Carbonate (Alembic) | Capsule | Not stated; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076691 | LITHIUM CARBONATE | HIKMA | Tablet, extended release; oral | Valid |
+| ANDA076832 | LITHIUM CARBONATE | HIKMA | Tablet, extended release; oral | Valid |
+| ANDA079139 | LITHIUM CARBONATE | GLENMARK PHARMS LTD | Capsule; oral | Valid |
+| ANDA079159 | LITHIUM CARBONATE | ALEMBIC LTD | Capsule; oral | Valid |
+| ANDA090702 | LITHIUM CARBONATE | HETERO LABS LTD III | Capsule; oral | Valid |
+
+Showing 5 of 107 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Cancelled status in this dataset may not reflect actual marketing, so it should be verified against current FDA records.
 

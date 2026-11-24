@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "RITONAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ritonavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV infectious disease / AIDS"
 ---
 
@@ -96,13 +96,19 @@ The approved indication text is not available in the records. The main authoriza
 
 <!-- review:end us-lic-20261105-ritonavir-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022417 | Norvir (AbbVie) | Tablet, film coated | Not available |
-| NDA209512 | Norvir (AbbVie) | Powder | Not available |
-| NDA021906 | Kaletra (lopinavir/ritonavir, AbbVie) | Tablet, film coated | Not available |
-| NDA021251 | Kaletra (lopinavir/ritonavir, AbbVie) | Solution | Not available |
-| ANDA202573 | Ritonavir (Cipla USA) | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA202573 | RITONAVIR | CIPLA | Tablet; oral | Valid |
+| ANDA203759 | RITONAVIR | CIPLA | Tablet; oral | Valid |
+| ANDA204587 | RITONAVIR | HETERO LABS LTD III | Tablet; oral | Valid |
+| ANDA205024 | RITONAVIR | QUAGEN | Capsule; oral | Valid |
+| ANDA206614 | RITONAVIR | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

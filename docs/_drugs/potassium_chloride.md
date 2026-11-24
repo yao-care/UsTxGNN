@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "POTASSIUM CHLORIDE"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Potassium Chloride: predicted new indication Renal tubular acidosis (evidence level L4). In the US: 285 FDA applications (145 active), plus 172 OTC monograph/unapproved NDC listings"
 ---
 
@@ -92,13 +92,19 @@ The data contain no approved-indication text. The main ones are:
 
 <!-- review:end us-lic-20261105-potassium_chloride-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA211665 | Potassium Chloride (Strides Pharma) | Solution | Not available |
-| ANDA214452 | Potassium Chloride Extended-Release (Vangard Labs) | Extended-release tablet | Not available |
-| ANDA088908 | Potassium Chloride (Fresenius Kabi) | Injection, solution, concentrate | Not available |
-| ANDA208445 | Potassium Chloride (Zydus) | Extended-release capsule | Not available |
-| ANDA218979 | KLOR-CON (Upsher-Smith) | Film-coated extended-release tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074726 | KLOR-CON M10 | UPSHER SMITH LABS | Tablet, extended release; oral | Valid |
+| ANDA075604 | POTASSIUM CHLORIDE | ACTAVIS LABS FL INC | Tablet, extended release; oral | Valid |
+| ANDA076368 | POTASSIUM CHLORIDE | ADARE PHARMS INC | Tablet, extended release; oral | Valid |
+| ANDA077419 | POTASSIUM CHLORIDE | ACTAVIS LABS FL INC | Capsule, extended release; oral | Valid |
+| ANDA080205 | POTASSIUM CHLORIDE | HOSPIRA | Injectable; injection | Valid |
+
+Showing 5 of 457 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

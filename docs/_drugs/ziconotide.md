@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "ZICONOTIDE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "obesity disorder", "transient ischemic attack (disease)", "open-angle glaucoma", "obsolete neurogenic bladder (disease)", "primary hereditary glaucoma", "preeclampsia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ziconotide: predicted new indication Migraine disorder (evidence level L4). In the US: 1 FDA application (1 active)"
 ---
 
@@ -85,9 +85,13 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021060 | PRIALT (TerSera Therapeutics LLC) | Injection, solution | Not listed (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021060 | PRIALT | ESTEVE | Injectable; intrathecal | Valid |
+
+<!-- licenses:end -->
 
 ---
 

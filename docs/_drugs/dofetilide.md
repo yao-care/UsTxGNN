@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "DOFETILIDE"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "duodenal obstruction", "brain stem infarction", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cerebrovascular disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dofetilide: predicted new indication Stroke disorder (evidence level L5). Approved use: Atrial fibrillation"
 ---
 
@@ -81,13 +81,19 @@ None of these studies uses stroke as an endpoint.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020931 | Tikosyn (Pfizer) | Capsule | Not listed (valid) |
-| ANDA210466 | Dofetilide (Sun Pharmaceutical) | Capsule | Not listed (valid) |
-| ANDA207058 | Dofetilide (Dr. Reddy's) | Capsule | Not listed (valid) |
-| ANDA213220 | Dofetilide (Novadoz) | Capsule | Not listed (valid) |
-| ANDA210740 | Dofetilide (Aurobindo) | Capsule | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA207058 | DOFETILIDE | DR REDDYS LABS SA | Capsule; oral | Valid |
+| ANDA207746 | DOFETILIDE | SIGMAPHARM LABS LLC | Capsule; oral | Valid |
+| ANDA208625 | DOFETILIDE | BIONPHARMA | Capsule; oral | Valid |
+| ANDA210466 | DOFETILIDE | SUN PHARM | Capsule; oral | Valid |
+| ANDA210740 | DOFETILDE | AUROBINDO PHARMA LTD | Capsule; oral | Valid |
+
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Four more ANDAs (Accord, Bionpharma, Sigmapharm, Exelan) are also valid.
 

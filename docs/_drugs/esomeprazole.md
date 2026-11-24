@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 672
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ESOMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Esomeprazole: predicted new indication Duodenal obstruction (evidence level L5). In the US: 71 FDA applications (50 active)"
@@ -80,13 +80,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA207193 | dg health esomeprazole magnesium | Capsule, delayed release | Not specified |
-| ANDA203349 | Esomeprazole Sodium | Injection | Not specified |
-| ANDA204657 | Esomeprazole Sodium | Injection, powder, lyophilized, for solution | Not specified |
-| ANDA208511 | esomeprazole | Capsule, delayed release | Not specified |
-| NDA214278 | Esomeprazole | Tablet, orally disintegrating, delayed release | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078279 | ESOMEPRAZOLE MAGNESIUM | DR REDDYS | Capsule, delayed rel pellets; oral | Valid |
+| ANDA078936 | ESOMEPRAZOLE MAGNESIUM | MYLAN | Capsule, delayed rel pellets; oral | Valid |
+| ANDA090841 | ESOMEPRAZOLE MAGNESIUM | ETHYPHARM | Capsule, delayed rel pellets; oral | Valid |
+| ANDA203349 | ESOMEPRAZOLE SODIUM | GLAND | Injectable; intravenous | Valid |
+| ANDA205563 | ESOMEPRAZOLE MAGNESIUM | LANNETT CO INC | Capsule, delayed rel pellets; oral | Valid |
+
+Showing 5 of 71 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

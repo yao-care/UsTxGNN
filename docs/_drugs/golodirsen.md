@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 759
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "GOLODIRSEN"
 predicted_indications: ["distal myopathy, Welander type", "nebulin-related early-onset distal myopathy", "X-linked myopathy with postural muscle atrophy"]
 description: "Golodirsen: predicted new indication Distal myopathy, Welander type (evidence level L5). In the US: 1 FDA application (1 active)"
@@ -75,9 +75,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA211970 | Vyondys 53 | Injection | Not listed in the compiled data (status: valid; manufacturer: Sarepta Therapeutics, Inc.) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA211970 | VYONDYS 53 | SAREPTA THERAPS INC | Solution; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

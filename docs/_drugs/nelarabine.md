@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "NELARABINE"
 predicted_indications: ["relapsing-remitting multiple sclerosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nelarabine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). In the US: 11 FDA applications (11 active)"
 ---
 
@@ -80,13 +80,19 @@ Approved indication text was not available in the compiled data.
 
 <!-- review:end us-lic-20261106-nelarabine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA021877 | Arranon | Injection | Sandoz Inc |
-| ANDA216038 | Nelarabine | Injection | Meitheal Pharmaceuticals Inc |
-| ANDA215037 | Nelarabine | Injection | Zydus Lifesciences Limited |
-| ANDA216934 | Nelarabine | Injection | Dr. Reddy's Laboratories, Inc. |
-| ANDA212605 | Nelarabine | Injection | Gland Pharma Limited |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA212605 | NELARABINE | GLAND | Injectable; intravenous | Valid |
+| ANDA214809 | NELARABINE | SHORLA | Injectable; intravenous | Valid |
+| ANDA215037 | NELARABINE | ZYDUS PHARMS | Injectable; intravenous | Valid |
+| ANDA215057 | NELARABINE | NEXUS | Injectable; intravenous | Valid |
+| ANDA216038 | NELARABINE | MEITHEAL | Injectable; intravenous | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

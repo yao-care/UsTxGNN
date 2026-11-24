@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "THEOPHYLLINE"
 predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Theophylline: predicted new indication Thrombotic disease (evidence level L5). Approved use: Asthma"
 ---
 
@@ -86,13 +86,19 @@ None of the retrieved papers tests theophylline as a treatment for thrombotic di
 
 Theophylline is marketed in the US as single-ingredient products. The records compiled for this report list 13 ANDAs, and the list may be partial. The records contain no approved-indication text. The main authorizations are:
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA090430 | Theophylline (Alembic) | Extended-release tablet | Not stated in the records |
-| ANDA214806 | Theophylline (Sun Pharmaceutical) | Extended-release tablet | Not stated in the records |
-| ANDA206344 | Theophylline (PAI Pharma) | Solution | Not stated in the records |
-| ANDA087942 | Theo-24 (Endo) | Extended-release capsule | Not stated in the records |
-| ANDA089763 | Theophylline (Chartwell RX) | Extended-release tablet | Not stated in the records |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040086 | THEOPHYLLINE | RHODES PHARMS | Tablet, extended release; oral | Valid |
+| ANDA040560 | THEOPHYLLINE | MPP PHARMA | Tablet, extended release; oral | Valid |
+| ANDA081034 | Theo-24 | ENDO USA, Inc. | Capsule, extended release; oral | Valid |
+| ANDA081236 | THEOPHYLLINE | HERITAGE PHARMA AVET | Tablet, extended release; oral | Valid |
+| ANDA087400 | THEOPHYLLINE | NOSTRUM PHARMS LLC | Tablet, extended release; oral | Valid |
+
+Showing 5 of 127 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

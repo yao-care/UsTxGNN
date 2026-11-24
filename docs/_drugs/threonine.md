@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "THREONINE"
 predicted_indications: ["gastroparesis (disease)"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Threonine: predicted new indication Gastroparesis (disease) (evidence level L5). In the US: no FDA-approved application; 4 OTC monograph/unapproved NDC listings"
 ---
 
@@ -69,9 +69,16 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | L-Threonine High (Professional Complementary Health Formulas) | Liquid | Not stated; status: cancelled |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 63083-7426 | L-Threonine High 7426 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-259 | OSTEOBIOS | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 71018-002 | TH-101 | Temple Health Nutrition, LLC | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 83027-0116 | Metab | Nutritional Specialties, Inc. | Spray | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

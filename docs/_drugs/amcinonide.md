@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "AMCINONIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "hypertrophic lichen planus", "lichen planus pigmentosus", "annular atrophic lichen planus", "lichen planus pemphigoides", "primary cutaneous B-cell lymphoma", "2-hydroxyethyl methacrylate sensitization"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amcinonide: predicted new indication vulvar inverted follicular keratosis (evidence level L5). In the US: 8 FDA applications (3 active)"
 ---
 
@@ -70,12 +70,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA076229 | Amcinonide | Cream | Not recorded |
-| ANDA076065 | Amcinonide | Cream | Not recorded |
-| ANDA076367 | Amcinonide | Ointment | Not recorded |
-| ANDA076096 | Amcinonide | Ointment | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076096 | AMCINONIDE | GENUS | Ointment; topical | Valid |
+| ANDA076229 | AMCINONIDE | TARO PHARM INDS | Cream; topical | Valid |
+| ANDA076329 | AMCINONIDE | SOLUBIOMIX | Lotion; topical | Valid |
+| ANDA076065 | AMCINONIDE | GENUS LIFESCIENCES | Cream; topical | Discontinued in Drugs@FDA |
+| ANDA076367 | AMCINONIDE | TARO PHARM INDS | Ointment; topical | Discontinued in Drugs@FDA |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Modafinil: predicted new indication 失眠 (insomnia (disease)) (evidence level L5). In the US: 11 FDA applications (8 active)"
 ---
 
@@ -86,13 +86,19 @@ None of the publications below studies modafinil in insomnia directly. They conc
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020717 | Provigil (Apotex Corp) | Tablet | Not available (valid) |
-| ANDA207196 | Modafinil (Heritage/Avet) | Tablet | Not available (valid) |
-| ANDA078963 | Modafinil (Bionpharma) | Tablet | Not available (valid) |
-| ANDA209966 | Modafinil (Golden State Medical Supply) | Tablet | Not available (valid) |
-| ANDA077667 | Modafinil (Apotex Corp.) | Tablet | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077667 | MODAFINIL | APOTEX | Tablet; oral | Valid |
+| ANDA078963 | MODAFINIL | ORBION PHARMS | Tablet; oral | Valid |
+| ANDA202566 | MODAFINIL | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| ANDA202700 | MODAFINIL | ALEMBIC | Tablet; oral | Valid |
+| ANDA207196 | MODAFINIL | APPCO | Tablet; oral | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

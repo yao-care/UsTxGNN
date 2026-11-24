@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "ALLANTOIN"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial", "exanthem (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Allantoin: predicted new indication severe nonproliferative diabetic retinopathy (evidence level L5). In the US: no FDA-approved application; 126 OTC monograph/unapproved NDC listings"
 ---
 
@@ -70,14 +70,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M016 | Earthmed Sport massage oil | Oil | Not recorded |
-| M017 | Walgreens Advanced Scar Gel | Gel | Not recorded |
-| 505G(a)(3) | TriDerma Protect Heal Non Greasy Barrier Cream | Cream | Not recorded |
-| nan | LESONEL FEMININE FOAMING WASH | Liquid | Not recorded |
+<!-- licenses:begin -->
 
-The licence list may be partial.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0113-4085 | Mederma Advanced Scar | L. Perrigo Company | Gel | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0113-4126 | Mederma for Kids | L. Perrigo Company | Gel | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0299-4103 | Cetaphil Baby Soothe and Protect Cream | Galderma Laboratories, L.P. | Cream | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0299-4105 | Cetaphil Soothing Gel Cream | Galderma Laboratories, L.P. | Cream | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0363-2312 | Walgreens Advanced Scar Gel | Walgreens Company | Gel | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 126 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

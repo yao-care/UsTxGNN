@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "LOFEXIDINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lofexidine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the compiled data"
 ---
 
@@ -76,12 +76,16 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA209229 | Lofexidine hydrochloride (Prasco Laboratories) | Tablet, film coated | Not stated; status valid |
-| ANDA218699 | Lofexidine hydrochloride (Novadoz Pharmaceuticals) | Tablet, film coated | Not stated; status valid |
-| ANDA218613 | Lofexidine (Indoco Remedies) | Tablet, coated | Not stated; status valid |
-| ANDA219917 | Lofexidine (ANI Pharmaceuticals) | Tablet | Not stated; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA218613 | LOFEXIDINE HYDROCHLORIDE | REGCON HOLDINGS | Tablet; oral | Valid |
+| ANDA218699 | LOFEXIDINE HYDROCHLORIDE | MSN | Tablet; oral | Valid |
+| ANDA219917 | LOFEXIDINE HYDROCHLORIDE | NOVITIUM PHARMA | Tablet; oral | Valid |
+| NDA209229 | LUCEMYRA | BIOCORRX PHARMS | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 All products are oral tablets.
 

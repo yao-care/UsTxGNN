@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tadalafil: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). In the US: 52 FDA applications (44 active), plus 1 OTC monograph/unapproved NDC listing"
 ---
 
@@ -92,13 +92,19 @@ Five of them are shown below.
 
 <!-- review:end us-lic-20261105-tadalafil-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA205885 | Tadalafil (Teva Pharmaceuticals) | Tablet, film coated | Not available |
-| ANDA209654 | Tadalafil (Preferred Pharmaceuticals) | Tablet | Not available |
-| ANDA210609 | Tadalafil (Preferred Pharmaceuticals) | Tablet | Not available |
-| ANDA211298 | Tadalafil (Proficient Rx) | Tablet, film coated | Not available |
-| ANDA209908 | Tadalafil (Camber Pharmaceuticals) | Tablet, film coated | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090141 | TADALAFIL | TEVA PHARMS USA | Tablet; oral | Valid |
+| ANDA204809 | TADALAFIL | ALEMBIC | Tablet; oral | Valid |
+| ANDA205885 | TADALAFIL | WATSON LABS INC | Tablet; oral | Valid |
+| ANDA206285 | TADALAFIL | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| ANDA206286 | TADALAFIL | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+
+Showing 5 of 53 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

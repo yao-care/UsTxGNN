@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SODIUM CARBONATE"
 predicted_indications: ["cauda equina syndrome", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "obsolete neurogenic bladder (disease)", "dry eye syndrome", "ventricular tachycardia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Sodium Carbonate: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: No approved indication text on record"
 ---
 
@@ -85,9 +85,19 @@ No literature was found for the top-ranked indication, cauda equina syndrome. Th
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Natrum carbonicum (Boiron) | Pellet | No indication text on record (status: cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA018519 | IRRIGATING SOLUTION G IN PLASTIC CONTAINER | BAXTER HLTHCARE | Solution; irrigation | Discontinued in Drugs@FDA |
+| NDA018904 | UROLOGIC G IN PLASTIC CONTAINER | HOSPIRA | Solution; irrigation | Discontinued in Drugs@FDA |
+| NDC 0220-3531 | Natrum carbonicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-3532 | Natrum carbonicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-3533 | Natrum carbonicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 110 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

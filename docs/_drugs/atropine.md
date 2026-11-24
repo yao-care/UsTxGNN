@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ATROPINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atropine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available"
 ---
 
@@ -89,13 +89,19 @@ Five examples:
 
 <!-- review:end us-lic-20261105-atropine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA208151 | Isopto Atropine | Solution | Not available |
-| NDA021146 | Atropine Sulfate (Hospira) | Injection, solution | Not available |
-| ANDA215342 | Atropine sulfate (Amneal) | Injection, solution | Not available |
-| ANDA218148 | Atropine Sulfate (Redpharm) | Solution/drops | Not available |
-| ANDA214752 | Atropine (Amneal NY) | Solution/drops | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA212461 | ATROPINE SULFATE | INTL MEDICATION SYS | Solution; intravenous | Valid |
+| ANDA212868 | ATROPINE SULFATE | ACCORD HLTHCARE | Solution; intravenous | Valid |
+| ANDA213424 | ATROPINE SULFATE | ACCORD HLTHCARE | Solution; intravenous, intramuscular, subcutaneous, intraosseous… | Valid |
+| ANDA213561 | ATROPINE SULFATE | HIKMA | Solution; intravenous, intramuscular, subcutaneous, intraosseous… | Valid |
+| ANDA214752 | ATROPINE SULFATE | AMNEAL | Solution/drops; ophthalmic | Valid |
+
+Showing 5 of 115 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

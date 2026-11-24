@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1109
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RANIBIZUMAB"
 predicted_indications: ["diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "craniostenosis cataract", "tetanic cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "hemorrhagic disease of newborn"]
 description: "Ranibizumab: predicted new indication Diabetes mellitus type 2 associated cataract (evidence level L5). In the US: 7 FDA applications (7 active)"
@@ -82,12 +82,19 @@ Currently no related clinical trials registered in the data compiled for this re
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125156 | LUCENTIS (Genentech) | Injection, solution | Not available (status: valid) |
-| BLA761197 | Susvimo (Genentech) | Injection, solution | Not available (status: valid) |
-| BLA761165 | CIMERLI (Sandoz) | Injection, solution | Not available (status: valid) |
-| BLA761202 | Byooviz (Harrow Eye) | Injection, solution | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125156 | LUCENTIS | GENENTECH | Injectable; injection | Valid |
+| BLA761165 | CIMERLI | SANDOZ INC | Injectable; injection | Valid |
+| BLA761187 | RANIBIZUMAB | XBRANE BIOPHARMA AB | Injection; solution | Valid |
+| BLA761197 | SUSVIMO | GENENTECH INC | Solution; injection | Valid |
+| BLA761202 | BYOOVIZ | SAMSUNG BIOEPIS CO LTD | Injectable; injection | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

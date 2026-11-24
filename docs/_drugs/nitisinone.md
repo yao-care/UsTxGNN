@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "NITISINONE"
 predicted_indications: ["renal tubular acidosis", "galactosemia", "serpinopathy with toxic serpin polymerization", "C1 inhibitor deficiency", "glycogen storage disease", "adult polyglucosan body disease", "glycogen storage disease due to glucose-6-phosphatase deficiency", "Griscelli syndrome", "granulomatous disease, chronic, X-linked", "ermine phenotype"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Nitisinone: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Tyrosinemia"
 ---
 
@@ -80,13 +80,19 @@ For context, the second-ranked prediction (galactosemia) and the fifth-ranked pr
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA209449 | NITYR | Tablet | Not specified (status: valid) |
-| NDA021232 | Orfadin | Capsule | Not specified (status: valid) |
-| ANDA216201 | Nitisinone (Eton Pharmaceuticals) | Capsule | Not specified (status: valid) |
-| ANDA211041 | Nitisinone (Endo USA) | Capsule | Not specified (status: valid) |
-| NDA206356 | ORFADIN | Suspension | Not specified (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA211041 | NITISINONE | NOVITIUM PHARMA | Capsule; oral | Valid |
+| ANDA212390 | NITISINONE | MEDUNIK | Capsule; oral | Valid |
+| ANDA216201 | NITISINONE | ETON | Capsule; oral | Valid |
+| NDA021232 | ORFADIN | SWEDISH ORPHAN | Capsule; oral | Valid |
+| NDA206356 | ORFADIN | SWEDISH ORPHAN | Suspension; oral | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

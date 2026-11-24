@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "METHIONINE"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "nuclear senile cataract", "mature cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract", "tetanic cataract", "craniostenosis cataract", "diabetic cataract"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Methionine: predicted new indication Acne (disease) (evidence level L5). Approved use: No approved indication text available in the data compiled for this r…"
 ---
 
@@ -73,9 +73,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not recorded | L-Methionine High (Professional Complementary Health Formulas) | Liquid | Not stated |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 63083-7417 | L-Methionine 7417 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 63083-7418 | L-Methionine High 7418 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-259 | OSTEOBIOS | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 83027-0095 | Methylation Assist Liquescence | Nutritional Specialties, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43742-2552 | SET 4TE HOMO | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

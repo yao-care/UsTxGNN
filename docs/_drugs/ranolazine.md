@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "RANOLAZINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ranolazine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). In the US: 29 FDA applications (19 active)"
 ---
 
@@ -70,13 +70,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| ANDA201046 | Ranolazine (Lupin Pharmaceuticals) | Film-coated extended-release tablet | Not provided | Valid |
-| ANDA210054 | Ranolazine (Ajanta Pharma USA) | Extended-release tablet | Not provided | Valid |
-| ANDA210188 | Ranolazine (Vangard Labs) | Extended-release tablet | Not provided | Valid |
-| ANDA211829 | Ranolazine (ScieGen Pharmaceuticals) | Film-coated extended-release tablet | Not provided | Valid |
-| ANDA209953 | Ranolazine (Ascend Laboratories) | Film-coated extended-release tablet | Not provided | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA201046 | RANOLAZINE | CHARTWELL RX | Tablet, extended release; oral | Valid |
+| ANDA209081 | RANOLAZINE | AUROBINDO PHARMA | Tablet, extended release; oral | Valid |
+| ANDA209953 | RANOLAZINE | ALKEM LABS LTD | Tablet, extended release; oral | Valid |
+| ANDA210054 | RANOLAZINE | AJANTA PHARMA LTD | Tablet, extended release; oral | Valid |
+| ANDA210188 | RANOLAZINE | CADILA | Tablet, extended release; oral | Valid |
+
+Showing 5 of 29 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Only the first five are listed here.
 

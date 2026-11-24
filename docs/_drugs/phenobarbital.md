@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1037
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PHENOBARBITAL"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 description: "Phenobarbital: predicted new indication Trigeminal nerve neoplasm (evidence level L5). In the US: 1 FDA application (1 active), plus 190 OTC monograph/unapproved NDC listings"
@@ -101,9 +101,19 @@ No literature was found for orgasm-induced seizures or beta-ketothiolase deficie
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Phenobarbital (WINDER LABORATORIES, LLC) | Tablet | Not available (license status: cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA215910 | SEZABY | SUN PHARM INDS INC | Powder; intravenous | Valid |
+| NDC 0121-0531 | Phenobarbital | Pharmaceutical Associates, Inc. | Solution | NDC listing, no FDA application (unapproved drug other) |
+| NDC 0121-0942 | Phenobarbital Oral Solution | PAI Holdings, LLC dba PAI Pharma | Solution | NDC listing, no FDA application (unapproved drug other) |
+| NDC 0121-1884 | Phenobarbital Oral Solution | PAI Holdings, LLC dba PAI Pharma | Solution | NDC listing, no FDA application (unapproved drug other) |
+| NDC 0121-2826 | Phenobarbital Oral Solution | PAI Holdings, LLC dba PAI Pharma | Solution | NDC listing, no FDA application (unapproved drug other) |
+
+Showing 5 of 191 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Phenobarbital is also recorded in oral tablet, injection and solution forms.
 

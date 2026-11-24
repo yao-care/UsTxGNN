@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CICLESONIDE"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ciclesonide: predicted new indication atopic eczema (evidence level L5). In the US: 4 FDA applications (3 active)"
 ---
 
@@ -82,10 +82,16 @@ Currently no related literature available for atopic eczema.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021658 | Alvesco | Metered aerosol | Not recorded in the local data |
-| NDA022004 | Omnaris | Nasal spray | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021658 | ALVESCO | AZURITY | Aerosol, metered; inhalation | Valid |
+| NDA022004 | OMNARIS | AZURITY | Spray, metered; nasal | Valid |
+| NDA022124 | OMNARIS | NYCOMED US INC | Spray; nasal | Valid |
+| NDA202129 | ZETONNA | AZURITY | Aerosol, metered; nasal | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 Both are single-ingredient products from Covis Pharma US, Inc.
 

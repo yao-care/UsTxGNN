@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "POTASSIUM NITRATE"
 predicted_indications: ["meningococcal infection", "sclerosing cholangitis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Potassium Nitrate: predicted new indication Meningococcal infection (evidence level L5). In the US: no FDA-approved application; 173 OTC monograph/unapproved NDC listings"
 ---
 
@@ -78,10 +78,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M022 | SprinJene Natural | Paste, dentifrice | Not recorded (valid) |
-| Not available | Kali Nitricum | Pellet | Not recorded (cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 11527-420 | Dr. Sheffield Sensitive Care | Sheffield Pharmaceuticals LLC | Paste, dentifrice | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 37662-0891 | Kali Nitricum | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 37662-0892 | Kali Nitricum | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 37662-0893 | Kali Nitricum | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 37662-0894 | Kali Nitricum | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 173 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Other dosage forms associated with this ingredient include dentifrice gel (topical) and paste.
 

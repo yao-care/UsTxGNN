@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1233
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Tirzepatide: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -74,12 +74,14 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| NDA215866 | tirzepatide | INJECTION, SOLUTION | Valid |
-| NDA217806 | tirzepatide | INJECTION, SOLUTION | Valid |
+<!-- licenses:begin -->
 
-Only part of the licence list is held in the data; the list may be incomplete.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA215866 | MOUNJARO | ELI LILLY AND CO | Solution; subcutaneous | Valid |
+| NDA217806 | ZEPBOUND | ELI LILLY AND CO | Solution; subcutaneous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TEMOZOLOMIDE"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Temozolomide: predicted new indication Cauda equina neoplasm (evidence level L5). Approved use: Anaplastic astrocytoma"
 ---
 
@@ -78,13 +78,19 @@ Only the first report is closely related to the predicted disease. It describes 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021029 | TEMODAR (Merck Sharp & Dohme LLC) | Capsule | Not stated in the compiled data |
-| ANDA207658 | Temozolomide (Devatis, Inc.) | Capsule | Not stated in the compiled data |
-| ANDA201742 | Temozolomide (Sun Pharmaceutical Industries, Inc.) | Capsule | Not stated in the compiled data |
-| ANDA206309 | Temozolomide (Rising Pharma Holdings, Inc.) | Capsule | Not stated in the compiled data |
-| ANDA203691 | Temozolomide (Amneal Pharmaceuticals LLC) | Capsule | Not stated in the compiled data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA201528 | TEMOZOLOMIDE | ACCORD HLTHCARE | Capsule; oral | Valid |
+| ANDA201742 | TEMOZOLOMIDE | SUN PHARM | Capsule; oral | Valid |
+| ANDA203691 | TEMOZOLOMIDE | AMNEAL PHARMS | Capsule; oral | Valid |
+| ANDA203898 | TEMOZOLOMIDE | EIRGEN | Capsule; oral | Valid |
+| ANDA204639 | TEMOZOLOMIDE | CHEMI SPA | Capsule; oral | Valid |
+
+Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 At least 6 approvals are on record (the sixth is ANDA213328, Nivagen Pharmaceuticals), and the list may be partial. All are single-ingredient oral capsules.
 

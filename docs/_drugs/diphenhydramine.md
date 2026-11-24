@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 612
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DIPHENHYDRAMINE"
 predicted_indications: ["rosacea conjunctivitis"]
 description: "Diphenhydramine: predicted new indication Rosacea conjunctivitis (evidence level L5). In the US: 109 FDA applications (23 active), plus 989 OTC monograph/unapproved NDC listings"
@@ -78,12 +78,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M012 | DG Health Allergy | Tablet | Not specified (valid) |
-| M010 | Berkley and Jensen Sleep Aid | Solution | Not specified (valid) |
-| M017 | Itch Relief | Spray | Not specified (valid) |
-| ANDA080817 | Diphenhydramine Hydrochloride | Injection | Not specified (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040466 | DIPHENHYDRAMINE HYDROCHLORIDE | APP PHARMS | Injectable; injection | Valid |
+| ANDA080817 | DIPHENHYDRAMINE HYDROCHLORIDE | WEST-WARD PHARMS INT | Injectable; injection | Valid |
+| ANDA087513 | DIPHENHYDRAMINE HYDROCHLORIDE | PHARM ASSOC | Elixir; oral | Valid |
+| ANDA091526 | DIPHENHYDRAMINE HYDROCHLORIDE PRESERVATIVE FREE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA205336 | DIPHENHYDRAMINE HYDROCHLORIDE | AVET LIFESCIENCES | Injectable; injection | Valid |
+
+Showing 5 of 1098 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

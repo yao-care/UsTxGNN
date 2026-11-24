@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "VILAZODONE"
 predicted_indications: ["neurotic disorder", "obsessive-compulsive disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "Keppen-Lubinsky syndrome", "Ohdo syndrome and variants", "schizoid personality disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vilazodone: predicted new indication Neurotic disorder (evidence level L5). Approved use: Major depressive disorder"
 ---
 
@@ -84,13 +84,19 @@ For the second-ranked prediction (obsessive-compulsive disorder), only indirect 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022567 | VIIBRYD (Allergan, Inc.) | Tablet | Not stated in the compiled records |
-| ANDA208200 | Vilazodone hydrochloride (Cipla USA Inc.) | Film-coated tablet | Not stated in the compiled records |
-| ANDA208212 | Vilazodone Hydrochloride (Teva Pharmaceuticals, Inc.) | Film-coated tablet | Not stated in the compiled records |
-| ANDA208202 | Vilazodone Hydrochloride (Alembic Pharmaceuticals Limited) | Film-coated tablet | Not stated in the compiled records |
-| ANDA208228 | Vilazodone hydrochloride (Northstar Rx LLC) | Tablet | Not stated in the compiled records |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208200 | VILAZODONE HYDROCHLORIDE | INVAGEN PHARMS | Tablet; oral | Valid |
+| ANDA208202 | VILAZODONE HYDROCHLORIDE | ALEMBIC | Tablet; oral | Valid |
+| ANDA208209 | VILAZODONE HYDROCHLORIDE | ACCORD HLTHCARE | Tablet; oral | Valid |
+| ANDA208212 | VILAZODONE HYDROCHLORIDE | TEVA PHARMS USA | Tablet; oral | Valid |
+| ANDA208228 | VILAZODONE HYDROCHLORIDE | APOTEX | Tablet; oral | Valid |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 These are the first 5 of 6 listed records. The total is "at least 6", and the list may be partial.
 

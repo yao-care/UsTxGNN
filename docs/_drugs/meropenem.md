@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 903
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MEROPENEM"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]
 description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L4). In the US: 17 FDA applications (13 active)"
@@ -84,7 +84,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Meropenem is marketed in the United States. Five are shown below.
+Meropenem is marketed in the United States.
 
 <!-- review:begin us-lic-20261106-meropenem-1 -->
 
@@ -92,13 +92,19 @@ Meropenem is marketed in the United States. Five are shown below.
 
 <!-- review:end us-lic-20261106-meropenem-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA091404 | Meropenem (Fresenius Kabi USA) | Injection, powder, for solution | Not recorded |
-| ANDA216424 | Meropenem (Sagent Pharmaceuticals) | Injection, powder, for solution | Not recorded |
-| ANDA206086 | Meropenem (Civica) | Injection | Not recorded |
-| ANDA219084 | Meropenem (Brooks Steriscience) | Injection | Not recorded |
-| ANDA206141 | Meropenem (Gland Pharma) | Injection | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091404 | MEROPENEM | ACS DOBFAR | Injectable; injection | Valid |
+| ANDA204139 | MEROPENEM | ACS DOBFAR SPA | Injectable; injection | Valid |
+| ANDA205835 | MEROPENEM | EUGIA PHARMA | Injectable; injection | Valid |
+| ANDA205883 | MEROPENEM | AMNEAL PHARMS | Injectable; injection | Valid |
+| ANDA206086 | MEROPENEM | SAVIOR LIFETEC CORP | Injectable; injection | Valid |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 474
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Brompheniramine: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -73,9 +73,19 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Brompheni
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| M012 | Brompheniramine maleate | LIQUID | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA084088 | VELTANE | LANNETT | Tablet; oral | Valid |
+| ANDA085521 | BROMPHENIRAMINE MALEATE | PHOENIX LABS NY | Tablet; oral | Valid |
+| ANDA085592 | BROMPHENIRAMINE MALEATE | NYLOS | Tablet; oral | Valid |
+| ANDA202940 | BROMPHENIRAMINE MALEATE, PSEUDOEPHEDRINE HYDROCHLORIDE AND… | PHARM ASSOC | Syrup; oral | Valid |
+| ANDA203375 | BROMPHENIRAMINE MALEATE, PSEUDOEPHEDRINE HYDROCHLORIDE AND… | ACELLA | Syrup; oral | Valid |
+
+Showing 5 of 92 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

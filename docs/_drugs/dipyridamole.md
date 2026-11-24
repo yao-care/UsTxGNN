@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "DIPYRIDAMOLE"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cavernous sinus thrombosis", "lateral sinus thrombosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dipyridamole: predicted new indication Sick sinus syndrome 2, autosomal dominant (evidence level L5). In the US: 38 FDA applications (17 active)"
 ---
 
@@ -78,13 +78,19 @@ The data compiled for this report lists at least 8 licences, and this list may b
 
 <!-- review:end us-lic-20261105-dipyridamole-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA040874 | Dipyridamole | Tablet, film coated | Zydus Pharmaceuticals USA |
-| ANDA040542 | Dipyridamole | Tablet, film coated | Oxford Pharmaceuticals |
-| ANDA040782 | Dipyridamole | Tablet | Amneal Pharmaceuticals of New York |
-| ANDA074521 | Dipyridamole | Injection | Henry Schein |
-| ANDA209048 | Aspirin and Dipyridamole | Capsule, extended release | Dr. Reddy's Laboratories |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040542 | DIPYRIDAMOLE | OXFORD PHARMS | Tablet; oral | Valid |
+| ANDA040733 | DIPYRIDAMOLE | RISING | Tablet; oral | Valid |
+| ANDA040782 | DIPYRIDAMOLE | IMPAX LABS | Tablet; oral | Valid |
+| ANDA040874 | DIPYRIDAMOLE | ZYDUS PHARMS USA INC | Tablet; oral | Valid |
+| ANDA074521 | DIPYRIDAMOLE | HIKMA | Injectable; injection | Valid |
+
+Showing 5 of 38 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

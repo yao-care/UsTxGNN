@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "HALOPERIDOL"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Haloperidol: predicted new indication Congenital disorder of glycosylation with defective fucosylation (evidence level L5). In the US: 125 FDA applications (34 active)"
 ---
 
@@ -87,13 +87,19 @@ The data compiled for this report contain no approved-indication text for these 
 
 <!-- review:end us-lic-20261105-haloperidol-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA216004 | Haloperidol (Novadoz) | Tablet | Not specified |
-| ANDA070278 | Haloperidol (Mylan) | Tablet | Not specified |
-| ANDA218789 | Haloperidol (Coupler) | Tablet | Not specified |
-| ANDA074893 | Haloperidol Decanoate (Fresenius Kabi) | Injection | Not specified |
-| ANDA205241 | Haloperidol Decanoate (Gland Pharma) | Injection | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070278 | HALOPERIDOL | MYLAN | Tablet; oral | Valid |
+| ANDA071130 | HALOPERIDOL | AIPING PHARM INC | Tablet; oral | Valid |
+| ANDA071173 | HALOPERIDOL | SCIEGEN PHARMS | Tablet; oral | Valid |
+| ANDA071206 | HALOPERIDOL | SANDOZ | Tablet; oral | Valid |
+| ANDA071207 | HALOPERIDOL | SANDOZ | Tablet; oral | Valid |
+
+Showing 5 of 125 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The products cover oral tablets and injectable (decanoate) forms.
 

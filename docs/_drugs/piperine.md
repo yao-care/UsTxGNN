@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "PIPERINE"
 predicted_indications: ["acne (disease)", "amenorrhea (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Piperine: predicted new indication Acne (evidence level L5). Approved use: Not documented"
 ---
 
@@ -71,9 +71,17 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not recorded (cancelled) | Piperine (Professional Complementary Health Formulas) | Liquid | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 63083-1537 | Piperine 1537 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43742-1591 | Allermilk | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 44911-0649 | Multi-Phenolic | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43742-1589 | Dairy Allergen Mix | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43742-2201 | Dairy Allergen Mix | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

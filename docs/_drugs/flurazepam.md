@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 727
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Flurazepam: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,10 +72,19 @@ All of the TxGNN model's candidates for Flurazepam (score ≥ 0.99) that can be 
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| ANDA072368 | Flurazepam Hydrochloride | CAPSULE | Valid |
-| ANDA072369 | Flurazepam Hydrochloride | CAPSULE | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070345 | FLURAZEPAM HYDROCHLORIDE | RISING | Capsule; oral | Valid |
+| ANDA072368 | FLURAZEPAM HYDROCHLORIDE | CHARTWELL RX | Capsule; oral | Valid |
+| ANDA072369 | FLURAZEPAM HYDROCHLORIDE | CHARTWELL RX | Capsule; oral | Valid |
+| ANDA070444 | FLURAZEPAM HYDROCHLORIDE | NOVITIUM PHARMA | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA070445 | FLURAZEPAM HYDROCHLORIDE | NOVITIUM PHARMA | Capsule; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

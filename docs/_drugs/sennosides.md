@@ -71,10 +71,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M007 (cancelled) | Senna Laxative (Target Corporation) | Tablet | Not stated |
-| 505G(a)(3) (cancelled) | Laxative (Army and Air Force Exchange Service) | Tablet, film coated | Not stated |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0067-8140 | EX-LAX REGULAR STRENGTH CHOCOLATED STIMULANT LAXATIVE | Haleon US Holdings LLC | Tablet, chewable | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0067-8141 | EX-LAX REGULAR STRENGTH STIMULANT LAXATIVE | Haleon US Holdings LLC | Tablet | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0067-8142 | EX-LAX MAXIMUM STRENGTH STIMULANT LAXATIVE | Haleon US Holdings LLC | Pill | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0067-8143 | Perdiem | Haleon US Holdings LLC | Tablet | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0121-4967 | Senna | PAI Holdings, LLC dba PAI Pharma | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 247 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

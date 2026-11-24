@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "APOMORPHINE"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "syndromic myopia", "hydranencephaly (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Apomorphine: predicted new indication polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidence level L5). Approved use: Parkinson disease and related parkinsonian syndromes"
 ---
 
@@ -89,11 +89,19 @@ The table below lists the most relevant publications for schizophrenia (rank 5).
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA214056 | ONAPGO | Injection, solution | Not available (valid) |
-| NDA021264 | APOKYN | Injection | Not available (valid) |
-| ANDA212025 | Apomorphine hydrochloride | Injection | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA212025 | APOMORPHINE HYDROCHLORIDE | TP ANDA HOLDINGS | Injectable; subcutaneous | Valid |
+| NDA021264 | APOKYN | MDD US | Injectable; subcutaneous | Valid |
+| NDA214056 | ONAPGO | MDD US | Solution; subcutaneous | Valid |
+| NDA210875 | KYNMOBI | SUMITOMO PHARMA AM | Film; sublingual | Discontinued in Drugs@FDA |
+| NDC 58264-0052 | D-52 | DNA Labs, Inc. | Solution | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All are injectable products.
 

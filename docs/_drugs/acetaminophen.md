@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 92
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Acetaminophen: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,15 +72,19 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Acetamino
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| ANDA211544 | Acetaminophen | TABLET, EXTENDED RELEASE | Valid |
-| M013 | Acetaminophen | SUSPENSION | Valid |
-| ANDA215486 | Acetaminophen | TABLET, EXTENDED RELEASE | Valid |
-| ANDA070607 | Acetaminophen | SUPPOSITORY | Valid |
-| ANDA075077 | Acetaminophen | TABLET, FILM COATED, EXTENDED RELEASE | Valid |
+<!-- licenses:begin -->
 
-Only part of the licence list is held in the data; the list may be incomplete.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070607 | ACETAMINOPHEN | PERRIGO NEW YORK | Suppository; rectal | Valid |
+| ANDA070608 | ACETAMINOPHEN | PERRIGO NEW YORK | Suppository; rectal | Valid |
+| ANDA075077 | ACETAMINOPHEN | PERRIGO | Tablet, extended release; oral | Valid |
+| ANDA076200 | ACETAMINOPHEN | OHM LABS | Tablet, extended release; oral | Valid |
+| ANDA202605 | ACETAMINOPHEN | HIKMA | Solution; intravenous | Valid |
+
+Showing 5 of 3181 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

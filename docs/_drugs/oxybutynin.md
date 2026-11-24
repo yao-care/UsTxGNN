@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "OXYBUTYNIN"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oxybutynin: predicted new indication Restless legs syndrome (evidence level L5). In the US: 43 FDA applications (25 active)"
 ---
 
@@ -89,13 +89,19 @@ The drug is marketed in the US. No approved indication text is available.
 
 <!-- review:end us-lic-20261106-oxybutynin-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA202332 | Oxybutynin (Zydus Lifesciences) | Film-coated extended-release tablet | Not available |
-| ANDA209025 | Oxybutynin Chloride (A-S Medication Solutions) | Tablet | Not available |
-| ANDA209335 | Oxybutynin Chloride (Bryant Ranch Prepack) | Tablet | Not available |
-| ANDA206121 | Oxybutynin Chloride (A-S Medication Solutions) | Extended-release tablet | Not available |
-| ANDA207138 | Oxybutynin Chloride (Direct Rx) | Extended-release tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071655 | OXYBUTYNIN CHLORIDE | TEVA PHARMS USA | Tablet; oral | Valid |
+| ANDA074520 | OXYBUTYNIN CHLORIDE | LANNETT CO INC | Syrup; oral | Valid |
+| ANDA074625 | OXYBUTYNIN CHLORIDE | AIPING PHARM INC | Tablet; oral | Valid |
+| ANDA075039 | OXYBUTYNIN CHLORIDE | CHARTWELL RX | Syrup; oral | Valid |
+| ANDA075079 | OXYBUTYNIN CHLORIDE | STRIDES PHARMA INTL | Tablet; oral | Valid |
+
+Showing 5 of 43 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rivaroxaban: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -80,13 +80,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022406 | Xarelto (Cardinal Health 107, LLC) | Film-coated tablet | Not available |
-| NDA215859 | Xarelto (Janssen Pharmaceuticals, Inc.) | Granule for suspension | Not available |
-| ANDA218445 | Rivaroxaban (Indoco Remedies Limited) | Film-coated tablet | Not available |
-| ANDA210301 | Rivaroxaban (Alembic Pharmaceuticals Inc.) | Film-coated tablet | Not available |
-| ANDA217810 | Rivaroxaban (Apotex Corp.) | Film-coated tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208220 | RIVAROXABAN | BRECKENRIDGE | Tablet; oral | Valid |
+| ANDA208334 | RIVAROXABAN | MICRO LABS | Tablet; oral | Valid |
+| ANDA208534 | RIVAROXABAN | DR REDDYS | Tablet; oral | Valid |
+| ANDA208544 | RIVAROXABAN | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| ANDA208546 | RIVAROXABAN | MSN | Tablet; oral | Valid |
+
+Showing 5 of 29 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

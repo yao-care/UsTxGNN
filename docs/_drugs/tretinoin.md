@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "TRETINOIN"
 predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tretinoin: predicted new indication Rheumatoid nodulosis (evidence level L5). In the US: 55 FDA applications (42 active)"
 ---
 
@@ -84,13 +84,19 @@ No approved-indication text is on record. The five main ones are:
 
 <!-- review:end us-lic-20261106-tretinoin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022070 | Tretinoin (Oceanside Pharmaceuticals) | Gel | Not recorded |
-| NDA020475 | Retin-A MICRO (Bausch Health US LLC) | Gel | Not recorded |
-| NDA209353 | Altreno (Bausch Health US, LLC) | Lotion | Not recorded |
-| NDA021108 | Renova (Bausch Health US LLC) | Cream | Not recorded |
-| NDA017955 | Retin-A (Bausch Health US, LLC) | Gel | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075213 | TRETINOIN | PADAGIS US | Cream; topical | Valid |
+| ANDA075264 | TRETINOIN | PADAGIS US | Cream; topical | Valid |
+| ANDA075265 | TRETINOIN | PADAGIS US | Cream; topical | Valid |
+| ANDA075529 | TRETINOIN | PADAGIS US | Gel; topical | Valid |
+| ANDA075589 | TRETINOIN | PADAGIS US | Gel; topical | Valid |
+
+Showing 5 of 55 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All listed products are topical (gel, cream, lotion). No systemic formulation appears in the data compiled for this report.
 

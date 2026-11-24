@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SECALE CEREALE POLLEN"
 predicted_indications: ["alopecia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Secale Cereale Pollen: predicted new indication Alopecia (evidence level L5). Approved use: Not recorded in the available data"
 ---
 
@@ -70,9 +70,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA101833 | Cultivated Rye (Greer Laboratories, Inc.) | Solution | Not recorded (license valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA101833 | Cultivated Rye | Greer Laboratories, Inc. | Solution; intradermal, percutaneous, subcutaneous | Valid |
+| NDC 70163-0023 | Grass Pollen | NaturalCare | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43857-0535 | Pollen Mix | BioActive Nutritional, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 44911-0547 | Weed Grass Antigens | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 58809-213 | TexaClear All Season Allergy Relief | GM Pharmaceuticals, INC | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

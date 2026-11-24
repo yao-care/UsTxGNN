@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1246
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tramadol: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Osteoarthritis (also osteoarthritis susceptibility and arthropathy)"
 monitor_inn: "TRAMADOL"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
@@ -74,13 +74,19 @@ For reference, the only publication found among the top 10 predictions (for juve
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022370 | ConZip | Capsule, extended release | Not available |
-| ANDA200503 | Tramadol Hydrochloride | Tablet, extended release | Not available |
-| ANDA208708 | Tramadol Hydrochloride | Tablet, coated | Not available |
-| ANDA076003 | Tramadol Hydrochloride | Tablet, coated | Not available |
-| ANDA075968 | Tramadol Hydrochloride | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075964 | TRAMADOL HYDROCHLORIDE | SUN PHARM INDS INC | Tablet; oral | Valid |
+| ANDA075968 | TRAMADOL HYDROCHLORIDE | GRAVITI PHARMS | Tablet; oral | Valid |
+| ANDA075977 | TRAMADOL HYDROCHLORIDE | TEVA | Tablet; oral | Valid |
+| ANDA076003 | TRAMADOL HYDROCHLORIDE | AMNEAL PHARMS | Tablet; oral | Valid |
+| ANDA090404 | TRAMADOL HYDROCHLORIDE | PHARMAZONE | Tablet; oral | Valid |
+
+Showing 5 of 54 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The five main ones are shown above.
 

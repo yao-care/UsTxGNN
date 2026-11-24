@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "DANAZOL"
 predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Danazol: predicted new indication Amenorrhea (disease) (evidence level L5). In the US: 5 FDA applications (3 active)"
 ---
 
@@ -92,11 +92,17 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA078214 | Danazol (Lannett Company) | Capsule | Not available (valid) |
-| ANDA074582 | Danazol (Teva Pharmaceuticals USA) | Capsule | Not available (valid) |
-| ANDA077246 | Danazol (Chartwell RX) | Capsule | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074582 | DANAZOL | BARR | Capsule; oral | Valid |
+| ANDA077246 | DANAZOL | LANNETT CO INC | Capsule; oral | Valid |
+| ANDA078214 | DANAZOL | LANNETT | Capsule; oral | Valid |
+| ANDA071569 | DANAZOL | AM THERAP | Capsule; oral | Discontinued in Drugs@FDA |
+| NDA017557 | DANOCRINE | SANOFI AVENTIS US | Capsule; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ---
 

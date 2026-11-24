@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "ORPHENADRINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Orphenadrine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). In the US: 21 FDA applications (9 active)"
 ---
 
@@ -99,13 +99,19 @@ No approved indication text is available.
 
 <!-- review:end us-lic-20261106-orphenadrine-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA090585 | Orphenadrine Citrate (Sagent Pharmaceuticals) | Injection, solution | Not available (valid) |
-| ANDA040284 | Orphenadrine Citrate (A-S Medication Solutions) | Tablet, extended release | Not available (valid) |
-| ANDA040327 | Orphenadrine Citrate (Proficient Rx LP) | Tablet, extended release | Not available (valid) |
-| ANDA040463 | Orphenadrine Citrate (Hikma Pharmaceuticals USA Inc.) | Injection | Not available (valid) |
-| ANDA084779 | Orphenadrine Citrate (Actavis Pharma, Inc.) | Injection | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040249 | ORPHENADRINE CITRATE | RISING | Tablet, extended release; oral | Valid |
+| ANDA040284 | ORPHENADRINE CITRATE | LUPIN | Tablet, extended release; oral | Valid |
+| ANDA040327 | ORPHENADRINE CITRATE | SANDOZ | Tablet, extended release; oral | Valid |
+| ANDA040463 | ORPHENADRINE CITRATE | HIKMA | Injectable; injection | Valid |
+| ANDA040484 | ORPHENADRINE CITRATE | RISING | Injectable; injection | Valid |
+
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CALCIFEDIOL"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Calcifediol: predicted new indication Renal tubular acidosis (evidence level L5). In the US: 2 FDA applications (1 active)"
 ---
 
@@ -68,9 +68,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA208010 | Rayaldee | Capsule, extended release (oral) | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA208010 | RAYALDEE | EIRGEN | Capsule, extended release; oral | Valid |
+| NDA018312 | CALDEROL | ORGANON USA INC | Capsule; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 The local records list one licence, a single-ingredient product from OPKO Pharmaceuticals LLC. The drug is marketed in the United States according to the local records.
 

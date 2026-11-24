@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "DOLUTEGRAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dolutegravir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV infectious disease, AIDS"
 ---
 
@@ -84,10 +84,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA213983 | Tivicay PD | Tablet, for suspension | Not available (status: valid) |
-| NDA204790 | Tivicay | Tablet, film coated | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA204790 | TIVICAY | VIIV HLTHCARE | Tablet; oral | Valid |
+| NDA213983 | TIVICAY PD | VIIV HLTHCARE | Tablet, for suspension; oral | Valid |
+| NDA215319 | DOLUTEGRAVIR | LAURUS GENERICS INC | Film; oral | Valid |
+| NDA210192 | JULUCA | VIIV HLTHCARE | Tablet; oral | Valid |
+| NDA211994 | DOVATO | VIIV HLTHCARE | Tablet; oral | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

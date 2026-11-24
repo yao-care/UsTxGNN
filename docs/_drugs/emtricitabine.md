@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "EMTRICITABINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Emtricitabine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease, AIDS"
 ---
 
@@ -97,13 +97,19 @@ No approved indication text is available.
 
 <!-- review:end us-lic-20261106-emtricitabine-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021500 | Emtriva (Gilead Sciences) | Capsule | Not available |
-| NDA021896 | Emtriva (Gilead Sciences) | Solution | Not available |
-| NDA021752 | Truvada (Gilead Sciences) | Film-coated tablet | Not available |
-| NDA208215 | Descovy (Gilead Sciences) | Tablet | Not available |
-| ANDA091168 | Emtricitabine (Cipla USA) | Capsule | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA079188 | EMTRICITABINE | AUROBINDO PHARMA LTD | Capsule; oral | Valid |
+| ANDA091168 | EMTRICITABINE | CIPLA | Capsule; oral | Valid |
+| NDA021500 | EMTRIVA | GILEAD | Capsule; oral | Valid |
+| NDA021896 | EMTRIVA | GILEAD | Solution; oral | Valid |
+| ANDA090513 | EMTRICITABINE AND TENOFOVIR DISOPROXIL FUMARATE | AUROBINDO PHARMA | Tablet; oral | Valid |
+
+Showing 5 of 41 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

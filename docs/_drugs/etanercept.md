@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 678
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ETANERCEPT"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
 description: "Etanercept: predicted new indication Hypermobility of coccyx (evidence level L5). In the US: 3 FDA applications (3 active)"
@@ -87,9 +87,15 @@ There are important counter-signals, however:
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA103795 | ENBREL (Immunex Corporation) | Solution | Not specified in the available record; license status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA103795 | ENBREL | IMMUNEX | Syringe | Valid |
+| BLA761042 | ERELZI | SANDOZ | Injectable; injection | Valid |
+| BLA761066 | ETICOVO | SAMSUNG BIOEPIS CO LTD | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

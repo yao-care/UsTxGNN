@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "CENTELLA ASIATICA"
 predicted_indications: ["insomnia (disease)", "anxiety", "sleep disorder, initiating and maintaining sleep"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Centella Asiatica: predicted new indication insomnia (disease) (evidence level L4). In the US: no FDA-approved application; 36 OTC monograph/unapproved NDC listings"
 ---
 
@@ -74,14 +74,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M014 | JAYSUING Silicone Scar Gel | Gel | Not recorded |
-| M020 | EELHOE Bio Sun Stick | Cream | Not recorded |
-| nan | MADECASSOL | Gel | Not recorded |
-| M016 | IntenseClarifyingCleanserRepairToner | Liquid | Not recorded |
+<!-- licenses:begin -->
 
-The licence records compiled for this report may be partial.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0220-2526 | Hydrocotyle asiatica | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-2527 | Hydrocotyle asiatica | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-2531 | Hydrocotyle asiatica | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-2532 | Hydrocotyle asiatica | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 72988-0039 | MADECASSOL | Lydia Co., Ltd. | Gel | NDC listing, no FDA application (unapproved drug other) |
+
+Showing 5 of 36 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

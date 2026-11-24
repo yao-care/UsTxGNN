@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "DOXERCALCIFEROL"
 predicted_indications: ["obsolete vitamin D deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxercalciferol: predicted new indication Obsolete vitamin D deficiency (evidence level L5). In the US: 18 FDA applications (6 active)"
 ---
 
@@ -77,13 +77,19 @@ The approved indication text is not available in the compiled data.
 
 <!-- review:end us-lic-20261105-doxercalciferol-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA210452 | Doxercalciferol (Dr. Reddy's Laboratories Inc) | Injection | Valid |
-| ANDA213717 | Doxercalciferol (Eugia US LLC) | Injection, solution | ANDA (Discontinued in Drugs@FDA) |
-| ANDA215810 | Doxercalciferol (Alembic Pharmaceuticals Inc.) | Injection, solution | Valid |
-| ANDA211670 | Doxercalciferol (Meitheal Pharmaceuticals Inc.) | Injection, solution | Valid |
-| ANDA205360 | Doxercalciferol (Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.) | Capsule | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091333 | DOXERCALCIFEROL | SANDOZ | Injectable; injection | Valid |
+| ANDA201518 | DOXERCALCIFEROL | RISING | Capsule; oral | Valid |
+| ANDA205360 | DOXERCALCIFEROL | AVET | Capsule; oral | Valid |
+| ANDA210452 | DOXERCALCIFEROL | GLAND | Injectable; injection | Valid |
+| ANDA211670 | DOXERCALCIFEROL | MEITHEAL | Injectable; injection | Valid |
+
+Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

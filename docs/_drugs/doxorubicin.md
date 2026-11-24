@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 626
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DOXORUBICIN"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
 description: "Doxorubicin: predicted new indication Ewing sarcoma (evidence level L2). In the US: 30 FDA applications (20 active), plus 1 OTC monograph/unapproved NDC listing"
@@ -98,7 +98,7 @@ The data lists 28 trials; the 10 most relevant are shown below. Trials with a pe
 
 ## US Market Information
 
-The drug is marketed in the US. Approved-indication text is not available. Five representative entries are listed.
+The drug is marketed in the US. Approved-indication text is not available.
 
 <!-- review:begin us-lic-20261106-doxorubicin-3 -->
 
@@ -106,13 +106,19 @@ The drug is marketed in the US. Approved-indication text is not available. Five 
 
 <!-- review:end us-lic-20261106-doxorubicin-3 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050629 | Doxorubicin Hydrochloride (Pfizer) | Injection, solution | Not available |
-| NDA050718 | Doxorubicin Hydrochloride Liposome (Baxter) | Injection, suspension, liposomal | Not available |
-| ANDA062975 | Doxorubicin Hydrochloride (Hikma) | Injection, solution | Not available |
-| ANDA208888 | Doxorubicin Hydrochloride (Amneal) | Injection, powder, lyophilized, for solution | Not available |
-| ANDA203263 | Doxorubicin Hydrochloride (Sun Pharmaceutical) | Injectable, liposomal | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA062921 | DOXORUBICIN HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA062975 | DOXORUBICIN HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA063277 | DOXORUBICIN HYDROCHLORIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA064097 | DOXORUBICIN HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA091418 | DOXORUBICIN HYDROCHLORIDE | SUN PHARM INDS | Injectable; injection | Valid |
+
+Showing 5 of 31 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

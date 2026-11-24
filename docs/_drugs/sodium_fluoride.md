@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "SODIUM FLUORIDE"
 predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "laryngitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sodium Fluoride: predicted new indication Epiglottitis (evidence level L5). In the US: 1 FDA application (0 active), plus 1132 OTC monograph/unapproved NDC listings"
 ---
 
@@ -86,11 +86,19 @@ For the closely related prediction, laryngitis (rank 7), four papers were retrie
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M021 | Anticavity fluoride rinse | Mouthwash | Not available |
-| M022 | Sensodyne Pronamel | Paste | Not available |
-| Not available | Acclean Foam Fluoride 60 Second Application | Aerosol, foam | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA020231 | COLGATE TOTAL | COLGATE PALMOLIVE | Paste; dental | Discontinued in Drugs@FDA |
+| NDC 0126-0016 | PreviDent 5000 Dry Mouth | Colgate Oral Pharmaceuticals, Inc. | Gel, dentifrice | NDC listing, no FDA application (unapproved drug other) |
+| NDC 0126-0032 | Colgate Phos-Flur Ortho Defense Alcohol Free Anticavity Mint Fluoride | Colgate Oral Pharmaceuticals, Inc. | Rinse | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0126-0033 | PreviDent Alcohol Free | Colgate Oral Pharmaceuticals, Inc. | Mouthwash | NDC listing, no FDA application (unapproved drug other) |
+| NDC 0126-0034 | Colgate Phos-Flur Ortho Defense Alcohol Free Anticavity Gushing Grape… | Colgate Oral Pharmaceuticals, Inc. | Rinse | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 1133 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

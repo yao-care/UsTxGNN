@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CASPOFUNGIN"
 predicted_indications: ["gastrin secretion abnormality"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Caspofungin: predicted new indication gastrin secretion abnormality (evidence level L5). In the US: 9 FDA applications (4 active)"
 ---
 
@@ -70,13 +70,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021227 | CANCIDAS | Lyophilized powder for injection | Not recorded in the local data |
-| NDA206110 | Caspofungin Acetate | Lyophilized powder for injection | Not recorded in the local data |
-| ANDA200833 | Caspofungin Acetate | Lyophilized powder for injection | Not recorded in the local data |
-| ANDA207092 | Caspofungin Acetate | Lyophilized powder for injection | Not recorded in the local data |
-| ANDA216506 | Caspofungin Acetate | Lyophilized powder for injection | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA207092 | CASPOFUNGIN ACETATE | GLAND | Powder; intravenous | Valid |
+| ANDA211263 | CASPOFUNGIN ACETATE | AREVA PHARMS | Powder; intravenous | Valid |
+| ANDA216506 | CASPOFUNGIN ACETATE | HANGZHOU ZHONGMEI | Powder; intravenous | Valid |
+| NDA206110 | CASPOFUNGIN ACETATE | FRESENIUS KABI USA | Powder; intravenous | Valid |
+| ANDA200833 | CASPOFUNGIN ACETATE | HENGRUI PHARMA | Powder; intravenous | Discontinued in Drugs@FDA |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

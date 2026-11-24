@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1103
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Rabeprazole: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -73,17 +73,21 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Rabeprazo
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| ANDA090678 | Rabeprazole Sodium | TABLET, DELAYED RELEASE | Valid |
-| ANDA208644 | Rabeprazole Sodium | TABLET, DELAYED RELEASE | Valid |
-| ANDA204237 | rabeprazole sodium | TABLET, DELAYED RELEASE | Valid |
-| ANDA205761 | RABEPRAZOLE SODIUM | TABLET, DELAYED RELEASE | Valid |
-| ANDA202376 | Rabeprazole sodium | TABLET, DELAYED RELEASE | Valid |
-| ANDA204179 | Rabeprazole | TABLET, DELAYED RELEASE | Valid |
-| NDA020973 | rabeprazole sodium | TABLET, DELAYED RELEASE | Valid |
+<!-- licenses:begin -->
 
-Only part of the licence list is held in the data; the list may be incomplete.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076824 | RABEPRAZOLE SODIUM | DR REDDYS | Tablet, delayed release; oral | Valid |
+| ANDA078964 | RABEPRAZOLE SODIUM | CHARTWELL RX | Tablet, delayed release; oral | Valid |
+| ANDA090678 | RABEPRAZOLE SODIUM | LANNETT CO INC | Tablet, delayed release; oral | Valid |
+| ANDA202376 | RABEPRAZOLE SODIUM | TORRENT | Tablet, delayed release; oral | Valid |
+| ANDA204179 | RABEPRAZOLE SODIUM | AMNEAL PHARMS | Tablet, delayed release; oral | Valid |
+| ANDA204237 | RABEPRAZOLE SODIUM | RUBICON RESEARCH | Tablet, delayed release; oral | Valid |
+| ANDA205761 | RABEPRAZOLE SODIUM | QUAGEN | Tablet, delayed release; oral | Valid |
+
+Showing 7 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

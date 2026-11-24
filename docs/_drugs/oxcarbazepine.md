@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1002
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "OXCARBAZEPINE"
 predicted_indications: ["restless legs syndrome"]
 description: "Oxcarbazepine: predicted new indication Restless legs syndrome (evidence level L4). In the US: 35 FDA applications (29 active)"
@@ -98,13 +98,19 @@ No publication addresses visual epilepsy directly. The table lists the most rele
 
 Approved indication text was not available in the data compiled.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021014 | Trileptal (Novartis) | Tablet, film coated | Not available |
-| ANDA077794 | Oxcarbazepine (Sun Pharmaceutical) | Tablet, film coated | Not available |
-| ANDA211747 | Oxcarbazepine (Zydus Lifesciences) | Tablet | Not available |
-| ANDA213369 | Oxcarbazepine (Apotex) | Tablet, extended release | Not available |
-| ANDA209652 | Oxcarbazepine (Bionpharma) | Suspension | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077747 | OXCARBAZEPINE | RUBICON RESEARCH | Tablet; oral | Valid |
+| ANDA077794 | OXCARBAZEPINE | SUN PHARM INDS | Tablet; oral | Valid |
+| ANDA077801 | OXCARBAZEPINE | TARO | Tablet; oral | Valid |
+| ANDA077802 | OXCARBAZEPINE | GLENMARK PHARMS LTD | Tablet; oral | Valid |
+| ANDA078005 | OXCARBAZEPINE | ANI PHARMS | Tablet; oral | Valid |
+
+Showing 5 of 35 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The authorizations include film-coated tablet, extended-release tablet, and suspension forms.
 

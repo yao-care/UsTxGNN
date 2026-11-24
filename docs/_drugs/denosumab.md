@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "DENOSUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Denosumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Osteoporosis (postmenopausal osteoporosis, drug-induced osteoporosis)"
 ---
 
@@ -87,13 +87,19 @@ The drug is marketed in the US. Approved indication text was not available.
 
 <!-- review:end us-lic-20261106-denosumab-3 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761439 | XTRENBO | Injection | Not available |
-| BLA761398 | CONEXXENCE | Injection | Not available |
-| BLA761362 | JUBBONTI | Injection | Not available |
-| BLA761404 | Denosumab-BMWO | Injection | Not available |
-| BLA761444 | BILDYOS | Injection, solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125320 | PROLIA | AMGEN | Injectable; subcutaneous | Valid |
+| BLA761362 | JUBBONTI | SANDOZ INC | Injectable; subcutaneous | Valid |
+| BLA761385 | PONLIMSI | TEVA PHARMACEUTICALS, INC. | Injectable; subcutaneous | Valid |
+| BLA761392 | DENOSUMAB-DSSB | SAMSUNG BIOEPIS CO LTD | Injectable; subcutaneous | Valid |
+| BLA761398 | CONEXXENCE | FRESENIUS KABI USA LLC | Injection | Valid |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

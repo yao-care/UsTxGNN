@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MARAVIROC"
 predicted_indications: ["multiple endocrine neoplasia", "acne (disease)", "primary cutaneous T-cell lymphoma", "pediatric systemic lupus erythematosus", "primary cutaneous T-cell non-Hodgkin lymphoma", "primary cutaneous B-cell lymphoma", "candidiasis", "complement component 4a deficiency", "cytomegalovirus infection", "HER2 positive breast carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Maraviroc: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not listed in the data compiled for this report (the drug is known as…"
 ---
 
@@ -78,12 +78,19 @@ Currently no related literature available for multiple endocrine neoplasia.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022128 | SELZENTRY (A-S Medication Solutions) | Film-coated tablet | Not listed (valid) |
-| ANDA217880 | Maraviroc (Zydus Pharmaceuticals USA Inc.) | Film-coated tablet | Not listed (valid) |
-| ANDA217114 | Maraviroc (i3 Pharmaceuticals, LLC) | Film-coated tablet | Not listed (valid) |
-| ANDA203347 | Maraviroc (Hetero Labs Limited) | Film-coated tablet | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA203347 | MARAVIROC | HETERO LABS LTD III | Tablet; oral | Valid |
+| ANDA216143 | MARAVIROC | RHODES PHARMS | Tablet; oral | Valid |
+| ANDA217114 | MARAVIROC | PHARMAZONE | Tablet; oral | Valid |
+| ANDA217880 | MARAVIROC | NAVINTA LLC | Tablet; oral | Valid |
+| NDA022128 | SELZENTRY | VIIV HLTHCARE | Tablet; oral | Valid |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

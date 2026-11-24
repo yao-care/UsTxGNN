@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "RIVASTIGMINE"
 predicted_indications: ["glaucoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rivastigmine: predicted new indication Glaucoma (evidence level L5). In the US: 19 FDA applications (14 active)"
 ---
 
@@ -84,13 +84,19 @@ The data compiled for this report contain no approved-indication text.
 
 <!-- review:end us-lic-20261106-rivastigmine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022083 | Exelon (Sandoz) | Extended-release patch | Not available |
-| ANDA209063 | Rivastigmine Transdermal System (Breckenridge) | Extended-release patch | Not available |
-| ANDA206318 | Rivastigmine (Zydus) | Extended-release patch | Not available |
-| ANDA207308 | Rivastigmine (Amneal) | Patch | Not available |
-| ANDA091689 | Rivastigmine Tartrate (Alembic) | Capsule | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077129 | RIVASTIGMINE TARTRATE | WATSON LABS | Capsule; oral | Valid |
+| ANDA077130 | RIVASTIGMINE TARTRATE | DR REDDYS LABS INC | Capsule; oral | Valid |
+| ANDA090879 | RIVASTIGMINE TARTRATE | ORBION PHARMS | Capsule; oral | Valid |
+| ANDA091689 | RIVASTIGMINE TARTRATE | ALEMBIC PHARMS LTD | Capsule; oral | Valid |
+| ANDA203148 | RIVASTIGMINE TARTRATE | MACLEODS PHARMS LTD | Capsule; oral | Valid |
+
+Showing 5 of 19 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

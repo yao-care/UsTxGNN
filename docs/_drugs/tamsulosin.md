@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TAMSULOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tamsulosin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 ---
 
@@ -84,13 +84,19 @@ No approved indication text is available for them.
 
 <!-- review:end us-lic-20261105-tamsulosin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| ANDA202433 | Tamsulosin Hydrochloride | Capsule | Cardinal Health 107, LLC | Valid |
-| ANDA207405 | Tamsulosin Hydrochloride | Capsule | Chartwell RX, LLC | Valid |
-| ANDA090931 | Tamsulosin Hydrochloride | Capsule | Proficient Rx LP | ANDA (Discontinued in Drugs@FDA) |
-| ANDA078225 | Tamsulosin Hydrochloride | Capsule | Zydus Pharmaceuticals USA Inc. | Valid |
-| ANDA214730 | Tamsulosin Hydrochloride | Capsule | XLCare Pharmaceuticals, Inc | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077630 | TAMSULOSIN HYDROCHLORIDE | TEVA PHARMS | Capsule; oral | Valid |
+| ANDA078225 | TAMSULOSIN HYDROCHLORIDE | ZYDUS PHARMS USA INC | Capsule; oral | Valid |
+| ANDA078801 | TAMSULOSIN HYDROCHLORIDE | SYNTHON BV | Capsule; oral | Valid |
+| ANDA078938 | TAMSULOSIN HYDROCHLORIDE | SCIEGEN PHARMS | Capsule; oral | Valid |
+| ANDA090377 | TAMSULOSIN HYDROCHLORIDE | IMPAX LABS | Capsule; oral | Valid |
+
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

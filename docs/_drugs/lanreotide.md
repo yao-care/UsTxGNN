@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "LANREOTIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lanreotide: predicted new indication Hypertrichosis (disease) (evidence level L5). In the US: 4 FDA applications (2 active)"
 ---
 
@@ -71,11 +71,16 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| ANDA217193 | Lanreotide Acetate (Exelan Pharmaceuticals) | Injection | Not available | ANDA (Discontinued in Drugs@FDA) |
-| NDA022074 | Somatuline Depot (Ipsen Biopharmaceuticals) | Injection | Not available | Valid |
-| NDA215395 | Lanreotide Acetate (Cipla USA) | Injection | Not available | NDA (Discontinued in Drugs@FDA) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA218217 | LANREOTIDE ACETATE | AMNEAL | Solution; subcutaneous | Valid |
+| NDA022074 | SOMATULINE DEPOT | IPSEN PHARMA | Solution; subcutaneous | Valid |
+| ANDA217193 | LANREOTIDE ACETATE | INVAGEN PHARMS | Solution; subcutaneous | Discontinued in Drugs@FDA |
+| NDA215395 | LANREOTIDE ACETATE | INVAGEN PHARMS | Solution; subcutaneous | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "DESOXIMETASONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "hereditary hypotrichosis with recurrent skin vesicles", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "primary cutaneous B-cell lymphoma", "atrichia with papular lesions", "vulvar inverted follicular keratosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desoximetasone: predicted new indication Alopecia areata (evidence level L3). Approved use: Inflammatory skin conditions (e.g., atopic dermatitis…"
 ---
 
@@ -75,7 +75,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-No indication text is recorded. The five main authorizations are listed below.
+No indication text is recorded.
 
 <!-- review:begin us-lic-20261106-desoximetasone-1 -->
 
@@ -83,13 +83,19 @@ No indication text is recorded. The five main authorizations are listed below.
 
 <!-- review:end us-lic-20261106-desoximetasone-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018594 | Desoximetasone (Sun Pharmaceutical) | Ointment | Not recorded |
-| NDA204141 | Topicort (Sun Pharmaceutical) | Spray | Not recorded |
-| ANDA073210 | Desoximetasone (Sun Pharmaceutical) | Cream | Not recorded |
-| ANDA073193 | Desoximetasone (Sun Pharmaceutical) | Cream | Not recorded |
-| ANDA208164 | Desoximetasone (Lupin) | Cream | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA073193 | TOPICORT | TARO | Cream; topical | Valid |
+| ANDA073210 | TOPICORT | TARO | Cream; topical | Valid |
+| ANDA074904 | TOPICORT | TARO | Gel; topical | Valid |
+| ANDA076510 | DESOXIMETASONE | PADAGIS ISRAEL | Cream; topical | Valid |
+| ANDA077770 | DESOXIMETASONE | PADAGIS ISRAEL | Ointment; topical | Valid |
+
+Showing 5 of 40 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

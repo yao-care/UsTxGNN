@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "BROMFENAC"
 predicted_indications: ["eye disease", "optic papillitis", "von Hippel anomaly", "mcpherson robertson cammarano syndrome", "vulvar inverted follicular keratosis", "lagophthalmos", "microblepharon-ablephara syndrome", "seborrheic keratosis", "conjunctival degeneration", "luxation of globe"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bromfenac: predicted new indication Eye disease (evidence level L1). Approved use: Not available"
 ---
 
@@ -104,13 +104,19 @@ Five are shown below.
 
 <!-- review:end us-lic-20261105-bromfenac-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA203168 | Prolensa (Bausch & Lomb) | Solution/drops | Not specified (valid) |
-| NDA206911 | Bromfenac (Sun Pharmaceutical) | Solution/drops | Not specified (valid) |
-| ANDA207334 | Bromfenac Ophthalmic Solution, 0.07% (Apotex) | Solution/drops | Not specified (valid) |
-| ANDA210560 | Bromfenac Ophthalmic Solution 0.09% (Alembic) | Solution/drops | Not specified (valid) |
-| ANDA202903 | Bromfenac (Lupin) | Solution | Not specified (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA202903 | BROMFENAC SODIUM | LUPIN | Solution/drops; ophthalmic | Valid |
+| ANDA203395 | BROMFENAC SODIUM | SENTISS | Solution/drops; ophthalmic | Valid |
+| ANDA204813 | BROMFENAC SODIUM | EUGIA PHARMA | Solution/drops; ophthalmic | Valid |
+| ANDA206027 | BROMFENAC SODIUM | LUPIN | Solution/drops; ophthalmic | Valid |
+| ANDA207334 | BROMFENAC SODIUM | APOTEX | Solution/drops; ophthalmic | Valid |
+
+Showing 5 of 19 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "FAMCICLOVIR"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Famciclovir: predicted new indication Post-infectious neuralgia (evidence level L5). Approved use: Herpes zoster"
 ---
 
@@ -86,12 +86,19 @@ Currently no related literature available for this predicted indication.
 
 Famciclovir is marketed in the US, and 4 US authorizations are currently valid. No approved indication text is recorded for them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA202438 | Famciclovir (Proficient Rx LP) | Film-coated tablet | Not recorded (valid) |
-| ANDA201022 | Famciclovir (Macleods Pharmaceuticals) | Film-coated tablet | Not recorded (valid) |
-| ANDA091114 | Famciclovir (Rising Pharma) | Film-coated tablet | Not recorded (valid) |
-| ANDA077487 | Famciclovir (Teva Pharmaceuticals USA) | Film-coated tablet | Not recorded (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077487 | FAMCICLOVIR | TEVA PHARMS | Tablet; oral | Valid |
+| ANDA091114 | FAMCICLOVIR | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| ANDA201022 | FAMCICLOVIR | MACLEODS PHARMS LTD | Tablet; oral | Valid |
+| ANDA202438 | FAMCICLOVIR | HETERO LABS LTD V | Tablet; oral | Valid |
+| ANDA078278 | FAMCICLOVIR | CIPLA | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

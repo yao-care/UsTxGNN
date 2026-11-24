@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "FERUMOXYTOL"
 predicted_indications: ["non-syndromic esophageal malformation", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "severe nonproliferative diabetic retinopathy", "esophageal ulcer", "esophageal disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ferumoxytol: predicted new indication Non-syndromic esophageal malformation (evidence level L5). In the US: 3 FDA applications (3 active)"
 ---
 
@@ -71,17 +71,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022180 | Feraheme (AMAG Pharmaceuticals) | Injection | Not available; status valid |
-| ANDA206604 | Ferumoxytol (Sandoz) | Injection | Not available; status valid |
-| NDA219868 | FeraBright (Azurity Pharmaceuticals) | Injection | Not available; status valid |
+<!-- licenses:begin -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA 219868 | FeraBright (Azurity Pharmaceuticals, Inc.) | Injection | Not recorded in the local data |
-| ANDA 206604 | Ferumoxytol (Sandoz Inc) | Injection | Not recorded in the local data |
-| NDA 022180 | Feraheme (AMAG Pharmaceuticals, Inc.) | Injection | Not recorded in the local data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA206604 | FERUMOXYTOL | SANDOZ | Solution; intravenous | Valid |
+| NDA022180 | FERAHEME | AZURITY | Solution; intravenous | Valid |
+| NDA219868 | FERABRIGHT | AZURITY | Solution; intravenous | Valid |
+
+<!-- licenses:end -->
 
 All three authorizations are currently valid.
 

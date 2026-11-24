@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "CHLORZOXAZONE"
 predicted_indications: ["migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine with brainstem aura", "pulmonary hypertension", "atrophoderma vermiculata", "ulerythema ophryogenesis", "kyphoscoliotic heart disease", "rheumatoid arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorzoxazone: predicted new indication migraine disorder (evidence level L5). In the US: 38 FDA applications (16 active)"
 ---
 
@@ -88,13 +88,19 @@ None of these studies directly evaluates chlorzoxazone for migraine disorder.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA089859 | Chlorzoxazone (Bryant Ranch Prepack) | Tablet | Not recorded |
-| ANDA212743 | Chlorzoxazone (Endo USA, Inc.) | Tablet | Not recorded |
-| ANDA214702 | Chlorzoxazone (Lifsa Drugs LLC) | Tablet | Not recorded |
-| ANDA089853 | Chlorzoxazone (REMEDYREPACK INC.) | Tablet | Not recorded |
-| ANDA215158 | Chlorzoxazone (Happy Robin, LLC) | Tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040861 | CHLORZOXAZONE | PHARMOBEDIENT | Tablet; oral | Valid |
+| ANDA089853 | CHLORZOXAZONE | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| ANDA089859 | CHLORZOXAZONE | WATSON LABS | Tablet; oral | Valid |
+| ANDA207483 | CHLORZOXAZONE | PHARMOBEDIENT | Tablet; oral | Valid |
+| ANDA210961 | CHLORZOXAZONE | PHARMAZONE | Tablet; oral | Valid |
+
+Showing 5 of 38 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The list shows the first 5 of the licences in the local records and may be partial.
 

@@ -384,7 +384,194 @@ def carry_block(old_text, new_text):
     return re.sub(r"\n{3,}", "\n\n", "\n".join(out))
 
 
+# ---- 2026-11-24（用戶決定，第二輪）：AI 自由格式許可證表全部換成程式表（--migrate） ----
+# 市場段落裡還是模型寫的許可證表（表頭 Authorization Number…／Licence…）的頁，第一張表換成程式表；段落裡沒有表的公開頁在段落第一段後補程式表。
+# 換表時一併拿掉只講「舊表列了幾筆／下面列了幾筆／清單可能不完整」的句子（CAPTION_D：段落內任何位置；CAPTION_P：只限緊鄰舊表的上一行／下一行），
+# 查核紀錄的更正文字與錨點所在的句子不動；段落裡第二張同樣表頭的 AI 許可證表（ferumoxytol 重複一次）一併拿掉。
+# 錨在拿掉的文字上、新頁面也找不到的查核紀錄標 superseded（紀錄保留）。
+NUMW = r"(?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|fifteen|twenty)"
+CAPTION_D = re.compile(
+    r"^\*?(?:"
+    rf"(?:Only )?(?:the )?(?:first |main )?{NUMW}?\s*(?:main |representative )?(?:ones |entries |authori[sz]ations |licen[cs]es |records )?(?:are |is )?(?:listed|shown)(?: below| above| here)?"
+    rf"|(?:The )?{NUMW} (?:main |representative )?(?:ones |entries |authori[sz]ations |licen[cs]es |records )?(?:below )?are (?:representative|listed|shown)(?: below| above| here)?"
+    rf"|The (?:first |main )?{NUMW}? ?(?:main )?(?:ones|entries|authori[sz]ations|licen[cs]es|records) are (?:listed|shown)(?: below| above| here)?"
+    rf"|The main ones are (?:shown|listed) below"
+    rf"|Up to {NUMW} are listed below"
+    rf"|The table shows (?:the first )?{NUMW}(?: of them| licen[cs]es)?"
+    rf"|The list below shows {NUMW} of (?:them|the {NUMW} licen[cs]es on record|the licen[cs]es on record(?: and may be partial)?)"
+    rf"|The list shows {NUMW} of (?:at least )?{NUMW} records(?: and may be partial)?"
+    rf"|Showing {NUMW} of {NUMW} records; the list may be partial"
+    rf"|{NUMW} examples|Main records|Examples"
+    r"|The records compiled for this report are listed below and may be partial"
+    r"|Only part of the licen[cs]e list is held in the data; the list may be incomplete"
+    r"|No licen[cs]e table can be (?:generated|displayed)"
+    r")\s*[.:]\*?$", re.I)
+CAPTION_P = re.compile(
+    r"^\*?(?:The |This )?(?:licen[cs]e |authori[sz]ation |record )?(?:list|records|licen[cs]e records|list of (?:records|approvals))(?: below)?"
+    r"(?: compiled for this report)? (?:may be|is) (?:partial|incomplete)\.\*?$", re.I)
+SPLIT = re.compile(r"(?<=[.!?:])\s+(?=[A-Z*\[(\"])")
+AI_HEAD = re.compile(r"^\|\s*(?:Authori[sz]ation Number|Licen[cs]e)\s*\|")
+SUPERSEDED_BY = "Program-generated license table (scripts/sync_license_tables.py, 2026-11-24, from Drugs@FDA / NDC Directory data)"
+
+
+def _trim(line, protect, pats):
+    """行裡整句符合 pats 的說明句拿掉：回 (新行, 拿掉的句子)"""
+    if not line.strip() or line.startswith(("|", "#", "<!--", "---", ">", "-", "*  ")):
+        return line, []
+    out, gone = [], []
+    for x in SPLIT.split(line.strip()):
+        if any(p and (x.strip() in p or p in x) for p in protect):
+            out.append(x)
+            continue
+        if any(q.match(x.strip()) for q in pats):
+            gone.append(x.strip())
+            continue
+        out.append(x)
+    return (" ".join(out), gone) if gone else (line, [])
+
+
+def migrate_text(t, tf, fc, protect=(), add_missing=False):
+    """回 (新內容或 None, 拿掉的文字)。只動市場段落：第一張 AI 許可證表換成程式表、說明句、重複的第二張 AI 表"""
+    lines = strip_marks(t.split("\n"))
+    if BEGIN in t:
+        return None, ""
+    a, b, x, y = section(lines)
+    if a is None:
+        return None, ""
+    rows, total = rows_of(tf, fc)
+    gone = []
+    if x is None:
+        if not add_missing or not rows:
+            return None, ""
+        k = next((k for k in range(a + 1, b) if not lines[k].strip() and lines[k - 1].strip()), b)
+        nrows = min(20, min(5, len(rows)))
+        block = [HEAD, SEP] + rows[:nrows] + (["", SHOW.format(n=nrows, m=total)] if total > nrows else [])
+        lines = lines[:k] + [""] + wrap(block) + [""] + lines[k:]
+    else:
+        if not AI_HEAD.match(lines[x]):
+            return None, ""
+        gone += lines[x:y + 1]
+        # 緊鄰舊表的上一行／下一行：只講清單可能不完整的句子
+        for k0, step in ((x - 1, -1), (y + 1, 1)):
+            k = k0
+            while a <= k < b and not lines[k].strip():
+                k += step
+            if a <= k < b:
+                nl, cap = _trim(lines[k], protect, (CAPTION_P, CAPTION_D))
+                if cap:
+                    lines[k] = nl
+                    gone += cap
+        # 第二張同表頭的 AI 許可證表（重複）
+        tb2 = [k for k in range(y + 1, b) if AI_HEAD.match(lines[k])]
+        for k in reversed(tb2):
+            e = k
+            while e + 1 < b and lines[e + 1].startswith("|"):
+                e += 1
+            gone += lines[k:e + 1]
+            del lines[k:e + 1]
+        if not rows:
+            lines = _before(lines, x) + wrap([NONE_LINE]) + _after(lines[y + 1:]) 
+        else:
+            old_rows = max(0, y - x - 1)
+            nrows = min(20, max(old_rows, min(5, len(rows))))
+            block = [HEAD, SEP] + rows[:nrows] + (["", SHOW.format(n=min(nrows, len(rows)), m=total)] if total > nrows else [])
+            lines = _before(lines, x) + wrap(block) + _after(lines[y + 1:])
+    # 段落內（程式區塊外）講舊表顯示筆數的句子
+    a, b, _, _ = section(lines)
+    i0, i1 = lines.index(BEGIN, a), lines.index(END, a)
+    for k in range(a, b):
+        if i0 <= k <= i1:
+            continue
+        nl, cap = _trim(lines[k], protect, (CAPTION_D,))
+        if cap:
+            lines[k] = nl
+            gone += cap
+    new = re.sub(r"\n{3,}", "\n\n", "\n".join(lines))
+    return (new if new != t else None), "\n".join(gone)
+
+
+def _protect():
+    out = {}
+    f = ROOT / "docs/_data/drug_reviews.json"
+    for r in json.loads(f.read_text(encoding="utf-8")).get("records", []):
+        if r.get("status"):
+            continue
+        out.setdefault(r["file"][:-3], []).extend(x.strip() for x in (r.get("replacement"), r.get("anchor")) if x and x.strip())
+    return out
+
+
+def supersede(removed_by_page, today=None):
+    """--migrate 後：錨在拿掉的文字上、新頁面上也找不到的查核紀錄標 superseded（紀錄保留）。回傳標記的 id"""
+    import datetime as dt
+    data = ROOT / "docs/_data/drug_reviews.json"
+    doc = json.loads(data.read_text(encoding="utf-8"))
+    today = today or dt.date.today().isoformat()
+    marked = []
+    for r in doc["records"]:
+        stem = r["file"][:-3]
+        gone = removed_by_page.get(stem)
+        if not gone or r.get("status") or r.get("action") not in ("correct", "annotate", "rereview"):
+            continue
+        page = (ROOT / "docs/_drugs" / r["file"]).read_text(encoding="utf-8")
+        page = re.sub(r"<!-- review:begin (\S+) -->.*?<!-- review:end \1 -->", "", page, flags=re.S)
+        page = re.sub(re.escape(BEGIN) + r".*?" + re.escape(END), "", page, flags=re.S)
+        keys = [x for x in (r.get("anchor"), r.get("replacement"), r.get("claim")) if x and x.strip()]
+        loc = r.get("anchor") or (r.get("replacement") if r["action"] == "correct" else r.get("claim")) or r.get("claim")
+        if loc and loc.strip() and loc in page:
+            continue
+        gl = [g.strip() for g in gone.split("\n") if g.strip()]
+        if any(k.strip() in gone or any(g in k for g in gl) for k in keys):
+            r["status"] = "superseded"
+            r["superseded_by"] = SUPERSEDED_BY
+            r["superseded_on"] = today
+            marked.append(r["id"])
+    if marked:
+        data.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    return marked
+
+
+def migrate(argv):
+    dry = "--dry-run" in argv
+    ws = Path(argv[argv.index("--ws") + 1]) if "--ws" in argv else None
+    only = {a for a in argv if not a.startswith("--") and (ws is None or a != str(ws))}
+    fs = facts(ws) if ws else _snap_facts()
+    prot = _protect()
+    removed, n, add = {}, 0, 0
+    for page in sorted((ROOT / "docs/_drugs").glob("*.md")):
+        if only and page.stem not in only:
+            continue
+        raw = page.read_bytes().decode("utf-8")
+        crlf = "\r\n" in raw[:500]
+        t = raw.replace("\r\n", "\n")
+        h = t[:3000]
+        if "layout: id_redirect" in h or 'http-equiv="refresh"' in h:
+            continue
+        key, b = bundle_for(page)
+        if b is None:
+            continue
+        public = not re.search(r"^noindex:\s*true", h, re.M)
+        new, gone = migrate_text(t, b.get("tfda") or {}, fs.get(key) or fs.get(page.stem), prot.get(page.stem, ()), add_missing=public)
+        if new is None:
+            continue
+        n += 1
+        if not gone:
+            add += 1
+        removed[page.stem] = gone
+        if dry:
+            print(f"== {page.stem}\n" + "\n".join("  - " + g for g in gone.split("\n") if g and not g.startswith("|")))
+        else:
+            _write(page, new, crlf)
+    print(f"AI 許可證表換成程式表：{n} 頁（其中補表 {add} 頁）")
+    if not dry:
+        ids = supersede(removed)
+        print(f"錨在舊表／說明句上的查核紀錄標 superseded：{len(ids)} 筆 {ids[:20]}")
+    return removed
+
+
 def main(argv):
+    if "--migrate" in argv:
+        migrate(argv)
+        return
     if "--mark-existing" in argv:
         n = 0
         for page in sorted((ROOT / "docs/_drugs").glob("*.md")):

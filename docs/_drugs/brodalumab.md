@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BRODALUMAB"
 predicted_indications: ["strongyloidiasis", "eye disease", "vitamin deficiency disorder", "von Hippel anomaly", "isolated optic neuritis", "optic perineuritis", "chronic relapsing inflammatory optic neuropathy", "recurrent idiopathic neuroretinitis", "episcleritis periodica fugax", "nodular episcleritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Brodalumab: predicted new indication Strongyloidiasis (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -83,9 +83,13 @@ For reference, the following papers were retrieved for the second-ranked predict
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761032 | Siliq (Bausch Health US LLC) | Injection | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761032 | SILIQ | VALEANT LUXEMBOURG | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

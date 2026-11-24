@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 912
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "METHOXSALEN"
 predicted_indications: ["localized pagetoid reticulosis", "neoplasm of mature B-cells", "small intestinal Burkitt lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "vulvar inverted follicular keratosis"]
 description: "Methoxsalen: predicted new indication Localized pagetoid reticulosis (evidence level L5). In the US: 6 FDA applications (3 active)"
@@ -74,10 +74,19 @@ No literature was found for localized pagetoid reticulosis itself. For the secon
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020969 | UVADEX (Therakos LLC) | Injection, solution | Not listed (valid) |
-| ANDA202687 | Methoxsalen (Strides Pharma Science Limited) | Capsule, liquid filled | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA202687 | METHOXSALEN | ONESOURCE | Capsule; oral | Valid |
+| NDA019600 | OXSORALEN-ULTRA | BAUSCH | Capsule; oral | Valid |
+| NDA020969 | UVADEX | THERAKOS DEVELOPMENT | Injectable; injection | Valid |
+| ANDA087781 | METHOXSALEN | ANI PHARMS | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA202603 | METHOXSALEN | ACTAVIS INC | Capsule; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

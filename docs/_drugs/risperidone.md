@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1128
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 description: "Risperidone: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). In the US: 56 FDA applications (33 active)"
@@ -78,13 +78,19 @@ Indication text is not recorded. The five listed below are the main ones.
 
 <!-- review:end us-lic-20261106-risperidone-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|------|
-| NDA021444 | RISPERDAL M-TAB (Janssen) | Orally disintegrating tablet | NDA (Discontinued in Drugs@FDA) |
-| NDA213586 | UZEDY (Teva) | Extended-release injectable suspension | Valid |
-| ANDA078707 | Risperidone (Westminster) | Film-coated tablet | Valid |
-| ANDA079059 | Risperidone (Bryant Ranch Prepack) | Solution | Valid |
-| ANDA077542 | Risperidone (Sun Pharmaceutical) | Orally disintegrating tablet | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076440 | RISPERIDONE | ANI PHARMS | Solution; oral | Valid |
+| ANDA076879 | RISPERIDONE | DR REDDYS LABS LTD | Tablet; oral | Valid |
+| ANDA077328 | RISPERIDONE | PHARMAZONE | Tablet, orally disintegrating; oral | Valid |
+| ANDA077493 | RISPERIDONE | PRINSTON INC | Tablet; oral | Valid |
+| ANDA077494 | RISPERIDONE | PH HEALTH | Tablet, orally disintegrating; oral | Valid |
+
+Showing 5 of 56 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

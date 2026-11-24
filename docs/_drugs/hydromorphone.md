@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 777
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "HYDROMORPHONE"
 predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
 description: "Hydromorphone: predicted new indication Pharyngitis (evidence level L5). In the US: 30 FDA applications (19 active), plus 3 OTC monograph/unapproved NDC listings"
@@ -118,13 +118,19 @@ The drug is marketed in the US. No approved indication text is available.
 
 <!-- review:end us-lic-20261106-hydromorphone-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019892 | Hydromorphone Hydrochloride (Rhodes Pharmaceuticals) | Tablet | Not available |
-| NDA200403 | Hydromorphone Hydrochloride (Hospira) | Injection, solution | Not available |
-| ANDA204278 | Hydromorphone Hydrochloride (Padagis) | Tablet, extended release | Not available |
-| ANDA205814 | Hydromorphone Hydrochloride (Aurolife) | Tablet | Not available |
-| ANDA212133 | Hydromorphone Hydrochloride (Camber) | Tablet, extended release | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074653 | HYDROMORPHONE HYDROCHLORIDE | HIKMA | Solution; oral | Valid |
+| ANDA076855 | HYDROMORPHONE HYDROCHLORIDE | SPECGX LLC | Tablet; oral | Valid |
+| ANDA078228 | HYDROMORPHONE HYDROCHLORIDE | RISING | Injectable; injection | Valid |
+| ANDA078261 | HYDROMORPHONE HYDROCHLORIDE | RISING | Injectable; injection | Valid |
+| ANDA078439 | HYDROMORPHONE HYDROCHLORIDE | LANNETT | Tablet; oral | Valid |
+
+Showing 5 of 33 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

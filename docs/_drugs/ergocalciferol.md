@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ERGOCALCIFEROL"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis", "craniofacial conodysplasia", "renal osteodystrophy", "calcium-alkali syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ergocalciferol: predicted new indication Acromesomelic dysplasia, Campailla Martinelli type (evidence level L5). In the US: 23 FDA applications (5 active), plus 4 OTC monograph/unapproved NDC listings"
 ---
 
@@ -73,13 +73,19 @@ Currently no related literature available.
 
 The licence records do not include approved-indication text, so no label indication is cited here. All five listed licences are single-ingredient products with valid status.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA090455 | VITAMIN D | Capsule | REMEDYREPACK INC. |
-| ANDA040833 | Ergocalciferol | Capsule | Chartwell RX, LLC |
-| ANDA080704 | Ergocalciferol | Capsule, liquid filled | PD-Rx Pharmaceuticals, Inc. |
-| ANDA204276 | Ergocalciferol Capsules | Capsule | Proficient Rx LP |
-| NDA003444 | Ergocalciferol | Capsule | Torrent Pharmaceuticals Limited |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040833 | ERGOCALCIFEROL | CHARTWELL RX | Capsule; oral | Valid |
+| ANDA080704 | VITAMIN D | BIONPHARMA | Capsule; oral | Valid |
+| ANDA090455 | ERGOCALCIFEROL | ONESOURCE | Capsule; oral | Valid |
+| ANDA204276 | ERGOCALCIFEROL | PURACAP PHARM LLC | Capsule; oral | Valid |
+| NDA003444 | DRISDOL | ESJAY PHARMA | Capsule; oral | Valid |
+
+Showing 5 of 27 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All listed forms are oral. The total number of licences is "at least 5", so this list may be partial.
 

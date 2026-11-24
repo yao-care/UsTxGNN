@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 722
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "FLUOROMETHOLONE"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "glaucomatocyclitic crisis"]
 description: "Fluorometholone: predicted new indication Postinfectious vasculitis (evidence level L5). In the US: 10 FDA applications (5 active)"
@@ -105,12 +105,19 @@ For reference, two indirect papers were retrieved for the rank-6 prediction (pun
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019079 | Flarex (Harrow Eye, LLC) | Suspension/drops | Not available (valid) |
-| NDA019216 | FML Forte (Allergan, Inc.) | Suspension/drops | Not available (valid) |
-| NDA016851 | FML (Allergan, Inc.) | Suspension/drops | Not available (valid) |
-| ANDA216348 | Fluorometholone ophthalmic suspension (Amneal Pharmaceuticals NY LLC) | Suspension/drops | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA216348 | FLUOROMETHOLONE | AMNEAL | Suspension/drops; ophthalmic | Valid |
+| ANDA218819 | FLUOROMETHOLONE | SANDOZ | Suspension/drops; ophthalmic | Valid |
+| NDA016851 | FML | ABBVIE | Suspension/drops; ophthalmic | Valid |
+| NDA019079 | FLAREX | HARROW EYE | Suspension/drops; ophthalmic | Valid |
+| NDA019216 | FML FORTE | ABBVIE | Suspension/drops; ophthalmic | Valid |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

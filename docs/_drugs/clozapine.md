@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "CLOZAPINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clozapine: predicted new indication Manic bipolar affective disorder (evidence level L2). In the US: 16 FDA applications (10 active)"
 ---
 
@@ -87,13 +87,19 @@ Use would need to be restricted to treatment-refractory cases and managed with s
 
 Clozapine is currently marketed in the United States. Several of the records are valid, and at least one is cancelled. The list below may be partial, and the local records carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019758 | Clozaril (HLS Therapeutics) | Tablet | Not provided |
-| NDA203479 | Versacloz (TruPharma) | Suspension | Not provided |
-| ANDA075417 | Clozapine (Mylan) | Tablet | Not provided |
-| ANDA201824 | Clozapine (Mylan) | Orally disintegrating tablet | Not provided |
-| ANDA202873 | Clozapine (Accord Healthcare) | Tablet | Not provided |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074949 | CLOZAPINE | IVAX SUB TEVA PHARMS | Tablet; oral | Valid |
+| ANDA075417 | CLOZAPINE | MYLAN | Tablet; oral | Valid |
+| ANDA076809 | CLOZAPINE | IVAX SUB TEVA PHARMS | Tablet; oral | Valid |
+| ANDA090308 | CLOZAPINE | BARR LABS INC | Tablet, orally disintegrating; oral | Valid |
+| ANDA201824 | CLOZAPINE | MYLAN | Tablet, orally disintegrating; oral | Valid |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

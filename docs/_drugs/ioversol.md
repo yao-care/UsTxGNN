@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "IOVERSOL"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "hemoglobinopathy", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "alopecia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ioversol: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not stated in the available licence text (ioversol is an iodinated co…"
 ---
 
@@ -71,9 +71,14 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019710 | Optiray (Liebel-Flarsheim Company LLC) | Injection | Not listed in available data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA019710 | OPTIRAY 350 | LIEBEL-FLARSHEIM | Injectable; injection | Valid |
+| NDA020923 | OPTIRAY 320 | LIEBEL-FLARSHEIM | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

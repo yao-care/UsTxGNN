@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1227
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "fibrocartilaginous embolism"]
 description: "Ticagrelor: predicted new indication Intracranial arteriosclerosis (evidence level L5). In the US: 22 FDA applications (21 active)"
@@ -86,13 +86,19 @@ The drug is marketed.
 
 <!-- review:end us-lic-20261106-ticagrelor-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022433 | BRILINTA (AstraZeneca) | Tablet | Not listed |
-| ANDA208597 | Ticagrelor (Mylan) | Tablet, film coated | Not listed |
-| ANDA217679 | Ticagrelor (Lifestar Pharma) | Tablet, film coated | Not listed |
-| ANDA208596 | Ticagrelor (Novadoz) | Tablet | Not listed |
-| ANDA208390 | Ticagrelor (Teva) | Tablet, film coated | Not listed |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208390 | TICAGRELOR | WATSON LABS INC | Tablet; oral | Valid |
+| ANDA208508 | TICAGRELOR | SUNSHINE | Tablet; oral | Valid |
+| ANDA208537 | TICAGRELOR | INVAGEN PHARMS | Tablet; oral | Valid |
+| ANDA208539 | TICAGRELOR | MICRO LABS | Tablet; oral | Valid |
+| ANDA208541 | TICAGRELOR | DR REDDYS | Tablet; oral | Valid |
+
+Showing 5 of 22 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

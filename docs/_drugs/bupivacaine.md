@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "BUPIVACAINE"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bupivacaine: predicted new indication acrodermatitis chronica atrophicans (evidence level L5). In the US: 52 FDA applications (35 active), plus 2 OTC monograph/unapproved NDC listings"
 ---
 
@@ -71,13 +71,19 @@ Currently no related literature available.
 
 The licence records compiled for this report list 13 single-ingredient injectable products (all in the form of injection solution, from several manufacturers), and the list may be partial. They carry no approved-indication text, so no indication summary can be given. Examples include Marcaine (NDA016964, Hospira), Sensorcaine (NDA018304, Henry Schein) and several generic ANDA products.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA016964 | Marcaine | Injection, solution | Not recorded in local data |
-| NDA018304 | Sensorcaine | Injection, solution | Not recorded in local data |
-| ANDA204842 | Bupivacaine Hydrochloride | Injection, solution | Not recorded in local data |
-| ANDA091487 | Bupivacaine Hydrochloride | Injection, solution | Not recorded in local data |
-| ANDA070590 | 0.25% BUPIVACAINE HCl | Injection, solution | Not recorded in local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070552 | SENSORCAINE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA070553 | SENSORCAINE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA070554 | SENSORCAINE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA070583 | BUPIVACAINE HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+| ANDA070584 | BUPIVACAINE HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+
+Showing 5 of 54 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 524
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorthalidone: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Hypertensive disorder, hypertension, congestive heart failure"
 monitor_inn: "CHLORTHALIDONE"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
@@ -88,13 +88,19 @@ For reference, the literature linked to the related prediction of chronic pulmon
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA211063 | Chlorthalidone (Chartwell RX, LLC) | Tablet | Not available (valid) |
-| ANDA213412 | Chlorthalidone (Preferred Pharmaceuticals Inc.) | Tablet | Not available (valid) |
-| ANDA212878 | Chlorthalidone (Bryant Ranch Prepack) | Tablet | Not available (valid) |
-| ANDA214129 | Chlorthalidone (Ajanta Pharma USA Inc.) | Tablet | Not available (valid) |
-| ANDA207813 | Chlorthalidone (Zydus Lifesciences Limited) | Tablet | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA086831 | CHLORTHALIDONE | MYLAN | Tablet; oral | Valid |
+| ANDA089286 | CHLORTHALIDONE | SUN PHARM INDUSTRIES | Tablet; oral | Valid |
+| ANDA206904 | CHLORTHALIDONE | INGENUS PHARMS LLC | Tablet; oral | Valid |
+| ANDA207204 | CHLORTHALIDONE | AMNEAL PHARMS CO | Tablet; oral | Valid |
+| ANDA207222 | CHLORTHALIDONE | UMEDICA | Tablet; oral | Valid |
+
+Showing 5 of 84 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

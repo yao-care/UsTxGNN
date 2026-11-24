@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "ATEZOLIZUMAB"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atezolizumab: predicted new indication Uterine ligament adenocarcinoma (evidence level L5). In the US: 3 FDA applications (3 active)"
 ---
 
@@ -75,9 +75,15 @@ Currently no related literature available for uterine ligament adenocarcinoma.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761034 | TECENTRIQ | Injection, solution | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761034 | TECENTRIQ | GENENTECH INC | Injectable; injection | Valid |
+| BLA761041 | TECENTRIQ | GENENTECH INC | Injectable; injection | Valid |
+| BLA761347 | TECENTRIQ HYBREZA | GENENTECH INC | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

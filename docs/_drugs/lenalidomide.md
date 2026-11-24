@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 844
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lenalidomide: predicted new indication Myeloid leukemia (evidence level L2). Approved use: Plasma cell myeloma (also mantle cell lymphoma, B-cell neoplasm…"
 monitor_inn: "LENALIDOMIDE"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
@@ -98,7 +98,7 @@ The literature set is dominated by reviews on MDS and AML. Direct lenalidomide-s
 
 ## US Market Information
 
-The data compiled for this report contain no approved indication text. The first five are listed.
+The data compiled for this report contain no approved indication text.
 
 <!-- review:begin us-lic-20261106-lenalidomide-1 -->
 
@@ -106,13 +106,19 @@ The data compiled for this report contain no approved indication text. The first
 
 <!-- review:end us-lic-20261106-lenalidomide-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA210435 | Lenalidomide (Exelan) | Capsule | Not available |
-| ANDA210154 | Lenalidomide (Zydus) | Capsule | Not available |
-| ANDA217281 | Lenalidomide (Novugen) | Capsule | Not available |
-| ANDA201452 | Lenalidomide (Teva) | Capsule | Not available |
-| ANDA217265 | Lenalidomide (Padagis) | Capsule | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA201452 | LENALIDOMIDE | ARROW INTL | Capsule; oral | Valid |
+| ANDA209348 | LENALIDOMIDE | DR REDDYS | Capsule; oral | Valid |
+| ANDA210154 | LENALIDOMIDE | ZYDUS PHARMS | Capsule; oral | Valid |
+| ANDA210435 | LENALIDOMIDE | CIPLA | Capsule; oral | Valid |
+| ANDA210480 | LENALIDOMIDE | ALVOGEN | Capsule; oral | Valid |
+
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

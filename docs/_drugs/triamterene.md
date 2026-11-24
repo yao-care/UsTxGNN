@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1258
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TRIAMTERENE"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
 description: "Triamterene: predicted new indication Malignant hypertensive renal disease (evidence level L5). In the US: 29 FDA applications (15 active)"
@@ -90,11 +90,19 @@ These studies concern heart failure in general, not cor pulmonale or triamterene
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA013174 | Triamterene (Prasco Laboratories) | Capsule | Not stated in the available data (valid) |
-| ANDA211581 | Triamterene (Bryant Ranch Prepack) | Capsule | Not stated in the available data (valid) |
-| ANDA214768 | Triamterene (Biocon Pharma Inc.) | Capsule | Not stated in the available data (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA211581 | TRIAMTERENE | TP ANDA HOLDINGS | Capsule; oral | Valid |
+| ANDA214768 | TRIAMTERENE | BIOCON GENERICS | Capsule; oral | Valid |
+| ANDA220782 | TRIAMTERENE | RUBICON RESEARCH | Capsule; oral | Valid |
+| NDA013174 | DYRENIUM | ADVANZ PHARMA | Capsule; oral | Valid |
+| ANDA071251 | TRIAMTERENE AND HYDROCHLOROTHIAZIDE | APOTEX INC | Tablet; oral | Valid |
+
+Showing 5 of 29 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

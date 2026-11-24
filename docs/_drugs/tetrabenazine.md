@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TETRABENAZINE"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tetrabenazine: predicted new indication Polycystic kidney disease 3 with or without polycystic liver disease (evidence level L5). In the US: 12 FDA applications (9 active)"
 ---
 
@@ -72,15 +72,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| NDA021894 | Xenazine (Lundbeck Pharmaceuticals LLC) | Tablet | Not available | Valid |
-| ANDA206129 | Tetrabenazine (Sun Pharmaceutical Industries) | Tablet | Not available | ANDA (Discontinued in Drugs@FDA) |
-| ANDA213316 | Tetrabenazine (Heritage/Avet Pharmaceuticals) | Tablet | Not available | Valid |
-| ANDA207682 | Tetrabenazine (Precision Dose) | Tablet | Not available | Valid |
-| ANDA204574 | Tetrabenazine (Camber Pharmaceuticals) | Coated tablet | Not available | Valid |
+<!-- licenses:begin -->
 
-Only the first five are shown above.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204574 | TETRABENAZINE | HETERO LABS LTD V | Tablet; oral | Valid |
+| ANDA206093 | TETRABENAZINE | APOTEX | Tablet; oral | Valid |
+| ANDA206686 | TETRABENAZINE | ACTAVIS LABS FL INC | Tablet; oral | Valid |
+| ANDA207682 | TETRABENAZINE | MYLAN | Tablet; oral | Valid |
+| ANDA208826 | TETRABENAZINE | BIONPHARMA | Tablet; oral | Valid |
+
+Showing 5 of 12 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

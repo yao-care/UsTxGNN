@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bexarotene: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L5). Approved use: Primary cutaneous T-cell lymphoma (including primary cutaneous T-cell…"
 monitor_inn: "BEXAROTENE"
 predicted_indications: ["primary cutaneous B-cell lymphoma", "lymphosarcoma"]
@@ -82,13 +82,19 @@ None of these publications reports bexarotene efficacy in B-cell lymphoma.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021055 | Targretin (Bausch Health US) | Capsule, liquid filled | Not listed in the license record |
-| NDA021056 | Targretin (Bausch Health US) | Gel | Not listed in the license record |
-| ANDA203174 | Bexarotene (Mylan) | Capsule, liquid filled | Not listed in the license record |
-| ANDA215398 | Bexarotene (Amneal) | Gel | Not listed in the license record |
-| ANDA209886 | Bexarotene (Upsher-Smith) | Capsule | Not listed in the license record |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA203174 | BEXAROTENE | BIONPHARMA | Capsule; oral | Valid |
+| ANDA208628 | BEXAROTENE | ASCENT PHARMS INC | Capsule; oral | Valid |
+| ANDA209861 | BEXAROTENE | ANI PHARMS | Capsule; oral | Valid |
+| ANDA209886 | BEXAROTENE | UPSHER SMITH LABS | Capsule; oral | Valid |
+| ANDA209931 | BEXAROTENE | TEVA PHARMS USA | Capsule; oral | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Bexarotene exists in both oral (capsule) and topical (gel) forms.
 

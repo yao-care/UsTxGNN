@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PHENAZOPYRIDINE"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Phenazopyridine: predicted new indication Bronchitis (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -69,9 +69,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Preferred Urinary Pain Relief (Reese Pharmaceutical Co) | Tablet | Not available (status: cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA013294 | AZO GANTANOL | ROCHE | Tablet; oral | Discontinued in Drugs@FDA |
+| NDA019358 | AZO GANTRISIN | ROCHE | Tablet; oral | Discontinued in Drugs@FDA |
+| NDA021105 | SULFAMETHOXAZOLE AND TRIMETHOPRIM AND PHENAZOPYRIDINE HYDROCHLORIDE | ABLE | Tablet; oral | Discontinued in Drugs@FDA |
+| NDC 0363-7775 | Walgreens Urinary Pain Relief | Walgreens Co. | Tablet | NDC listing, no FDA application (unapproved drug other) |
+| NDC 0363-7776 | Walgreens Maximum Strength Urinary Pain Relief | Walgreens | Tablet | NDC listing, no FDA application (unapproved drug other) |
+
+Showing 5 of 120 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

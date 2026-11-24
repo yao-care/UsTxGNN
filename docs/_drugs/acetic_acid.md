@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ACETIC ACID"
 predicted_indications: ["post-bacterial disorder", "postinfectious vasculitis", "post-infectious syndrome", "Chagas cardiomyopathy", "infective urethral stricture", "infection-related hemolytic uremic syndrome", "drug-induced osteoporosis", "pityriasis simplex", "tinea corporis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetic Acid: predicted new indication post-bacterial disorder (evidence level L5). Approved use: Otitis externa"
 ---
 
@@ -96,13 +96,19 @@ The data compiled for this report contains no approved indication text for any o
 
 <!-- review:end us-lic-20261105-acetic_acid-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| ANDA040166 | Acetic Acid | Solution | Chartwell RX, LLC | ANDA (Discontinued in Drugs@FDA) |
-| NDA012179 | Acetic Acid | Solution | NuCare Pharmaceuticals, Inc. | NDA (Discontinued in Drugs@FDA) |
-| ANDA040607 | Acetic Acid | Solution | A-S Medication Solutions | Valid |
-| NDA018161 | Acetic Acid | Irrigant | B. Braun Medical Inc. | Valid |
-| NDA018523 | Acetic Acid | Irrigant | Baxter Healthcare Corporation | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040607 | ACETIC ACID | SCIEGEN PHARMS | Solution/drops; otic | Valid |
+| ANDA207280 | ACETIC ACID | RISING | Solution/drops; otic | Valid |
+| NDA017656 | ACETIC ACID 0.25% IN PLASTIC CONTAINER | OTSUKA ICU MEDCL | Solution; irrigation, urethral | Valid |
+| NDA018161 | ACETIC ACID 0.25% IN PLASTIC CONTAINER | B BRAUN | Solution; irrigation, urethral | Valid |
+| NDA018523 | ACETIC ACID 0.25% IN PLASTIC CONTAINER | BAXTER HLTHCARE | Solution; irrigation, urethral | Valid |
+
+Showing 5 of 70 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 A sixth entry (Aceticum acidum, pellet, Boiron) has no authorization number.
 

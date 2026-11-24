@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 863
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LIOTHYRONINE"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "myxoma", "angiomyxoma", "hypotrichosis simplex of the scalp"]
 description: "Liothyronine: predicted new indication Renal hypodysplasia/aplasia (evidence level L5). In the US: 12 FDA applications (8 active), plus 53 OTC monograph/unapproved NDC listings"
@@ -82,13 +82,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|-----------|
-| ANDA091382 | liothyronine sodium | Tablet | Sun Pharmaceutical Industries, Inc. | Valid |
-| ANDA214803 | Liothyronine sodium | Tablet | A-S Medication Solutions | Valid |
-| ANDA200295 | Liomny | Tablet | SIGMAPHARM LABORATORIES, LLC | Valid |
-| ANDA211510 | Liothyronine Sodium | Tablet | Teva Pharmaceuticals USA, Inc. | Valid |
-| ANDA090097 | Liothyronine Sodium | Tablet | Golden State Medical Supply, Inc. | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076923 | LIOTHYRONINE SODIUM | XGEN PHARMS | Injectable; injection | Valid |
+| ANDA090097 | LIOTHYRONINE SODIUM | DR REDDYS LABS SA | Tablet; oral | Valid |
+| ANDA091382 | LIOTHYRONINE SODIUM | SUN PHARM | Tablet; oral | Valid |
+| ANDA200295 | LIOTHYRONINE SODIUM | SIGMAPHARM LABS LLC | Tablet; oral | Valid |
+| ANDA211510 | LIOTHYRONINE SODIUM | TEVA PHARMS USA | Tablet; oral | Valid |
+
+Showing 5 of 65 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Approved indication text is not available for these authorizations.
 

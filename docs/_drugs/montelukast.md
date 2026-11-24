@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 942
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MONTELUKAST"
 predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast: predicted new indication Bronchitis (evidence level L2). In the US: 52 FDA applications (34 active)"
@@ -108,7 +108,7 @@ The compiled literature contains no RCT reports for this indication. The list be
 
 ## US Market Information
 
-The drug is marketed in the US. The license records contain no approved-indication text. The five main authorizations are listed below.
+The drug is marketed in the US. The license records contain no approved-indication text.
 
 <!-- review:begin us-lic-20261106-montelukast-2 -->
 
@@ -116,13 +116,19 @@ The drug is marketed in the US. The license records contain no approved-indicati
 
 <!-- review:end us-lic-20261106-montelukast-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020830 | SINGULAIR (Organon LLC) | Chewable tablet | Not listed in the compiled records |
-| ANDA202717 | Montelukast Sodium (Accord Healthcare Inc.) | Film-coated tablet | Not listed in the compiled records |
-| ANDA200889 | Montelukast (Sandoz Inc) | Film-coated tablet | Not listed in the compiled records |
-| ANDA209012 | Montelukast Sodium (Rising Pharma Holdings, Inc.) | Tablet | Not listed in the compiled records |
-| ANDA205107 | Montelukast Sodium (Amneal Pharmaceuticals LLC) | Chewable tablet | Not listed in the compiled records |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078605 | MONTELUKAST SODIUM | TEVA PHARMS | Tablet; oral | Valid |
+| ANDA078723 | MONTELUKAST SODIUM | TEVA PHARMS | Tablet, chewable; oral | Valid |
+| ANDA090926 | MONTELUKAST SODIUM | GLENMARK PHARMS LTD | Tablet; oral | Valid |
+| ANDA090984 | MONTELUKAST SODIUM | TORRENT PHARMS LTD | Tablet, chewable; oral | Valid |
+| ANDA200405 | MONTELUKAST SODIUM | LANNETT CO INC | Tablet, chewable; oral | Valid |
+
+Showing 5 of 52 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All available forms are oral (chewable tablet, film-coated tablet, tablet).
 

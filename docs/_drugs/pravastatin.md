@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1076
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PRAVASTATIN"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 description: "Pravastatin: predicted new indication HIV infectious disease (evidence level L4). In the US: 20 FDA applications (13 active)"
@@ -82,13 +82,19 @@ There is an important caveat, however. Homozygous FH is characterized by severe 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA077793 | Pravastatin sodium (Aurobindo Pharma) | Tablet | Not recorded (valid) |
-| ANDA077987 | Pravastatin Sodium (A-S Medication Solutions) | Tablet | Not recorded (valid) |
-| ANDA209869 | Pravastatin sodium (Golden State Medical Supply) | Tablet | Not recorded (valid) |
-| ANDA076341 | Pravastatin sodium (RemedyRepack) | Tablet | Not recorded (valid) |
-| ANDA076714 | Pravastatin sodium (Dr. Reddy's Laboratories) | Tablet | Not recorded (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076056 | PRAVASTATIN SODIUM | AUROBINDO PHARMA USA | Tablet; oral | Valid |
+| ANDA076341 | PRAVASTATIN SODIUM | APOTEX | Tablet; oral | Valid |
+| ANDA076714 | PRAVASTATIN SODIUM | DR REDDYS LABS INC | Tablet; oral | Valid |
+| ANDA076939 | PRAVASTATIN SODIUM | WATSON LABS | Tablet; oral | Valid |
+| ANDA077491 | PRAVASTATIN SODIUM | PHARMAZONE | Tablet; oral | Valid |
+
+Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

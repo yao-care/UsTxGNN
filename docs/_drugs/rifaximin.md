@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "RIFAXIMIN"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rifaximin: predicted new indication Oral candidiasis (evidence level L5). Approved use: Hepatic encephalopathy, hepatic coma"
 ---
 
@@ -73,9 +73,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021361 | XIFAXAN (Cardinal Health 107, LLC) | Tablet | Not listed (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208959 | RIFAXIMIN | ACTAVIS LABS FL INC | Tablet; oral | Valid |
+| NDA021361 | XIFAXAN | SALIX PHARMS | Tablet; oral | Valid |
+| NDA022554 | XIFAXAN | SALIX PHARMS | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

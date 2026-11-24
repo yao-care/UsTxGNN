@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "ICATIBANT"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Icatibant: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). In the US: 11 FDA applications (9 active)"
 ---
 
@@ -68,13 +68,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA022150 | Firazyr | Injection, solution | Takeda Pharmaceuticals America, Inc. |
-| ANDA212446 | Sajazir | Injection | Cycle Pharmaceuticals Ltd-UK |
-| ANDA208317 | Icatibant | Injection, solution | Fresenius Kabi USA, LLC |
-| ANDA210118 | Icatibant | Injection, solution | Teva Pharmaceuticals USA, Inc. |
-| ANDA213773 | Icatibant | Injection | Alembic Pharmaceuticals Inc. |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208317 | ICATIBANT ACETATE | FRESENIUS KABI USA | Injectable; subcutaneous | Valid |
+| ANDA210118 | ICATIBANT ACETATE | TEVA PHARMS USA | Injectable; subcutaneous | Valid |
+| ANDA211021 | ICATIBANT ACETATE | JIANGSU HANSOH PHARM | Injectable; subcutaneous | Valid |
+| ANDA211501 | ICATIBANT ACETATE | WILSHIRE PHARMS INC | Injectable; subcutaneous | Valid |
+| ANDA212081 | ICATIBANT ACETATE | NANG KUANG PHARM CO | Injectable; subcutaneous | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Only the first 5 are listed here.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PIRFENIDONE"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pirfenidone: predicted new indication Extracutaneous mastocytoma (evidence level L5). Approved use: Idiopathic pulmonary fibrosis (also acute interstitial pneumonia and…"
 ---
 
@@ -103,13 +103,19 @@ The drug is marketed in the US. Approved indication text is not available.
 
 <!-- review:end us-lic-20261106-pirfenidone-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA208780 | ESBRIET | Tablet, coated | Legacy Pharma USA Inc. |
-| ANDA212722 | Pirfenidone | Tablet, film coated | Laurus Labs Limited |
-| ANDA212709 | Pirfenidone | Tablet | Apotex Corp. |
-| ANDA212708 | Pirfenidone | Tablet, coated | Alembic Pharmaceuticals Inc. |
-| ANDA212570 | Pirfenidone | Tablet, film coated | Amneal Pharmaceuticals NY LLC |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA212077 | PIRFENIDONE | SCIEGEN PHARMS | Capsule; oral | Valid |
+| ANDA212078 | PIRFENIDONE | SCIEGEN PHARMS | Tablet; oral | Valid |
+| ANDA212560 | PIRFENIDONE | SANDOZ | Tablet; oral | Valid |
+| ANDA212569 | PIRFENIDONE | AMNEAL | Capsule; oral | Valid |
+| ANDA212570 | PIRFENIDONE | AMNEAL | Tablet; oral | Valid |
+
+Showing 5 of 25 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Other cancelled licenses include generic tablets and capsules from Cipla, ScieGen, Laurus, Sandoz, Teva and Amneal. All dosage forms are oral.
 

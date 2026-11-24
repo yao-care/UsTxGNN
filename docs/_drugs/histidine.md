@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "HISTIDINE"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Histidine: predicted new indication gastroparesis (disease) (evidence level L5). Approved use: Not available"
 ---
 
@@ -81,9 +81,16 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available (cancelled) | L-Histidine High (Professional Complementary Health Formulas) | Liquid | Not listed |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 63083-7410 | L-Histidine High 7410 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 50845-0278 | Vital Skin Hair Nails | Liddell Laboratories, Inc. | Spray | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 44911-0665 | Metabatone | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 83027-0116 | Metab | Nutritional Specialties, Inc. | Spray | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 ---
 

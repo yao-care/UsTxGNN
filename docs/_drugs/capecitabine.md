@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CAPECITABINE"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Capecitabine: predicted new indication gastric adenocarcinoma and proximal polyposis of the stomach (evidence level L5). In the US: 15 FDA applications (11 active)"
 ---
 
@@ -88,13 +88,19 @@ At least 11 licences are recorded, and the list may be partial. The main ones ar
 
 <!-- review:end us-lic-20261105-capecitabine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020896 | XELODA | Tablet, film coated | Not recorded in the local data |
-| ANDA211724 | Capecitabine | Tablet, film coated | Not recorded in the local data |
-| ANDA207652 | Capecitabine | Tablet, film coated | Not recorded in the local data |
-| ANDA204668 | Capecitabine | Tablet, film coated | Not recorded in the local data |
-| ANDA204345 | Capecitabine | Tablet | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090943 | CAPECITABINE | RISING | Tablet; oral | Valid |
+| ANDA091649 | CAPECITABINE | TEVA PHARMS USA | Tablet; oral | Valid |
+| ANDA202593 | CAPECITABINE | ACCORD HLTHCARE | Tablet; oral | Valid |
+| ANDA204345 | CAPECITABINE | DR REDDYS | Tablet; oral | Valid |
+| ANDA207456 | CAPECITABINE | SHILPA | Tablet; oral | Valid |
+
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

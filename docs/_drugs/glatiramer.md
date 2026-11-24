@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "GLATIRAMER"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Glatiramer: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not listed in the data compiled for this report (generally used for r…"
 ---
 
@@ -80,13 +80,19 @@ The drug is marketed in the US, and no approved indication text is available in 
 
 <!-- review:end us-lic-20261106-glatiramer-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020622 | Copaxone (Teva Neuroscience) | Injection, solution | Not available (valid) |
-| ANDA090218 | Glatopa (Sandoz) | Injection, solution | Not available (valid) |
-| ANDA091646 | Glatiramer Acetate (Mylan) | Injection, solution | Not available (valid) |
-| ANDA206936 | Glatiramer Acetate (Mylan) | Injection, solution | Not available (valid) |
-| ANDA203857 | Glatiramer Acetate (Sun Pharmaceutical) | Injection, solution | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090218 | GLATOPA | SANDOZ | Injectable; subcutaneous | Valid |
+| ANDA091646 | GLATIRAMER ACETATE | MYLAN | Injectable; subcutaneous | Valid |
+| ANDA203857 | GLATIRAMER ACETATE | SYNTHON BV | Injectable; subcutaneous | Valid |
+| ANDA206873 | GLATIRAMER ACETATE | SYNTHON BV | Injectable; subcutaneous | Valid |
+| ANDA206921 | GLATOPA | SANDOZ | Injectable; subcutaneous | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ADEFOVIR DIPIVOXIL"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hepatitis C virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adefovir Dipivoxil: predicted new indication chronic hepatitis C virus infection (evidence level L5). In the US: 3 FDA applications (2 active)"
 ---
 
@@ -81,9 +81,15 @@ None of the publications below directly studies adefovir in chronic hepatitis C.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA202051 | ADEFOVIR DIPIVOXIL | Tablet | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA202051 | ADEFOVIR DIPIVOXIL | SIGMAPHARM LABS LLC | Tablet; oral | Valid |
+| ANDA205459 | ADEFOVIR DIPIVOXIL | APOTEX | Tablet; oral | Valid |
+| NDA021449 | HEPSERA | GILEAD | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

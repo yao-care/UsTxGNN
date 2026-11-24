@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BACITRACIN"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "infective urethral stricture", "post-infectious syndrome", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bacitracin: predicted new indication punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 14 FDA applications (0 active), plus 36 OTC monograph/unapproved NDC listings"
 ---
 
@@ -72,11 +72,19 @@ Currently no related literature available for this specific disease.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M004 | Bacitracin (A-S Medication Solutions) | Ointment | Not recorded |
-| 333B | Bacitracin (Preferred Pharmaceuticals, Inc) | Ointment | Not recorded |
-| ANDA061212 | Bacitracin (Padagis US LLC) | Ointment | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA060687 | BACITRACIN | LILLY | Ointment; ophthalmic | Discontinued in Drugs@FDA |
+| ANDA060734 | BACIGUENT | PHARMACIA AND UPJOHN | Ointment; ophthalmic | Discontinued in Drugs@FDA |
+| ANDA061212 | BACITRACIN | PADAGIS US | Ointment; ophthalmic | Discontinued in Drugs@FDA |
+| ANDA061580 | BACI-RX | X GEN PHARMS | Powder; for rx compounding | Discontinued in Drugs@FDA |
+| ANDA061699 | BACITRACIN | APOTHEKERNES | Powder; for rx compounding | Discontinued in Drugs@FDA |
+
+Showing 5 of 50 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The data compiled for this report are partial, so this list may not be complete.
 

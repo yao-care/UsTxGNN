@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "MEPIVACAINE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mepivacaine: predicted new indication Gastroduodenitis (evidence level L5). In the US: 21 FDA applications (6 active)"
 ---
 
@@ -73,13 +73,19 @@ For the second predicted indication, peptic ulcer disease, one publication was r
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA089406 | Polocaine-MPF (Mepivacaine HCl), HF Acquisition Co (HealthFirst) | Injection, solution | Not listed (valid) |
-| ANDA088387 | Mepivacaine, Benco Dental | Injection, solution | Not listed (valid) |
-| ANDA089410 | Polocaine, Fresenius Kabi USA | Injection, solution | Not listed (valid) |
-| ANDA089409 | Polocaine-MPF, Fresenius Kabi USA | Injection, solution | Not listed (valid) |
-| ANDA089407 | Polocaine, Fresenius Kabi USA | Injection, solution | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA088387 | SCANDONEST PLAIN | DEPROCO | Injectable; injection | Valid |
+| ANDA089406 | POLOCAINE-MPF | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA089407 | POLOCAINE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA089408 | POLOCAINE-MPF | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA089409 | POLOCAINE-MPF | FRESENIUS KABI USA | Injectable; injection | Valid |
+
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 One further license (ANDA089408, Polocaine-MPF, Fresenius Kabi USA) is also valid.
 

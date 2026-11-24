@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1241
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TOLVAPTAN"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 description: "Tolvaptan: predicted new indication Renal-hepatic-pancreatic dysplasia (evidence level L5). In the US: 11 FDA applications (11 active)"
@@ -88,13 +88,19 @@ Currently no related clinical trials registered for this predicted indication.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA204441 | JYNARQUE | Tablet | Not available (status: valid) |
-| NDA022275 | SAMSCA | Tablet | Not available (status: valid) |
-| ANDA206119 | Tolvaptan (Endo USA) | Tablet | Not available (status: valid) |
-| ANDA216949 | Tolvaptan (Novadoz) | Tablet | Not available (status: valid) |
-| ANDA207605 | Tolvaptan (Apotex) | Tablet | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205646 | TOLVAPTAN | HETERO LABS LTD V | Tablet; oral | Valid |
+| ANDA206119 | TOLVAPTAN | PH HEALTH | Tablet; oral | Valid |
+| ANDA207605 | TOLVAPTAN | APOTEX | Tablet; oral | Valid |
+| ANDA211891 | TOLVAPTAN | ALKEM LABS LTD | Tablet; oral | Valid |
+| ANDA216063 | TOLVAPTAN | LUPIN | Tablet; oral | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

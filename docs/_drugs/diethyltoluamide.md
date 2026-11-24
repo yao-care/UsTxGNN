@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "DIETHYLTOLUAMIDE"
 predicted_indications: ["insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "migraine disorder", "attention deficit-hyperactivity disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Diethyltoluamide: predicted new indication Insomnia (disease) (evidence level L5). In the US: no FDA-approved application; 1 OTC monograph/unapproved NDC listing"
 ---
 
@@ -85,10 +85,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | MOSQUITO BUG OFF (Lydia Co., Ltd.) | Liquid | Not specified (status: cancelled) |
+<!-- licenses:begin -->
 
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 72988-0005 | MOSQUITO BUG OFF | Lydia Co., Ltd. | Liquid | NDC listing, no FDA application (unapproved drug other) |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 585
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DESLORATADINE"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
 description: "Desloratadine: predicted new indication Nasal cavity disease (evidence level L5). In the US: 20 FDA applications (13 active)"
@@ -81,13 +81,19 @@ Cold urticaria is a histamine-mediated physical urticaria. Desloratadine is alre
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021165 | Clarinex (Organon LLC) | Film-coated tablet | Not available |
-| ANDA078352 | Desloratadine (A-S Medication Solutions) | Film-coated tablet | Not available |
-| ANDA078367 | Desloratadine (Dr. Reddy's Laboratories) | Orally disintegrating tablet | Not available |
-| ANDA078355 | Desloratadine (Virtus Pharmaceuticals) | Tablet | Not available |
-| ANDA078357 | Desloratadine (Bionpharma) | Film-coated tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078351 | DESLORATADINE | NATCO PHARMA USA | Tablet; oral | Valid |
+| ANDA078352 | DESLORATADINE | LUPIN PHARMS | Tablet; oral | Valid |
+| ANDA078355 | DESLORATADINE | AJENAT PHARMS | Tablet; oral | Valid |
+| ANDA078357 | DESLORATADINE | ORBION PHARMS | Tablet; oral | Valid |
+| ANDA078365 | DESLORATADINE | DR REDDYS LABS LTD | Tablet; oral | Valid |
+
+Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 A sixth license, ANDA202936 (Desloratadine Oral Solution, INA Pharmaceutics), is also listed.
 

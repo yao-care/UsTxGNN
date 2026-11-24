@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ARIPIPRAZOLE LAUROXIL"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia 26, X-linked, female-limited", "myopia X-linked", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Aripiprazole Lauroxil: predicted new indication retinal dystrophy with or without extraocular anomalies (evidence level L5). In the US: 2 FDA applications (2 active)"
 ---
 
@@ -68,10 +68,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA207533 | ARISTADA | Extended-release injectable suspension | Not recorded |
-| NDA209830 | ARISTADA INITIO | Extended-release injectable suspension | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA207533 | ARISTADA | ALKERMES INC | Suspension, extended release; intramuscular | Valid |
+| NDA209830 | ARISTADA INITIO KIT | ALKERMES INC | Suspension, extended release; intramuscular | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

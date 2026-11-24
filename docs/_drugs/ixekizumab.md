@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 823
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Ixekizumab: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -75,9 +75,13 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Ixekizumab, 
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| BLA125521 | ixekizumab | INJECTION, SOLUTION | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125521 | TALTZ | ELI LILLY AND CO | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

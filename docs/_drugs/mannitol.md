@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "MANNITOL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mannitol: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). In the US: 22 FDA applications (8 active), plus 2 OTC monograph/unapproved NDC listings"
 ---
 
@@ -72,13 +72,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA016269 | Mannitol (Henry Schein) | Injection, solution | Not available (valid) |
-| ANDA080677 | Mannitol (Fresenius Kabi) | Injection, solution | Not available (valid) |
-| NDA020006 | Mannitol (B. Braun) | Injection, solution | Not available (valid) |
-| NDA019603 | Mannitol (ICU Medical) | Injection, solution | Not available (valid) |
-| NDA013684 | Osmitrol (Baxter) | Injection, solution | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA080677 | MANNITOL 25% | FRESENIUS KABI USA | Injectable; injection | Valid |
+| NDA013684 | OSMITROL 20% IN WATER IN PLASTIC CONTAINER | BAXTER HLTHCARE | Injectable; injection | Valid |
+| NDA016269 | MANNITOL 25% | HOSPIRA | Injectable; injection | Valid |
+| NDA019603 | MANNITOL 20% IN PLASTIC CONTAINER | OTSUKA ICU MEDCL | Injectable; injection | Valid |
+| NDA020006 | MANNITOL 20% IN PLASTIC CONTAINER | B BRAUN | Injectable; injection | Valid |
+
+Showing 5 of 24 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Two further cancelled authorizations are not shown: QR PAIN (cream) and Sorbitol-Mannitol (irrigant).
 

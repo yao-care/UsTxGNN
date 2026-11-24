@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 973
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nitroglycerin: predicted new indication Pulmonary hypertension (evidence level L3). Approved use: Not available in the license data (nitroglycerin is a long-establishe…"
 monitor_inn: "NITROGLYCERIN"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "primary hereditary glaucoma", "congenital hypotrichosis milia"]
@@ -95,13 +95,19 @@ Indication text is not available for any of them.
 
 <!-- review:end us-lic-20261105-nitroglycerin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020145 | Nitroglycerin Transdermal Infusion System | Patch | Not available |
-| NDA021134 | Nitroglycerin | Tablet | Not available |
-| ANDA217879 | Nitroglycerin | Tablet | Not available |
-| ANDA091496 | Nitroglycerin lingual | Spray | Not available |
-| ANDA072034 | Nitroglycerin | Injection, solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA072034 | NITROGLYCERIN | AM REGENT | Injectable; injection | Valid |
+| ANDA074559 | NITROGLYCERIN | MYLAN TECHNOLOGIES | Film, extended release; transdermal | Valid |
+| ANDA087355 | NITROGLYCERIN | FOUGERA PHARMS INC | Ointment; transdermal | Valid |
+| ANDA089884 | NITROGLYCERIN | ZYDUS PHARMS | Film, extended release; transdermal | Valid |
+| ANDA089885 | NITROGLYCERIN | ZYDUS PHARMS | Film, extended release; transdermal | Valid |
+
+Showing 5 of 157 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

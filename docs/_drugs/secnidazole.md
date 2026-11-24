@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1148
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Secnidazole: predicted new indication Postmenopausal atrophic vaginitis (evidence level L5). Approved use: Bacterial vaginosis, trichomoniasis, giardiasis, vaginitis, vulvitis…"
 monitor_inn: "SECNIDAZOLE"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "leukoplakia of vagina", "vulvovaginal candidiasis"]
@@ -69,9 +69,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA209363 | Solosec (status: valid) | Granule | Not specified in the compiled data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA209363 | SOLOSEC | EVOFEM INC | Granule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

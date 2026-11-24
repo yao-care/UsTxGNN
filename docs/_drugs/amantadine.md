@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "AMANTADINE"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amantadine: predicted new indication Rasmussen subacute encephalitis (evidence level L5). In the US: 43 FDA applications (22 active)"
 ---
 
@@ -70,15 +70,21 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA214178 | Amantadine Hydrochloride | Solution | Not recorded in local data |
-| ANDA210129 | Amantadine Hydrochloride | Capsule, gelatin coated | Not recorded in local data |
-| ANDA209035 | Amantadine HCL | Tablet | Not recorded in local data |
-| ANDA074509 | Amantadine Hydrochloride | Solution | Not recorded in local data |
-| ANDA209171 | Amantadine Hydrochloride | Capsule | Not recorded in local data |
+<!-- licenses:begin -->
 
-The list shows five of at least ten records and may be partial. The licence records carry no indication text.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070589 | AMANTADINE HYDROCHLORIDE | UPSHER SMITH LABS | Capsule; oral | Valid |
+| ANDA071293 | AMANTADINE HYDROCHLORIDE | SANDOZ | Capsule; oral | Valid |
+| ANDA074028 | AMANTADINE HYDROCHLORIDE | CHARTWELL RX | Syrup; oral | Valid |
+| ANDA074170 | AMANTADINE HYDROCHLORIDE | AUROBINDO PHARMA USA | Syrup; oral | Valid |
+| ANDA074509 | AMANTADINE HYDROCHLORIDE | PHARM ASSOC | Syrup; oral | Valid |
+
+Showing 5 of 43 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
+
+The licence records carry no indication text.
 
 ## Safety Considerations
 

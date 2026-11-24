@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ESTRONE"
 predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Estrone: predicted new indication Zinc, elevated plasma (evidence level L5). Approved use: Acne"
 ---
 
@@ -74,9 +74,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Folliculinum (Boiron) | Pellet | Not stated (status: cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA083397 | ESTRONE | WATSON LABS | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA083488 | ESTROGENIC SUBSTANCE | WYETH AYERST | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA085237 | NATURAL ESTROGENIC SUBSTANCE-ESTRONE | WATSON LABS | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA085239 | ESTRONE | DR REDDYS | Injectable; injection | Discontinued in Drugs@FDA |
+| NDA003977 | THEELIN | PARKEDALE | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 64 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Other dosage forms recorded for estrone-containing products include liquid, spray, oral tablet and solution/drops.
 

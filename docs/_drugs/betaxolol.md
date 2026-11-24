@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 454
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Betaxolol: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,11 +72,19 @@ The TxGNN deep-learning model produced candidate indications for Betaxolol, but 
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| ANDA078962 | betaxolol hydrochloride | TABLET, COATED | Valid |
-| ANDA075541 | Betaxolol | TABLET, FILM COATED | Valid |
-| NDA019270 | Betaxolol Hydrochloride | SOLUTION/ DROPS | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075541 | BETAXOLOL HYDROCHLORIDE | EPIC PHARMA | Tablet; oral | Valid |
+| ANDA075630 | BETAXOLOL HYDROCHLORIDE | EUROFARMA | Solution/drops; ophthalmic | Valid |
+| ANDA078694 | BETAXOLOL HYDROCHLORIDE | CHARTWELL RX | Solution/drops; ophthalmic | Valid |
+| ANDA078962 | BETAXOLOL HYDROCHLORIDE | KVK TECH | Tablet; oral | Valid |
+| NDA019270 | BETOPTIC | SANDOZ | Solution/drops; ophthalmic | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

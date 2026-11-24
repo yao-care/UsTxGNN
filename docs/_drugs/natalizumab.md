@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "NATALIZUMAB"
 predicted_indications: ["bronchitis", "parapsoriasis", "psoriasis", "severe nonproliferative diabetic retinopathy", "acute lichenoid pityriasis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Natalizumab: predicted new indication Bronchitis (evidence level L5). Approved use: Crohn's disease, inflammatory bowel disease, Crohn's colitis…"
 ---
 
@@ -96,10 +96,14 @@ Overall, there is no trial evidence of benefit in psoriasis, and the case report
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| BLA761322 | TYRUKO (Sandoz Inc) | Injection | Not available | Valid |
-| BLA125104 | TYSABRI (Biogen Inc.) | Injection | Not available | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125104 | TYSABRI | BIOGEN IDEC | Vial; single-use | Valid |
+| BLA761322 | TYRUKO | SANDOZ INC | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

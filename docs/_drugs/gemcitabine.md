@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 748
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "GEMCITABINE"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
 description: "Gemcitabine: predicted new indication Rectum mucinous adenocarcinoma (evidence level L5). In the US: 34 FDA applications (19 active)"
@@ -96,13 +96,19 @@ No randomized controlled trial publications were retrieved; the literature is ma
 
 The approved-indication text was not available. Five examples are shown.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA200795 | Gemcitabine (Hospira) | Injection, solution | Not available |
-| NDA209604 | Gemcitabine (Accord Healthcare) | Injection, solution | Not available |
-| ANDA210383 | Gemcitabine (Ingenus) | Injection, solution | Not available |
-| ANDA091365 | Gemcitabine (Meitheal) | Injection, lyophilized powder for solution | Not available |
-| ANDA202485 | Gemcitabine (Sagent) | Injection, lyophilized powder for solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078339 | GEMCITABINE HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+| ANDA078433 | GEMCITABINE HYDROCHLORIDE | SUN PHARM | Injectable; injection | Valid |
+| ANDA078759 | GEMCITABINE HYDROCHLORIDE | TEYRO LABS | Injectable; injection | Valid |
+| ANDA079183 | GEMCITABINE HYDROCHLORIDE | HOSPIRA INC | Injectable; injection | Valid |
+| ANDA090242 | GEMCITABINE HYDROCHLORIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+
+Showing 5 of 34 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

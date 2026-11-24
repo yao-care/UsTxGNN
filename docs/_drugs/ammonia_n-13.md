@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "AMMONIA N-13"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ammonia N-13: predicted new indication non-syndromic esophageal malformation (evidence level L5). In the US: 31 FDA applications (24 active)"
 ---
 
@@ -78,13 +78,19 @@ The local records list 20 US licences for single-ingredient Ammonia N-13 injecti
 
 <!-- review:end us-lic-20261106-ammonia_n-13-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA211740 | Ammonia N 13 | Injection | Not recorded |
-| ANDA203938 | Ammonia | Injection | Not recorded |
-| ANDA209507 | Ammonia | Injection, solution | Not recorded |
-| ANDA203779 | Ammonia | Injection | Not recorded |
-| NDA022119 | Ammonia N 13 | Injection | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA203321 | AMMONIA N 13 | MCPRF | Injectable; intravenous | Valid |
+| ANDA203543 | AMMONIA N 13 | SOFIE | Injectable; intravenous | Valid |
+| ANDA203700 | AMMONIA N 13 | CARDINAL HLTH 414 | Injectable; intravenous | Valid |
+| ANDA203779 | AMMONIA N 13 | 3D IMAGING DRUG | Injectable; intravenous | Valid |
+| ANDA203783 | AMMONIA N 13 | BRIGHAM WOMENS HOSP | Injectable; intravenous | Valid |
+
+Showing 5 of 31 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

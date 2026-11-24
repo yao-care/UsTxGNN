@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 568
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DANTROLENE"
 predicted_indications: ["moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
 description: "Dantrolene: predicted new indication Moderate multiminicore disease with hand involvement (evidence level L5). In the US: 8 FDA applications (7 active)"
@@ -94,13 +94,19 @@ Currently no related clinical trials registered. The published guidelines note t
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018264 | Dantrium | Injection | Not available |
-| NDA205579 | RYANODEX | Injection, suspension | Not available |
-| NDA017443 | Dantrolene sodium | Capsule | Not available |
-| ANDA078378 | Revonto | Injection, powder, lyophilized, for solution | Not available |
-| ANDA204762 | Dantrolene | Injection, powder, for solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076686 | DANTROLENE SODIUM | ELITE LABS INC | Capsule; oral | Valid |
+| ANDA076856 | DANTROLENE SODIUM | IMPAX LABS | Capsule; oral | Valid |
+| ANDA078378 | REVONTO | USWM | Injectable; injection | Valid |
+| ANDA204762 | DANTROLENE SODIUM | HIKMA | Injectable; injection | Valid |
+| NDA017443 | DANTRIUM | PH HEALTH | Capsule; oral | Valid |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

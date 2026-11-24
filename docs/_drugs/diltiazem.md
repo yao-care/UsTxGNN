@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 609
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Diltiazem: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,29 +72,33 @@ The TxGNN model produced candidates for Diltiazem, but every candidate that can 
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| ANDA216968 | Diltiazem Hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
-| ANDA074617 | diltiazem hydrochloride | INJECTION, SOLUTION | Valid |
-| ANDA075116 | Diltiazem Hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
-| ANDA212317 | Diltiazem Hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
-| ANDA208783 | diltiazem hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
-| ANDA217633 | Diltiazem Hydrochloride | TABLET, FILM COATED | Valid |
-| ANDA077686 | Diltiazem Hydrochloride | TABLET, EXTENDED RELEASE | Valid |
-| ANDA074943 | DILTIAZEM HYDROCHLORIDE | CAPSULE, EXTENDED RELEASE | Valid |
-| NDA020401 | diltiazem hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
-| NDA020062 | diltiazem hydrochloride | CAPSULE, COATED, EXTENDED RELEASE | Valid |
-| ANDA216327 | diltiazem hydrochloride | TABLET, EXTENDED RELEASE | Valid |
-| NDA021392 | Diltiazem Hydrochloride Extended-Release Tablets | TABLET, EXTENDED RELEASE | Valid |
-| ANDA216521 | Diltiazem hydrochloride | TABLET | Valid |
-| ANDA205231 | Diltiazem hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
-| ANDA217377 | diltiazem hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
-| ANDA074752 | Diltiazem Hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
-| ANDA090421 | Diltiazem Hydrochloride | CAPSULE, EXTENDED RELEASE | ANDA (Discontinued in Drugs@FDA) |
-| ANDA074185 | Diltiazem Hydrochloride | TABLET, FILM COATED | Valid |
-| ANDA075853 | DILTIAZEM HCI | INJECTION, POWDER, LYOPHILIZED, FOR SOLU | Valid |
+<!-- licenses:begin -->
 
-Only part of the licence list is held in the data; the list may be incomplete.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074185 | DILTIAZEM HYDROCHLORIDE | TEVA | Tablet; oral | Valid |
+| ANDA074617 | DILTIAZEM HYDROCHLORIDE | SAGENT | Injectable; injection | Valid |
+| ANDA074752 | CARTIA XT | ACTAVIS LABS FL INC | Capsule, extended release; oral | Valid |
+| ANDA074910 | DILTIAZEM HYDROCHLORIDE | MYLAN | Capsule, extended release; oral | Valid |
+| ANDA074943 | DILTIAZEM HYDROCHLORIDE | APOTEX | Capsule, extended release; oral | Valid |
+| ANDA074984 | DILTIAZEM HYDROCHLORIDE | PH HEALTH | Capsule, extended release; oral | Valid |
+| ANDA075086 | DILTIAZEM HYDROCHLORIDE | RISING | Injectable; injection | Valid |
+| ANDA075116 | DILTIAZEM HYDROCHLORIDE | VALEANT PHARMS NORTH | Capsule, extended release; oral | Valid |
+| ANDA075853 | DILTIAZEM HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+| ANDA077686 | DILTIAZEM HYDROCHLORIDE | ACTAVIS LABS FL INC | Tablet, extended release; oral | Valid |
+| ANDA078538 | DILTIAZEM HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA091022 | DILTIAZEM HYDROCHLORIDE | CHARTWELL RX | Capsule, extended release; oral | Valid |
+| ANDA202463 | DILTIAZEM HYDROCHLORIDE | ACTAVIS ELIZABETH | Capsule, extended release; oral | Valid |
+| ANDA202651 | DILTIAZEM HYDROCHLORIDE | HIKMA FARMACEUTICA | Injectable; injection | Valid |
+| ANDA203023 | DILTIAZEM HYDROCHLORIDE | SUN PHARM | Capsule, extended release; oral | Valid |
+| ANDA205231 | DILTIAZEM HYDROCHLORIDE | TWI PHARMS | Capsule, extended release; oral | Valid |
+| ANDA206534 | DILTIAZEM HYDROCHLORIDE | ZYDUS PHARMS | Capsule, extended release; oral | Valid |
+| ANDA206641 | DILTIAZEM HYDROCHLORIDE | ZYDUS PHARMS | Capsule, extended release; oral | Valid |
+| ANDA206997 | DILTIAZEM HYDROCHLORIDE | ACCORD HLTHCARE | Capsule, extended release; oral | Valid |
+
+Showing 19 of 71 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

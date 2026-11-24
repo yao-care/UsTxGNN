@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 595
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DEXMETHYLPHENIDATE"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "multiple system atrophy", "variably protease-sensitive prionopathy", "manic bipolar affective disorder", "trichotillomania", "cerebellar ataxia", "autosomal dominant cerebellar ataxia", "postural orthostatic tachycardia syndrome"]
 description: "Dexmethylphenidate: predicted new indication Specific developmental disorder (evidence level L5). In the US: 24 FDA applications (18 active)"
@@ -85,13 +85,19 @@ The drug is marketed. No approved indication text is available.
 
 <!-- review:end us-lic-20261106-dexmethylphenidate-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA021802 | Focalin (Sandoz Inc) | Extended-release capsule | Valid |
-| ANDA215523 | Dexmethylphenidate Hydrochloride (Camber) | Extended-release capsule | Valid |
-| ANDA213813 | Dexmethylphenidate Hydrochloride (Granules) | Extended-release capsule | Valid |
-| ANDA210279 | Dexmethylphenidate Hydrochloride (Lannett) | Extended-release capsule | Valid |
-| ANDA212631 | Dexmethylphenidate Hydrochloride (Ascend) | Tablet | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078908 | DEXMETHYLPHENIDATE HYDROCHLORIDE | TEVA PHARMS USA | Capsule, extended release; oral | Valid |
+| ANDA078992 | DEXMETHYLPHENIDATE HYDROCHLORIDE | PLATINUM | Capsule, extended release; oral | Valid |
+| ANDA079108 | DEXMETHYLPHENIDATE HYDROCHLORIDE | IMPAX LABS INC | Capsule, extended release; oral | Valid |
+| ANDA201231 | DEXMETHYLPHENIDATE HYDROCHLORIDE | SUN PHARM INDUSTRIES | Tablet; oral | Valid |
+| ANDA202731 | DEXMETHYLPHENIDATE HYDROCHLORIDE | TEVA PHARMS USA | Capsule, extended release; oral | Valid |
+
+Showing 5 of 24 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Four further authorizations (extended-release capsule from Par Health; tablets from Bryant Ranch Prepack, Lupin and Sun Pharmaceutical) are also cancelled.
 

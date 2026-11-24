@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BUTENAFINE"
 predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Butenafine: predicted new indication endothrix infectious disease (evidence level L5). In the US: 5 FDA applications (3 active)"
 ---
 
@@ -73,6 +73,18 @@ Currently no related literature available.
 ## US Market Information
 
 The available US products are topical: a cream and a gel. All are single-ingredient products. The local records do not include approved-indication text, and the record set may be partial.
+
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205181 | BUTENAFINE HYDROCHLORIDE | SUN PHARMA CANADA | Cream; topical | Valid |
+| NDA020663 | MENTAX | MYLAN BERTEK | Cream; topical | Valid |
+| NDA021307 | LOTRIMIN ULTRA | BAYER HEALTHCARE LLC | Cream; topical | Valid |
+| NDA020524 | MENTAX | PHARMOBEDIENT | Cream; topical | Discontinued in Drugs@FDA |
+| NDA021408 | MENTAX-TC | PHARMOBEDIENT | Cream; topical | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

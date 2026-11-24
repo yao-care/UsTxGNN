@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 5
 monitor_inn: "DEFERASIROX"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Deferasirox: predicted new indication HIV infectious disease (evidence level L4). In the US: 38 FDA applications (28 active)"
 ---
 
@@ -80,13 +80,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA206910 | Jadenu (Novartis) | Film-coated tablet | Not listed (valid) |
-| ANDA211824 | Deferasirox (Alembic) | Film-coated tablet | Not listed (valid) |
-| ANDA209878 | Deferasirox (MSN Laboratories) | Tablet for suspension | Not listed (valid) |
-| ANDA213374 | Deferasirox oral (Ascend) | Granule | Not listed (valid) |
-| ANDA207124 | Deferasirox (Teva) | Tablet for suspension | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA203560 | DEFERASIROX | ACTAVIS ELIZABETH | Tablet, for suspension; oral | Valid |
+| ANDA207124 | DEFERASIROX | TEVA PHARMS USA | Tablet, for suspension; oral | Valid |
+| ANDA208697 | DEFERASIROX | ACTAVIS ELIZABETH | Tablet; oral | Valid |
+| ANDA209433 | DEFERASIROX | GLENMARK SPECLT | Tablet, for suspension; oral | Valid |
+| ANDA209782 | DEFERASIROX | SUN PHARM | Tablet, for suspension; oral | Valid |
+
+Showing 5 of 38 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

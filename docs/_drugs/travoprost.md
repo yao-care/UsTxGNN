@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TRAVOPROST"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Travoprost: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Open-angle glaucoma"
 ---
 
@@ -92,13 +92,19 @@ The five below are examples.
 
 <!-- review:end us-lic-20261105-travoprost-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021994 | Travatan Z (Sandoz) | Solution/drops | Not available |
-| NDA218010 | iDose TR (Glaukos) | Implant | Not available |
-| ANDA218159 | Travoprost Ophthalmic Solution (Glenmark) | Solution/drops | Not available |
-| ANDA214687 | Travoprost ophthalmic solution (Alembic) | Solution/drops | Not available |
-| ANDA203431 | Travoprost (Apotex) | Solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091340 | TRAVOPROST | CHARTWELL RX | Solution/drops; ophthalmic | Valid |
+| ANDA203431 | TRAVOPROST | APOTEX | Solution/drops; ophthalmic | Valid |
+| ANDA203767 | TRAVOPROST | MICRO LABS | Solution/drops; ophthalmic | Valid |
+| ANDA205050 | TRAVOPROST | MYLAN | Solution/drops; ophthalmic | Valid |
+| ANDA214687 | TRAVOPROST | ALEMBIC | Solution/drops; ophthalmic | Valid |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

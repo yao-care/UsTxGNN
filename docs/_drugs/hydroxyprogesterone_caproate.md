@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 780
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "HYDROXYPROGESTERONE CAPROATE"
 predicted_indications: ["endometriosis of uterus", "renal hypoplasia, bilateral", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "renal hypoplasia (disease)", "cervix endometriosis", "breast fibrocystic disease", "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"]
 description: "Hydroxyprogesterone Caproate: predicted new indication Endometriosis of uterus (evidence level L5). In the US: 8 FDA applications (0 active)"
@@ -70,9 +70,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA211142 (cancelled) | Hydroxyprogesterone Caproate (AuroMedics Pharma LLC) | Injection | Not stated |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA089330 | HYDROXYPROGESTERONE CAPROATE | QUAD PHARMS | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA089331 | HYDROXYPROGESTERONE CAPROATE | QUAD PHARMS | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA200271 | HYDROXYPROGESTERONE CAPROATE | ASPEN GLOBAL INC | Solution; intramuscular | Discontinued in Drugs@FDA |
+| ANDA211142 | HYDROXYPROGESTERONE CAPROATE | EUGIA PHARMA | Solution; intramuscular | Discontinued in Drugs@FDA |
+| NDA010347 | DELALUTIN | BRISTOL MYERS SQUIBB | Solution; intramuscular | Discontinued in Drugs@FDA |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The drug currently has no valid US licence. The only licence on record is cancelled.
 

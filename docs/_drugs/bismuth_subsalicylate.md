@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BISMUTH SUBSALICYLATE"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "salmonellosis", "typhoid fever", "conjunctivitis", "relapsing fever", "acute contagious conjunctivitis", "gingivitis", "punctate epithelial keratoconjunctivitis", "otitis externa"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bismuth Subsalicylate: predicted new indication Paratyphoid fever (evidence level L5). Approved use: Diarrheal disease, dyspepsia"
 ---
 
@@ -100,11 +100,19 @@ For **gingivitis** (second supported prediction), the literature is preclinical 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M001 | Stomach | Liquid | Not specified (valid) |
-| M008 | Stomach Relief | Liquid | Not specified (valid) |
-| M002 | GNP Pink Bismuth | Chewable tablet | Not specified (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA202584 | BISMUTH SUBSALICYLATE, METRONIDAZOLE AND TETRACYCLINE HYDROCHLORIDE | AILEX PHARMS LLC | Tablet, chewable, tablet, capsule; oral | Valid |
+| NDA050719 | HELIDAC | CASPER PHARMA LLC | Tablet, chewable, tablet, capsule; oral | Discontinued in Drugs@FDA |
+| NDC 0322-2222 | Percy Medicine | Merrick Medicine Company, Inc | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0363-0073 | Soothe | Walgreens | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0363-0736 | Soothe | Walgreens | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 248 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

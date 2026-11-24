@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "RACEPINEPHRINE"
 predicted_indications: ["primary hereditary glaucoma", "hypotrichosis simplex of the scalp", "open-angle glaucoma", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "headache disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Racepinephrine: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Not available"
 ---
 
@@ -80,9 +80,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M012 | BeC Racepinephrine (Blue Echo Care LLC; valid) | Liquid | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0487-5901 | S2 | Nephron Pharmaceuticals Corporation | Solution | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 73117-509 | Device - NebuClear MD Hand-held Rubber Bulb Nebulizer | Blue Echo Care LLC | Solution | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 73117-523 | NebuClear MD | Blue Echo Care LLC | Solution | NDC listing, no FDA application (OTC monograph drug) |
+
+<!-- licenses:end -->
 
 Other dosage forms recorded for the drug are solution and aerosol spray.
 

@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 2
 monitor_inn: "ALPRAZOLAM"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alprazolam: predicted new indication Insomnia (disease) (evidence level L3). In the US: 40 FDA applications (14 active)"
 ---
 
@@ -83,13 +83,19 @@ No randomized trial of alprazolam for insomnia was found. The only study that di
 
 Seven US licences are recorded, and the list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA074342 | Alprazolam | Tablet | Not recorded |
-| ANDA203346 | Alprazolam | Tablet | Not recorded |
-| NDA018276 | Alprazolam | Tablet | Not recorded |
-| ANDA090871 | Alprazolam | Extended-release tablet | Not recorded |
-| ANDA200739 | Alprazolam | Tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074112 | ALPRAZOLAM | SANDOZ | Tablet; oral | Valid |
+| ANDA074174 | ALPRAZOLAM | NOVITIUM PHARMA | Tablet; oral | Valid |
+| ANDA074312 | ALPRAZOLAM | HIKMA | Concentrate; oral | Valid |
+| ANDA074342 | ALPRAZOLAM | ACTAVIS ELIZABETH | Tablet; oral | Valid |
+| ANDA074909 | ALPRAZOLAM | SANDOZ | Tablet; oral | Valid |
+
+Showing 5 of 40 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

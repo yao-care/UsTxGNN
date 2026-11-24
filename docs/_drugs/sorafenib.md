@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1175
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SORAFENIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
 description: "Sorafenib: predicted new indication Liposarcoma (evidence level L5). In the US: 7 FDA applications (6 active)"
@@ -78,13 +78,19 @@ Liposarcoma is a soft tissue sarcoma, so a kinase and angiogenesis inhibitor is 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021923 | Nexavar (Bayer HealthCare) | Film-coated tablet | Not available |
-| ANDA207012 | Sorafenib Tosylate (Mylan) | Film-coated tablet | Not available |
-| ANDA209567 | Sorafenib (Teva) | Film-coated tablet | Not available |
-| ANDA216073 | Sorafenib (Dr. Reddy's) | Film-coated tablet | Not available |
-| ANDA217095 | Sorafenib (Torrent) | Film-coated tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA207012 | SORAFENIB TOSYLATE | MYLAN | Tablet; oral | Valid |
+| ANDA209050 | SORAFENIB TOSYLATE | YABAO PHARM | Tablet; oral | Valid |
+| ANDA209567 | SORAFENIB TOSYLATE | TEVA PHARMS USA INC | Tablet; oral | Valid |
+| ANDA216073 | SORAFENIB TOSYLATE | DR REDDYS | Tablet; oral | Valid |
+| ANDA217095 | SORAFENIB TOSYLATE | TORRENT | Tablet; oral | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

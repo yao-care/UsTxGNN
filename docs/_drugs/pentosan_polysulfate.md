@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "PENTOSAN POLYSULFATE"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pentosan Polysulfate: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Interstitial cystitis"
 ---
 
@@ -76,9 +76,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020193 | ELMIRON (Janssen Pharmaceuticals, Inc.) | Capsule, gelatin coated (oral) | Not listed in the data (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA020193 | ELMIRON | JANSSEN PHARMS | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

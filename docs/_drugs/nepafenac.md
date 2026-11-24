@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "NEPAFENAC"
 predicted_indications: ["eye disease", "optic papillitis", "hypotrichosis simplex of the scalp", "seborrheic keratosis", "von Hippel anomaly", "congenital hypotrichosis milia", "mcpherson robertson cammarano syndrome", "lagophthalmos", "vulvar inverted follicular keratosis", "vitreous detachment"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nepafenac: predicted new indication Eye disease (evidence level L1). In the US: 2 FDA applications (2 active)"
 ---
 
@@ -102,10 +102,14 @@ Other registered trials cover diabetic macular edema, epiretinal membrane surger
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA203491 | ILEVRO (Harrow Eye, LLC) | Suspension/drops | Not listed; status: valid |
-| NDA021862 | NEVANAC (Harrow Eye, LLC) | Suspension/drops | Not listed; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021862 | NEVANAC | HARROW EYE | Suspension/drops; ophthalmic | Valid |
+| NDA203491 | ILEVRO | HARROW EYE | Suspension/drops; ophthalmic | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

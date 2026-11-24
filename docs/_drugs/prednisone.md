@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "PREDNISONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prednisone: predicted new indication Alopecia areata (evidence level L3). In the US: 131 FDA applications (34 active)"
 ---
 
@@ -82,15 +82,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA080352 | PredniSONE (Hikma Pharmaceuticals USA Inc.) | Tablet | Not available |
-| ANDA083677 | Prednisone (Mylan Pharmaceuticals Inc.) | Tablet | Not available |
-| ANDA040581 | Prednisone (Northwind Health Company, LLC) | Tablet | Not available |
-| ANDA219477 | Prednisone delayed release (Dr. Reddys Laboratories Inc.) | Tablet, delayed release | Not available |
-| ANDA212629 | PredniSONE Tablets, USP, 5 mg (Bryant Ranch Prepack) | Tablet | Not available |
+<!-- licenses:begin -->
 
-The list shows 5 of 12 records and may be partial.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040256 | PREDNISONE | PH HEALTH | Tablet; oral | Valid |
+| ANDA040362 | PREDNISONE | JUBILANT CADISTA | Tablet; oral | Valid |
+| ANDA040392 | PREDNISONE | PH HEALTH | Tablet; oral | Valid |
+| ANDA040581 | PREDNISONE | PH HEALTH | Tablet; oral | Valid |
+| ANDA040584 | PREDNISONE | PH HEALTH | Tablet; oral | Valid |
+
+Showing 5 of 131 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

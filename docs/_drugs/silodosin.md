@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SILODOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Silodosin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 ---
 
@@ -88,13 +88,19 @@ The approved indication text is not available in the data compiled for this repo
 
 <!-- review:end us-lic-20261106-silodosin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA209745 | Silodosin | Capsule | AvKARE |
-| ANDA211731 | Silodosin | Capsule | Alembic Pharmaceuticals Limited |
-| ANDA210626 | Silodosin | Capsule | Aurobindo Pharma Limited |
-| ANDA213230 | Silodosin | Capsule | Creekwood Pharmaceuticals LLC |
-| ANDA211166 | Silodosin | Capsule | Macleods Pharmaceuticals Limited |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204726 | SILODOSIN | CHARTWELL RX | Capsule; oral | Valid |
+| ANDA204793 | SILODOSIN | HETERO LABS LTD V | Capsule; oral | Valid |
+| ANDA206541 | SILODOSIN | LUPIN | Capsule; oral | Valid |
+| ANDA209029 | SILODOSIN | PRINSTON | Capsule; oral | Valid |
+| ANDA209745 | SILODOSIN | AMNEAL PHARMS CO | Capsule; oral | Valid |
+
+Showing 5 of 14 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Four more cancelled ANDAs are also on record: Ajanta, Lupin, Camber and PD-Rx.
 

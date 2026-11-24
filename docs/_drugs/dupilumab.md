@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 634
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DUPILUMAB"
 predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
 description: "Dupilumab: predicted new indication Bronchitis (evidence level L3). In the US: 1 FDA application (1 active)"
@@ -89,9 +89,13 @@ However, bronchitis as a defined indication has not been directly tested. The on
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761055 | Dupixent (sanofi-aventis U.S. LLC) | Injection, solution | Not listed in the data compiled for this report (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761055 | DUPIXENT | REGENERON PHARMACEUTICALS | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

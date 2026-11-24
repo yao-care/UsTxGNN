@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1057
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Podofilox: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Anogenital human papillomavirus infection"
 monitor_inn: "PODOFILOX"
 predicted_indications: ["vulvovaginal candidiasis", "photosensitivity disease", "herpes zoster", "benign neoplasm of tongue", "benign neoplasm of hypopharynx", "cystic neoplasm", "mesenchymoma", "nasal cavity inverting papilloma", "tumor of testis and paratestis"]
@@ -83,10 +83,17 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA075600 | Podofilox | Solution | Valid |
-| ANDA211871 | Podofilox | Gel | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075600 | PODOFILOX | PADAGIS US | Solution; topical | Valid |
+| ANDA211871 | PODOFILOX | PADAGIS US | Gel; topical | Valid |
+| ANDA090184 | PODOFILOX | BAUSCH AND LOMB INC | Solution; topical | Discontinued in Drugs@FDA |
+| NDA019795 | CONDYLOX | TEVA BRANDED PHARM | Solution; topical | Discontinued in Drugs@FDA |
+| NDA020529 | CONDYLOX | ALLERGAN | Gel; topical | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 Both authorizations are held by Padagis US LLC. No approved indication text was available for either one.
 

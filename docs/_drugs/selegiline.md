@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "SELEGILINE"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Selegiline: predicted new indication Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidence level L5). In the US: 18 FDA applications (7 active)"
 ---
 
@@ -106,13 +106,19 @@ The data compiled for this report contain no approved-indication text.
 
 <!-- review:end us-lic-20261106-selegiline-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA021336 | EMSAM | Patch | Valid |
-| NDA021479 | ZELAPAR | Orally disintegrating tablet | NDA (Discontinued in Drugs@FDA) |
-| ANDA074672 | Selegiline Hydrochloride | Tablet | Valid |
-| ANDA206803 | Selegiline Hydrochloride | Capsule | Valid |
-| ANDA074871 | Selegiline Hydrochloride | Tablet | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074672 | SELEGILINE HYDROCHLORIDE | PHARMAZONE | Tablet; oral | Valid |
+| ANDA074871 | SELEGILINE HYDROCHLORIDE | APOTEX | Tablet; oral | Valid |
+| ANDA075321 | SELEGILINE HYDROCHLORIDE | APOTEX | Capsule; oral | Valid |
+| ANDA075352 | SELEGILINE HYDROCHLORIDE | NOVITIUM PHARMA | Capsule; oral | Valid |
+| ANDA206803 | SELEGILINE HYDROCHLORIDE | RISING | Capsule; oral | Valid |
+
+Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

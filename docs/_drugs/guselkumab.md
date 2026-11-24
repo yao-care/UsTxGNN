@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 765
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "GUSELKUMAB"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "renal osteodystrophy", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
 description: "Guselkumab: predicted new indication Drug-induced osteoporosis (evidence level L5). In the US: 1 FDA application (1 active)"
@@ -112,9 +112,13 @@ No literature is available for drug-induced osteoporosis. The table below shows 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761061 | TREMFYA (Janssen Biotech, Inc.) | Injection | Not listed in the compiled record |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761061 | TREMFYA | JANSSEN BIOTECH | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 This conflicts with the literature, which describes guselkumab as approved for psoriasis, psoriatic arthritis, Crohn's disease and UC. Treat it as a probable data gap and verify against the FDA database before any decision.
 

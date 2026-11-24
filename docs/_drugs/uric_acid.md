@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "URIC ACID"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "bronchitis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Uric Acid: predicted new indication Rheumatoid arthritis (evidence level L5). In the US: no FDA-approved application; 24 OTC monograph/unapproved NDC listings"
 ---
 
@@ -84,9 +84,19 @@ The high TxGNN score most likely reflects network proximity between purine metab
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available (cancelled) | Uric Acid | Liquid | No approved indication recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 63083-1547 | Uric Acid 1547 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 83027-0102 | Renal Health Formula | Nutritional Specialties, Inc. | Spray | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 63083-9307 | Uric Acid Combination 9307 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 75053-0009 | Oxaltem | Nucleic Products, LLC | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 75053-0012 | Oxaltem | Nucleic Products, LLC | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 24 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

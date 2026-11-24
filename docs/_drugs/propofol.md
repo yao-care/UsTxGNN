@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Propofol: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the available license records (propofol is generally kn…"
 ---
 
@@ -95,13 +95,19 @@ Another trial, a double-blind randomized trial of propofol versus placebo in adu
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019627 | Diprivan (Fresenius Kabi) | Injectable emulsion | Not stated; license valid |
-| ANDA075102 | Propofol (Sagent) | Injectable emulsion | Not stated; license valid |
-| ANDA074848 | Propofol (Hikma) | Injectable emulsion | Not stated; license valid |
-| ANDA205067 | Propofol Injectable Emulsion (Dr. Reddy's) | Injectable emulsion | Not stated; license valid |
-| ANDA205576 | Propofol (Pfizer) | Injectable emulsion | Not stated; license valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074848 | PROPOFOL | HIKMA | Injectable; injection | Valid |
+| ANDA075102 | PROPOFOL | SAGENT PHARMS INC | Injectable; injection | Valid |
+| ANDA077908 | PROPOFOL | HOSPIRA | Injectable; injection | Valid |
+| ANDA203421 | PROPOFOL | BAXTER HLTHCARE CORP | Injectable; injection | Valid |
+| ANDA205067 | PROPOFOL | DR REDDYS | Injectable; injection | Valid |
+
+Showing 5 of 14 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

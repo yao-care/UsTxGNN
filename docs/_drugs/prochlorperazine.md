@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PROCHLORPERAZINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prochlorperazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). In the US: 59 FDA applications (21 active)"
 ---
 
@@ -94,13 +94,19 @@ The drug is marketed in the US.
 
 <!-- review:end us-lic-20261106-prochlorperazine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA216495 | Prochlorperazine Maleate (Zydus Lifesciences) | Tablet | Not available |
-| ANDA040268 | Prochlorperazine Maleate (Northwind Health) | Tablet | Not available |
-| ANDA040101 | Prochlorperazine Maleate (Chartwell RX) | Film-coated tablet | Not available |
-| ANDA204147 | Prochlorperazine Edisylate (Avenacy) | Injection, solution | Not available |
-| ANDA040246 | Compro (PD-Rx Pharmaceuticals) | Suppository | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040058 | PROCHLORPERAZINE | COSETTE PHARMS NC | Suppository; rectal | Valid |
+| ANDA040246 | COMPRO | PADAGIS US | Suppository; rectal | Valid |
+| ANDA040268 | PROCOMP | JUBILANT CADISTA | Tablet; oral | Valid |
+| ANDA040540 | PROCHLORPERAZINE EDISYLATE | SAGENT | Injectable; injection | Valid |
+| ANDA089903 | PROCHLORPERAZINE EDISYLATE | HIKMA | Injectable; injection | Valid |
+
+Showing 5 of 59 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Six further cancelled ANDAs exist (tablets, film-coated tablets and an injection) from other manufacturers.
 

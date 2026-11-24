@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ASCORBIC ACID"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "florid cemento-osseous dysplasia", "perinatal disease", "segmental odontomaxillary dysplasia", "disease by subcellular system affected"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ascorbic Acid: predicted new indication non-syndromic esophageal malformation (evidence level L5). In the US: 23 FDA applications (12 active), plus 215 OTC monograph/unapproved NDC listings"
 ---
 
@@ -83,13 +83,19 @@ Currently no related literature available.
 
 The licence records compiled for this report (8 records, which may be a partial list) carry no approved-indication text. They cover mainly injectable, liquid, cream and lotion products.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA217131 | Ascorbic Acid | Injection | Not recorded |
-| NDA209112 | Ascor | Injection | Not recorded |
-| M001 | Super vitamin C serum | Liquid | Not recorded |
-| M016 | Srripo 20% VITAMIN C SERUM | Liquid | Not recorded |
-| M020 | MELAO WHITENING SUNSCREEN | Cream | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA217131 | ASCORBIC ACID | FRESENIUS KABI USA | Solution; intravenous | Valid |
+| ANDA220172 | ASCORBIC ACID | PHARMOBEDIENT | Solution; intravenous | Valid |
+| ANDA220873 | ASCORBIC ACID | ZYDUS PHARMS | Solution; intravenous | Valid |
+| NDA209112 | ASCOR | MCGUFF | Solution; intravenous | Valid |
+| ANDA090145 | PEG-3350, SODIUM SULFATE, SODIUM CHLORIDE, POTASSIUM CHLORIDE, SODIUM… | NOVEL LABS INC | For solution; oral | Valid |
+
+Showing 5 of 238 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

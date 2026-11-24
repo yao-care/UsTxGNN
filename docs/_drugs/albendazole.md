@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ALBENDAZOLE"
 predicted_indications: ["coenurosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Albendazole: predicted new indication Coenurosis (evidence level L5). In the US: 10 FDA applications (6 active)"
 ---
 
@@ -109,13 +109,19 @@ The records carry no approved-indication text.
 
 <!-- review:end us-lic-20261106-albendazole-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020666 | Albendazole (Amneal) | Film-coated tablet | Not recorded |
-| ANDA215652 | Albendazole (Alembic) | Film-coated tablet | Not recorded |
-| ANDA211034 | Albendazole (Dr. Reddy's) | Film-coated tablet | Not recorded |
-| ANDA208094 | Albendazole (Actavis) | Film-coated tablet | Not recorded |
-| ANDA213435 | Albendazole (Bryant Ranch Prepack) | Tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208094 | ALBENDAZOLE | ACTAVIS ELIZABETH | Tablet; oral | Valid |
+| ANDA208979 | ALBENDAZOLE | ZYDUS PHARMS | Tablet; oral | Valid |
+| ANDA211034 | ALBENDAZOLE | DR REDDYS | Tablet; oral | Valid |
+| ANDA211117 | ALBENDAZOLE | EDENBRIDGE PHARMS | Tablet; oral | Valid |
+| ANDA213435 | ALBENDAZOLE | MSN | Tablet; oral | Valid |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

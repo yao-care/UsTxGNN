@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 749
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "GEMFIBROZIL"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
 description: "Gemfibrozil: predicted new indication Rheumatoid arthritis (evidence level L4). In the US: 21 FDA applications (9 active)"
@@ -82,13 +82,19 @@ The compiled data do not list approved-indication text for them.
 
 <!-- review:end us-lic-20261106-gemfibrozil-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA204189 | Gemfibrozil (Viona Pharmaceuticals) | Tablet | ANDA (Discontinued in Drugs@FDA) |
-| ANDA214603 | Gemfibrozil (Proficient Rx) | Tablet | Valid |
-| ANDA078012 | Gemfibrozil (Bryant Ranch Prepack) | Tablet | Valid |
-| ANDA077836 | Gemfibrozil (RemedyRepack) | Tablet | Valid |
-| ANDA202726 | Gemfibrozil (Vangard Labs) | Tablet, film coated | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074270 | GEMFIBROZIL | CHARTWELL MOLECULES | Tablet; oral | Valid |
+| ANDA077836 | GEMFIBROZIL | INVAGEN PHARMS | Tablet; oral | Valid |
+| ANDA078012 | GEMFIBROZIL | EPIC PHARMA LLC | Tablet; oral | Valid |
+| ANDA078207 | GEMFIBROZIL | IMPAX PHARMS | Tablet; oral | Valid |
+| ANDA079072 | GEMFIBROZIL | NORTHSTAR HLTHCARE | Tablet; oral | Valid |
+
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

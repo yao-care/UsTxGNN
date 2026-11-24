@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ELAPEGADEMASE"
 predicted_indications: ["diabetic retinopathy", "diabetic cataract", "severe nonproliferative diabetic retinopathy", "cortical cataract", "nuclear senile cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "tetanic cataract", "immature cataract", "craniostenosis cataract"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Elapegademase: predicted new indication Diabetic retinopathy (evidence level L5). Approved use: Not stated in the US license data (the product is known as an ADA enz…"
 ---
 
@@ -71,9 +71,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761092 | Revcovi (Chiesi USA, Inc.) | Injection | Not stated in the data compiled for this report (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761092 | REVCOVI | CHIESI USA INC | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

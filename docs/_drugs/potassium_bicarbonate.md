@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "POTASSIUM BICARBONATE"
 predicted_indications: ["gastroduodenitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Potassium Bicarbonate: predicted new indication Gastroduodenitis (evidence level L5). In the US: no FDA-approved application; 10 OTC monograph/unapproved NDC listings"
 ---
 
@@ -72,9 +72,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Effer-K (Nomax Inc.) | Effervescent tablet (oral) | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0245-5326 | KLOR-Con/EF | Upsher-Smith Laboratories, Inc. | Tablet, effervescent | NDC listing, no FDA application (unapproved drug other) |
+| NDC 51801-001 | Effer-K Orange | Nomax Inc. | Tablet, effervescent | NDC listing, no FDA application (unapproved drug other) |
+| NDC 51801-005 | Effer-K Lemon Citrus | Nomax Inc. | Tablet, effervescent | NDC listing, no FDA application (unapproved drug other) |
+| NDC 51801-006 | Effer-K Cherry Berry | Nomax Inc. | Tablet, effervescent | NDC listing, no FDA application (unapproved drug other) |
+| NDC 51801-007 | Effer-K Unflavored | Nomax Inc. | Tablet, effervescent | NDC listing, no FDA application (unapproved drug other) |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

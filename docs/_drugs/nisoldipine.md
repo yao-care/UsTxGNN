@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 968
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nisoldipine: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "NISOLDIPINE"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
@@ -99,9 +99,16 @@ For the lower-ranked prediction of malignant renovascular hypertension, the only
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020356 | Sular (Covis Pharma US, Inc) | Film-coated extended-release tablet (oral) | Not available; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA216606 | NISOLDIPINE | AMTA | Tablet, extended release; oral | Valid |
+| NDA020356 | SULAR | AZURITY | Tablet, extended release; oral | Valid |
+| ANDA079051 | NISOLDIPINE | MYLAN | Tablet, extended release; oral | Discontinued in Drugs@FDA |
+| ANDA091001 | NISOLDIPINE | MYLAN | Tablet, extended release; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

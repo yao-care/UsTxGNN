@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1005
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "OXYMETAZOLINE"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
 description: "Oxymetazoline: predicted new indication Nasal cavity disease (evidence level L5). In the US: 6 FDA applications (5 active), plus 213 OTC monograph/unapproved NDC listings"
@@ -78,9 +78,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M012 (cancelled) | Afrin | Spray | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA213584 | OXYMETAZOLINE HYDROCHLORIDE | SUN PHARMA CANADA | Cream; topical | Valid |
+| NDA019407 | VISINE L.R. | KENVUE BRANDS | Solution/drops; ophthalmic | Valid |
+| NDA208552 | RHOFADE | MAYNE PHARMA | Cream; topical | Valid |
+| NDA212520 | UPNEEQ | RVL PHARMS | Solution/drops; ophthalmic | Valid |
+| NDA208032 | KOVANAZE | ST RENATUS | Spray, metered; nasal | Valid |
+
+Showing 5 of 219 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Other dosage forms recorded for oxymetazoline include aerosol spray, metered spray, jelly and liquid.
 

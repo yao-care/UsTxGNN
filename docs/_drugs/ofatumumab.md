@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "OFATUMUMAB"
 predicted_indications: ["follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma", "Langerhans cell histiocytosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ofatumumab: predicted new indication Follicular lymphoma (evidence level L2). In the US: 1 FDA application (1 active)"
 ---
 
@@ -94,9 +94,13 @@ The prediction score comes from the TxGNN model (deep learning) and may reflect 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125326 | KESIMPTA (Novartis Pharmaceuticals Corporation) | Injection, solution | Not stated in the data compiled for this report |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125326 | KESIMPTA | NOVARTIS | Solution; subcutaneous | Valid |
+
+<!-- licenses:end -->
 
 This is the single approval on record. The list is complete.
 

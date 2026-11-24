@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "ACETYLCYSTEINE"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetylcysteine: predicted new indication thrombotic disease (evidence level L2). In the US: 34 FDA applications (18 active), plus 2 OTC monograph/unapproved NDC listings"
 ---
 
@@ -90,6 +90,20 @@ This is supported by preclinical mouse and baboon models of thrombotic thrombocy
 ## US Market Information
 
 The data compiled for this report records 14 US licences for single-ingredient acetylcysteine, in inhalant, solution and injection forms. The list may be partial. The licence records carry no approved-indication text, and the status information for them is not consistent, so no market-status detail beyond "Marketed" is given here.
+
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA072489 | ACETYLCYSTEINE | AM REGENT | Solution; inhalation, oral | Valid |
+| ANDA072547 | ACETYLCYSTEINE | AM REGENT | Solution; inhalation, oral | Valid |
+| ANDA073664 | ACETYLCYSTEINE | HOSPIRA | Solution; inhalation, oral | Valid |
+| ANDA074037 | ACETYLCYSTEINE | HOSPIRA | Solution; inhalation, oral | Valid |
+| ANDA091684 | ACETYLCYSTEINE | SAGENT PHARMS INC | Injectable; intravenous | Valid |
+
+Showing 5 of 36 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

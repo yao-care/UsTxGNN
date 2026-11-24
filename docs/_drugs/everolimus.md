@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 687
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "EVEROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
 description: "Everolimus: predicted new indication Liposarcoma (evidence level L3). In the US: 23 FDA applications (19 active)"
@@ -77,13 +77,19 @@ An important limitation: in the available trial, everolimus is given together wi
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022334 | Afinitor (Novartis) | Tablet | Not available (valid) |
-| NDA203985 | Afinitor (Novartis) | Tablet for suspension | Not available (valid) |
-| NDA021560 | Zortress (Novartis) | Tablet | Not available (valid) |
-| ANDA207486 | Everolimus (Hikma) | Tablet | Not available (valid) |
-| ANDA210050 | Everolimus (Teva) | Tablet | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205426 | EVEROLIMUS | BRECKENRIDGE | Tablet; oral | Valid |
+| ANDA205432 | EVEROLIMUS | BRECKENRIDGE | Tablet; oral | Valid |
+| ANDA206133 | EVEROLIMUS | HIKMA | Tablet; oral | Valid |
+| ANDA207486 | EVEROLIMUS | HIKMA | Tablet; oral | Valid |
+| ANDA210050 | EVEROLIMUS | TEVA PHARMS USA | Tablet; oral | Valid |
+
+Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The list shows 5 of the records available; it may be partial. All products are oral formulations.
 

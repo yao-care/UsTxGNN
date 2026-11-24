@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Raloxifene"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Raloxifene: predicted new indication duodenal ulcer (evidence level L5). Approved use: Postmenopausal osteoporosis / osteoporosis"
 ---
 
@@ -83,13 +83,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020815 | Evista (Eli Lilly and Company) | Tablet | Not listed (valid) |
-| ANDA078193 | Raloxifene Hydrochloride (Teva) | Tablet, film coated | Not listed (valid) |
-| ANDA090842 | Raloxifene Hydrochloride (Cipla USA) | Tablet | Not listed (valid) |
-| ANDA204310 | Raloxifene Hydrochloride (Aurobindo) | Tablet, film coated | Not listed (valid) |
-| ANDA208206 | Raloxifene Hydrochloride (AvPAK) | Tablet, film coated | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078193 | RALOXIFENE HYDROCHLORIDE | TEVA PHARMS USA | Tablet; oral | Valid |
+| ANDA090842 | RALOXIFENE HYDROCHLORIDE | INVAGEN PHARMS | Tablet; oral | Valid |
+| ANDA200825 | RALOXIFENE HYDROCHLORIDE | WATSON LABS INC | Tablet; oral | Valid |
+| ANDA204310 | RALOXIFENE HYDROCHLORIDE | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA204491 | RALOXIFENE HYDROCHLORIDE | GLENMARK PHARMS LTD | Tablet; oral | Valid |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

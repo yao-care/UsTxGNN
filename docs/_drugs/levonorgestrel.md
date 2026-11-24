@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 857
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: predicted new indication Acne (disease) (evidence level L3). In the US: 111 FDA applications (78 active)"
@@ -92,13 +92,19 @@ The data compiled for this report contain no approved-indication text. Main auth
 
 <!-- review:end us-lic-20261106-levonorgestrel-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA206229 | LILETTA | Intrauterine device | Not available |
-| NDA203159 | Skyla | Intrauterine device | Not available |
-| NDA021998 | Aftera | Tablet | Not available |
-| ANDA202508 | My Way | Tablet | Not available |
-| ANDA206867 | Julie Morning After Pill | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091328 | LEVONORGESTREL | LUPIN LTD | Tablet; oral | Valid |
+| ANDA201446 | FALLBACK SOLO | LUPIN | Tablet; oral | Valid |
+| ANDA202334 | LEVONORGESTREL | PERRIGO R AND D | Tablet; oral | Valid |
+| ANDA202380 | LEVONORGESTREL | NAARI PTE | Tablet; oral | Valid |
+| ANDA202508 | LEVONORGESTREL | NOVEL LABS INC | Tablet; oral | Valid |
+
+Showing 5 of 111 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

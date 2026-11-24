@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GLYCERIN"
 predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Glycerin: predicted new indication Cauda equina syndrome (evidence level L5). In the US: 2 FDA applications (1 active), plus 324 OTC monograph/unapproved NDC listings"
 ---
 
@@ -103,13 +103,19 @@ Literature for other predicted indications (all indirect):
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M006 | CLENZIDERM THERAPEUTIC MOISTURIZER | Cream | Not recorded |
-| M018 | Clear Eyes Nighttime | Solution/drops | Not recorded |
-| M016 | ANTIBACTERIAL FRUITY ZEST | Soap | Not recorded |
-| M007 | Stratuscare Adult Glycerin | Suppository | Not recorded |
-| M007.54 | Proctozone-G | Suppository | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA102211 | Glycerol-Saline Control | Allermed Laboratories, Inc. | Injection; cutaneous, intradermal, subcutaneous | Valid |
+| NDA018582 | PROCALAMINE | B BRAUN | Injectable; injection | Discontinued in Drugs@FDA |
+| NDC 0132-0075 | Fleet | C.B. Fleet Company, Inc. | Suppository | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0132-0185 | Fleet | C.B. Fleet Company, Inc. | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0132-0190 | Pedia-Lax | C.B. Fleet Company, Inc. | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 326 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 A sixth license (M014, Optimel Manuka Forte Eye Gel, gel) is also cancelled.
 

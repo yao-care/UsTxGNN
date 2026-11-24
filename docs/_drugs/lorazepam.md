@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 870
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Lorazepam: predicted new indication Trigeminal nerve neoplasm (evidence level L5). In the US: 73 FDA applications (21 active)"
@@ -104,13 +104,19 @@ The drug is marketed in the US. Approved-indication text is not available in the
 
 <!-- review:end us-lic-20261106-lorazepam-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018140 | Lorazepam (Hikma) | Injection | Not available |
-| NDA214826 | LOREEV XR (Almatica) | Extended-release capsule | Not available |
-| ANDA072926 | Lorazepam (PD-Rx) | Tablet | Not available |
-| ANDA078203 | Lorazepam (Proficient Rx) | Tablet | Not available |
-| ANDA072928 | Lorazepam (Golden State Medical Supply) | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071141 | LORAZEPAM | SANDOZ | Tablet; oral | Valid |
+| ANDA071404 | LORAZEPAM | SANDOZ | Tablet; oral | Valid |
+| ANDA072755 | LORAZEPAM INTENSOL | HIKMA | Concentrate; oral | Valid |
+| ANDA072926 | LORAZEPAM | WATSON LABS | Tablet; oral | Valid |
+| ANDA072927 | LORAZEPAM | WATSON LABS | Tablet; oral | Valid |
+
+Showing 5 of 73 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

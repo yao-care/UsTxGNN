@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "DAUNORUBICIN"
 predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Daunorubicin: predicted new indication Hodgkins lymphoma (evidence level L3). Approved use: Acute lymphoblastic leukemia and acute myeloid leukemia (and related…"
 ---
 
@@ -101,11 +101,19 @@ Note: none of the retrieved studies directly evaluates daunorubicin in Hodgkin's
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050731 | Daunorubicin Hydrochloride (Hikma) | Injection | Not available (valid) |
-| ANDA208759 | Daunorubicin Hydrochloride (Hisun) | Injection, solution | Not available (valid) |
-| ANDA065035 | Daunorubicin Hydrochloride (Meitheal) | Injection, solution | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA064103 | CERUBIDINE | HIKMA | Injectable; injection | Valid |
+| ANDA065000 | DAUNORUBICIN HYDROCHLORIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA065035 | DAUNORUBICIN HYDROCHLORIDE | MEITHEAL | Injectable; injection | Valid |
+| ANDA208759 | DAUNORUBICIN HYDROCHLORIDE | HISUN PHARM HANGZHOU | Injectable; injection | Valid |
+| NDA050731 | DAUNORUBICIN HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+
+Showing 5 of 12 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

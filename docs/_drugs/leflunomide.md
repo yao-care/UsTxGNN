@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "LEFLUNOMIDE"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Leflunomide: predicted new indication Brachydactyly-Syndactyly Syndrome (evidence level L5). Approved use: Rheumatoid arthritis"
 ---
 
@@ -78,13 +78,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020905 | Arava (sanofi-aventis U.S. LLC) | Tablet, film coated | Not specified; status valid |
-| ANDA211863 | Leflunomide (Lupin Pharmaceuticals) | Tablet, film coated | Not specified; status valid |
-| ANDA212308 | Leflunomide (Zydus Pharmaceuticals USA) | Tablet, film coated | Not specified; status valid |
-| ANDA213652 | Leflunomide (Aurobindo Pharma) | Tablet, film coated | Not specified; status valid |
-| ANDA077090 | Leflunomide (AvPAK) | Tablet | Not specified; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077086 | LEFLUNOMIDE | HERITAGE | Tablet; oral | Valid |
+| ANDA077087 | LEFLUNOMIDE | FOSUN WANBANG | Tablet; oral | Valid |
+| ANDA077090 | LEFLUNOMIDE | APOTEX | Tablet; oral | Valid |
+| ANDA091369 | LEFLUNOMIDE | ALEMBIC PHARMS LTD | Tablet; oral | Valid |
+| ANDA211863 | LEFLUNOMIDE | LUPIN | Tablet; oral | Valid |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

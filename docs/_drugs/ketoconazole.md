@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 825
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ketoconazole: predicted new indication Acne (disease) (evidence level L4). Approved use: Fungal skin infections (e.g., tinea pedis, seborrheic dermatitis…"
 monitor_inn: "KETOCONAZOLE"
 predicted_indications: ["acne (disease)"]
@@ -89,7 +89,7 @@ None of these publications is a randomized trial of ketoconazole in acne. The ev
 
 ## US Market Information
 
-None includes approved-indication text. The five main ones are listed below.
+None includes approved-indication text.
 
 <!-- review:begin us-lic-20261105-ketoconazole-1 -->
 
@@ -97,13 +97,19 @@ None includes approved-indication text. The five main ones are listed below.
 
 <!-- review:end us-lic-20261105-ketoconazole-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020310 | Nizoral (Kramer Laboratories) | Shampoo | Not available |
-| ANDA075319 | Ketoconazole (Sun Pharmaceutical) | Tablet | Not available |
-| ANDA075638 | Ketoconazole (Golden State Medical Supply) | Cream | Not available |
-| ANDA076942 | Ketoconazole (Cosette Pharmaceuticals) | Shampoo, suspension | Not available |
-| ANDA091550 | Ketoconazole (Bryant Ranch Prepack) | Aerosol, foam | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075319 | KETOCONAZOLE | TARO | Tablet; oral | Valid |
+| ANDA075581 | KETOCONAZOLE | TEVA | Cream; topical | Valid |
+| ANDA075638 | KETOZOLE | SUN PHARMA CANADA | Cream; topical | Valid |
+| ANDA075912 | KETOCONAZOLE | PHARMAZONE | Tablet; oral | Valid |
+| ANDA076294 | KETOCONAZOLE | FOUGERA PHARMS | Cream; topical | Valid |
+
+Showing 5 of 44 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Available forms across all licenses include topical cream, oral tablet, shampoo, and foam.
 

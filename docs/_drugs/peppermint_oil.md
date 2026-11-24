@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PEPPERMINT OIL"
 predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", "myocardial ischemia", "echinococcus granulosus infectious disease", "polyp of vocal cord", "uterine polyp", "polyp of middle ear", "cardiovascular disease", "polyp of frontal sinus"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Peppermint Oil: predicted new indication Leprosy (evidence level L5). In the US: no FDA-approved application; 9 OTC monograph/unapproved NDC listings"
 ---
 
@@ -91,12 +91,19 @@ The data compiled for this report also contained four publications that do not b
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M005 | Gray Nail Essence Oil | Liquid | Not stated (valid) |
-| M029 | Gray Nail Essence Oil | Liquid | Not stated (valid) |
-| M017 | SINSINPAP COOL | Patch | Not stated (valid) |
-| Not available | iShanCare | Patch | Not stated (cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 43405-098 | Eagle Brand Medicated Roll On Refresh | Borden Company (Private) Limited | Oil | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 72988-0013 | CO COOL | Lydia Co., Ltd. | Liquid | NDC listing, no FDA application (unapproved drug other) |
+| NDC 55264-012 | SINSINPAP COOL | Sinsin Pharmaceutical Co., Ltd. | Patch | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 55264-020 | AREX SINSIN PAS | Sinsin Pharmaceutical Co., Ltd. | Patch | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 55264-021 | Arex Sinsin Pas | Sinsin Pharmaceutical Co., Ltd. | Patch | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 467
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Brentuximab Vedotin: predicted new indication Follicular lymphoma (evidence level L2). Approved use: Hodgkin lymphoma (classic Hodgkin lymphoma and related subtypes)"
 monitor_inn: "BRENTUXIMAB VEDOTIN"
 predicted_indications: ["follicular lymphoma", "myeloid leukemia", "acute lymphoblastic/lymphocytic leukemia", "B-cell neoplasm", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "Richter syndrome", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
@@ -99,9 +99,14 @@ None of the publications below reports efficacy of brentuximab vedotin in follic
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125388 | ADCETRIS (SEAGEN INC.) | Injection, powder, lyophilized, for solution | Not listed in the compiled data; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125388 | ADCETRIS | SEATTLE GENETICS | Injectable; injection | Valid |
+| BLA125399 | ADCETRIS | SEATTLE GENETICS | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ---
 

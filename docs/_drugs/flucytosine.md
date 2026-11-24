@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FLUCYTOSINE"
 predicted_indications: ["bone Paget disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Flucytosine: predicted new indication Bone Paget disease (evidence level L5). Approved use: Not listed in the compiled US license data"
 ---
 
@@ -76,13 +76,19 @@ Currently no related literature available.
 
 <!-- review:end us-lic-20261106-flucytosine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA017001 | ANCOBON (Bausch Health US LLC) | Capsule | Not listed; status valid |
-| ANDA212632 | Flucytosine (Heritage/Avet) | Capsule | Not listed; status valid |
-| ANDA201566 | Flucytosine (Sigmapharm) | Capsule | Not listed; status valid |
-| ANDA204652 | Flucytosine (AvPAK) | Capsule | Not listed; status valid |
-| ANDA213665 | Flucytosine (Aurobindo) | Capsule | Not listed; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA201566 | FLUCYTOSINE | SIGMAPHARM LABS LLC | Capsule; oral | Valid |
+| ANDA204652 | FLUCYTOSINE | NOVEL LABS INC | Capsule; oral | Valid |
+| ANDA212632 | FLUCYTOSINE | STRIDES PHARMA | Capsule; oral | Valid |
+| ANDA213665 | FLUCYTOSINE | AUROBINDO PHARMA LTD | Capsule; oral | Valid |
+| ANDA218005 | FLUCYTOSINE | PHARMOBEDIENT | Capsule; oral | Valid |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

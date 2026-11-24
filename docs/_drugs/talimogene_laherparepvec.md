@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1197
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TALIMOGENE LAHERPAREPVEC"
 predicted_indications: ["glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
 description: "Talimogene Laherparepvec: predicted new indication Glottis squamous cell carcinoma (evidence level L5). In the US: 1 FDA application (1 active)"
@@ -69,9 +69,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125518 | Imlygic (Amgen Inc) | Injection, suspension | Status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125518 | Imlygic | Amgen Inc | Injection, suspension; intralesional | Valid |
+
+<!-- licenses:end -->
 
 At least one licence is currently valid (1 of 1 listed licences). The product is supplied as an injectable suspension by Amgen Inc.
 

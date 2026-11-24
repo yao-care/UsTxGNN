@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 539
 evidence_level: L1
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clomipramine: predicted new indication Anxiety disorder (evidence level L1). Approved use: Obsessive-compulsive disorder"
 monitor_inn: "CLOMIPRAMINE"
 predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "agoraphobia", "attention deficit-hyperactivity disorder"]
@@ -92,13 +92,19 @@ OCD is closely related to the anxiety disorders, and the same neurotransmitter s
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019906 | ANAFRANIL (SpecGx LLC) | Capsule | Not available; valid |
-| ANDA213219 | Clomipramine Hydrochloride (Micro Labs) | Capsule | Not available; valid |
-| ANDA208961 | Clomipramine Hydrochloride (Northstar Rx) | Capsule | Not available; valid |
-| ANDA211822 | Clomipramine Hydrochloride (Alembic) | Capsule | Not available; valid |
-| ANDA074694 | Clomipramine Hydrochloride (American Health Packaging) | Capsule | Not available; valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074364 | CLOMIPRAMINE HYDROCHLORIDE | CHARTWELL RX | Capsule; oral | Valid |
+| ANDA074694 | CLOMIPRAMINE HYDROCHLORIDE | TARO | Capsule; oral | Valid |
+| ANDA074953 | CLOMIPRAMINE HYDROCHLORIDE | SANDOZ | Capsule; oral | Valid |
+| ANDA208961 | CLOMIPRAMINE HYDROCHLORIDE | ZYDUS PHARMS | Capsule; oral | Valid |
+| ANDA209294 | CLOMIPRAMINE HYDROCHLORIDE | LUPIN | Capsule; oral | Valid |
+
+Showing 5 of 22 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The drug is marketed in the US.
 

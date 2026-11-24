@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "FOSCARNET"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "rheumatoid arthritis", "diabetic nephropathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Foscarnet: predicted new indication autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (evidence level L5). Approved use: Not stated in the available data (approved-indication tex…"
 ---
 
@@ -74,13 +74,19 @@ Currently no related literature available for the predicted indication.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020068 | Foscavir (Clinigen Limited) | Injection, solution | Not stated (valid) |
-| ANDA216602 | Foscarnet Sodium (Amneal) | Injection | Not stated (valid) |
-| ANDA212483 | Foscarnet (Fresenius Kabi USA) | Injection, solution | Not stated (valid) |
-| ANDA213001 | Foscarnet Sodium (Gland Pharma) | Injection, solution | Not stated (valid) |
-| ANDA213987 | Foscarnet Sodium (Hikma) | Injection, solution | Not stated (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA212483 | FOSCARNET SODIUM | FRESENIUS KABI USA | Solution; intravenous | Valid |
+| ANDA213001 | FOSCARNET SODIUM | GLAND | Solution; intravenous | Valid |
+| ANDA213807 | FOSCARNET SODIUM | AVET LIFESCIENCES | Solution; intravenous | Valid |
+| ANDA213987 | FOSCARNET SODIUM | SCIECURE | Solution; intravenous | Valid |
+| ANDA216602 | FOSCARNET SODIUM | AMNEAL | Solution; intravenous | Valid |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

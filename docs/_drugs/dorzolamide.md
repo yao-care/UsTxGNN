@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 623
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DORZOLAMIDE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
 description: "Dorzolamide: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). In the US: 37 FDA applications (28 active)"
@@ -70,15 +70,21 @@ Currently no related literature available for primary hereditary glaucoma.
 
 ## US Market Information
 
-The data compiled for this report contain no approved-indication text for them. The first 5 are shown.
+The data compiled for this report contain no approved-indication text for them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA215660 | Dorzolamide Hydrochloride | Solution | Fosun Pharma USA Inc |
-| ANDA204778 | Dorzolamide Hydrochloride Ophthalmic Solution | Solution/Drops | Micro Labs Limited |
-| ANDA078395 | Dorzolamide Hydrochloride | Solution | Advagen Pharma Ltd. |
-| ANDA202053 | Dorzolamide Hydrochloride Ophthalmic | Solution | Florida Pharmaceutical Products, LLC |
-| ANDA078981 | Dorzolamide Hydrochloride | Solution/Drops | Sandoz Inc |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078395 | DORZOLAMIDE HYDROCHLORIDE | RUBICON RESEARCH | Solution/drops; ophthalmic | Valid |
+| ANDA078748 | DORZOLAMIDE HYDROCHLORIDE | SANDOZ | Solution/drops; ophthalmic | Valid |
+| ANDA078981 | DORZOLAMIDE HYDROCHLORIDE | SANDOZ | Solution/drops; ophthalmic | Valid |
+| ANDA090143 | DORZOLAMIDE HYDROCHLORIDE | BAUSCH AND LOMB | Solution/drops; ophthalmic | Valid |
+| ANDA202053 | DORZOLAMIDE HYDROCHLORIDE | REGCON HOLDINGS | Solution/drops; ophthalmic | Valid |
+
+Showing 5 of 37 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

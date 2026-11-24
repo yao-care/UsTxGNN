@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "PEGFILGRASTIM"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pegfilgrastim: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not stated in the compiled data (pegfilgrastim is generally known as…"
 ---
 
@@ -79,13 +79,19 @@ All seven US biologics licenses for pegfilgrastim are valid, and the approved-in
 
 <!-- review:end us-lic-20261106-pegfilgrastim-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125031 | Neulasta (Amgen, Inc) | Injection | Not available |
-| BLA761039 | UDENYCA (Coherus Oncology, Inc.) | Injection, solution | Not available |
-| BLA761045 | ZIEXTENZO (Sandoz Inc) | Injection | Not available |
-| BLA761075 | Fulphila (Biocon Biologics Inc.) | Injection | Not available |
-| BLA761084 | FYLNETRA (Amneal Pharmaceuticals LLC) | Injection | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125031 | NEULASTA | AMGEN | Syringe | Valid |
+| BLA761039 | UDENYCA | COHERUS BIOSCIENCES INC | Injectable; injection | Valid |
+| BLA761045 | ZIEXTENZO | SANDOZ INC | Injectable; injection | Valid |
+| BLA761075 | FULPHILA | MYLAN GMBH | Injectable; injection | Valid |
+| BLA761084 | FYLNETRA | KASHIV BIOSCIENCES LLC | Injectable; injection | Valid |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

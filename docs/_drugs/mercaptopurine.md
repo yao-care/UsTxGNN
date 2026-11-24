@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 901
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MERCAPTOPURINE"
 predicted_indications: ["myeloid leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
 description: "Mercaptopurine: predicted new indication Myeloid leukemia (evidence level L3). In the US: 6 FDA applications (5 active)"
@@ -96,12 +96,19 @@ Because these are multi-agent regimens, the contribution of mercaptopurine alone
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA040528 | Mercaptopurine (Hikma) | Tablet | Not listed (valid) |
-| NDA205919 | Mercaptopurine (Nova Laboratories) | Suspension | Not listed (valid) |
-| ANDA216418 | Mercaptopurine (Hikma) | Suspension | Not listed (valid) |
-| NDA009053 | Mercaptopurine (Florida Pharmaceutical Products) | Tablet | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040461 | MERCAPTOPURINE | DR REDDYS LABS SA | Tablet; oral | Valid |
+| ANDA040528 | MERCAPTOPURINE | HIKMA | Tablet; oral | Valid |
+| ANDA216418 | MERCAPTOPURINE | HIKMA | Suspension; oral | Valid |
+| NDA009053 | PURINETHOL | STASON PHARMS | Tablet; oral | Valid |
+| NDA205919 | PURIXAN | NOVA LABS LTD | Suspension; oral | Valid |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

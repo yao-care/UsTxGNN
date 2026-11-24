@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 6
 monitor_inn: "MEFENAMIC ACID"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mefenamic Acid: predicted new indication Headache disorder (evidence level L2). In the US: 6 FDA applications (4 active)"
 ---
 
@@ -83,11 +83,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA090562 | Mefenamic acid (Micro Labs Limited) | Capsule | Not recorded; status valid |
-| ANDA091322 | Mefenamic Acid (Advanced Rx of Tennessee, LLC) | Capsule | Not recorded; status valid |
-| ANDA091608 | Mefenamic Acid (Misemer Pharmaceuticals, Inc) | Capsule | Not recorded; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090562 | MEFENAMIC ACID | MICRO LABS | Capsule; oral | Valid |
+| ANDA091322 | MEFENAMIC ACID | LUPIN LTD | Capsule; oral | Valid |
+| ANDA091608 | MEFENAMIC ACID | AJENAT PHARMS | Capsule; oral | Valid |
+| NDA015034 | PONSTEL | AVION PHARMS | Capsule; oral | Valid |
+| ANDA090359 | MEFENAMIC ACID | MPP PHARMA | Capsule; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 No approved-indication text is recorded in the local data.
 

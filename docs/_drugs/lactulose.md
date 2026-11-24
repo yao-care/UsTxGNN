@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "LACTULOSE"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lactulose: predicted new indication acute urate nephropathy (evidence level L5). Approved use: Hepatic encephalopathy, hepatic coma…"
 ---
 
@@ -94,13 +94,19 @@ Approved indication text was not available.
 
 <!-- review:end us-lic-20261106-lactulose-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA074712 | KRISTALOSE | Powder, for solution | Not available |
-| ANDA209517 | Lactulose | Solution | Not available |
-| ANDA076645 | Lactulose Solution | Solution | Not available |
-| ANDA090502 | Enulose | Solution | Not available |
-| ANDA074623 | Lactulose | Solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074602 | LACTULOSE | AUROBINDO PHARMA LTD | Solution; oral | Valid |
+| ANDA074603 | GENERLAC | CHARTWELL RX | Solution; oral, rectal | Valid |
+| ANDA074623 | LACTULOSE | PHARM ASSOC | Solution; oral | Valid |
+| ANDA074712 | LACTULOSE | APOTEX | For solution; oral | Valid |
+| ANDA075911 | LACTULOSE | PHARMOBEDIENT | Solution; oral | Valid |
+
+Showing 5 of 38 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

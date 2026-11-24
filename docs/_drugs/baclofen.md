@@ -83,6 +83,20 @@ None of these publications studies baclofen in ADHD. They are listed as indirect
 
 Baclofen has 11 ANDA records in the US data; the list may be partial. They cover oral tablets and one injection product, from manufacturers and repackagers such as Direct_Rx, A-S Medication Solutions, Rising Pharma Holdings, Bryant Ranch Prepack, Aphena Pharma Solutions, Proficient Rx, REMEDYREPACK, Advagen Pharma and Major Pharmaceuticals.
 
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA072234 | BACLOFEN | IVAX SUB TEVA PHARMS | Tablet; oral | Valid |
+| ANDA072235 | BACLOFEN | IVAX SUB TEVA PHARMS | Tablet; oral | Valid |
+| ANDA074584 | BACLOFEN | PHARMOBEDIENT | Tablet; oral | Valid |
+| ANDA077068 | BACLOFEN | PH HEALTH | Tablet; oral | Valid |
+| ANDA077088 | BACLOFEN | TP ANDA HOLDINGS | Tablet; oral | Valid |
+
+Showing 5 of 52 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: 100 interactions were found in total. Major interactions include morphine (including liposomal morphine). Moderate interactions include dronabinol, metoclopramide, nabilone, opium, sibutramine, difenoxin and diphenoxylate.

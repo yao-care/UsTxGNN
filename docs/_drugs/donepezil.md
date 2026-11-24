@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "DONEPEZIL"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Donepezil: predicted new indication Top-ranked by score: psychogenic movement disorders . Best-supported:… (evidence level L5). Approved use: Alzheimer disease (also listed: Alzheimer disease without…"
 ---
 
@@ -101,13 +101,19 @@ Approved indication text was not available. Main entries:
 
 <!-- review:end us-lic-20261106-donepezil-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020690 | Aricept (Eisai Inc.) | Tablet, film coated | Not available |
-| ANDA203034 | Donepezil (Camber Pharmaceuticals) | Tablet | Not available |
-| ANDA202782 | Donepezil Hydrochloride (Lupin Pharmaceuticals) | Tablet | Not available |
-| ANDA201787 | Donepezil Hydrochloride (Macleods Pharmaceuticals) | Tablet, orally disintegrating | Not available |
-| ANDA204831 | Donepezil Hydrochloride (Unichem Pharmaceuticals) | Tablet, orally disintegrating | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077518 | DONEPEZIL HYDROCHLORIDE | CIPLA LTD | Tablet; oral | Valid |
+| ANDA090056 | DONEPEZIL HYDROCHLORIDE | AUROBINDO | Tablet; oral | Valid |
+| ANDA090100 | DONEPEZIL HYDROCHLORIDE | ZYDUS LIFESCIENCES | Tablet; oral | Valid |
+| ANDA090425 | DONEPEZIL HYDROCHLORIDE | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA090551 | DONEPEZIL HYDROCHLORIDE | NOVITIUM PHARMA | Tablet; oral | Valid |
+
+Showing 5 of 58 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

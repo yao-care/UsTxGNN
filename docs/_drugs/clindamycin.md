@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "CLINDAMYCIN"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clindamycin: predicted new indication punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 141 FDA applications (85 active)"
 ---
 
@@ -81,13 +81,19 @@ Currently no related literature available.
 
 The US records compiled for this report list 14 licences, and the list may be partial. They cover oral capsules, granules for oral solution, injectable solutions, topical solutions, and topical creams. The records carry no approved-indication text. Main entries:
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050441 | CLEOCIN PHOSPHATE | Injection, solution | Not recorded |
-| NDA050793 | Clindesse | Cream | Not recorded |
-| ANDA065061 | Clindamycin hydrochloride | Capsule | Not recorded |
-| ANDA207047 | Clindamycin palmitate hydrochloride | Granule, for solution | Not recorded |
-| ANDA208084 | Clindamycin phosphate | Injection, solution | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA062644 | CLEOCIN | PFIZER | For solution; oral | Valid |
+| ANDA062803 | CLEOCIN PHOSPHATE | PFIZER | Injectable; injection | Valid |
+| ANDA062889 | CLINDAMYCIN PHOSPHATE | HIKMA | Injectable; injection | Valid |
+| ANDA064050 | CLINDAMYCIN PHOSPHATE | PADAGIS US | Solution; topical | Valid |
+| ANDA064159 | CLINDAMYCIN PHOSPHATE | FOUGERA PHARMS INC | Solution; topical | Valid |
+
+Showing 5 of 141 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

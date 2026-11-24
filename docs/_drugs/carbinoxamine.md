@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CARBINOXAMINE"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carbinoxamine: predicted new indication nasal cavity disease (evidence level L5). In the US: 13 FDA applications (6 active)"
 ---
 
@@ -72,13 +72,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA040458 | Carbinoxamine Maleate | Solution | Not recorded |
-| ANDA207484 | Carbinoxamine Maleate | Tablet | Not recorded |
-| NDA022556 | Carbinoxamine Maleate Extended-Release Oral Suspension | Extended-release suspension | Not recorded |
-| ANDA215476 | Carbinoxamine Maleate | Tablet | Not recorded |
-| ANDA090756 | Carbinoxamine Maleate | Tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040458 | CARBINOXAMINE MALEATE | GENUS | Solution; oral | Valid |
+| ANDA040639 | CARBINOXAMINE MALEATE | STRIDES PHARMA INTL | Tablet; oral | Valid |
+| ANDA090756 | CARBINOXAMINE MALEATE | MISSION PHARMACAL | Tablet; oral | Valid |
+| ANDA207484 | CARBINOXAMINE MALEATE | PHARMOBEDIENT | Tablet; oral | Valid |
+| ANDA215476 | CARBINOXAMINE MALEATE | LEADING | Tablet; oral | Valid |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 638
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "DYCLONINE"
 predicted_indications: ["bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "gastroduodenitis", "peptic ulcer disease", "irritable bowel syndrome"]
 description: "Dyclonine: predicted new indication Bronchitis (evidence level L5). In the US: 2 FDA applications (1 active), plus 25 OTC monograph/unapproved NDC listings"
@@ -96,11 +96,19 @@ This study supports biological plausibility only and is not evidence of efficacy
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA200480 | DycloPro (Septodont Inc) | Solution | Not available (valid) |
-| M022 | Sucrets Sore Throat Wild Cherry (Insight Pharmaceuticals LLC) | Lozenge | Not available (valid) |
-| M003 | Leader Liquid Bandage (LEADER / Cardinal Health 110, Inc.) | Liquid | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA200480 | DYCLOPRO | SEPTODONT | Solution; topical | Valid |
+| NDA009925 | DYCLONE | ASTRAZENECA | Solution; topical | Discontinued in Drugs@FDA |
+| NDC 63736-560 | Sucrets Sore Throat Wild Cherry | Insight Pharmaceuticals LLC | Lozenge | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0363-0210 | Benzethonium chloride and Dyclonine hydrochloride | Walgreen Company | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 11822-0128 | Benzethonium chloride Plus Dyclonine hydrochloride | Rite Aid Corporation | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 27 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

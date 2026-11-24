@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "NAPHAZOLINE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "primary hereditary glaucoma", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "open-angle glaucoma", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Naphazoline: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). In the US: 13 FDA applications (5 active), plus 53 OTC monograph/unapproved NDC listings"
 ---
 
@@ -74,11 +74,19 @@ For context, the only publication retrieved across the top ten predictions conce
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M012 (cancelled) | SERYNTH FAST RELIEF NASAL | Spray | Not stated |
-| M018 (cancelled) | Sato Clear | Solution/drops | Not stated |
-| part341 (cancelled) | Pi Yuan Chin | Solution/drops | Not stated |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078208 | NAPHAZOLINE HYDROCHLORIDE AND PHENIRAMINE MALEATE | ALTAIRE PHARMS INC | Solution/drops; ophthalmic | Valid |
+| ANDA202795 | NAPHAZOLINE HYDROCHLORIDE AND PHENIRAMINE MALEATE | RISING | Solution/drops; ophthalmic | Valid |
+| NDA020065 | OPCON-A | BAUSCH AND LOMB | Solution/drops; ophthalmic | Valid |
+| NDA020226 | NAPHCON-A | ALCON | Solution/drops; ophthalmic | Valid |
+| NDA020485 | VISINE | KENVUE BRANDS | Solution/drops; ophthalmic | Valid |
+
+Showing 5 of 66 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

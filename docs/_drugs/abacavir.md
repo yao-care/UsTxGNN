@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ABACAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Abacavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV infectious disease"
 ---
 
@@ -90,13 +90,19 @@ Related literature for the feline prediction:
 
 <!-- review:end us-lic-20261105-abacavir-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020978 | ZIAGEN (ViiV Healthcare) | Solution | Not listed (valid) |
-| ANDA091294 | Abacavir Sulfate (Mylan) | Tablet, film coated | Not listed (valid) |
-| ANDA077844 | Abacavir (Aurobindo) | Tablet, film coated | Not listed (valid) |
-| ANDA078119 | Abacavir (Cipla USA) | Tablet, film coated | Not listed (valid) |
-| ANDA091560 | Abacavir (Coupler) | Tablet | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077844 | ABACAVIR SULFATE | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| ANDA077950 | ABACAVIR SULFATE | AUROBINDO PHARMA LTD | Solution; oral | Valid |
+| ANDA078119 | ABACAVIR SULFATE | CIPLA | Tablet; oral | Valid |
+| ANDA091050 | ABACAVIR SULFATE | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA091294 | ABACAVIR SULFATE | MYLAN PHARMS INC | Tablet; oral | Valid |
+
+Showing 5 of 25 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

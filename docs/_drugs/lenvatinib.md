@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 846
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LENVATINIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
 description: "Lenvatinib: predicted new indication Liposarcoma (evidence level L3). In the US: 2 FDA applications (2 active)"
@@ -76,9 +76,14 @@ Eribulin, a microtubule inhibitor, is already used in liposarcoma, and preclinic
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA206947 | Lenvima (Eisai Inc.) | Capsule | Not listed in the data compiled; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA213092 | LENVATINIB | SUN PHARM INDS INC | Capsule; oral | Valid |
+| NDA206947 | LENVIMA | EISAI INC | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

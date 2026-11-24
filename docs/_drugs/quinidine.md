@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "QUINIDINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Quinidine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Atrial fibrillation"
 ---
 
@@ -76,13 +76,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA089338 | Quinidine Gluconate | Extended-release tablet | Not available (valid) |
-| ANDA088072 | Quinidine Sulfate | Tablet | Not available (valid) |
-| ANDA212589 | Quinidine Gluconate | Extended-release tablet | Not available (valid) |
-| ANDA218426 | Dextromethorphan hydrobromide and quinidine sulfate | Capsule | Not available (valid) |
-| NDA021879 | Nuedexta | Gelatin-coated capsule | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA088072 | QUINIDINE SULFATE | EPIC PHARMA LLC | Tablet; oral | Valid |
+| ANDA089338 | QUINIDINE GLUCONATE | SUN PHARM INDUSTRIES | Tablet, extended release; oral | Valid |
+| ANDA212589 | QUINIDINE GLUCONATE | ADAPTIS | Tablet, extended release; oral | Valid |
+| ANDA202934 | DEXTROMETHORPHAN HYDROBROMIDE AND QUINIDINE SULFATE | ACTAVIS ELIZABETH | Capsule; oral | Valid |
+| ANDA204196 | DEXTROMETHORPHAN HYDROBROMIDE AND QUINIDINE SULFATE | SUN PHARM | Capsule; oral | Valid |
+
+Showing 5 of 68 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

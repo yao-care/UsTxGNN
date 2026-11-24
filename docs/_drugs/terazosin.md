@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TERAZOSIN"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine disorder", "migraine with brainstem aura", "Raynaud disease", "Ambras type hypertrichosis universalis congenita", "manic bipolar affective disorder", "kyphoscoliotic heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Terazosin: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). In the US: 16 FDA applications (5 active)"
 ---
 
@@ -85,13 +85,19 @@ The literature below relates to other predicted indications from the same candid
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075317 | Terazosin (Jubilant Cadista) | Capsule | Not listed (valid) |
-| ANDA074823 | Terazosin Hydrochloride (Aphena Pharma Solutions) | Capsule | Not listed (valid) |
-| ANDA075667 | Terazosin (Bionpharma) | Capsule | Not listed (valid) |
-| ANDA075614 | Terazosin (Chartwell RX) | Capsule | Not listed (valid) |
-| ANDA219482 | Terazosin (Ajanta Pharma USA) | Capsule | Not listed (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074823 | TERAZOSIN HYDROCHLORIDE | PHARMAZONE | Capsule; oral | Valid |
+| ANDA075317 | TERAZOSIN HYDROCHLORIDE | JUBILANT CADISTA | Capsule; oral | Valid |
+| ANDA075614 | TERAZOSIN HYDROCHLORIDE | HERITAGE PHARMA AVET | Capsule; oral | Valid |
+| ANDA075667 | TERAZOSIN HYDROCHLORIDE | BIONPHARMA | Capsule; oral | Valid |
+| ANDA219482 | TERAZOSIN HYDROCHLORIDE | AJANTA PHARMA LTD | Capsule; oral | Valid |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

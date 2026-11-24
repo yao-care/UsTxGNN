@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "BINETRAKIN"
 predicted_indications: ["craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "tetanic cataract", "nuclear senile cataract", "cortical cataract", "diabetic cataract", "senile cataract"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Binetrakin: predicted new indication craniostenosis cataract (evidence level L5). In the US: no FDA-approved application; 3 OTC monograph/unapproved NDC listings"
 ---
 
@@ -70,9 +70,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not recorded | GUNA-IL 4 | Solution/drops | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 17089-382 | GUNA-IL 4 | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-235 | GUNA-TONSILS | Guna spa | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-076 | CITOMIX | Guna spa | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 The local record lists one licence, and its number and indication text are not recorded. Because the data are limited, this may not give a complete picture of the market situation.
 

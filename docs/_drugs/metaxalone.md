@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "METAXALONE"
 predicted_indications: ["infectious otitis media", "endocarditis", "endocardial fibroelastosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metaxalone: predicted new indication Infectious otitis media (evidence level L5). In the US: 10 FDA applications (7 active)"
 ---
 
@@ -76,12 +76,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| ANDA203399 | Metaxalone (Advanced Rx of Tennessee, LLC) | Tablet | Not available | Valid |
-| ANDA207466 | Metaxalone (ScieGen Pharmaceuticals, Inc.) | Tablet | Not available | Valid |
-| ANDA204770 | Metaxalone (Doc Rx) | Tablet | Not available | Valid |
-| ANDA203695 | Metaxalone (Sportpharm LLC) | Tablet | Not available | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040445 | METAXALONE | SANDOZ | Tablet; oral | Valid |
+| ANDA040486 | METAXALONE | MOUNTAIN | Tablet; oral | Valid |
+| ANDA203399 | METAXALONE | AMNEAL PHARMS | Tablet; oral | Valid |
+| ANDA203695 | METAXALONE | ACTAVIS LABS FL INC | Tablet; oral | Valid |
+| ANDA204770 | METAXALONE | LANNETT CO INC | Tablet; oral | Valid |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The drug is marketed.
 

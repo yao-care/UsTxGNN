@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "AXITINIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Axitinib: predicted new indication liposarcoma (evidence level L4). In the US: 2 FDA applications (2 active)"
 ---
 
@@ -71,9 +71,14 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA202324 | INLYTA | Film-coated tablet | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA211650 | AXITINIB | APOTEX | Tablet; oral | Valid |
+| NDA202324 | INLYTA | PF PRISM CV | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

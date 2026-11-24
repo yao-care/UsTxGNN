@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 3
 monitor_inn: "GOSERELIN"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Goserelin: predicted new indication amenorrhea (evidence level L2). Approved use: Endometriosis"
 ---
 
@@ -91,10 +91,15 @@ Two other predictions (renal hypoplasia and bilateral renal hypoplasia, both sco
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019726 | ZOLADEX (TerSera Therapeutics LLC) | Implant | Not available (valid) |
-| NDA020578 | ZOLADEX (TerSera Therapeutics LLC) | Implant | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA019726 | ZOLADEX | TERSERA | Implant; implantation | Valid |
+| NDA020515 | ZOLADEX | TERSERA | Implant; implantation | Valid |
+| NDA020578 | ZOLADEX | TERSERA | Implant; implantation | Valid |
+
+<!-- licenses:end -->
 
 Both authorizations are listed as valid; the drug is currently marketed.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ALPROSTADIL"
 predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alprostadil: predicted new indication aortic malformation (evidence level L5). In the US: 8 FDA applications (6 active)"
 ---
 
@@ -79,13 +79,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020379 | Caverject | Lyophilised powder for injection | Not recorded in the local data |
-| NDA021212 | Caverject Impulse | Lyophilised powder for injection | Not recorded in the local data |
-| NDA018484 | PROSTIN | Injection, solution | Not recorded in the local data |
-| NDA020649 | Edex | Lyophilised powder for injection | Not recorded in the local data |
-| ANDA075196 | Alprostadil | Injection, solution, concentrate | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074815 | ALPROSTADIL | HIKMA | Injectable; injection | Valid |
+| ANDA075196 | ALPROSTADIL | MEITHEAL | Injectable; injection | Valid |
+| NDA018484 | PROSTIN VR PEDIATRIC | PFIZER | Injectable; injection | Valid |
+| NDA020379 | CAVERJECT | PFIZER | Injectable; injection | Valid |
+| NDA020649 | EDEX | ENDO OPERATIONS | Injectable; injection | Valid |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

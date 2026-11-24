@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CERTOLIZUMAB PEGOL"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Certolizumab Pegol: predicted new indication Hypermobility of coccyx (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -70,9 +70,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| BLA125160 | Cimzia (UCB, Inc.) | Injection, solution |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125160 | CIMZIA | UCB INC | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 The product is an injectable (subcutaneous-type) formulation only. The local licence record does not include approved indication text.
 

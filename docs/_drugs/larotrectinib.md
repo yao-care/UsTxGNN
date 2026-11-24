@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "LAROTRECTINIB"
 predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Larotrectinib: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -79,10 +79,14 @@ A second prediction, HER2-positive breast carcinoma (score 0.9914), has only pre
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA210861 | VITRAKVI | Capsule | Not available (status: valid) |
-| NDA211710 | VITRAKVI | Solution, concentrate | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA210861 | VITRAKVI | BAYER HLTHCARE | Capsule; oral | Valid |
+| NDA211710 | VITRAKVI | BAYER HEALTHCARE | Solution; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

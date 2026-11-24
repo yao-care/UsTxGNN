@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Insulin glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Glargine: predicted new indication Autoimmune oophoritis (evidence level L5). In the US: 8 FDA applications (8 active), plus 1 OTC monograph/unapproved NDC listing"
 ---
 
@@ -70,13 +70,19 @@ Currently no related literature available for autoimmune oophoritis.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761201 | SEMGLEE (Biocon Biologics Inc.) | Injection, solution | Not available (status: valid) |
-| BLA021081 | Lantus Solostar (sanofi-aventis U.S. LLC) | Injection, solution | Not available (status: valid) |
-| BLA205692 | BASAGLAR (Eli Lilly and Company) | Injection, solution | Not available (status: valid) |
-| BLA761215 | Rezvoglar (Eli Lilly and Company) | Injection, solution | Not available (status: valid) |
-| BLA206538 | TOUJEO (A-S Medication Solutions) | Injection, solution | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA021081 | LANTUS SOLOSTAR | SANOFI AVENTIS US | Injectable; injection | Valid |
+| BLA205692 | BASAGLAR | ELI LILLY AND CO | Solution; subcutaneous | Valid |
+| BLA206538 | TOUJEO SOLOSTAR | SANOFI US SERVICES | Solution; subcutaneous | Valid |
+| BLA210605 | SEMGLEE | MYLAN PHARMS INC | Injectable; injection | Valid |
+| BLA761201 | SEMGLEE | MYLAN PHARMS INC | Injectable; injection | Valid |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

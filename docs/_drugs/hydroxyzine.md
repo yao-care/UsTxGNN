@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 782
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "HYDROXYZINE"
 predicted_indications: ["rosacea conjunctivitis"]
 description: "Hydroxyzine: predicted new indication Rosacea conjunctivitis (evidence level L5). In the US: 151 FDA applications (35 active)"
@@ -86,13 +86,19 @@ The table lists the most relevant publications, with reviews prioritized. None i
 
 The data compiled for this report do not include approved indication text, so none is shown. The table lists 5 of the 15.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA217652 | Hydroxyzine Hydrochloride | Film-coated tablet | Not available |
-| ANDA087479 | Hydroxyzine Pamoate | Capsule | Not available |
-| ANDA088487 | Hydroxyzine Pamoate | Capsule | Not available |
-| ANDA204279 | Hydroxyzine Hydrochloride | Film-coated tablet | Not available |
-| ANDA201674 | Hydroxyzine Hydrochloride | Solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040156 | HYDROXYZINE PAMOATE | IMPAX LABS INC | Capsule; oral | Valid |
+| ANDA040391 | HYDROXYZINE HYDROCHLORIDE | PAI HOLDINGS PHARM | Syrup; oral | Valid |
+| ANDA040580 | HYDROXYZINE HYDROCHLORIDE | PRINSTON | Tablet; oral | Valid |
+| ANDA040600 | Hydroxyzine Hydrochloride | Bryant Ranch Prepack | Tablet, film coated; oral | Valid |
+| ANDA040602 | Hydroxyzine Hydrochloride | NuCare Pharmaceuticals,Inc. | Tablet, film coated; oral | Valid |
+
+Showing 5 of 151 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

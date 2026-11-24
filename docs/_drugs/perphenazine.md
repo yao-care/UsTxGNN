@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1033
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Perphenazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
 monitor_inn: "PERPHENAZINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "atypical glycine encephalopathy"]
@@ -89,13 +89,19 @@ No approved indication text was available for these licenses.
 
 <!-- review:end us-lic-20261105-perphenazine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA210163 | Perphenazine (RemedyRepack) | Tablet | Not listed |
-| ANDA205973 | Perphenazine (Bryant Ranch Prepack) | Tablet, film coated | Not listed |
-| ANDA040226 | Perphenazine (Endo USA) | Tablet, film coated | Not listed |
-| ANDA205232 | Perphenazine (Golden State Medical Supply) | Tablet | Not listed |
-| ANDA205056 | Perphenazine (Proficient Rx) | Tablet, film coated | Not listed |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040226 | PERPHENAZINE | PH HEALTH | Tablet; oral | Valid |
+| ANDA089683 | PERPHENAZINE | SANDOZ | Tablet; oral | Valid |
+| ANDA089684 | PERPHENAZINE | SANDOZ | Tablet; oral | Valid |
+| ANDA089685 | PERPHENAZINE | SANDOZ | Tablet; oral | Valid |
+| ANDA089686 | PERPHENAZINE | SANDOZ | Tablet; oral | Valid |
+
+Showing 5 of 64 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

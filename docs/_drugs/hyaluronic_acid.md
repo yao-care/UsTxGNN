@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "HYALURONIC ACID"
 predicted_indications: ["Sjogren syndrome", "xerophthalmia", "psoriasis", "dermatitis, atopic", "prolapse of lacrimal gland", "parapsoriasis", "pityriasis lichenoides", "severe nonproliferative diabetic retinopathy", "exanthem (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Hyaluronic Acid: predicted new indication Sjogren syndrome (evidence level L3). In the US: no FDA-approved application; 26 OTC monograph/unapproved NDC listings"
 ---
 
@@ -89,11 +89,19 @@ No registered clinical trial that directly studies hyaluronic acid in Sjogren sy
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M016 | Roushun kojic Skin Lightening Natural Skin Care treatment serum 30ml | Liquid | Not specified (valid) |
-| nan | JASBELLO VAGINAL | Suppository | Not specified (valid) |
-| 505G(a)(3) | Instant Anti Aging Wrinkle Eye Treatment Syringe | Cream | Not specified (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 73305-0010 | SHINE pH ESSENCE | CH BIO CO., LTD. | Gel | NDC listing, no FDA application (unapproved drug other) |
+| NDC 73305-0011 | SHINE pH CLEANSING | CH BIO CO., LTD. | Gel | NDC listing, no FDA application (unapproved drug other) |
+| NDC 73305-0012 | SHINE pH MOISTURE | CH BIO CO., LTD. | Gel | NDC listing, no FDA application (unapproved drug other) |
+| NDC 74458-189 | Intimate CareGel | Guangzhou Yilong Cosmetics.,Ltd | Gel | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 77039-031 | EyeOne eyelid cleansing tools | IDO PHARM | Cloth | NDC listing, no FDA application (unapproved drug other) |
+
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

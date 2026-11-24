@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 3
 monitor_inn: "CYCLOBENZAPRINE"
 predicted_indications: ["myofascial pain syndrome", "neuralgia", "papillary conjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyclobenzaprine: predicted new indication Myofascial pain syndrome (evidence level L2). Approved use: Not available in the compiled data"
 ---
 
@@ -99,13 +99,19 @@ The drug is marketed. The records contain no approved-indication text.
 
 <!-- review:end us-lic-20261106-cyclobenzaprine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021777 | AMRIX (Cephalon, LLC) | Capsule, extended release | Not listed |
-| ANDA091281 | Cyclobenzaprine Hydrochloride (Asclemed USA) | Capsule, extended release | Not listed |
-| ANDA207314 | Cyclobenzaprine Hydrochloride (Macleods) | Capsule, extended release | Not listed |
-| ANDA078643 | Cyclobenzaprine Hydrochloride (Rising Pharma) | Tablet, film coated | Not listed |
-| ANDA077797 | Cyclobenzaprine Hydrochloride (Bryant Ranch Prepack) | Tablet, film coated | Not listed |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071611 | CYCLOBENZAPRINE HYDROCHLORIDE | ACTAVIS LABS FL INC | Tablet; oral | Valid |
+| ANDA072854 | CYCLOBENZAPRINE HYDROCHLORIDE | AIPING PHARM INC | Tablet; oral | Valid |
+| ANDA073541 | CYCLOBENZAPRINE HYDROCHLORIDE | TP ANDA HOLDINGS | Tablet; oral | Valid |
+| ANDA077209 | CYCLOBENZAPRINE HYDROCHLORIDE | TP ANDA HOLDINGS | Tablet; oral | Valid |
+| ANDA077563 | CYCLOBENZAPRINE HYDROCHLORIDE | JUBILANT CADISTA | Tablet; oral | Valid |
+
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

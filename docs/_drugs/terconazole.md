@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1213
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TERCONAZOLE"
 predicted_indications: ["trichomonal vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis", "herpetic vulvovaginitis", "ulceration of vulva", "vulvar neoplasm", "vaginal discharge", "bacterial vaginosis"]
 description: "Terconazole: predicted new indication Trichomonal vulvovaginitis (evidence level L5). In the US: 10 FDA applications (6 active)"
@@ -79,13 +79,19 @@ Currently no related clinical trials are registered for this predicted indicatio
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075953 | Terconazole (A-S Medication Solutions) | Cream | Valid |
-| ANDA077553 | Terconazole (Sun Pharmaceutical Industries) | Suppository | Valid |
-| ANDA076043 | Terconazole (A-S Medication Solutions) | Cream | Valid |
-| ANDA076712 | Terconazole (A-S Medication Solutions) | Cream | Valid |
-| NDA021735 | Terconazole (A-S Medication Solutions) | Cream | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075953 | TERCONAZOLE | SUN PHARMA CANADA | Cream; vaginal | Valid |
+| ANDA076043 | TERCONAZOLE | SUN PHARMA CANADA | Cream; vaginal | Valid |
+| ANDA076712 | TERCONAZOLE | FOUGERA PHARMS | Cream; vaginal | Valid |
+| ANDA077149 | TERCONAZOLE | PADAGIS ISRAEL | Suppository; vaginal | Valid |
+| ANDA077553 | TERCONAZOLE | SUN PHARMA CANADA | Suppository; vaginal | Valid |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

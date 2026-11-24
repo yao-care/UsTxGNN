@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "BENZNIDAZOLE"
 predicted_indications: ["congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benznidazole: predicted new indication Congenital analbuminemia (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA209570 | Benznidazole (Exeltis USA, Inc.) | Tablet | Not stated; license status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA209570 | BENZNIDAZOLE | CHEMO RESEARCH SL | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

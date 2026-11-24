@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "BENZPHETAMINE"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzphetamine: predicted new indication hypervitaminosis (evidence level L5). In the US: 10 FDA applications (4 active)"
 ---
 
@@ -68,10 +68,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA090968 | benzphetamine hydrochloride | Tablet | Not recorded |
-| ANDA090346 | Benzphetamine Hydrochloride | Tablet, film coated | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090346 | BENZPHETAMINE HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Valid |
+| ANDA090473 | BENZPHETAMINE HYDROCHLORIDE | CHARTWELL | Tablet; oral | Valid |
+| ANDA090968 | BENZPHETAMINE HYDROCHLORIDE | KVK TECH | Tablet; oral | Valid |
+| ANDA202061 | BENZPHETAMINE HYDROCHLORIDE | AVET LIFESCIENCES | Tablet; oral | Valid |
+| ANDA040578 | BENZPHETAMINE HYDROCHLORIDE | SCINOPHARM TAIWAN | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Both are single-ingredient oral products.
 

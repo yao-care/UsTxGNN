@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 602
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DICLOFENAC"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
 description: "Diclofenac: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). In the US: 98 FDA applications (65 active), plus 10 OTC monograph/unapproved NDC listings"
@@ -102,13 +102,19 @@ The drug is marketed in the US, and no approved-indication text is available.
 
 <!-- review:end us-lic-20261106-diclofenac-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA022202 | ZIPSOR (Assertio Therapeutics) | Capsule, liquid filled | Valid |
-| ANDA075185 | Diclofenac Sodium (AvKARE) | Delayed-release tablet | Valid |
-| ANDA076201 | Diclofenac Sodium (Bryant Ranch Prepack) | Extended-release tablet | Valid |
-| ANDA215585 | Diclofenac Potassium (Preferred Pharmaceuticals) | Film-coated tablet | Valid |
-| ANDA211253 | Aspercreme Arthritis (Chattem) | Gel | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074514 | DICLOFENAC SODIUM | ACTAVIS ELIZABETH | Tablet, delayed release; oral | Valid |
+| ANDA075185 | DICLOFENAC SODIUM | CARLSBAD | Tablet, delayed release; oral | Valid |
+| ANDA075219 | DICLOFENAC POTASSIUM | TEVA | Tablet; oral | Valid |
+| ANDA075229 | DICLOFENAC POTASSIUM | RUBICON RESEARCH | Tablet; oral | Valid |
+| ANDA075281 | DICLOFENAC SODIUM | AUROBINDO PHARMA USA | Tablet, delayed release; oral | Valid |
+
+Showing 5 of 108 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

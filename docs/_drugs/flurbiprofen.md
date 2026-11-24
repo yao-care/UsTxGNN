@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 728
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "FLURBIPROFEN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 description: "Flurbiprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In the US: 11 FDA applications (2 active), plus 1 OTC monograph/unapproved NDC listing"
@@ -76,11 +76,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA074447 | Flurbiprofen Sodium | Solution/drops | Not listed (valid) |
-| ANDA074431 | Flurbiprofen | Tablet | Not listed (valid) |
-| Not available | Rinol-STroche | Troche | Not listed (cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074431 | FLURBIPROFEN | GENUS | Tablet; oral | Valid |
+| ANDA074447 | FLURBIPROFEN SODIUM | BAUSCH AND LOMB | Solution/drops; ophthalmic | Valid |
+| ANDA074358 | FLURBIPROFEN | NATCO PHARMA | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA074405 | FLURBIPROFEN | TEVA | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA074411 | FLURBIPROFEN | IVAX SUB TEVA PHARMS | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 12 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

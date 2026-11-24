@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FLUCONAZOLE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluconazole: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Oral candidiasis, candidiasis, vulvovaginal candidiasis…"
 ---
 
@@ -80,13 +80,19 @@ The drug is marketed. Approved indication text was not available.
 
 <!-- review:end us-lic-20261106-fluconazole-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020090 | Fluconazole (Mylan Pharmaceuticals Inc.) | Powder, for suspension | Not available |
-| ANDA078764 | Fluconazole (Hikma Pharmaceuticals USA Inc.) | Injection | Not available |
-| ANDA076658 | Fluconazole (Cardinal Health 107, LLC) | Tablet | Not available |
-| ANDA208963 | Fluconazole (Zydus Pharmaceuticals (USA) Inc.) | Tablet | Not available |
-| ANDA079104 | Fluconazole (Sagent Pharmaceuticals) | Injection, solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076087 | FLUCONAZOLE IN SODIUM CHLORIDE 0.9% | HIKMA | Injectable; injection | Valid |
+| ANDA076145 | FLUCONAZOLE IN SODIUM CHLORIDE 0.9% | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA076303 | FLUCONAZOLE IN SODIUM CHLORIDE 0.9% IN PLASTIC CONTAINER | HOSPIRA | Injectable; injection | Valid |
+| ANDA076658 | FLUCONAZOLE | DR REDDYS LABS INC | Tablet; oral | Valid |
+| ANDA076665 | FLUCONAZOLE | CHARTWELL | Tablet; oral | Valid |
+
+Showing 5 of 46 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Dosage forms across all authorizations: injectable (injection, injection solution), oral (tablet), and powder for suspension. Route compatibility with an ocular indication has not been assessed.
 

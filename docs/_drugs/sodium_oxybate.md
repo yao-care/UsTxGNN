@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 6
 monitor_inn: "SODIUM OXYBATE"
 predicted_indications: ["insomnia (disease)", "obsolete neurogenic bladder (disease)", "sleep disorder, initiating and maintaining sleep", "cauda equina syndrome", "Wernicke-Korsakoff syndrome", "restless legs syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sodium Oxybate: predicted new indication Insomnia (disease) (evidence level L2). In the US: 6 FDA applications (5 active)"
 ---
 
@@ -88,12 +88,19 @@ No randomized trial results for sodium oxybate in insomnia appear among the publ
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA214755 | Lumryz (Avadel CNS Pharmaceuticals) | Extended-release suspension | Indication text not available; valid |
-| NDA021196 | Xyrem (Jazz Pharmaceuticals) | Solution | Indication text not available; valid |
-| ANDA210523 | Sodium oxybate (XLCare Pharmaceuticals) | Solution | Indication text not available; valid |
-| ANDA203631 | Sodium oxybate (Amneal Pharmaceuticals) | Solution | Indication text not available; valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA203631 | SODIUM OXYBATE | AMNEAL | Solution; oral | Valid |
+| ANDA210523 | SODIUM OXYBATE | ASCENT PHARMS INC | Solution; oral | Valid |
+| NDA021196 | XYREM | JAZZ PHARMS | Solution; oral | Valid |
+| NDA214755 | LUMRYZ | ALKERMES INC | For suspension, extended release; oral | Valid |
+| NDA212690 | XYWAV | JAZZ | Solution; oral | Valid |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BENZONATATE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzonatate: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not listed in the US license data (benzonatate is generally known as…"
 ---
 
@@ -74,13 +74,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA040682 | Benzonatate (Redpharm Drug) | Capsule, liquid filled | Not specified (valid) |
-| ANDA202765 | Benzonatate (RemedyRepack Inc.) | Capsule | Not specified (valid) |
-| ANDA081297 | Benzonatate (Golden State Medical Supply) | Capsule | Not specified (valid) |
-| ANDA040597 | Benzonatate (A-S Medication Solutions) | Capsule | Not specified (valid) |
-| ANDA040749 | Benzonatate (Proficient Rx LP) | Capsule | Not specified (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040597 | BENZONATATE | ZYDUS PHARMS USA | Capsule; oral | Valid |
+| ANDA040627 | BENZONATATE | THEPHARMANETWORK LLC | Capsule; oral | Valid |
+| ANDA040682 | BENZONATATE | HERITAGE PHARMS LABS | Capsule; oral | Valid |
+| ANDA040749 | BENZONATATE | THEPHARMANETWORK LLC | Capsule; oral | Valid |
+| ANDA081297 | BENZONATATE | BIONPHARMA | Capsule; oral | Valid |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The table shows the first five.
 

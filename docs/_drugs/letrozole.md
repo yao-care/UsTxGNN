@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 848
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LETROZOLE"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Letrozole: predicted new indication Nipple carcinoma (evidence level L5). In the US: 23 FDA applications (9 active)"
@@ -80,15 +80,21 @@ None of these publications studies letrozole in nipple carcinoma. They are case 
 
 ## US Market Information
 
-Letrozole is currently marketed in the United States, and the licence records show valid status. The list below shows five of the licences on record and may be partial. Approved-indication text is not recorded in the local data.
+Letrozole is currently marketed in the United States, and the licence records show valid status. Approved-indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020726 | Femara (Novartis) | Tablet, film coated | Not available in compiled data |
-| ANDA205869 | Letrozole (Avet Pharmaceuticals) | Tablet, film coated | Not available in compiled data |
-| ANDA211717 | Letrozole (Aurobindo Pharma) | Tablet, film coated | Not available in compiled data |
-| ANDA090289 | Letrozole (Proficient Rx) | Tablet, film coated | Not available in compiled data |
-| ANDA090934 | Letrozole (Bryant Ranch Prepack) | Tablet, film coated | Not available in compiled data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090289 | LETROZOLE | TEVA PHARMS | Tablet; oral | Valid |
+| ANDA090934 | LETROZOLE | ACCORD HLTHCARE | Tablet; oral | Valid |
+| ANDA091191 | LETROZOLE | PHARMOBEDIENT | Tablet; oral | Valid |
+| ANDA200161 | LETROZOLE | NATCO PHARMA LTD | Tablet; oral | Valid |
+| ANDA205869 | LETROZOLE | PHARMOBEDIENT | Tablet; oral | Valid |
+
+Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

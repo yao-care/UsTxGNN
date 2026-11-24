@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PYRAZINAMIDE"
 predicted_indications: ["infectious otitis media", "middle ear disease", "otosalpingitis", "chronic otitis media", "suppurative otitis media", "non-suppurative otitis media", "middle ear cholesterol granuloma", "allergic otitis media", "Lyme disease", "infectious otitis interna"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pyrazinamide: predicted new indication Infectious otitis media (evidence level L5). Approved use: Pulmonary tuberculosis, meningeal tuberculosis, tuberculous meningitis"
 ---
 
@@ -80,11 +80,16 @@ No literature was retrieved for the top-ranked prediction (infectious otitis med
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA081319 | Pyrazinamide (Hikma Pharmaceuticals USA Inc) | Tablet | Not available (valid) |
-| ANDA080157 | Pyrazinamide (Marlex Pharmaceuticals, Inc) | Tablet | Not available (valid) |
-| ANDA212541 | Pyrazinamide (Macleods Pharmaceuticals Limited) | Tablet | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA080157 | PYRAZINAMIDE | NOVITIUM PHARMA | Tablet; oral | Valid |
+| ANDA081319 | PYRAZINAMIDE | HIKMA | Tablet; oral | Valid |
+| ANDA212541 | PYRAZINAMIDE | MACLEODS PHARMS | Tablet; oral | Valid |
+| NDA050705 | RIFATER | SANOFI AVENTIS US | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

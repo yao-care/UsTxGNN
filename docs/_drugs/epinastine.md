@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 659
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Epinastine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis"
 monitor_inn: "EPINASTINE"
 predicted_indications: ["rosacea conjunctivitis", "allergic urticaria"]
@@ -87,9 +87,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA090951 | Epinastine Hydrochloride (Somerset Therapeutics, LLC) | Solution / drops | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090951 | EPINASTINE HYDROCHLORIDE | SOMERSET THERAPS LLC | Solution/drops; ophthalmic | Valid |
+| ANDA090870 | EPINASTINE HYDROCHLORIDE | PHARMOBEDIENT | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
+| ANDA090919 | EPINASTINE HYDROCHLORIDE | APOTEX | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
+| ANDA091626 | EPINASTINE HYDROCHLORIDE | SUN PHARM INDS | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
+| ANDA203384 | EPINASTINE HYDROCHLORIDE | CHARTWELL RX | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

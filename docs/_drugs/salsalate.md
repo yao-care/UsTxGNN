@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1144
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SALSALATE"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia"]
 description: "Salsalate: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In the US: no FDA-approved application; 4 OTC monograph/unapproved NDC listings"
@@ -72,9 +72,16 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available (cancelled) | Salsalate (Amneal Pharmaceuticals LLC) | Tablet (oral) | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 65162-512 | Salsalate | Amneal Pharmaceuticals LLC | Tablet | NDC listing, no FDA application (unapproved drug other) |
+| NDC 65162-513 | Salsalate | Amneal Pharmaceuticals LLC | Tablet | NDC listing, no FDA application (unapproved drug other) |
+| NDC 69367-615 | Salsalate | Westminster Pharmaceuticals, LLC | Tablet | NDC listing, no FDA application (unapproved drug other) |
+| NDC 69367-616 | Salsalate | Westminster Pharmaceuticals, LLC | Tablet | NDC listing, no FDA application (unapproved drug other) |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

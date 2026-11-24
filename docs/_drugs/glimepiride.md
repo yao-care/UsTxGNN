@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "GLIMEPIRIDE"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Glimepiride: predicted new indication Classic stiff person syndrome (evidence level L5). In the US: 22 FDA applications (10 active)"
 ---
 
@@ -87,13 +87,19 @@ Currently no relevant literature is available for the top prediction. The only p
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA202112 | Glimepiride (A-S Medication Solutions) | Tablet | Not available; status valid |
-| ANDA077091 | Glimepiride (Dr. Reddy's Laboratories) | Tablet | Not available; status valid |
-| ANDA202759 | Glimepiride (Aurobindo Pharma) | Tablet | Not available; status valid |
-| ANDA077911 | Glimepiride (Carlsbad Technology) | Tablet | Not available; status valid |
-| ANDA078181 | Glimepiride (Proficient Rx) | Tablet | Not available; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077091 | GLIMEPIRIDE | DR REDDYS LABS LTD | Tablet; oral | Valid |
+| ANDA077295 | GLIMEPIRIDE | CHARTWELL MOLECULAR | Tablet; oral | Valid |
+| ANDA077370 | GLIMEPIRIDE | PRINSTON | Tablet; oral | Valid |
+| ANDA077911 | GLIMEPIRIDE | CARLSBAD | Tablet; oral | Valid |
+| ANDA078181 | GLIMEPIRIDE | ACCORD HLTHCARE | Tablet; oral | Valid |
+
+Showing 5 of 22 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CYANOCOBALAMIN"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyanocobalamin: predicted new indication Biotin metabolic disease (evidence level L5). In the US: 62 FDA applications (23 active), plus 106 OTC monograph/unapproved NDC listings"
 ---
 
@@ -92,13 +92,19 @@ The drug is marketed in the US. The data compiled for this report provides no ap
 
 <!-- review:end us-lic-20261106-cyanocobalamin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA214655 | cyanocobalamin (Zydus Lifesciences) | Injection, solution | Not available |
-| ANDA206503 | cyanocobalamin (Asclemed USA) | Injection | Not available |
-| ANDA080737 | Cyanocobalamin (American Regent) | Injection, solution | Not available |
-| ANDA217839 | Cyanocobalamin (Lifestar Pharma) | Injection, solution | Not available |
-| ANDA212458 | cyanocobalamin (Padagis Israel) | Spray | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA080515 | CYANOCOBALAMIN | WEST-WARD PHARMS INT | Injectable; injection | Valid |
+| ANDA080557 | VIBISONE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA080737 | CYANOCOBALAMIN | AM REGENT | Injectable; injection | Valid |
+| ANDA206503 | CYANOCOBALAMIN | SOMERSET THERAPS LLC | Injectable; injection | Valid |
+| ANDA209255 | CYANOCOBALAMIN | H2-PHARMA | Injectable; injection | Valid |
+
+Showing 5 of 168 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Six further ANDAs (all cancelled) cover injectable forms from other manufacturers.
 

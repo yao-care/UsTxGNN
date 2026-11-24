@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FIBRINOGEN HUMAN"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Fibrinogen Human: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not listed in the US license data compiled for this report (general u…"
 ---
 
@@ -64,10 +64,19 @@ The score is high (0.9912), but it is a computational prediction without clinica
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125612 | Fibryga (Octapharma USA Inc) | Powder, for solution | Not available (license status: valid) |
-| BLA125317 | Riastap (CSL Behring GmbH) | Injection, solution | Not available (license status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125317 | RiaSTAP | CSL Behring GmbH | Injection, powder, lyophilized, for solution; intravenous | Valid |
+| BLA125612 | Fibryga | Octapharma USA Inc | Powder, for solution; intravenous | Valid |
+| BLA103980 | TISSEEL Fibrin Sealant | Baxter Healthcare Corporation | Solution; topical | Valid |
+| BLA125266 | ARTISS Fibrin Sealant | Baxter Healthcare Corporation | Solution; topical | Valid |
+| BLA125351 | TachoSil | Corza Medical GmbH | Patch; topical | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

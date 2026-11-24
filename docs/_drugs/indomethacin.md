@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 795
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Indomethacin: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Bursitis, synovitis, tenosynovitis, rheumatoid arthritis…"
 monitor_inn: "INDOMETHACIN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
@@ -94,13 +94,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| ANDA091240 | Indomethacin | Capsule | Bryant Ranch Prepack | Valid |
-| ANDA201807 | Indomethacin | Capsule, extended release | Proficient Rx LP | Valid |
-| ANDA073314 | INDOCIN | Suppository | Zyla Life Sciences US Inc. | Valid |
-| ANDA091276 | Indomethacin | Capsule | DIRECT RX | Valid |
-| NDA018829 | Indomethacin | Capsule | Chartwell RX, LLC | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070651 | INDOMETHACIN | CHARTWELL MOLECULES | Capsule; oral | Valid |
+| ANDA070673 | INDOMETHACIN | SANDOZ | Capsule; oral | Valid |
+| ANDA070674 | INDOMETHACIN | SANDOZ | Capsule; oral | Valid |
+| ANDA073314 | INDOMETHACIN | COSETTE | Suppository; rectal | Valid |
+| ANDA079175 | INDOMETHACIN | AVANTHI INC | Capsule, extended release; oral | Valid |
+
+Showing 5 of 75 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

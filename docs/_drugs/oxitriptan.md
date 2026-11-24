@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "OXITRIPTAN"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Oxitriptan: predicted new indication Insomnia (evidence level L5). Approved use: No approved indication text available"
 ---
 
@@ -72,9 +72,16 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | 5-HTP Phenolic (Energique, Inc.) | Liquid | Not stated (status: cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 44911-0264 | 5-HTP Phenolic | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43742-1452 | Elevate | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 44911-0649 | Multi-Phenolic | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 53405-0008 | E.O.L. | InLight Creation, LLC. | Spray | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

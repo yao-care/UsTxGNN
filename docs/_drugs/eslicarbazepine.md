@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "ESLICARBAZEPINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eslicarbazepine: predicted new indication Migraine disorder (evidence level L2). In the US: 10 FDA applications (10 active)"
 ---
 
@@ -93,13 +93,19 @@ No approved-indication text is available in the compiled data.
 
 <!-- review:end us-lic-20261106-eslicarbazepine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA022416 | Aptiom | Tablet | Sumitomo Pharma America, Inc. |
-| ANDA211227 | Eslicarbazepine acetate | Tablet | Torrent Pharmaceuticals Limited |
-| ANDA211186 | Eslicarbazepine acetate | Tablet | Camber Pharmaceuticals, Inc. |
-| ANDA211236 | Eslicarbazepine Acetate | Tablet | Golden State Medical Supply, Inc. |
-| ANDA211238 | Eslicarbazepine Acetate | Tablet | Dr. Reddy's Laboratories Inc |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA211186 | ESLICARBAZEPINE ACETATE | HETERO LABS LTD V | Tablet; oral | Valid |
+| ANDA211199 | ESLICARBAZEPINE ACETATE | ALKEM LABS LTD | Tablet; oral | Valid |
+| ANDA211219 | ESLICARBAZEPINE ACETATE | JUBILANT GENERICS | Tablet; oral | Valid |
+| ANDA211227 | ESLICARBAZEPINE ACETATE | TORRENT | Tablet; oral | Valid |
+| ANDA211236 | ESLICARBAZEPINE ACETATE | APOTEX | Tablet; oral | Valid |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

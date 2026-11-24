@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GANIRELIX"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial male-limited precocious puberty", "persistent fetal circulation syndrome", "aromatase excess syndrome", "centra precocious puberty 1", "familial isolated trichomegaly"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ganirelix: predicted new indication Hypertrichosis (disease) (evidence level L5). In the US: 8 FDA applications (7 active)"
 ---
 
@@ -76,13 +76,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA021057 | Ganirelix Acetate (Organon LLC) | Injection, solution | Valid |
-| ANDA204246 | Fyremadel (Ferring Pharmaceuticals) | Injection, solution | Valid |
-| ANDA212613 | Ganirelix Acetate (Amphastar) | Injection | Valid |
-| ANDA214996 | Ganirelix Acetate (Meitheal) | Injection, solution | Valid |
-| ANDA215658 | Ganirelix Acetate (Gland Pharma) | Injection, solution | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204246 | FYREMADEL | SUN PHARM | Injectable; injection | Valid |
+| ANDA212613 | GANIRELIX ACETATE | AMPHASTAR PHARMS INC | Injectable; injection | Valid |
+| ANDA214996 | GANIRELIX ACETATE | MEITHEAL | Injectable; injection | Valid |
+| ANDA215658 | GANIRELIX ACETATE | GLAND | Injectable; injection | Valid |
+| ANDA216075 | GANIRELIX ACETATE | LUPIN | Injectable; injection | Valid |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The license records contain no approved-indication text. All products are injectables.
 

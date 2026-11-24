@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "DEXAMETHASONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dexamethasone: predicted new indication Alopecia mucinosa (evidence level L5). In the US: 159 FDA applications (65 active), plus 3 OTC monograph/unapproved NDC listings"
 ---
 
@@ -82,13 +82,19 @@ Currently no related literature available.
 
 <!-- review:end us-lic-20261112-dexamethasone-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA203129 | Dexamethasone Sodium Phosphate (Fresenius Kabi USA) | Injection, solution | Not available |
-| ANDA215654 | Dexamethasone Sodium Phosphate (Gland Pharma) | Injection | Not available |
-| ANDA084612 | Dexamethasone (Northwind Health) | Tablet | Not available |
-| ANDA217538 | Dexamethasone (Bionpharma) | Tablet | Not available |
-| ANDA040802 | Dexamethasone Sodium Phosphate (Henry Schein) | Injection, solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040069 | DEXAMETHASONE SODIUM PHOSPHATE | BAUSCH AND LOMB INC | Solution/drops; ophthalmic, otic | Valid |
+| ANDA040491 | DEXAMETHASONE SODIUM PHOSPHATE PRESERVATIVE FREE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA040572 | DEXAMETHASONE SODIUM PHOSPHATE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA040802 | DEXAMETHASONE SODIUM PHOSPHATE | MYLAN LABS LTD | Injectable; injection | Valid |
+| ANDA040803 | DEXAMETHASONE SODIUM PHOSPHATE | MYLAN LABS LTD | Injectable; injection | Valid |
+
+Showing 5 of 162 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Available routes are oral (tablet) and injectable (solution, plain injection, emulsion). No topical product is listed.
 

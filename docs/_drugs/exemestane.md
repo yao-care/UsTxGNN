@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "EXEMESTANE"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Exemestane: predicted new indication Antithrombin deficiency type 2 (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -78,13 +78,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020753 | Aromasin | Tablet | Not available |
-| ANDA209208 | Exemestane (Upsher-Smith) | Tablet | Not available |
-| ANDA210323 | Exemestane (Cipla USA) | Tablet | Not available |
-| ANDA216454 | Exemestane (NorthStar Rx) | Film-coated tablet | Not available |
-| ANDA213547 | Exemestane (Florida Pharmaceutical Products) | Film-coated tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA200898 | EXEMESTANE | EIRGEN | Tablet; oral | Valid |
+| ANDA202602 | EXEMESTANE | ZYDUS PHARMS | Tablet; oral | Valid |
+| ANDA203315 | EXEMESTANE | RISING | Tablet; oral | Valid |
+| ANDA209208 | EXEMESTANE | UPSHER SMITH LABS | Tablet; oral | Valid |
+| ANDA210323 | EXEMESTANE | CIPLA | Tablet; oral | Valid |
+
+Showing 5 of 12 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Two further ANDAs (Zydus, Breckenridge) are not shown above.
 

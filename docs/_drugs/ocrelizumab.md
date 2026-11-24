@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "OCRELIZUMAB"
 predicted_indications: ["HER2 positive breast carcinoma", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ocrelizumab: predicted new indication HER2 positive breast carcinoma (evidence level L5). Approved use: Progressive multiple sclerosis"
 ---
 
@@ -87,10 +87,14 @@ For the fourth-ranked prediction (luminal A or B breast tumour), the search retu
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761053 | OCREVUS (Genentech, Inc.) | Injection | Status: valid |
-| BLA761371 | Ocrevus Zunovo (Genentech, Inc.) | Injection, solution | Status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761053 | OCREVUS | GENENTECH INC | Injectable; injection | Valid |
+| BLA761371 | OCREVUS ZUNOVO | GENENTECH INC | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

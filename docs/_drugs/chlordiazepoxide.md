@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CHLORDIAZEPOXIDE"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "barbiturate abuse", "antidepressant type abuse", "hallucinogen abuse", "myofascial pain syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlordiazepoxide: predicted new indication insomnia (disease) (evidence level L5). In the US: 110 FDA applications (23 active)"
 ---
 
@@ -78,15 +78,21 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-The licence list may be partial. Approved indication text is not recorded in the local data for these products.
+Approved indication text is not recorded in the local data for these products.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA084041 | Chlordiazepoxide Hydrochloride | Capsule | Not recorded |
-| ANDA084769 | Chlordiazepoxide Hydrochloride | Capsule | Not recorded |
-| ANDA084768 | Chlordiazepoxide Hydrochloride | Capsule | Not recorded |
-| ANDA085472 | Chlordiazepoxide Hydrochloride | Capsule, gelatin coated | Not recorded |
-| ANDA083116 | Chlordiazepoxide Hydrochloride | Capsule | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA083116 | CHLORDIAZEPOXIDE HYDROCHLORIDE | BARR | Capsule; oral | Valid |
+| ANDA084041 | CHLORDIAZEPOXIDE HYDROCHLORIDE | CHARTWELL RX | Capsule; oral | Valid |
+| ANDA084678 | CHLORDIAZEPOXIDE HYDROCHLORIDE | CHARTWELL RX | Capsule; oral | Valid |
+| ANDA084679 | CHLORDIAZEPOXIDE HYDROCHLORIDE | CHARTWELL RX | Capsule; oral | Valid |
+| ANDA084768 | CHLORDIAZEPOXIDE HYDROCHLORIDE | BARR | Capsule; oral | Valid |
+
+Showing 5 of 110 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

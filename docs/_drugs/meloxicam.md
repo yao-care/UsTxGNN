@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 895
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MELOXICAM"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Meloxicam: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In the US: 35 FDA applications (19 active)"
@@ -97,13 +97,19 @@ The records contain no approved indication text.
 
 <!-- review:end us-lic-20261106-meloxicam-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA077920 | Meloxicam (AiPing Pharmaceutical) | Tablet | Not available (valid) |
-| ANDA077927 | Meloxicam (RemedyRepack) | Tablet | Not available (valid) |
-| ANDA077918 | Meloxicam (Aphena Pharma Solutions) | Tablet | Not available (valid) |
-| ANDA217579 | Meloxicam (XLCare Pharmaceuticals) | Tablet | Not available (valid) |
-| ANDA077929 | Meloxicam (Northwind Health) | Tablet | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077882 | MELOXICAM | MACLEODS PHARMS | Tablet; oral | Valid |
+| ANDA077918 | MELOXICAM | YUNG SHIN PHARM | Tablet; oral | Valid |
+| ANDA077920 | MELOXICAM | AIPING PHARM INC | Tablet; oral | Valid |
+| ANDA077921 | MELOXICAM | ZYDUS PHARMS USA | Tablet; oral | Valid |
+| ANDA077927 | MELOXICAM | UNICHEM | Tablet; oral | Valid |
+
+Showing 5 of 35 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

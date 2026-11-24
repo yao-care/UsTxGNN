@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 850
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: predicted new indication Beta-ketothiolase deficiency (evidence level L5). In the US: 113 FDA applications (72 active)"
@@ -94,13 +94,19 @@ The papers below are the most relevant of the 20 retrieved. They concern general
 
 The five below are listed as examples. The source record does not give approved-indication text for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA090261 (Mylan Pharmaceuticals) | Levetiracetam | Tablet, film coated | Not specified in the source record |
-| ANDA090515 (Quallent Pharmaceuticals Health) | Levetiracetam | Tablet, film coated | Not specified in the source record |
-| ANDA091491 (Cranbury Pharmaceuticals) | Levetiracetam | Tablet | Not specified in the source record |
-| ANDA091261 (Golden State Medical Supply) | Levetiracetam | Tablet, film coated, extended release | Not specified in the source record |
-| ANDA201157 (PAI Pharma) | Levetiracetam | Solution | Not specified in the source record |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076919 | LEVETIRACETAM | MYLAN | Tablet; oral | Valid |
+| ANDA076920 | LEVETIRACETAM | PHARMAZONE | Tablet; oral | Valid |
+| ANDA077319 | LEVETIRACETAM | OXFORD PHARMS | Tablet; oral | Valid |
+| ANDA078106 | LEVETIRACETAM | PRINSTON INC | Tablet; oral | Valid |
+| ANDA078154 | LEVETIRACETAM | LUPIN | Tablet; oral | Valid |
+
+Showing 5 of 113 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

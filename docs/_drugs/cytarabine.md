@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "CYTARABINE"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cytarabine: predicted new indication Small cell lung carcinoma (evidence level L4). In the US: 24 FDA applications (15 active)"
 ---
 
@@ -96,13 +96,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA208485 | Cytarabine (Meitheal) | Injection, solution | Not available |
-| ANDA075383 | Cytarabine (Hospira) | Injection, solution | Not available |
-| ANDA076512 | Cytarabine (Fresenius Kabi) | Injection, solution | Not available |
-| ANDA211937 | Cytarabine (Sagent) | Injection, solution | Not available |
-| NDA209401 | VYXEOS (Jazz) | Injection, powder, lyophilized, for suspension | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071471 | CYTARABINE | HIKMA | Injectable; injection | Valid |
+| ANDA071472 | CYTARABINE | HIKMA | Injectable; injection | Valid |
+| ANDA071868 | CYTARABINE | HOSPIRA | Injectable; injection | Valid |
+| ANDA072168 | CYTARABINE | HOSPIRA | Injectable; injection | Valid |
+| ANDA072945 | CYTARABINE | HOSPIRA | Injectable; injection | Valid |
+
+Showing 5 of 24 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

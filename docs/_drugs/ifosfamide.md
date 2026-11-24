@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "IFOSFAMIDE"
 predicted_indications: ["female breast carcinoma", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "rhabdomyosarcoma (disease)", "myelodysplastic syndrome", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ifosfamide: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not available"
 ---
 
@@ -96,11 +96,19 @@ The supporting evidence is early-phase. It also includes literature on rarer bre
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019763 | Ifosfamide (Baxter Healthcare) | Injection, powder, for solution | Not available (valid) |
-| ANDA076619 | Ifosfamide (Hikma) | Injection | Not available (valid) |
-| ANDA076078 | Ifosfamide (Fresenius Kabi) | Injection, powder, lyophilized, for solution | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076078 | IFOSFAMIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA076619 | IFOSFAMIDE | HIKMA | Injectable; injection | Valid |
+| ANDA076657 | IFOSFAMIDE | MEITHEAL | Injectable; injection | Valid |
+| NDA019763 | IFEX | BAXTER HLTHCARE | Injectable; injection | Valid |
+| ANDA090181 | IFOSFAMIDE | FRESENIUS KABI USA | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

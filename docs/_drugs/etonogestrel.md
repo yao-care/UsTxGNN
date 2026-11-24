@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ETONOGESTREL"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etonogestrel: predicted new indication Amenorrhea (evidence level L5). Approved use: Not stated in the available regulatory data (marketed as a hormonal c…"
 ---
 
@@ -75,12 +75,19 @@ No relevant literature on etonogestrel for amenorrhea was identified.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021529 | Nexplanon | Implant | Not available (status: valid) |
-| ANDA211157 | EnilloRing | Ring | Not available (status: valid) |
-| NDA021187 | Etonogestrel/Ethinyl Estradiol | Extended-release insert | Not available (status: valid) |
-| ANDA210830 | EluRyng | Ring | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021529 | NEXPLANON | ORGANON | Implant; implantation | Valid |
+| ANDA204305 | ETHINYL ESTRADIOL; ETONOGESTREL | TEVA PHARMS USA INC | Ring; vaginal | Valid |
+| ANDA210830 | ELURYNG | AMNEAL | Ring; vaginal | Valid |
+| ANDA211157 | ENILLORING | XIROMED | Ring; vaginal | Valid |
+| ANDA211328 | HALOETTE | DR REDDYS LABS SA | Ring; vaginal | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

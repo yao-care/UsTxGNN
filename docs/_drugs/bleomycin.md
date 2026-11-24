@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "BLEOMYCIN"
 predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bleomycin: predicted new indication cauda equina neoplasm (evidence level L5). In the US: 9 FDA applications (4 active)"
 ---
 
@@ -72,12 +72,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA065031 | Bleomycin | Injection, powder, lyophilized, for solution | Hospira, Inc. |
-| ANDA205030 | Bleomycin | Powder, for solution | NorthStar Rx LLC |
-| ANDA065042 | Bleomycin | Injection, powder, lyophilized, for solution | Hikma Pharmaceuticals USA Inc. |
-| ANDA065185 | Bleomycin | Injection, powder, lyophilized, for solution | Fresenius Kabi USA, LLC |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA065031 | BLEOMYCIN SULFATE | HOSPIRA | Injectable; injection | Valid |
+| ANDA065042 | BLEOMYCIN SULFATE | HIKMA | Injectable; injection | Valid |
+| ANDA065185 | BLEOMYCIN SULFATE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA205030 | BLEOMYCIN SULFATE | MEITHEAL | Injectable; injection | Valid |
+| ANDA064084 | BLEOMYCIN SULFATE | TEVA PARENTERAL | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Approved indication text is not recorded in the local data for these authorizations.
 

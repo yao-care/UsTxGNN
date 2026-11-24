@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1018
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PAZOPANIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
 description: "Pazopanib: predicted new indication Liposarcoma (evidence level L2). In the US: 7 FDA applications (7 active)"
@@ -88,13 +88,19 @@ Pazopanib is used in non-adipocytic soft tissue sarcoma, but liposarcoma, an adi
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA022465 | VOTRIENT | Film-coated tablet | Novartis Pharmaceuticals Corporation |
-| ANDA219922 | Pazopanib | Film-coated tablet | Torrent Pharmaceuticals Limited |
-| ANDA217713 | Pazopanib | Tablet | Apotex Corp. |
-| ANDA217517 | Pazopanib | Film-coated tablet | Teva Pharmaceuticals, Inc. |
-| ANDA215837 | Pazopanib | Film-coated tablet | Sun Pharmaceutical Industries, Inc. |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA215837 | PAZOPANIB HYDROCHLORIDE | SUN PHARM | Tablet; oral | Valid |
+| ANDA217517 | PAZOPANIB HYDROCHLORIDE | TEVA PHARMS INC | Tablet; oral | Valid |
+| ANDA217713 | PAZOPANIB HYDROCHLORIDE | APOTEX | Tablet; oral | Valid |
+| ANDA218231 | PAZOPANIB HYDROCHLORIDE | NOVUGEN | Tablet; oral | Valid |
+| ANDA219034 | PAZOPANIB HYDROCHLORIDE | EUGIA PHARMA | Tablet; oral | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 329
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amlodipine: predicted new indication Brain stem infarction (evidence level L5). Approved use: Hypertension (also stroke, cerebral infarction, Prinzmetal angina)"
 monitor_inn: "AMLODIPINE"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
@@ -100,13 +100,19 @@ The five main ones are shown below. Approved indication text was not available f
 
 <!-- review:end us-lic-20261105-amlodipine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019787 | Amlodipine besylate (Mylan Pharmaceuticals) | Tablet | Not listed |
-| NDA219531 | Sdamlo (Pangea Pharmaceuticals) | Solution | Not listed |
-| ANDA206367 | Amlodipine besylate (Exelan Pharmaceuticals) | Tablet | Not listed |
-| ANDA078021 | Amlodipine besylate (Aurobindo Pharma) | Tablet | Not listed |
-| ANDA078226 | Amlodipine besylate (Cardinal Health 107) | Tablet | Not listed |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076692 | AMLODIPINE BESYLATE | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA076719 | AMLODIPINE BESYLATE | MACLEODS PHARMS | Tablet; oral | Valid |
+| ANDA076846 | AMLODIPINE BESYLATE | TEVA | Tablet; oral | Valid |
+| ANDA077073 | AMLODIPINE BESYLATE | CIPLA | Tablet; oral | Valid |
+| ANDA077955 | AMLODIPINE BESYLATE | INVAGEN PHARMS | Tablet; oral | Valid |
+
+Showing 5 of 116 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

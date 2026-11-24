@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1287
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "VERAPAMIL"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 description: "Verapamil: predicted new indication Obsolete bundle branch block (evidence level L5). In the US: 79 FDA applications (29 active)"
@@ -101,13 +101,19 @@ The drug is marketed in the US. Approved-indication text is not available in the
 
 <!-- review:end us-lic-20261106-verapamil-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019614 | Verapamil Hydrochloride | Capsule, delayed release | Not available |
-| NDA018925 | Verapamil HCl | Injection | Not available |
-| ANDA075138 | Verapamil Hydrochloride | Capsule, extended release | Not available |
-| ANDA078906 | Verapamil Hydrochloride | Tablet, film coated, extended release | Not available |
-| ANDA213232 | Verapamil Hydrochloride | Injection, solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070737 | VERAPAMIL HYDROCHLORIDE | HOSPIRA | Solution; intravenous | Valid |
+| ANDA070738 | VERAPAMIL HYDROCHLORIDE | HOSPIRA | Solution; intravenous | Valid |
+| ANDA070994 | VERAPAMIL HYDROCHLORIDE | WATSON LABS | Tablet; oral | Valid |
+| ANDA070995 | VERAPAMIL HYDROCHLORIDE | WATSON LABS | Tablet; oral | Valid |
+| ANDA071881 | VERAPAMIL HYDROCHLORIDE | HERITAGE | Tablet; oral | Valid |
+
+Showing 5 of 79 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Available dosage forms span both oral (tablets, extended-release and delayed-release capsules) and injectable routes.
 

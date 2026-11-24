@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TALC"
 predicted_indications: ["thrombotic disease", "exostosis", "rheumatoid arthritis", "bronchitis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "vein disease", "fibromyalgia", "myositis fibrosa"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Talc: predicted new indication Thrombotic disease (evidence level L5). Approved use: Not available"
 ---
 
@@ -100,10 +100,16 @@ All retrieved papers are either case-level reports of talc-induced harm or unrel
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA205555 | Steritalc (Novatech SA) | Powder | Not available (valid) |
-| Not available | Sensitive Pocket Sun (Shantou Oushiya Biotechnology Co., Ltd) | Stick | Not available (cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA020587 | SCLEROSOL | SCIARRA LABS | Aerosol; intrapleural | Valid |
+| NDA021388 | TALC | SCIARRA LABS | Powder; intrapleural | Valid |
+| NDA205555 | STERITALC | NOVATECH SA | Powder; intrapleural | Valid |
+| NDC 85819-771 | SENSITIVE POCKET SUN | Shantou Oushiya Biotechnology Co., Ltd | Stick | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 ---
 

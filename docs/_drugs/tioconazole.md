@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1230
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TIOCONAZOLE"
 predicted_indications: ["vulvitis", "postmenopausal atrophic vaginitis"]
 description: "Tioconazole: predicted new indication Vulvitis (evidence level L5). In the US: 3 FDA applications (2 active)"
@@ -87,9 +87,15 @@ None of these publications studies vulvitis as a stand-alone condition. They des
 
 <!-- review:end us-lic-20261112-tioconazole-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075915 | Tioconazole (CVS Pharmacy) | Ointment | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075915 | TIOCONAZOLE | PERRIGO | Ointment; vaginal | Valid |
+| NDA020676 | VAGISTAT-1 | COMBE | Ointment; vaginal | Valid |
+| NDA018682 | TZ-3 | PFIZER | Cream; topical | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

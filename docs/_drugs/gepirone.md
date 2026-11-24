@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 750
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "GEPIRONE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Gepirone: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). In the US: 1 FDA application (1 active)"
@@ -87,9 +87,13 @@ For the other predicted indications, the following publications were retrieved:
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021164 | EXXUA (Aytu Therapeutics, LLC) | Tablet, extended release | Not listed in the data (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021164 | EXXUA | FABRE KRAMER | Tablet, extended release; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

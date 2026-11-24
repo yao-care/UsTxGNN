@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1298
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "WARFARIN"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Warfarin: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). In the US: 21 FDA applications (6 active)"
@@ -122,12 +122,19 @@ None of the literature evaluates warfarin as a treatment in a controlled setting
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA040301 | Warfarin Sodium (Golden State Medical Supply) | Tablet | Not available (status: valid) |
-| ANDA202202 | Warfarin Sodium (REMEDYREPACK) | Tablet | Not available (status: valid) |
-| ANDA040616 | Warfarin Sodium (PD-Rx Pharmaceuticals) | Tablet | Not available (status: valid) |
-| ANDA090935 | Warfarin Sodium (Golden State Medical Supply) | Tablet | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040301 | WARFARIN SODIUM | TARO | Tablet; oral | Valid |
+| ANDA040416 | JANTOVEN | UPSHER SMITH LABS | Tablet; oral | Valid |
+| ANDA040616 | WARFARIN SODIUM | PLIVA | Tablet; oral | Valid |
+| ANDA040663 | WARFARIN SODIUM | ZYDUS PHARMS USA | Tablet; oral | Valid |
+| ANDA090935 | WARFARIN SODIUM | INVAGEN PHARMS | Tablet; oral | Valid |
+
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Warfarin is marketed in the US. Warfarin is available only as an oral tablet.
 

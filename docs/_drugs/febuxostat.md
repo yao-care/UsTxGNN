@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Febuxostat: predicted new indication Hypouricemia, renal (evidence level L4). In the US: 16 FDA applications (13 active)"
 ---
 
@@ -99,13 +99,19 @@ The drug is marketed in the US, and the approved indication text was not availab
 
 <!-- review:end us-lic-20261106-febuxostat-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021856 | ULORIC (Takeda Pharmaceuticals America) | Tablet | Not available |
-| ANDA205443 | Febuxostat (Zydus Lifesciences) | Tablet | Not available |
-| ANDA205467 | Febuxostat (Sun Pharmaceutical Industries) | Tablet, film coated | Not available |
-| ANDA210461 | Febuxostat (Aphena Pharma Solutions) | Tablet, film coated | Not available |
-| ANDA206266 | Febuxostat (Solco Healthcare) | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205374 | FEBUXOSTAT | DR REDDYS | Tablet; oral | Valid |
+| ANDA205414 | FEBUXOSTAT | HIKMA | Tablet; oral | Valid |
+| ANDA205421 | FEBUXOSTAT | ALEMBIC | Tablet; oral | Valid |
+| ANDA205443 | FEBUXOSTAT | ZYDUS LIFESCIENCES | Tablet; oral | Valid |
+| ANDA205467 | FEBUXOSTAT | SUN PHARM | Tablet; oral | Valid |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

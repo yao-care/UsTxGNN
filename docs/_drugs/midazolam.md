@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Midazolam: predicted new indication Insomnia (disease) (evidence level L3). In the US: 46 FDA applications (23 active)"
 ---
 
@@ -82,13 +82,19 @@ The indication is not entirely new. Oral midazolam was studied as a hypnotic in 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075243 | Midazolam (Hikma) | Injection | Not available (valid) |
-| NDA216359 | Midazolam (Rafa Laboratories) | Injection, solution | Not available (valid) |
-| ANDA090850 | Midazolam Hydrochloride (Belcher) | Injection, solution | Not available (valid) |
-| ANDA203460 | Midazolam (Fresenius Kabi) | Injection, solution | Not available (valid) |
-| ANDA075873 | Midazolam Hydrochloride (American Health Packaging) | Syrup | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075154 | MIDAZOLAM HYDROCHLORIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA075243 | MIDAZOLAM HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA075247 | MIDAZOLAM HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA075293 | MIDAZOLAM HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+| ANDA075324 | MIDAZOLAM HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+
+Showing 5 of 46 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

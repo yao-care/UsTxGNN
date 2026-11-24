@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "ROPINIROLE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ropinirole: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). In the US: 23 FDA applications (15 active)"
 ---
 
@@ -91,13 +91,19 @@ The drug is marketed in the US. The data compiled for this report contains no ap
 
 <!-- review:end us-lic-20261106-ropinirole-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA090135 | ropinirole (Glenmark) | Film-coated tablet | Valid |
-| ANDA078110 | ropinirole hydrochloride (Solco Healthcare) | Film-coated tablet | Valid |
-| ANDA079165 | Ropinirole (Marlex) | Film-coated tablet | Valid |
-| ANDA090429 | Ropinirole (Alembic) | Film-coated tablet | Valid |
-| ANDA090869 | Ropinirole hydrochloride (AvKARE) | Film-coated extended-release tablet | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078110 | ROPINIROLE HYDROCHLORIDE | PRINSTON INC | Tablet; oral | Valid |
+| ANDA079050 | ROPINIROLE HYDROCHLORIDE | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA079165 | ROPINIROLE HYDROCHLORIDE | MLV | Tablet; oral | Valid |
+| ANDA079229 | ROPINIROLE HYDROCHLORIDE | ORBION PHARMS | Tablet; oral | Valid |
+| ANDA090135 | ROPINIROLE HYDROCHLORIDE | GLENMARK PHARMS LTD | Tablet; oral | Valid |
+
+Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

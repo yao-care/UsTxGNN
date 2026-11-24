@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1050
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PIROXICAM"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
 description: "Piroxicam: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). In the US: 24 FDA applications (7 active)"
@@ -98,13 +98,19 @@ No approved-indication text is available for them.
 
 <!-- review:end us-lic-20261106-piroxicam-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA210347 (PD-Rx Pharmaceuticals) | Piroxicam | Capsule | Not available |
-| ANDA074116 (Bryant Ranch Prepack) | Piroxicam | Capsule | Not available |
-| ANDA208340 (Unichem Pharmaceuticals) | Piroxicam | Capsule | Not available |
-| ANDA074131 (Teva Pharmaceuticals USA) | Piroxicam | Capsule | Not available |
-| ANDA206152 (Micro Labs Limited) | Piroxicam | Capsule | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074116 | Piroxicam | Bryant Ranch Prepack | Capsule; oral | Valid |
+| ANDA074118 | PIROXICAM | SOLIS PHARMS | Capsule; oral | Valid |
+| ANDA074131 | PIROXICAM | TEVA | Capsule; oral | Valid |
+| ANDA205585 | PIROXICAM | ZYDUS LIFESCIENCES | Capsule; oral | Valid |
+| ANDA206152 | PIROXICAM | MICRO LABS | Capsule; oral | Valid |
+
+Showing 5 of 24 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

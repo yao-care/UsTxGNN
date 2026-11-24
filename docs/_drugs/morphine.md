@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "MORPHINE"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Morphine: predicted new indication Myofascial pain syndrome (evidence level L3). In the US: 77 FDA applications (28 active), plus 12 OTC monograph/unapproved NDC listings"
 ---
 
@@ -110,13 +110,19 @@ For myofascial pain syndrome, the only study that used morphine directly is a 20
 
 The records contain no approved indication text. The main authorizations are:
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022195 | Morphine Sulfate (PAI Holdings) | Solution | Not available |
-| ANDA211452 | Morphine Sulfate (Hikma) | Injection | Not available |
-| ANDA215194 | Morphine Sulfate (SpecGx) | Tablet | Not available |
-| ANDA079040 | Morphine Sulfate (Actavis) | Capsule, extended release | Not available |
-| ANDA076412 | Morphine Sulfate (SpecGx) | Tablet, extended release | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA073509 | MORPHINE SULFATE | HOSPIRA | Injectable; injection | Valid |
+| ANDA073510 | MORPHINE SULFATE | HOSPIRA | Injectable; injection | Valid |
+| ANDA074769 | MORPHINE SULFATE | RHODES PHARMS | Tablet, extended release; oral | Valid |
+| ANDA074862 | MORPHINE SULFATE | RHODES PHARMS | Tablet, extended release; oral | Valid |
+| ANDA075407 | MORPHINE SULFATE | DAVA PHARMS INC | Tablet, extended release; oral | Valid |
+
+Showing 5 of 89 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Other cancelled authorizations cover injection, extended-release capsule, film-coated extended-release tablet and suppository forms.
 

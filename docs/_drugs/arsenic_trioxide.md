@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ARSENIC TRIOXIDE"
 predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "partial deletion of the long arm of chromosome 5", "myelodysplastic syndrome", "Ewing sarcoma", "dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Arsenic Trioxide: predicted new indication unclassified myelodysplastic syndrome (evidence level L5). In the US: 12 FDA applications (11 active), plus 720 OTC monograph/unapproved NDC listings"
 ---
 
@@ -81,13 +81,19 @@ Currently no related literature available for unclassified myelodysplastic syndr
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA217413 | ARSENIC TRIOXIDE | Injection, solution | Not recorded in the local data |
-| ANDA206228 | Arsenic trioxide | Injection, solution | Not recorded in the local data |
-| ANDA215059 | Arsenic Trioxide | Injection | Not recorded in the local data |
-| ANDA209780 | Arsenic Trioxide | Injection | Not recorded in the local data |
-| nan | Arsenicum Album 30X | Globule | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA206228 | ARSENIC TRIOXIDE | ZYDUS PHARMS | Injectable; injection | Valid |
+| ANDA208231 | ARSENIC TRIOXIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA209315 | ARSENIC TRIOXIDE | INGENUS PHARMS LLC | Injectable; injection | Valid |
+| ANDA209780 | ARSENIC TRIOXIDE | NEXUS | Injectable; injection | Valid |
+| ANDA209873 | ARSENIC TRIOXIDE | PENN LIFE | Injectable; injection | Valid |
+
+Showing 5 of 732 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The local records list at least 5 licences and may be partial.
 

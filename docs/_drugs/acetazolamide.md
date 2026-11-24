@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ACETAZOLAMIDE"
 predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "myopathic intestinal pseudoobstruction"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetazolamide: predicted new indication exercise-induced malignant hyperthermia (evidence level L5). In the US: 43 FDA applications (27 active)"
 ---
 
@@ -69,15 +69,21 @@ Currently no related literature available.
 
 ## US Market Information
 
-The data compiled for this report list 12 US licences, and the list may be partial. All are generic (ANDA) records for single-ingredient acetazolamide. The records carry no approved-indication text. The list below shows five of them.
+The data compiled for this report list 12 US licences, and the list may be partial. All are generic (ANDA) records for single-ingredient acetazolamide. The records carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA210588 | Acetazolamide | Tablet | Not recorded in the local data |
-| ANDA040904 | Acetazolamide | Extended-release capsule | Not recorded in the local data |
-| ANDA040089 | Acetazolamide | Lyophilized powder for injection | Not recorded in the local data |
-| ANDA205301 | Acetazolamide | Capsule | Not recorded in the local data |
-| ANDA211069 | Acetazolamide | Tablet | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040089 | ACETAZOLAMIDE SODIUM | HIKMA | Injectable; injection | Valid |
+| ANDA040195 | ACETAZOLAMIDE | TARO | Tablet; oral | Valid |
+| ANDA040784 | ACETAZOLAMIDE SODIUM | XGEN PHARMS | Injectable; injection | Valid |
+| ANDA040904 | ACETAZOLAMIDE | HERITAGE PHARMA | Capsule, extended release; oral | Valid |
+| ANDA084840 | ACETAZOLAMIDE | CHARTWELL MOLECULAR | Tablet; oral | Valid |
+
+Showing 5 of 43 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

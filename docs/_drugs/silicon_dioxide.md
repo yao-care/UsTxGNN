@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1159
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Silicon Dioxide: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -75,11 +75,19 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Silicon D
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| nan | Silicea Icing Sugar | TABLET | Valid |
+<!-- licenses:begin -->
 
-Only part of the licence list is held in the data; the list may be incomplete.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0220-4592 | SILICA MARINA | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-4660 | Silica marina | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-4664 | Silicea | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-4667 | Silicea | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-4668 | Silicea | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 578 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

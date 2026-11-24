@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CIDOFOVIR"
 predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cidofovir: predicted new indication sclerosing cholangitis (evidence level L5). In the US: 3 FDA applications (2 active)"
 ---
 
@@ -72,6 +72,16 @@ Currently no related literature available.
 ## US Market Information
 
 The compiled data lists two single-ingredient injectable solution products (ANDA202501 and ANDA201276, from Avet Pharmaceuticals and Mylan Institutional). No approved indication text is recorded for either, and the status of these licences is reported inconsistently in the data, so no market conclusion is drawn beyond the overall status of Marketed.
+
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA201276 | CIDOFOVIR | MYLAN INSTITUTIONAL | Solution; intravenous | Valid |
+| ANDA202501 | CIDOFOVIR | AVET LIFESCIENCES | Solution; intravenous | Valid |
+| NDA020638 | VISTIDE | GILEAD SCIENCES INC | Solution; intravenous | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

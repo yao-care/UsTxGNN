@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "ATORVASTATIN"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atorvastatin: predicted new indication HIV infectious disease (evidence level L2). In the US: 43 FDA applications (32 active)"
 ---
 
@@ -94,15 +94,21 @@ Of the 14 trials identified, the most relevant are listed below. Most are small,
 
 ## US Market Information
 
-The licence records may be partial. All are generic (ANDA) products and none carries indication text in the local data.
+All are generic (ANDA) products and none carries indication text in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA091226 | Atorvastatin Calcium | Tablet, film coated | Mylan Pharmaceuticals Inc. |
-| ANDA206536 | Atorvastatin Calcium | Tablet | Zydus Pharmaceuticals USA Inc. |
-| ANDA205300 | Atorvastatin Calcium | Tablet, film coated | Teva Pharmaceuticals USA, Inc. |
-| ANDA204991 | Atorvastatin Calcium | Tablet | Bryant Ranch Prepack |
-| ANDA213853 | Atorvastatin Calcium | Tablet | Preferred Pharmaceuticals Inc. |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077575 | ATORVASTATIN CALCIUM | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA090548 | ATORVASTATIN CALCIUM | APOTEX INC | Tablet; oral | Valid |
+| ANDA091226 | ATORVASTATIN CALCIUM | MYLAN PHARMS INC | Tablet; oral | Valid |
+| ANDA091624 | ATORVASTATIN CALCIUM | LANNETT CO INC | Tablet; oral | Valid |
+| ANDA091650 | ATORVASTATIN CALCIUM | DR REDDYS LABS LTD | Tablet; oral | Valid |
+
+Showing 5 of 43 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

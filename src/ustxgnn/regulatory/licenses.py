@@ -133,6 +133,10 @@ def page_problems(stem: str, text: str) -> list[str]:
                     errs.append(f"程式區塊的 SHOW 句應為「{want[0] if want else '（無）'}」")
         elif any(x.strip() == s.HEAD for x in sec):
             errs.append("程式表沒有程式區塊標記（跑 python3 scripts/sync_license_tables.py --mark-existing）")
+        # 2026-11-24（用戶決定）：市場段落的許可證表一律是程式表；段落裡不准再有模型寫的許可證表（表頭 Authorization Number／Licence…）
+        out_blk = sec[:sec.index(s.BEGIN)] + sec[sec.index(s.END) + 1:] if has_b and has_e else sec
+        if any(s.AI_HEAD.match(x) for x in out_blk):
+            errs.append("市場段落有模型寫的許可證表（不是程式區塊；跑 python3 scripts/sync_license_tables.py --migrate --ws <工作目錄>）")
     fc = e.get("facts")
     if fc:
         all_rows = [r for t in _tables(lines) for r in _rows(t)]

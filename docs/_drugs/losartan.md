@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 872
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LOSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
 description: "Losartan: predicted new indication Malignant hypertensive renal disease (evidence level L4). In the US: 46 FDA applications (30 active)"
@@ -93,13 +93,19 @@ No approved indication text is available in the compiled data.
 
 <!-- review:end us-lic-20261106-losartan-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA203835 | Losartan Potassium (PD-Rx Pharmaceuticals) | Tablet, film coated | Not available |
-| ANDA078243 | Losartan Potassium (Zydus Lifesciences) | Tablet, film coated | Not available |
-| ANDA090382 | Losartan Potassium (PD-Rx Pharmaceuticals) | Tablet, film coated | Not available |
-| ANDA090083 | Losartan Potassium (Aphena Pharma Solutions) | Tablet, film coated | Not available |
-| ANDA217396 | Losartan Potassium (Novadoz Pharmaceuticals) | Tablet, film coated | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077424 | LOSARTAN POTASSIUM | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA078232 | LOSARTAN POTASSIUM | LUPIN LTD | Tablet; oral | Valid |
+| ANDA078243 | LOSARTAN POTASSIUM | ZYDUS PHARMS USA INC | Tablet; oral | Valid |
+| ANDA090083 | LOSARTAN POTASSIUM | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA090382 | LOSARTAN POTASSIUM | STRIDES PHARMA | Tablet; oral | Valid |
+
+Showing 5 of 46 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

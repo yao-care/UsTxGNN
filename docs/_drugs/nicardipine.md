@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 964
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "NICARDIPINE"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome"]
 description: "Nicardipine: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). In the US: 30 FDA applications (20 active)"
@@ -97,13 +97,19 @@ No randomized controlled trials or human studies in pulmonary hypertension were 
 
 Five representative entries:
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019734 | CARDENE IV (Baxter Healthcare) | Injection, solution | Not listed in the data |
-| NDA022276 | Nicardipine Hydrochloride (Hikma) | Injection | Not listed in the data |
-| ANDA218638 | Nicardipine Hydrochloride (Zydus) | Capsule | Not listed in the data |
-| ANDA216420 | Nicardipine Hydrochloride (Armas) | Injection | Not listed in the data |
-| ANDA217548 | Nicardipine Hydrochloride (Fresenius Kabi) | Injection | Not listed in the data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074670 | NICARDIPINE HYDROCHLORIDE | ANI PHARMS | Capsule; oral | Valid |
+| ANDA074928 | NICARDIPINE HYDROCHLORIDE | EPIC PHARMA LLC | Capsule; oral | Valid |
+| ANDA090534 | NICARDIPINE HYDROCHLORIDE | AM REGENT | Injectable; injection | Valid |
+| ANDA090664 | NICARDIPINE HYDROCHLORIDE | SOMERSET THERAPS LLC | Injectable; injection | Valid |
+| ANDA090671 | NICARDIPINE HYDROCHLORIDE | MANKIND PHARMA | Injectable; injection | Valid |
+
+Showing 5 of 30 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Both oral (capsule) and injectable forms exist among the listed licenses.
 

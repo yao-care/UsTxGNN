@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Baricitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Baricitinib: predicted new indication colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). In the US: 3 FDA applications (2 active), plus 1 OTC monograph/unapproved NDC listing"
 ---
 
@@ -82,10 +82,16 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA207924 | Olumiant | Tablet, film coated | Not recorded in the local data |
-| Not recorded | Baricitinib | Tablet, film coated | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA217585 | OLUMIANT | MSN | Tablet; oral | Valid |
+| NDA207924 | OLUMIANT | ELI LILLY AND CO | Tablet; oral | Valid |
+| ANDA217542 | BARICITINIB | AUROBINDO PHARMA LTD | Tablet; oral | Discontinued in Drugs@FDA |
+| NDC 0002-6885 | Baricitinib | Eli Lilly and Company | Tablet, film coated | NDC listing, no FDA application (emergency use authorization) |
+
+<!-- licenses:end -->
 
 ---
 

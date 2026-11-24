@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ITRACONAZOLE"
 predicted_indications: ["pneumocystosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Itraconazole: predicted new indication Pneumocystosis (evidence level L5). In the US: 20 FDA applications (12 active)"
 ---
 
@@ -90,13 +90,19 @@ No study listed below tests itraconazole for Pneumocystis treatment. Study types
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA208901 | Tolsura (Mayne Pharma) | Capsule, gelatin coated | Not available |
-| NDA020083 | Itraconazole (Patriot Pharmaceuticals) | Capsule | Not available |
-| ANDA208591 | Itraconazole (Ascend Laboratories) | Capsule, coated pellets | Not available |
-| ANDA212239 | Itraconazole (Camber Pharmaceuticals) | Solution | Not available |
-| ANDA206741 | Itraconazole (Alembic Pharmaceuticals) | Capsule | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076104 | ITRACONAZOLE | SANDOZ | Capsule; oral | Valid |
+| ANDA204672 | ITRACONAZOLE | ZYDUS PHARMS | Capsule; oral | Valid |
+| ANDA205080 | ITRACONAZOLE | AMNEAL PHARMS | Capsule; oral | Valid |
+| ANDA205573 | ITRACONAZOLE | AMNEAL PHARMS | Solution; oral | Valid |
+| ANDA205724 | ITRACONAZOLE | RISING | Capsule; oral | Valid |
+
+Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

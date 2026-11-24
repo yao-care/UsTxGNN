@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 484
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Caffeine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, migraine, pharyngitis…"
 monitor_inn: "CAFFEINE"
 predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
@@ -79,13 +79,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020793 | CAFCIT | Injection | Not available |
-| ANDA077233 | Caffeine citrate | Injection | Not available |
-| ANDA207400 | Caffeine citrate | Injection, solution | Not available |
-| ANDA213202 | Caffeine citrate | Solution | Not available |
-| part340 | Alert | Tablet, film coated | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077233 | CAFFEINE CITRATE | EXELA PHARMA SCIENCE | Solution; intravenous | Valid |
+| ANDA077304 | CAFFEINE CITRATE | EXELA PHARMA | Solution; oral | Valid |
+| ANDA077906 | CAFFEINE CITRATE | AM REGENT | Solution; intravenous | Valid |
+| ANDA077997 | CAFFEINE CITRATE | FRESENIUS KABI USA | Solution; intravenous | Valid |
+| ANDA078002 | CAFFEINE CITRATE | FRESENIUS KABI USA | Solution; oral | Valid |
+
+Showing 5 of 462 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Three further cancelled records (M011 Stay Awake, 505G(a)(3) Stay Awake, and the Caffeinum pellet) are not listed here.
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 633
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DULOXETINE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
 description: "Duloxetine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). In the US: 29 FDA applications (21 active)"
@@ -77,13 +77,19 @@ The drug is marketed in the US. No approved-indication text is recorded.
 
 <!-- review:end us-lic-20261106-duloxetine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| ANDA203197 | Duloxetine | Delayed-release capsule | Ascend Laboratories, LLC | Valid |
-| ANDA090694 | Duloxetine | Delayed-release capsule | A-S Medication Solutions | Valid |
-| NDA212516 | Drizalma Sprinkle | Delayed-release capsule | Sun Pharmaceutical Industries, Inc. | Valid |
-| ANDA090776 | Duloxetine | Delayed-release capsule pellets | Preferred Pharmaceuticals Inc. | Valid |
-| ANDA090739 | Duloxetine | Delayed-release capsule | Zydus Lifesciences Limited | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090694 | DULOXETINE HYDROCHLORIDE | LUPIN | Capsule, delayed rel pellets; oral | Valid |
+| ANDA090728 | DULOXETINE HYDROCHLORIDE | ZYDUS PHARMS | Capsule, delayed rel pellets; oral | Valid |
+| ANDA090739 | DULOXETINE HYDROCHLORIDE | ZYDUS HLTHCARE | Capsule, delayed rel pellets; oral | Valid |
+| ANDA090776 | DULOXETINE HYDROCHLORIDE | ACTAVIS ELIZABETH | Capsule, delayed rel pellets; oral | Valid |
+| ANDA090778 | DULOXETINE HYDROCHLORIDE | AUROBINDO PHARMA LTD | Capsule, delayed rel pellets; oral | Valid |
+
+Showing 5 of 29 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

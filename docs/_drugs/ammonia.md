@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "AMMONIA"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Ammonia: predicted new indication acrodermatitis chronica atrophicans (evidence level L5). In the US: no FDA-approved application; 33 OTC monograph/unapproved NDC listings"
 ---
 
@@ -70,10 +70,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M011 | UpSniff Smelling Salts | Powder | Not recorded |
-| Not available | Ammonium Causticum | Pellet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0924-5401 | First Aid Only Ammonia Inhalants | Acme United Corporation | Inhalant | NDC listing, no FDA application (unapproved drug other) |
+| NDC 37662-3616 | Ammonium Causticum | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 37662-3617 | Ammonium Causticum | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 37662-3618 | Ammonium Causticum | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 37662-3619 | Ammonium Causticum | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 33 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 At least 2 records are listed, and the list may be partial. Both listed licences are single-ingredient products. Their status in the licence records is cancelled, although overall market status is recorded as Marketed, so the status information should be verified before any decision relies on it.
 

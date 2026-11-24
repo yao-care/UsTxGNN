@@ -76,13 +76,19 @@ Twelve US licence records were compiled, and the list may be partial. The licenc
 
 <!-- review:end us-lic-20261124-celecoxib-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA020998 | CELEBREX | Capsule | Viatris Specialty LLC |
-| ANDA205129 | Celecoxib | Capsule | Radha Pharmaceuticals, Inc. |
-| ANDA204776 | CELECOXIB | Capsule | Northwind Health Company, LLC |
-| ANDA204519 | Celecoxib | Capsule | Alembic Pharmaceuticals Inc. |
-| ANDA207446 | CELECOXIB | Capsule | Cipla USA Inc. |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076898 | CELECOXIB | TEVA | Capsule; oral | Valid |
+| ANDA200562 | CELECOXIB | WATSON LABS INC | Capsule; oral | Valid |
+| ANDA202240 | CELECOXIB | LUPIN | Capsule; oral | Valid |
+| ANDA204197 | CELECOXIB | APOTEX | Capsule; oral | Valid |
+| ANDA204519 | CELECOXIB | ALEMBIC | Capsule; oral | Valid |
+
+Showing 5 of 32 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CLOPIDOGREL"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clopidogrel: predicted new indication Migraine with brainstem aura (evidence level L5). In the US: 26 FDA applications (17 active)"
 ---
 
@@ -104,13 +104,19 @@ No clinical trials are registered for the top-ranked prediction (migraine with b
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020839 | Plavix (Sanofi-Aventis U.S. LLC) | Film-coated tablet | Not available |
-| ANDA076274 | Clopidogrel (American Health Packaging) | Film-coated tablet | Not available |
-| ANDA076999 | Clopidogrel (NuCare Pharmaceuticals) | Film-coated tablet | Not available |
-| ANDA090540 | Clopidogrel (Legacy Pharmaceutical Packaging) | Film-coated tablet | Not available |
-| ANDA202928 | Clopidogrel (Macleods Pharmaceuticals) | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076273 | CLOPIDOGREL BISULFATE | DR REDDYS | Tablet; oral | Valid |
+| ANDA076274 | CLOPIDOGREL BISULFATE | APOTEX INC | Tablet; oral | Valid |
+| ANDA076999 | CLOPIDOGREL BISULFATE | TEVA | Tablet; oral | Valid |
+| ANDA078004 | CLOPIDOGREL BISULFATE | PHARMAZONE | Tablet; oral | Valid |
+| ANDA090540 | CLOPIDOGREL BISULFATE | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

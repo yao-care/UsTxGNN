@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ERTAPENEM"
 predicted_indications: ["bacterial arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ertapenem: predicted new indication Bacterial arthritis (evidence level L5). In the US: 7 FDA applications (6 active)"
 ---
 
@@ -90,13 +90,19 @@ The first five are listed below.
 
 <!-- review:end us-lic-20261105-ertapenem-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|-----------|------|
-| NDA021337 | INVANZ | Injection, powder, lyophilized, for solution | Merck Sharp & Dohme LLC | Valid |
-| ANDA218067 | Ertapenem | Injection, powder, lyophilized, for solution | Qilu Antibiotics Pharmaceutical Co., Ltd. | Valid |
-| ANDA208790 | Ertapenem | Injection, powder, lyophilized, for solution | Fresenius Kabi USA, LLC | Valid |
-| ANDA207647 | Ertapenem | Injection | Savior Lifetec Corporation | Valid |
-| ANDA212040 | Ertapenem | Injection, powder, lyophilized, for solution | Fosun Pharma USA Inc | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA207647 | ERTAPENEM SODIUM | SAVIOR LIFETEC CORP | Injectable; intramuscular, intravenous | Valid |
+| ANDA208790 | ERTAPENEM SODIUM | ACS DOBFAR SPA | Injectable; intramuscular, intravenous | Valid |
+| ANDA209133 | ERTAPENEM SODIUM | EUGIA PHARMA | Injectable; intramuscular, intravenous | Valid |
+| ANDA212040 | ERTAPENEM SODIUM | GLAND | Injectable; intramuscular, intravenous | Valid |
+| ANDA218067 | ERTAPENEM SODIUM | QILU ANTIBIOTICS | Injectable; intramuscular, intravenous | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 424
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atomoxetine: predicted new indication Specific developmental disorder (evidence level L4). Approved use: Attention deficit hyperactivity disorder (including the inattentive t…"
 monitor_inn: "ATOMOXETINE"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
@@ -98,13 +98,19 @@ The approved indication text is not specified in the compiled data.
 
 <!-- review:end us-lic-20261106-atomoxetine-3 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| ANDA079021 | Atomoxetine | Capsule | Bryant Ranch Prepack | Valid |
-| ANDA079016 | Atomoxetine | Capsule | Rising Pharma Holdings, Inc. | Valid |
-| ANDA078983 | Atomoxetine Hydrochloride | Capsule | Golden State Medical Supply, Inc. | Valid |
-| ANDA202682 | Atomoxetine | Capsule | Camber Pharmaceuticals, Inc. | Valid |
-| ANDA079019 | Atomoxetine | Capsule | Glenmark Pharmaceuticals Inc., USA | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078983 | ATOMOXETINE HYDROCHLORIDE | APOTEX | Capsule; oral | Valid |
+| ANDA079016 | ATOMOXETINE HYDROCHLORIDE | AUROBINDO PHARMA | Capsule; oral | Valid |
+| ANDA079017 | ATOMOXETINE HYDROCHLORIDE | ZYDUS PHARMS USA INC | Capsule; oral | Valid |
+| ANDA079019 | ATOMOXETINE HYDROCHLORIDE | GLENMARK PHARMS LTD | Capsule; oral | Valid |
+| ANDA079021 | ATOMOXETINE HYDROCHLORIDE | STRIDES PHARMA | Capsule; oral | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

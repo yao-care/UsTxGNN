@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 992
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "OMALIZUMAB"
 predicted_indications: ["bronchitis", "atopic eczema", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
 description: "Omalizumab: predicted new indication Bronchitis (evidence level L5). In the US: 2 FDA applications (2 active)"
@@ -79,10 +79,14 @@ Any benefit in bronchitis would most likely be indirect, for example in people w
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA103976 | Xolair PFS (Genentech, Inc.) | Injection, solution | Not listed; status valid |
-| BLA761399 | Omalizumab-igec (CELLTRION, Inc.) | Injection | Not listed; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA103976 | XOLAIR | GENENTECH | Vial | Valid |
+| BLA761399 | OMLYCLO | CELLTRION INC | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

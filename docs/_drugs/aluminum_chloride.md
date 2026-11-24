@@ -105,11 +105,19 @@ Trials retrieved for skin disease:
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M019 | Duradry Sweat Minimizing Gel | Gel | Not specified (valid) |
-| M017 | Certain Dri Clinical Strength Prescription Protection Rollon | Liquid | Not specified (valid) |
-| Not available | Antiperspirant Antisudorifique | Spray | Not specified (cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0096-0709 | Xerac AC | Person and Covey | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 10129-017 | Gingi-Aid Solution | Gingi-Pak a Division of the Belport | Solution | NDC listing, no FDA application (unapproved drug other) |
+| NDC 10733-412 | lumicain | Medical Products Laboratories, Inc. | Solution | NDC listing, no FDA application (unapproved drug other) |
+| NDC 37662-2702 | Aluminum Muriaticum | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 37662-2703 | Aluminum Muriaticum | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 42 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

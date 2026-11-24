@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 495
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carbamazepine: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy"
 monitor_inn: "CARBAMAZEPINE"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
@@ -92,7 +92,7 @@ The 20 retrieved publications consist of reviews, case reports and one animal st
 
 ## US Market Information
 
-The records contain no approved indication text. The five main authorizations are listed below.
+The records contain no approved indication text.
 
 <!-- review:begin us-lic-20261106-carbamazepine-2 -->
 
@@ -100,13 +100,19 @@ The records contain no approved indication text. The five main authorizations ar
 
 <!-- review:end us-lic-20261106-carbamazepine-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021710 | EQUETRO | Capsule, extended release | Not listed in the records |
-| NDA020712 | Carbatrol | Capsule, extended release | Not listed in the records |
-| ANDA075687 | Carbamazepine | Tablet, chewable | Not listed in the records |
-| ANDA070541 | Carbamazepine | Tablet | Not listed in the records |
-| ANDA205571 | Carbamazepine | Tablet, extended release | Not listed in the records |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA073524 | EPITOL | TEVA | Tablet, chewable; oral | Valid |
+| ANDA074649 | CARBAMAZEPINE | TARO | Tablet; oral | Valid |
+| ANDA075687 | CARBAMAZEPINE | TARO PHARM INDS | Tablet, chewable; oral | Valid |
+| ANDA075712 | CARBAMAZEPINE | TORRENT PHARMS | Tablet, chewable; oral | Valid |
+| ANDA075714 | CARBAMAZEPINE | CHARTWELL RX | Suspension; oral | Valid |
+
+Showing 5 of 52 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

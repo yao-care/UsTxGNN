@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 658
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ephedrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, rhinitis…"
 monitor_inn: "EPHEDRINE"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
@@ -85,13 +85,19 @@ The five main entries are shown below.
 
 <!-- review:end us-lic-20261105-ephedrine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA213994 | Ephedrine Sulfate (ENDO USA, Inc.) | Injection | Not recorded |
-| NDA213407 | Emerphed (Nexus Pharmaceuticals) | Injection | Not recorded |
-| NDA208943 | Ephedrine Sulfate (HealthFirst) | Injection, solution | Not recorded |
-| NDA208289 | Akovaz (Exela Pharma Sciences) | Injection | Not recorded |
-| M012 | Ephedrine Sulfate (CVS Pharmacy) | Film-coated tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA209646 | EPHEDRINE SULFATE | FRESENIUS KABI USA | Solution; intravenous | Valid |
+| ANDA209784 | EPHEDRINE SULFATE | SANDOZ | Solution; intravenous | Valid |
+| ANDA212649 | EPHEDRINE SULFATE | DR REDDYS | Solution; intravenous | Valid |
+| ANDA212932 | EPHEDRINE SULFATE | AMNEAL | Solution; intravenous | Valid |
+| ANDA214334 | EPHEDRINE SULFATE | HIKMA | Solution; intravenous | Valid |
+
+Showing 5 of 29 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Most licenses are for injectable products. Only one is an oral tablet, and none is a nasal formulation. This is a route mismatch with the predicted nasal indication.
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 915
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "METHYLENE BLUE"
 predicted_indications: ["bronchitis"]
 description: "Methylene Blue: predicted new indication Bronchitis (evidence level L5). In the US: 8 FDA applications (8 active), plus 15 OTC monograph/unapproved NDC listings"
@@ -92,13 +92,19 @@ None of these publications shows therapeutic benefit of methylene blue in bronch
 
 All 10 US authorizations are listed as valid, the drug is marketed, and no approved indication text is recorded for them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA204630 | PROVAYBLUE (American Regent) | Injection | Not recorded |
-| ANDA216959 | Methylene blue (Hikma) | Injection, solution | Not recorded |
-| ANDA217561 | Methylene Blue (Nexus) | Injection, solution | Not recorded |
-| ANDA215636 | Methylene blue (Zydus) | Injection | Not recorded |
-| ANDA216955 | Methylene blue (Steriscience) | Injection, solution | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA215636 | METHYLENE BLUE | ZYDUS LIFESCIENCES | Solution; intravenous | Valid |
+| ANDA216955 | METHYLENE BLUE | STERISCIENCE | Solution; intravenous | Valid |
+| ANDA216959 | METHYLENE BLUE | HIKMA | Solution; intravenous | Valid |
+| ANDA217380 | METHYLENE BLUE | MEITHEAL | Solution; intravenous | Valid |
+| ANDA217561 | METHYLENE BLUE | NEXUS | Solution; intravenous | Valid |
+
+Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All available forms are injectable or topical solution, which may not suit a respiratory indication such as bronchitis.
 

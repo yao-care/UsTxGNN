@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "AMPHETAMINE"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "trichotillomania", "postural orthostatic tachycardia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amphetamine: predicted new indication faciodigitogenital syndrome (evidence level L5). In the US: 70 FDA applications (48 active)"
 ---
 
@@ -71,13 +71,19 @@ Currently no related literature available.
 
 Ten US records for single-ingredient amphetamine products are in the local data; the list may be partial. None carries approved-indication text, and the records are shown below as compiled.
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| ANDA211861 | Amphetamine Sulfate | Tablet |
-| NDA204326 | Amphetamine Extended-Release | Orally disintegrating tablet |
-| ANDA200166 | Amphetamine Sulfate | Tablet |
-| ANDA212901 | Amphetamine Sulfate | Tablet |
-| NDA210526 | DYANAVEL XR | Extended-release tablet |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA200166 | EVEKEO | AZURITY | Tablet; oral | Valid |
+| ANDA209253 | AMPHETAMINE | ACTAVIS LABS FL INC | Tablet, orally disintegrating, extended release; oral | Valid |
+| ANDA211139 | AMPHETAMINE SULFATE | AMNEAL PHARMS | Tablet; oral | Valid |
+| ANDA211639 | AMPHETAMINE SULFATE | AUROLIFE PHARMA LLC | Tablet; oral | Valid |
+| ANDA211861 | AMPHETAMINE SULFATE | PRINSTON | Tablet; oral | Valid |
+
+Showing 5 of 70 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

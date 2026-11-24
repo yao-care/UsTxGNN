@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1070
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "POTASSIUM IODIDE"
 predicted_indications: ["nasal cavity disease"]
 description: "Potassium Iodide: predicted new indication Nasal cavity disease (evidence level L4). In the US: 6 FDA applications (3 active), plus 169 OTC monograph/unapproved NDC listings"
@@ -85,12 +85,19 @@ No approved indication text is available for them.
 
 <!-- review:end us-lic-20261105-potassium_iodide-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018664 | IOSAT (Anbex Inc.) | Tablet | Not available (valid) |
-| ANDA076350 | Thyrosafe (BTG International Inc) | Tablet | Not available (valid) |
-| ANDA206211 | Potassium Iodide (Mission Pharmacal Company) | Solution | Not available (valid) |
-| Not assigned | Kali Iodatum (Hahnemann Laboratories, Inc.) | Pellet | Not available (cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076350 | THYROSAFE | BTG INTL | Tablet; oral | Valid |
+| ANDA206211 | POTASSIUM IODIDE | MISSION PHARMACAL | Solution; oral | Valid |
+| NDA018664 | IOSAT | ANBEX | Tablet; oral | Valid |
+| ANDA077218 | THYROSHIELD | ARCO PHARMS LLC | Solution; oral | Discontinued in Drugs@FDA |
+| NDA018307 | THYRO-BLOCK | MEDA PHARMS | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 175 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

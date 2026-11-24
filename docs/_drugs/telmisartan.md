@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1206
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TELMISARTAN"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
 description: "Telmisartan: predicted new indication Prinzmetal angina (evidence level L5). In the US: 36 FDA applications (22 active)"
@@ -129,13 +129,19 @@ The approved indication text is not available.
 
 <!-- review:end us-lic-20261106-telmisartan-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA202397 | Telmisartan (A-S Medication Solutions) | Tablet | Not available (valid) |
-| ANDA205150 | Telmisartan (Bryant Ranch Prepack) | Tablet | Not available (valid) |
-| ANDA203986 | Telmisartan (NorthStar Rx LLC) | Tablet | Not available (valid) |
-| ANDA208605 | Telmisartan (Bryant Ranch Prepack) | Tablet | Not available (valid) |
-| ANDA090032 | Telmisartan (Glenmark Pharmaceuticals Inc., USA) | Tablet | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078710 | TELMISARTAN | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA090032 | TELMISARTAN | GLENMARK PHARMS LTD | Tablet; oral | Valid |
+| ANDA202130 | TELMISARTAN | ALEMBIC | Tablet; oral | Valid |
+| ANDA202397 | TELMISARTAN | MYLAN | Tablet; oral | Valid |
+| ANDA203171 | TELMISARTAN | TORRENT | Tablet; oral | Valid |
+
+Showing 5 of 36 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

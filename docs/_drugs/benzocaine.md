@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BENZOCAINE"
 predicted_indications: ["papillary conjunctivitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Benzocaine: predicted new indication papillary conjunctivitis (evidence level L5). In the US: no FDA-approved application; 590 OTC monograph/unapproved NDC listings"
 ---
 
@@ -72,14 +72,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M022 | Kank-A | Liquid | Not recorded in the data |
-| M017 | INTIMALE Benzocaine Delay Gel | Gel | Not recorded in the data |
-| part348 | Preboost | Liquid | Not recorded in the data |
-| M004 | Brace Relief | Gel | Not recorded in the data |
+<!-- licenses:begin -->
 
-The list of records may be partial.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0121-1077 | Benzocaine 20% | PAI Holdings, LLC dba PAI Pharma | Solution | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0283-0220 | HurriCaine Topical Anesthetic | Beutlich Pharmaceuticals, LLC | Gel | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0283-0293 | HurriCaine Topical Anesthetic Gel | Beutlich Pharmaceuticals, LLC | Gel | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0283-0520 | HurriCaine Topical Anesthetic | Beutlich Pharmaceuticals, LLC | Gel | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0283-0522 | HurriCaine Topical Anesthetic | Beutlich Pharmaceuticals, LLC | Gel | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 590 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BIOTIN"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Biotin: predicted new indication Dyspepsia (evidence level L5). Approved use: Nutritional biotin deficiency"
 ---
 
@@ -86,11 +86,19 @@ None of these studies tests biotin as a treatment for dyspepsia.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA nan | Biotin Drops | Liquid | Not specified (cancelled) |
-| M032 | AVEYA BIOTIN HAIR GROWTH | Liquid | Not specified (valid) |
-| 505G(a)(3) | 5% Minoxidil Hair Growth Foam with Biotin | Aerosol, foam | Not specified (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA210273 | MULTIPLE VITAMINS INJECTION ADULT | APOTEX | Solution; intravenous | Valid |
+| ANDA210456 | MULTIPLE VITAMINS INJECTION PEDIATRIC (PHARMACY BULK PACKAGE) | APOTEX | Injectable; intravenous | Valid |
+| ANDA210671 | MULTIPLE VITAMINS INJECTION PEDIATRIC | APOTEX | Injectable; intravenous | Valid |
+| ANDA210672 | MULTIPLE VITAMINS INJECTION ADULT | APOTEX | Solution; intravenous | Valid |
+| NDA021163 | INFUVITE ADULT | SANDOZ CANADA INC | Solution; intravenous | Valid |
+
+Showing 5 of 132 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

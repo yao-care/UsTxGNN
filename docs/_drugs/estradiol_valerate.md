@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ESTRADIOL VALERATE"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "anovulation", "ovarian remnant syndrome", "luteoma of pregnancy", "ovarian dysfunction"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Estradiol Valerate: predicted new indication Symptomatic form of fragile X syndrome in female carrier (evidence level L5). In the US: 13 FDA applications (6 active)"
 ---
 
@@ -95,12 +95,19 @@ Most of the remaining retrieved publications are rodent PCOS-model studies in wh
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA009402 | Delestrogen (Par Health USA, LLC) | Injection | Not available (valid) |
-| ANDA203723 | Estradiol Valerate (Hikma Pharmaceuticals USA Inc.) | Injection | Not available (valid) |
-| ANDA216656 | Estradiol valerate (Xiromed, LLC) | Injection | Not available (valid) |
-| ANDA090920 | Estradiol Valerate (American Regent, Inc.) | Injection, solution | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090920 | ESTRADIOL VALERATE | AM REGENT | Injectable; injection | Valid |
+| ANDA203723 | ESTRADIOL VALERATE | HIKMA | Injectable; injection | Valid |
+| ANDA216656 | ESTRADIOL VALERATE | XIROMED | Injectable; injection | Valid |
+| NDA009402 | DELESTROGEN | PH HEALTH | Injectable; injection | Valid |
+| ANDA202349 | ESTRADIOL VALERATE AND DIENOGEST | WATSON LABS INC | Tablet; oral | Valid |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

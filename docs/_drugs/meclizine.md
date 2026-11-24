@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "MECLIZINE"
 predicted_indications: ["allergic urticaria", "common cold", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "cold urticaria"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Meclizine: predicted new indication Allergic urticaria (evidence level L5). Approved use: Central nervous system origin vertigo"
 ---
 
@@ -89,13 +89,19 @@ No approved indication text is recorded for any of them.
 
 <!-- review:end us-lic-20261106-meclizine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| M009 | Dramamine Less Drowsy Meclizine Hydrochloride | Tablet | Valid |
-| NDA010721 | Meclizine Hydrochloride | Tablet | Valid |
-| ANDA213957 | Meclizine Hydrochloride | Tablet | Valid |
-| part336 | Motion Sickness Relief | Chewable tablet | Valid |
-| ANDA201451 | Meclizine Hydrochloride | Tablet | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040659 | MECLIZINE HYDROCHLORIDE | JUBILANT CADISTA | Tablet; oral | Valid |
+| ANDA084092 | MECLIZINE HYDROCHLORIDE | QUAGEN | Tablet; oral | Valid |
+| ANDA084843 | MECLIZINE HYDROCHLORIDE | SANDOZ | Tablet; oral | Valid |
+| ANDA087128 | MECLIZINE HYDROCHLORIDE | PHARMAZONE | Tablet; oral | Valid |
+| ANDA200294 | MECLIZINE HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Valid |
+
+Showing 5 of 128 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All available forms are oral.
 

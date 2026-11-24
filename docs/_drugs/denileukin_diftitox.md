@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DENILEUKIN DIFTITOX"
 predicted_indications: ["plasmacytoma", "neurolymphomatosis", "Richter syndrome", "metastatic neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Denileukin Diftitox: predicted new indication Metastatic neoplasm (evidence level L5). Approved use: Primary cutaneous T-cell lymphoma (primary cutaneous T-cell non-Hodgk…"
 ---
 
@@ -90,9 +90,14 @@ The results are inconsistent, however. One study found that the fusion protein f
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761312 | LYMPHIR (Citius Pharmaceuticals, Inc.) | Lyophilized powder for injection | Not listed in the data compiled; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA103767 | ONTAK | EISAI INC | Vial | Valid |
+| BLA761312 | LYMPHIR | CITIUS PHARMS | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

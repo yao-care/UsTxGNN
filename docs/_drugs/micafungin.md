@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "MICAFUNGIN"
 predicted_indications: ["urinary tract infection (disease)"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Micafungin: predicted new indication urinary tract infection (evidence level L3). Approved use: Esophageal candidiasis, candidemia, disseminated candidiasis"
 ---
 
@@ -103,13 +103,19 @@ The drug is marketed in the US. The approved indication text was not available i
 
 <!-- review:end us-lic-20261106-micafungin-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021506 | Mycamine (Astellas Pharma US) | Injection, powder, lyophilized, for solution | Not available |
-| NDA216142 | Micafungin in Sodium Chloride (Baxter Healthcare) | Injection | Not available |
-| NDA212156 | Micafungin (Par Health USA) | Injection, powder, lyophilized, for solution | Not available |
-| ANDA207344 | Micafungin (Fresenius Kabi USA) | Injection, powder, lyophilized, for solution | Not available |
-| ANDA213363 | Micafungin (Sagent Pharmaceuticals) | Injection, powder, lyophilized, for solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA207344 | MICAFUNGIN SODIUM | FRESENIUS KABI USA | Injectable; intravenous | Valid |
+| ANDA211713 | MICAFUNGIN SODIUM | XELLIA PHARMS APS | Injectable; intravenous | Valid |
+| ANDA213261 | MICAFUNGIN SODIUM | HIKMA | Injectable; intravenous | Valid |
+| ANDA213363 | MICAFUNGIN SODIUM | JIANGSU HANSOH PHARM | Injectable; intravenous | Valid |
+| ANDA215241 | MICAFUNGIN SODIUM | ZYDUS PHARMS | Injectable; intravenous | Valid |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

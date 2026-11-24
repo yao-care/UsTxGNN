@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 598
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DEXTROAMPHETAMINE"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "multiple system atrophy", "variably protease-sensitive prionopathy", "postural orthostatic tachycardia syndrome", "trichotillomania"]
 description: "Dextroamphetamine: predicted new indication Faciodigitogenital syndrome (evidence level L5). In the US: 87 FDA applications (47 active)"
@@ -69,15 +69,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA215401 | XELSTRYM | Extended-release patch | Not available (valid) |
-| NDA017078 | DEXEDRINE | Extended-release capsule | Not available (valid) |
-| ANDA090533 | Zenzedi | Tablet | Not available (valid) |
-| ANDA040776 | PROCENTRA | Solution | Not available (valid) |
-| ANDA203901 | Dextroamphetamine Sulfate | Extended-release capsule | Not available (valid) |
+<!-- licenses:begin -->
 
-Only the first 5 are listed here.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040361 | DEXTROAMPHETAMINE SULFATE | BARR | Tablet; oral | Valid |
+| ANDA040436 | DEXTROAMPHETAMINE SULFATE | SPECGX LLC | Tablet; oral | Valid |
+| ANDA040776 | DEXTROAMPHETAMINE SULFATE | PRASCO | Solution; oral | Valid |
+| ANDA076353 | DEXTROAMPHETAMINE SULFATE | SPECGX LLC | Capsule, extended release; oral | Valid |
+| ANDA090533 | DEXTROAMPHETAMINE SULFATE | AZURITY | Tablet; oral | Valid |
+
+Showing 5 of 87 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CARBOPLATIN"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carboplatin: predicted new indication rectum mucinous adenocarcinoma (evidence level L5). In the US: 37 FDA applications (14 active)"
 ---
 
@@ -79,6 +79,20 @@ Currently no related literature available.
 ## US Market Information
 
 Carboplatin is marketed in the United States as injectable products (injection solution and injection). The local records do not include approved-indication text, and the licence list may be partial.
+
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076517 | CARBOPLATIN | HOSPIRA | Injectable; intravenous | Valid |
+| ANDA077059 | CARBOPLATIN | HOSPIRA | Injectable; intravenous | Valid |
+| ANDA077244 | CARBOPLATIN | HIKMA | Injectable; intravenous | Valid |
+| ANDA077266 | CARBOPLATIN | FRESENIUS KABI USA | Injectable; intravenous | Valid |
+| ANDA077269 | CARBOPLATIN | PHARMACHEMIE BV | Injectable; intravenous | Valid |
+
+Showing 5 of 37 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

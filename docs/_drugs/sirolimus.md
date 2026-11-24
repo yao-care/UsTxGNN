@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1166
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SIROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
 description: "Sirolimus: predicted new indication Liposarcoma (evidence level L5). In the US: 16 FDA applications (15 active)"
@@ -92,13 +92,19 @@ None of these publications reports sirolimus given to patients with liposarcoma.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021110 | Sirolimus (Mylan) | Tablet, sugar coated | Not available |
-| NDA213478 | HYFTOR (Nobelpharma America) | Gel | Not available |
-| ANDA201676 | Sirolimus (Zydus) | Tablet, film coated | Not available |
-| ANDA214753 | Sirolimus (Ascend) | Tablet, film coated | Not available |
-| ANDA208691 | Sirolimus (Northstar Rx) | Tablet, film coated | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA201578 | SIROLIMUS | DR REDDYS | Tablet; oral | Valid |
+| ANDA201676 | SIROLIMUS | ZYDUS PHARMS | Tablet; oral | Valid |
+| ANDA208691 | SIROLIMUS | GLENMARK PHARMS LTD | Tablet; oral | Valid |
+| ANDA211040 | SIROLIMUS | NOVITIUM PHARMA | Solution; oral | Valid |
+| ANDA211212 | SIROLIMUS | AMNEAL | Solution; oral | Valid |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The records may be partial.
 

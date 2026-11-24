@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "BESIFLOXACIN"
 predicted_indications: ["bronchitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Besifloxacin: predicted new indication Bronchitis (evidence level L5). Approved use: Conjunctivitis"
 ---
 
@@ -77,9 +77,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022308 | Besivance (Bausch & Lomb Americas Inc.) | Suspension | Not specified in the compiled data (license status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA022308 | BESIVANCE | BAUSCH AND LOMB | Suspension/drops; ophthalmic | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

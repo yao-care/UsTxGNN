@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "RIFABUTIN"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "sclerosing cholangitis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "conjunctivitis", "leprosy", "endocarditis", "pneumocystosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rifabutin: predicted new indication HIV infectious disease (evidence level L5). In the US: 6 FDA applications (5 active)"
 ---
 
@@ -107,10 +107,19 @@ The publications are mainly reviews, cohort studies and pharmacokinetic work. No
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050689 | Rifabutin (Mylan Pharmaceuticals Inc.) | Capsule | Not available |
-| ANDA215041 | Rifabutin (ANI Pharmaceuticals, Inc.) | Capsule | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA212430 | RIFABUTIN | PHARMAZONE | Capsule; oral | Valid |
+| ANDA215041 | RIFABUTIN | NOVITIUM PHARMA | Capsule; oral | Valid |
+| ANDA219519 | RIFABUTIN | ZYDUS LIFESCIENCES | Capsule; oral | Valid |
+| NDA050689 | MYCOBUTIN | PFIZER | Capsule; oral | Valid |
+| NDA213004 | TALICIA | TALICIA HOLDINGS | Capsule, delayed release; oral | Valid |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The product is available as an oral capsule.
 

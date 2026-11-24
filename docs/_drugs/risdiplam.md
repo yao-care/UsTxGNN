@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "RISDIPLAM"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Risdiplam: predicted new indication acne (disease) (evidence level L5). Approved use: Spinal muscular atrophy"
 ---
 
@@ -72,10 +72,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA213535 | EVRYSDI | Powder, for solution | Not listed in the records (status: valid) |
-| NDA219285 | EVRYSDI | Tablet | Not listed in the records (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA213535 | EVRYSDI | GENENTECH INC | For solution; oral | Valid |
+| NDA219285 | EVRYSDI | GENENTECH INC | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 Both authorizations are held by Genentech, Inc.. The records should be checked against the current FDA database before any conclusion is drawn about market availability.
 

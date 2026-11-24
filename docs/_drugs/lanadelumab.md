@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "LANADELUMAB"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lanadelumab: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761090 | TAKHZYRO (Takeda Pharmaceuticals America, Inc.) | Solution (injection, solution) | Not specified in the data; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761090 | TAKHZYRO | DYAX CORP. | Solution; subcutaneous | Valid |
+
+<!-- licenses:end -->
 
 The local data lists one valid biologics licence, and the market status is marketed.
 

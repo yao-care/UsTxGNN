@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "LEVODOPA"
 predicted_indications: ["Rasmussen subacute encephalitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Levodopa: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Parkinson disease and related parkinsonian syndromes"
 ---
 
@@ -80,13 +80,19 @@ The main ones are shown below.
 
 <!-- review:end us-lic-20261106-levodopa-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA209184 | Inbrija | Capsule | Not stated |
-| NDA203312 | RYTARY | Capsule, extended release | Not stated |
-| ANDA077828 | Carbidopa and Levodopa | Tablet, extended release | Not stated |
-| ANDA078690 | Carbidopa and Levodopa | Tablet, orally disintegrating | Not stated |
-| ANDA214092 | Carbidopa and Levodopa | Tablet | Not stated |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA209184 | INBRIJA | MERZ | Powder; inhalation | Valid |
+| ANDA073589 | CARBIDOPA AND LEVODOPA | DR REDDYS LABS SA | Tablet; oral | Valid |
+| ANDA073607 | CARBIDOPA AND LEVODOPA | DR REDDYS LABS SA | Tablet; oral | Valid |
+| ANDA073618 | CARBIDOPA AND LEVODOPA | DR REDDYS LABS SA | Tablet; oral | Valid |
+| ANDA074260 | CARBIDOPA AND LEVODOPA | ACTAVIS ELIZABETH | Tablet; oral | Valid |
+
+Showing 5 of 70 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

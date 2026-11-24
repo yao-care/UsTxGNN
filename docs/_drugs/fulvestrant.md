@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "FULVESTRANT"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fulvestrant: predicted new indication HIV infectious disease (evidence level L4). Approved use: Not listed in the data compiled for this report (fulvestrant is widel…"
 ---
 
@@ -83,13 +83,19 @@ Approved indication text was not available.
 
 <!-- review:end us-lic-20261106-fulvestrant-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA021344 | FASLODEX | Injection | AstraZeneca Pharmaceuticals LP |
-| NDA210326 | Fulvestrant | Injection, solution | Fresenius Kabi USA, LLC |
-| ANDA215077 | Fulvestrant | Injection | Alembic Pharmaceuticals Inc. |
-| ANDA211422 | Fulvestrant | Injection, solution | Avenacy, Inc. |
-| ANDA205935 | Fulvestrant | Injection | Sandoz Inc |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205871 | FULVESTRANT | SAGENT PHARMS INC | Solution; intramuscular | Valid |
+| ANDA205935 | FULVESTRANT | SANDOZ | Solution; intramuscular | Valid |
+| ANDA207754 | FULVESTRANT | GLENMARK PHARMS | Solution; intramuscular | Valid |
+| ANDA209246 | FULVESTRANT | DR REDDYS | Solution; intramuscular | Valid |
+| ANDA209714 | FULVESTRANT | HBT LABS INC | Solution; intramuscular | Valid |
+
+Showing 5 of 19 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

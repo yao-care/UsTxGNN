@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "TROPICAMIDE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tropicamide: predicted new indication Cauda equina syndrome (evidence level L5). In the US: 17 FDA applications (7 active)"
 ---
 
@@ -76,13 +76,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA040064 | Tropicamide (Bausch & Lomb) | Ophthalmic solution/drops | Valid |
-| ANDA084306 | Mydriacyl (Alcon) | Ophthalmic solution/drops | Valid |
-| ANDA040067 | Tropicamide (Bausch & Lomb) | Ophthalmic solution/drops | Valid |
-| ANDA207524 | Tropicamide (Sportpharm) | Ophthalmic solution/drops | Valid |
-| ANDA084305 | Tropicamide (Sandoz) | Ophthalmic solution/drops | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040064 | TROPICAMIDE | BAUSCH AND LOMB | Solution/drops; ophthalmic | Valid |
+| ANDA040067 | TROPICAMIDE | BAUSCH AND LOMB | Solution/drops; ophthalmic | Valid |
+| ANDA040314 | TROPICACYL | EPIC PHARMA LLC | Solution/drops; ophthalmic | Valid |
+| ANDA040315 | TROPICACYL | RISING | Solution/drops; ophthalmic | Valid |
+| ANDA084305 | MYDRIACYL | SANDOZ | Solution/drops; ophthalmic | Valid |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Approved indication text is not available for these authorizations.
 

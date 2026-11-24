@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "HALCINONIDE"
 predicted_indications: ["annular atrophic lichen planus", "lichen planus pigmentosus", "hypertrophic lichen planus", "vulvar inverted follicular keratosis", "lichen planus pemphigoides", "alopecia areata", "telogen effluvium", "alopecia mucinosa", "hereditary hypotrichosis with recurrent skin vesicles", "Quinquaud's folliculitis decalvans"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Halcinonide: predicted new indication Annular atrophic lichen planus (evidence level L5). In the US: 9 FDA applications (5 active)"
 ---
 
@@ -111,12 +111,19 @@ The only publication found across the predicted indications relates to rank 6, a
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA017556 | Halcinonide (Sun Pharmaceutical Industries) | Cream | Not available; status valid |
-| ANDA217671 | Halcinonide Topical Solution (INA Pharmaceutics) | Solution | Not available; status valid |
-| NDA017823 | HALOG (E.R. Squibb & Sons) | Solution | Not available; status valid |
-| ANDA211027 | Halcinonide (Mylan Pharmaceuticals) | Cream | Not available; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA211027 | HALCINONIDE | MYLAN | Cream; topical | Valid |
+| ANDA214723 | HALCINONIDE | CHARTWELL RX | Cream; topical | Valid |
+| ANDA217671 | HALCINONIDE | ENCUBE | Solution; topical | Valid |
+| NDA017556 | HALOG | SUN PHARM INDS INC | Cream; topical | Valid |
+| NDA017823 | HALOG | SUN PHARM INDS INC | Solution; topical | Valid |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

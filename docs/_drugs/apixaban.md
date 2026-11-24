@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "APIXABAN"
 predicted_indications: ["migraine disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Apixaban: predicted new indication Migraine disorder (evidence level L5). In the US: 17 FDA applications (6 active)"
 ---
 
@@ -77,13 +77,19 @@ The available case reports point the other way. One describes migraine with aura
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA202155 | ELIQUIS (Cardinal Health 107) | Film-coated tablet | Not available |
-| ANDA210067 | Apixaban (Macleods) | Film-coated tablet | Not available |
-| ANDA209810 | Apixaban (Amneal) | Film-coated tablet | Not available |
-| NDA220073 | ELIQUIS SPRINKLE (E.R. Squibb & Sons) | Capsule | Not available |
-| ANDA209898 | Apixaban (Indoco Remedies) | Film-coated tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA209898 | APIXABAN | REGCON HOLDINGS | Tablet; oral | Valid |
+| ANDA210171 | APIXABAN | SUN PHARM INDUSTRIES | Tablet; oral | Valid |
+| ANDA210180 | APIXABAN | ACCORD HLTHCARE | Tablet; oral | Valid |
+| NDA202155 | ELIQUIS | BRISTOL MYERS SQUIBB | Tablet, for suspension; oral | Valid |
+| NDA220073 | ELIQUIS | BRISTOL | Suspension; oral | Valid |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Of the 5 licences listed, 3 are valid and 2 are cancelled.
 

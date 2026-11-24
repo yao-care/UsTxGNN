@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 647
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Elosulfase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Mucopolysaccharidosis (Morquio A syndrome, MPS IVA)"
 monitor_inn: "ELOSULFASE ALFA"
 predicted_indications: ["Scheie syndrome", "Hurler syndrome", "Sanfilippo syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-vocal cord paralysis syndrome", "ptosis-strabismus-ectopic pupils syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "congenital Horner syndrome (disease)"]
@@ -108,9 +108,13 @@ The publications below were linked to other predictions. They concern Morquio A 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125460 | VIMIZIM (BioMarin Pharmaceutical Inc.) | Injection, solution, concentrate | Not specified in the compiled data (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125460 | VIMIZIM | BIOMARIN PHARM | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ---
 

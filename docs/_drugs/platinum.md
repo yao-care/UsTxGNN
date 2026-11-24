@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "PLATINUM"
 predicted_indications: ["urinary bladder carcinoma", "infiltrating bladder urothelial carcinoma", "non-invasive bladder urothelial carcinoma", "bladder urachal urothelial carcinoma", "bladder signet ring cell adenocarcinoma", "bladder colonic type adenocarcinoma", "bladder colloid adenocarcinoma", "bladder mixed adenocarcinoma", "bladder clear cell adenocarcinoma", "urinary bladder neoplasm"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Platinum: predicted new indication Urinary bladder carcinoma (evidence level L1). Approved use: Not available"
 ---
 
@@ -108,9 +108,19 @@ The DrugBank entry "PLATINUM" is a placeholder with no meaningful market status.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available (cancelled) | Platinum Metallicum (Hahnemann Laboratories, Inc.) | Pellet | Not stated |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0220-4083 | Platinum metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-4084 | Platinum metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-4094 | Platinum metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 37662-2066 | Platinum Metallicum | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 37662-2067 | Platinum Metallicum | Hahnemann Laboratories, INC. | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 62 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

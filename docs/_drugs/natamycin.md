@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "NATAMYCIN"
 predicted_indications: ["vulvitis", "trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "tinea nigra"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Natamycin: predicted new indication Vulvitis (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -81,9 +81,13 @@ Vulvar inflammation has many other causes, including irritants, allergens, bacte
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050514 | NATACYN (Eyevance Pharmaceuticals, LLC) | Ophthalmic suspension/drops | Not listed in the compiled data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA050514 | NATACYN | HARROW EYE | Suspension; ophthalmic | Valid |
+
+<!-- licenses:end -->
 
 One licence is on record, and it is valid.
 

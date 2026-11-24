@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1296
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "VORINOSTAT"
 predicted_indications: ["primary cutaneous B-cell lymphoma"]
 description: "Vorinostat: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L5). In the US: 1 FDA application (1 active)"
@@ -79,9 +79,13 @@ This is computational inference only. No study in the compiled data tests vorino
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021991 | ZOLINZA (Merck Sharp & Dohme LLC) | Capsule | Not listed in the data compiled (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021991 | ZOLINZA | MSD SUB MERCK | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

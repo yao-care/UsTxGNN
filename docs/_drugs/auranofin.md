@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "AURANOFIN"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Auranofin: predicted new indication colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -70,9 +70,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018689 | Auranofin | Capsule | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA018689 | RIDAURA | LEGACY | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

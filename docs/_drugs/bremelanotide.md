@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BREMELANOTIDE"
 predicted_indications: ["acne (disease)", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "exocrine pancreatic insufficiency", "cauda equina syndrome", "pituitary dwarfism", "zinc, elevated plasma", "retinopathy of prematurity", "esotropia", "Beare-Stevenson cutis gyrata syndrome", "combined small cell lung carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bremelanotide: predicted new indication acne (disease) (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -70,9 +70,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA210557 | Vyleesi | Injection | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA210557 | VYLEESI (AUTOINJECTOR) | COSETTE | Solution; subcutaneous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

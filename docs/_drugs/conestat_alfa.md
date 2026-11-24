@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 549
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "CONESTAT ALFA"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "fetal and neonatal alloimmune thrombocytopenia"]
 description: "Conestat Alfa: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). In the US: 1 FDA application (1 active)"
@@ -69,9 +69,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125495 | Ruconest (Pharming Healthcare Inc.) | Injection, powder, for solution | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125495 | Ruconest | Pharming Healthcare Inc. | Injection, powder, for solution; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PRASTERONE"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "severe nonproliferative diabetic retinopathy", "thrombophilia due to protein S deficiency, autosomal recessive", "scleroderma (disease)", "complement component 4a deficiency", "pseudo-von Willebrand disease", "primary release disorder of platelets"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prasterone: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Systemic lupus erythematosus"
 ---
 
@@ -75,10 +75,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA208470 | Intrarosa (Millicent US, Inc.) | Insert | Status: valid |
-| Not available | DHEA (Deseret Biologicals, Inc.) | Liquid | Status: cancelled |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA208470 | INTRAROSA | MILLICENT | Insert; vaginal | Valid |
+| NDC 43742-0564 | DHEA | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43857-0052 | DHEA Forte | BioActive Nutritionals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43857-0284 | Androbalance | BioActive Nutritional, Inc. | Spray | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 82018-0028 | Balance Plus Cream | SHYNE BRANDS/BIOLabs PRO | Cream | NDC listing, no FDA application (unapproved drug other) |
+
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Pharmacology data indicate that prasterone (Intrarosa) was FDA approved for moderate to severe pain during sexual intercourse (dyspareunia) as a symptom of vulvar and vaginal atrophy in women.
 

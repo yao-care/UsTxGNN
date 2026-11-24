@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 661
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "EPIRUBICIN"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "myeloid leukemia", "upper aerodigestive tract neoplasm"]
 description: "Epirubicin: predicted new indication Primary pulmonary lymphoma (evidence level L5). In the US: 15 FDA applications (5 active)"
@@ -78,9 +78,19 @@ The publications linked to this prediction are general or about other lymphoma s
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050778 | Ellence (Pharmacia & Upjohn Company LLC) | Injection, solution | Not listed |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA065289 | EPIRUBICIN HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA065331 | EPIRUBICIN HYDROCHLORIDE | IMPAX LABS INC | Injectable; injection | Valid |
+| ANDA065361 | EPIRUBICIN HYDROCHLORIDE | CIPLA LTD | Injectable; injection | Valid |
+| ANDA090163 | EPIRUBICIN HYDROCHLORIDE | EPIC PHARMA LLC | Injectable; injection | Valid |
+| NDA050778 | ELLENCE | PFIZER INC | Injectable; injection | Valid |
+
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

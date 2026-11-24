@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1092
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PROPRANOLOL"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
 description: "Propranolol: predicted new indication Distal myopathy, Tateyama type (evidence level L5). In the US: 153 FDA applications (30 active)"
@@ -97,13 +97,19 @@ The drug is marketed. The records contain no approved-indication text.
 
 <!-- review:end us-lic-20261106-propranolol-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018553 | Propranolol Hydrochloride (ANI Pharmaceuticals) | Capsule, extended release | Not available |
-| ANDA078703 | Propranolol hydrochloride (AvKARE) | Capsule, extended release | Not available |
-| ANDA078494 | Propranolol Hydrochloride (Proficient Rx) | Capsule, extended release | Not available |
-| ANDA070322 | Propranolol Hydrochloride (Amici Pharmaceuticals) | Tablet | Not available |
-| ANDA071972 | Propranolol Hydrochloride (Amneal Pharmaceuticals NY) | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070175 | PROPRANOLOL HYDROCHLORIDE | WATSON LABS | Tablet; oral | Valid |
+| ANDA070176 | PROPRANOLOL HYDROCHLORIDE | WATSON LABS | Tablet; oral | Valid |
+| ANDA070177 | PROPRANOLOL HYDROCHLORIDE | WATSON LABS | Tablet; oral | Valid |
+| ANDA070178 | PROPRANOLOL HYDROCHLORIDE | WATSON LABS | Tablet; oral | Valid |
+| ANDA070213 | PROPRANOLOL HYDROCHLORIDE | MYLAN | Tablet; oral | Valid |
+
+Showing 5 of 153 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

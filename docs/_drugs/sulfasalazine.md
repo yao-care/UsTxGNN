@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1187
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sulfasalazine: predicted new indication brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Rheumatoid arthritis, ulcerative colitis, inflammatory bowel disease…"
 monitor_inn: "SULFASALAZINE"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
@@ -103,13 +103,19 @@ Approved indication text was not available for any of them.
 
 <!-- review:end us-lic-20261105-sulfasalazine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA007073 | Sulfasalazine (A-S Medication Solutions) | Tablet | Valid |
-| ANDA075339 | Sulfasalazine (Sunrise Pharmaceutical) | Tablet, delayed release | Valid |
-| ANDA085828 | Sulfasalazine (Teva Pharmaceuticals USA) | Tablet | Valid |
-| ANDA040349 | Sulfasalazine (Sunrise Pharmaceutical) | Tablet | Valid |
-| ANDA219046 | Sulfasalazine (Rising Pharma Holdings) | Tablet | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040349 | SULFASALAZINE | NUVO PHARMS INC | Tablet; oral | Valid |
+| ANDA075339 | SULFASALAZINE | NUVO PHARMS INC | Tablet, delayed release; oral | Valid |
+| ANDA080197 | SULFASALAZINE | CHARTWELL | Tablet; oral | Valid |
+| ANDA085828 | SULFASALAZINE | WATSON LABS | Tablet; oral | Valid |
+| ANDA219046 | SULFASALAZINE | RISING | Tablet; oral | Valid |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

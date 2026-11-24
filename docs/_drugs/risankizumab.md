@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1126
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RISANKIZUMAB"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
 description: "Risankizumab: predicted new indication Dermatitis (evidence level L2). In the US: 2 FDA applications (2 active)"
@@ -95,10 +95,14 @@ Case-level reports describe combined dupilumab and risankizumab in patients who 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761105 | Skyrizi (AbbVie Inc.) | Injection | Not available (status: valid) |
-| BLA761262 | Skyrizi (AbbVie Inc.) | Injection | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761105 | SKYRIZI | ABBVIE INC | Injectable; injection | Valid |
+| BLA761262 | SKYRIZI | ABBVIE INC | Injectable; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ---
 

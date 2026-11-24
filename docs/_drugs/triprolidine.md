@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1266
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "TRIPROLIDINE"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
 description: "Triprolidine: predicted new indication Nasal cavity disease (evidence level L5). In the US: 28 FDA applications (1 active), plus 38 OTC monograph/unapproved NDC listings"
@@ -83,9 +83,19 @@ Evidence for other predicted indications (all indirect):
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M012 (cancelled) | HISTEX | Syrup | Not listed |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA088704 | TRIACIN-C | AVERION | Syrup; oral | Valid |
+| ANDA085094 | TRIPROLIDINE HYDROCHLORIDE | WATSON LABS | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA085610 | TRIPROLIDINE HYDROCHLORIDE | VITARINE | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA085940 | TRIPROLIDINE HYDROCHLORIDE | ALPHARMA US PHARMS | Syrup; oral | Discontinued in Drugs@FDA |
+| ANDA087514 | TRIPROLIDINE HYDROCHLORIDE | PHARM ASSOC | Syrup; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 66 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

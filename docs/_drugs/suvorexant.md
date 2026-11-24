@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1190
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Suvorexant: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,9 +72,13 @@ The TxGNN deep-learning model produced candidate indications for Suvorexant, but
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| NDA204569 | suvorexant | TABLET, FILM COATED | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA204569 | BELSOMRA | MERCK SHARP DOHME | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

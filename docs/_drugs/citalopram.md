@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "CITALOPRAM"
 predicted_indications: ["obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Citalopram: predicted new indication Obsessive-compulsive disorder (evidence level L2). In the US: 37 FDA applications (15 active), plus 8 OTC monograph/unapproved NDC listings"
 ---
 
@@ -86,15 +86,21 @@ None of these trials tests citalopram on its own, so they support the SSRI class
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA078216 | Citalopram (Cardinal Health 107) | Film-coated tablet | Not recorded in the local data |
-| ANDA077031 | Citalopram (A-S Medication Solutions) | Film-coated tablet | Not recorded in the local data |
-| ANDA077534 | Citalopram (REMEDYREPACK) | Tablet | Not recorded in the local data |
-| ANDA077042 | Citalopram (Bryant Ranch Prepack) | Film-coated tablet | Not recorded in the local data |
-| Not numbered | Citalopram (Hahnemann Laboratories) | Pellet | Not recorded in the local data |
+<!-- licenses:begin -->
 
-This list is partial. The licence records also include escitalopram products, which are not listed here.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077031 | CITALOPRAM HYDROBROMIDE | AUROBINDO | Tablet; oral | Valid |
+| ANDA077038 | CITALOPRAM HYDROBROMIDE | DR REDDYS LABS LTD | Tablet; oral | Valid |
+| ANDA077042 | CITALOPRAM HYDROBROMIDE | MYLAN | Tablet; oral | Valid |
+| ANDA077043 | CITALOPRAM HYDROBROMIDE | HIKMA | Solution; oral | Valid |
+| ANDA077044 | CITALOPRAM HYDROBROMIDE | CHARTWELL MOLECULAR | Tablet; oral | Valid |
+
+Showing 5 of 45 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
+
+The licence records also include escitalopram products, which are not listed here.
 
 ## Safety Considerations
 

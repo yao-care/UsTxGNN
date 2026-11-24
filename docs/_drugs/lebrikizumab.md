@@ -5,7 +5,7 @@ layout: default
 title: Lebrikizumab
 parent: Known Uses Only (No New Predictions)
 nav_order: 841
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Lebrikizumab: known uses and market status in the United States; currently no new candidate indication"
 monitor_inn: "Lebrikizumab"
 predicted_indications: []
@@ -48,9 +48,13 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761306 | EBGLYSS (Eli Lilly and Company) | Injection, solution | Not listed in the compiled data |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761306 | EBGLYSS | ELI LILLY AND CO | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 **Caution:** The compiled regulatory data lists no indication text. Recent publications and trial records describe lebrikizumab as FDA-approved for atopic dermatitis. This discrepancy is probably a data issue and should be checked against current FDA records before any decision relies on it.
 

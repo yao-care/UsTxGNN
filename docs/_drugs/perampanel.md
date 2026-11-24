@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1032
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel: predicted new indication Beta-ketothiolase deficiency (evidence level L5). In the US: 8 FDA applications (8 active)"
@@ -95,13 +95,19 @@ None of the publications below studies visual epilepsy specifically. They show p
 
 Indication text was not available for them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| NDA202834 | Fycompa | Tablet | Eisai Inc. | Valid |
-| NDA208277 | Fycompa | Suspension | Eisai Inc. | Valid |
-| ANDA209801 | Perampanel | Film-coated tablet | Teva Pharmaceuticals, Inc. | Valid |
-| ANDA209538 | Perampanel | Film-coated tablet | Sun Pharmaceutical Industries, Inc. | Valid |
-| ANDA218178 | Perampanel | Film-coated tablet | Novadoz Pharmaceuticals LLC | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA209538 | PERAMPANEL | TARO | Tablet; oral | Valid |
+| ANDA209801 | PERAMPANEL | TEVA PHARMS USA INC | Tablet; oral | Valid |
+| ANDA218152 | PERAMPANEL | MSN | Suspension; oral | Valid |
+| ANDA218178 | PERAMPANEL | MSN | Tablet; oral | Valid |
+| ANDA219052 | PERAMPANEL | TARO | Suspension; oral | Valid |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

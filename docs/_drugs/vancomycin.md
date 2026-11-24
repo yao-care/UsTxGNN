@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1283
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vancomycin: predicted new indication Diffuse Scleroderma (evidence level L5). Approved use: Clostridium difficile colitis (other listed uses: staphylococcal infe…"
 monitor_inn: "VANCOMYCIN"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
@@ -84,13 +84,19 @@ The five below are representative.
 
 <!-- review:end us-lic-20261106-vancomycin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050606 | Vancomycin hydrochloride (ANI Pharmaceuticals) | Capsule | Not available (valid) |
-| NDA211962 | Vancomycin (Xellia) | Injection, solution | Not available (valid) |
-| NDA210274 | Vancomycin hydrochloride (Hikma) | Injection, powder, for solution | Not available (valid) |
-| NDA209481 | Vancomycin hydrochloride (Mylan Institutional) | Injection, powder, lyophilized, for solution | Not available (valid) |
-| NDA050671 | Vancomycin hydrochloride (Baxter) | Injection, solution | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA061667 | VANCOCIN HYDROCHLORIDE | ANI PHARMS | For solution; oral | Valid |
+| ANDA062663 | VANCOMYCIN HYDROCHLORIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA062911 | VANCOMYCIN HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+| ANDA062912 | VANCOMYCIN HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+| ANDA062931 | VANCOMYCIN HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+
+Showing 5 of 68 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

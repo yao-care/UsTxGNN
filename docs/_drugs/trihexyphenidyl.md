@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TRIHEXYPHENIDYL"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Trihexyphenidyl: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Parkinson disease and related movement disorders (parkinsonism…"
 ---
 
@@ -82,13 +82,19 @@ No approved indication text is available in the data.
 
 <!-- review:end us-lic-20261105-trihexyphenidyl-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA040254 | Trihexyphenidyl Hydrochloride (Novitium Pharma) | Tablet | Not available |
-| ANDA091630 | Trihexyphenidyl Hydrochloride (Natco Pharma) | Tablet | Not available |
-| ANDA040251 | Trihexyphenidyl Hydrochloride (Akorn) | Syrup | Not available |
-| ANDA040177 | Trihexyphenidyl Hydrochloride (PAI Pharma) | Solution | Not available |
-| ANDA084363 | Trihexyphenidyl Hydrochloride (RemedyRepack) | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040177 | TRIHEXYPHENIDYL HYDROCHLORIDE | PHARM ASSOC | Elixir; oral | Valid |
+| ANDA040251 | TRIHEXYPHENIDYL HYDROCHLORIDE | CHARTWELL RX | Elixir; oral | Valid |
+| ANDA040254 | TRIHEXYPHENIDYL HYDROCHLORIDE | NOVITIUM PHARMA | Tablet; oral | Valid |
+| ANDA084363 | TRIHEXYPHENIDYL HYDROCHLORIDE | WATSON LABS | Tablet; oral | Valid |
+| ANDA084364 | TRIHEXYPHENIDYL HYDROCHLORIDE | WATSON LABS | Tablet; oral | Valid |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

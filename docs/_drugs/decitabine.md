@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "DECITABINE"
 predicted_indications: ["refractory cytopenia of childhood"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Decitabine: predicted new indication Refractory cytopenia of childhood (evidence level L5). Approved use: Myeloid leukemia (including AML and its subtypes)"
 ---
 
@@ -73,7 +73,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Approved indication text is not available. The five main entries are shown below.
+Approved indication text is not available.
 
 <!-- review:begin us-lic-20261106-decitabine-1 -->
 
@@ -81,13 +81,19 @@ Approved indication text is not available. The five main entries are shown below
 
 <!-- review:end us-lic-20261106-decitabine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA210756 | Decitabine | Injection, powder, lyophilized, for solution | Fresenius Kabi USA, LLC |
-| ANDA204607 | Decitabine | Injection, powder, lyophilized, for solution | Mylan Institutional LLC |
-| ANDA203131 | Decitabine | Injection, powder, lyophilized, for solution | Dr. Reddy's Laboratories Inc. |
-| ANDA215355 | Decitabine | Injection, powder, lyophilized, for solution | Camber Pharmaceuticals, Inc. |
-| ANDA206033 | Decitabine | Injection, powder, lyophilized, for solution | Amneal Pharmaceuticals LLC |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA202969 | DECITABINE | SANDOZ | Injectable; intravenous | Valid |
+| ANDA203131 | DECITABINE | DR REDDYS | Injectable; intravenous | Valid |
+| ANDA203475 | DECITABINE | ACCORD HLTHCARE | Injectable; intravenous | Valid |
+| ANDA204607 | DECITABINE | PHARMASCIENCE INC | Injectable; intravenous | Valid |
+| ANDA205539 | DECITABINE | GLAND | Injectable; intravenous | Valid |
+
+Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

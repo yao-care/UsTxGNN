@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CETIRIZINE"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cetirizine: predicted new indication nasal cavity disease (evidence level L5). In the US: 79 FDA applications (54 active), plus 1 OTC monograph/unapproved NDC listing"
 ---
 
@@ -74,13 +74,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021621 | Zyrtec | Tablet, chewable | Not recorded |
-| NDA022155 | Childrens Zyrtec Allergy | Syrup | Not recorded |
-| ANDA078343 | Cetirizine Hydrochloride | Tablet, film coated | Not recorded |
-| ANDA213557 | Cetirizine Hydrochloride | Tablet, orally disintegrating | Not recorded |
-| ANDA209107 | Cetirizine Hydrochloride (Hives Relief) | Capsule | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076047 | CETIRIZINE HYDROCHLORIDE ALLERGY | CONTRACT PHARMACAL | Tablet; oral | Valid |
+| ANDA076601 | CETIRIZINE HYDROCHLORIDE | TARO | Solution; oral | Valid |
+| ANDA076677 | CETIRIZINE HYDROCHLORIDE HIVES | MYLAN | Tablet; oral | Valid |
+| ANDA077498 | CETIRIZINE HYDROCHLORIDE HIVES | SUN PHARM INDS LTD | Tablet; oral | Valid |
+| ANDA077829 | CETIRIZINE HYDROCHLORIDE HIVES | UNIQUE | Tablet; oral | Valid |
+
+Showing 5 of 80 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The data compiled for this report list at least 13 licences, and this list may be partial.
 

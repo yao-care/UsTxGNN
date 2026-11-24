@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1138
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RUFINAMIDE"
 predicted_indications: ["perioral myoclonia with absences"]
 description: "Rufinamide: predicted new indication Perioral myoclonia with absences (evidence level L5). In the US: 17 FDA applications (17 active)"
@@ -77,13 +77,19 @@ Currently no related literature available.
 
 The data compiled for this report do not include approved-indication text. Up to 5 of the licenses are listed below.
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA021911 | Banzel (Tjoapack LLC) | Film-coated tablet | Valid |
-| ANDA204988 | Rufinamide (Hikma) | Film-coated tablet | Valid |
-| ANDA204993 | Rufinamide (Camber) | Film-coated tablet | Valid |
-| ANDA205075 | Rufinamide (Glenmark) | Film-coated tablet | Valid |
-| ANDA211388 | Rufinamide (Bionpharma) | Suspension | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204964 | RUFINAMIDE | LUPIN | Tablet; oral | Valid |
+| ANDA204988 | RUFINAMIDE | HIKMA | Tablet; oral | Valid |
+| ANDA204993 | RUFINAMIDE | HETERO LABS LTD III | Tablet; oral | Valid |
+| ANDA205075 | RUFINAMIDE | GLENMARK PHARMS LTD | Tablet; oral | Valid |
+| ANDA205095 | RUFINAMIDE | SCIEGEN PHARMS | Tablet; oral | Valid |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

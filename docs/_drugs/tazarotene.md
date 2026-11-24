@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "TAZAROTENE"
 predicted_indications: ["seborrheic dermatitis", "seborrheic keratosis", "vulvar inverted follicular keratosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tazarotene: predicted new indication Seborrheic dermatitis (evidence level L5). Approved use: Psoriasis, parapsoriasis, acne"
 ---
 
@@ -89,13 +89,19 @@ The drug is marketed. Approved indication text was not available. Five main auth
 
 <!-- review:end us-lic-20261106-tazarotene-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021184 | TAZORAC | Cream | Not available (valid) |
-| NDA020600 | Tazorac | Gel | Not available (valid) |
-| NDA211882 | Arazlo | Lotion | Not available (valid) |
-| NDA202428 | tazarotene | Aerosol, foam | Not available (valid) |
-| ANDA217075 | TAZAROTENE | Cream | Not available (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208258 | TAZAROTENE | SUN PHARMA CANADA | Cream; topical | Valid |
+| ANDA208662 | TAZAROTENE | COSETTE PHARMS NC | Cream; topical | Valid |
+| ANDA213079 | TAZAROTENE | PADAGIS ISRAEL | Gel; topical | Valid |
+| ANDA213644 | TAZAROTENE | SOLARIS PHARMA CORP | Gel; topical | Valid |
+| ANDA214136 | TAZAROTENE | COSETTE PHARMS NC | Gel; topical | Valid |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

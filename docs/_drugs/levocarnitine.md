@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LEVOCARNITINE"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "rheumatoid arthritis", "sclerosing cholangitis", "gout", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congestive heart failure", "hypoalphalipoproteinemia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Levocarnitine: predicted new indication Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (evidence level L5)."
 ---
 
@@ -83,13 +83,19 @@ No approved indication text was available for any of them.
 
 <!-- review:end us-lic-20261105-levocarnitine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA019257 | Carnitor SF | Solution | Leadiant Biosciences, Inc. |
-| NDA020182 | Carnitor | Injection, solution | Leadiant Biosciences, Inc. |
-| NDA018948 | Carnitor | Tablet | Leadiant Biosciences, Inc. |
-| ANDA076858 | Levocarnitine | Tablet | Rising Pharma Holdings, Inc. |
-| ANDA075861 | Levocarnitine | Injection, solution | American Regent, Inc. |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075567 | LEVOCARNITINE | HIKMA | Injectable; injection | Valid |
+| ANDA075861 | LEVOCARNITINE | AM REGENT | Injectable; injection | Valid |
+| ANDA076851 | LEVOCARNITINE | RISING | Solution; oral | Valid |
+| ANDA076858 | LEVOCARNITINE | RISING | Tablet; oral | Valid |
+| ANDA211676 | LEVOCARNITINE SF | NOVITIUM PHARMA | Solution; oral | Valid |
+
+Showing 5 of 25 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Available dosage forms across all licenses: oral tablet, injectable (injection and injection solution), and oral or other solution.
 

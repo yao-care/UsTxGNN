@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "PHENTERMINE"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Phentermine: predicted new indication Hypervitaminosis (evidence level L5). In the US: 103 FDA applications (24 active)"
 ---
 
@@ -82,13 +82,19 @@ Five of them are listed below.
 
 <!-- review:end us-lic-20261106-phentermine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA205019 | Phentermine Hydrochloride (Bryant Ranch Prepack) | Capsule | Not available |
-| ANDA205008 | Phentermine Hydrochloride (Proficient Rx LP) | Tablet | Not available |
-| ANDA202248 | Phentermine Hydrochloride (Bryant Ranch Prepack) | Capsule | Not available |
-| ANDA040887 | Phentermine Hydrochloride (PD-Rx Pharmaceuticals) | Capsule | Not available |
-| ANDA203436 | Phentermine Hydrochloride (KVK-TECH) | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040190 | PHENTERMINE HYDROCHLORIDE | ELITE LABS INC | Tablet; oral | Valid |
+| ANDA040377 | PHENTERMINE HYDROCHLORIDE | PRINSTON | Tablet; oral | Valid |
+| ANDA040526 | PHENTERMINE HYDROCHLORIDE | SUN PHARM INDUSTRIES | Tablet; oral | Valid |
+| ANDA040875 | PHENTERMINE HYDROCHLORIDE | KVK TECH | Capsule; oral | Valid |
+| ANDA040876 | PHENTERMINE HYDROCHLORIDE | KVK TECH | Tablet; oral | Valid |
+
+Showing 5 of 103 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1219
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TETRACYCLINE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
 description: "Tetracycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 61 FDA applications (11 active), plus 12 OTC monograph/unapproved NDC listings"
@@ -82,13 +82,19 @@ The drug is marketed in the United States. The data compiled for this report con
 
 <!-- review:end us-lic-20261106-tetracycline-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050278 | Tetracycline hydrochloride (Heritage/Avet) | Capsule | Not available |
-| ANDA062752 | Tetracycline hydrochloride (Heritage/Avet) | Capsule | Not available |
-| ANDA210674 | Tetracycline hydrochloride (Amneal) | Capsule | Not available |
-| ANDA210662 | Tetracycline hydrochloride (Breckenridge) | Capsule | Not available |
-| ANDA061837 | Tetracycline hydrochloride (Preferred Pharmaceuticals) | Capsule | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA061147 | SUMYCIN | STRIDES PHARMA INTL | Tablet; oral | Valid |
+| ANDA061837 | TETRACYCLINE HYDROCHLORIDE | WATSON LABS | Capsule; oral | Valid |
+| ANDA062752 | TETRACYCLINE HYDROCHLORIDE | CHARTWELL TETRA | Capsule; oral | Valid |
+| ANDA210662 | TETRACYCLINE HYDROCHLORIDE | BRECKENRIDGE | Capsule; oral | Valid |
+| ANDA210674 | TETRACYCLINE HYDROCHLORIDE | AMNEAL PHARMS NY | Capsule; oral | Valid |
+
+Showing 5 of 73 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

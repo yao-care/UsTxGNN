@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 852
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Levobunolol: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -73,9 +73,19 @@ The TxGNN model produced candidates for Levobunolol, but every candidate that ca
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| ANDA074326 | Levobunolol Hydrochloride | SOLUTION/ DROPS | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074326 | LEVOBUNOLOL HYDROCHLORIDE | BAUSCH AND LOMB INC | Solution/drops; ophthalmic | Valid |
+| NDA019219 | BETAGAN | ALLERGAN | Solution/drops; ophthalmic | Valid |
+| ANDA074307 | LEVOBUNOLOL HYDROCHLORIDE | BAUSCH AND LOMB | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
+| ANDA074779 | AKBETA | EPIC PHARMA LLC | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
+| ANDA074780 | AKBETA | EPIC PHARMA LLC | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

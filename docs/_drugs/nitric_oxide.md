@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 970
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nitric Oxide: predicted new indication Malformation syndrome with odontal and/or periodontal component (evidence level L5). Approved use: Pulmonary hypertension"
 monitor_inn: "NITRIC OXIDE"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with connective tissue disease", "pulmonary arterial hypertension associated with schistosomiasis"]
@@ -97,12 +97,17 @@ No randomized trials were found. The table lists the most relevant items, with r
 
 All four US licenses are valid. The license records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020845 | INOMAX (INO Therapeutics LLC) | Gas | Not specified |
-| NDA202860 | GENOSYL (Vero Biotech, Inc.) | Gas | Not specified |
-| ANDA207141 | Noxivent 102 (Linde Gas & Equipment Inc) | Gas | Not specified |
-| ANDA203144 | Ulspira (Airgas Therapeutics, LLC) | Gas | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA203144 | ULSPIRA | AIRGAS THERAP | Gas; inhalation | Valid |
+| ANDA207141 | NOXIVENT | VERO BIOTECH INC | Gas; inhalation | Valid |
+| NDA020845 | INOMAX | MALLINCKRODT IRELAND | Gas; inhalation | Valid |
+| NDA202860 | GENOSYL | VERO BIOTECH INC | Gas; inhalation | Valid |
+| NDC 43742-1554 | Vascuflow | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 ---
 

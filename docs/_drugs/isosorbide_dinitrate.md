@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ISOSORBIDE DINITRATE"
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "diffuse alopecia areata", "vascular disease", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "visceral calciphylaxis", "venous thoracic outlet syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isosorbide Dinitrate: predicted new indication Alopecia (evidence level L5). Approved use: Not stated in the licence records compiled for this report"
 ---
 
@@ -71,7 +71,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The licence records contain no approved-indication text. The first five are shown below.
+The licence records contain no approved-indication text.
 
 <!-- review:begin us-lic-20261105-isosorbide_dinitrate-1 -->
 
@@ -79,13 +79,19 @@ The licence records contain no approved-indication text. The first five are show
 
 <!-- review:end us-lic-20261105-isosorbide_dinitrate-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA088088 | Isosorbide Dinitrate | Tablet | Golden State Medical Supply, Inc. |
-| ANDA086923 | Isosorbide Dinitrate | Tablet | Endo USA, Inc. |
-| ANDA086067 | Isosorbide | Tablet | BluePoint Laboratories |
-| ANDA213057 | Isosorbide dinitrate | Tablet | Zydus Pharmaceuticals (USA) Inc. |
-| ANDA215723 | Isosorbide Dinitrate | Tablet | Advagen Pharma Ltd |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA086066 | Isosorbide | BluePoint Laboratories | Tablet; oral | Valid |
+| ANDA086067 | Isosorbide | BluePoint Laboratories | Tablet; oral | Valid |
+| ANDA086221 | ISOSORBIDE DINITRATE | SANDOZ | Tablet; oral | Valid |
+| ANDA086223 | ISOSORBIDE DINITRATE | SANDOZ | Tablet; oral | Valid |
+| ANDA086923 | ISOSORBIDE DINITRATE | PH HEALTH | Tablet; oral | Valid |
+
+Showing 5 of 46 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The full list also includes ANDA086066, NDA012093 (Oceanside Pharmaceuticals) and ANDA087537, and may be partial.
 

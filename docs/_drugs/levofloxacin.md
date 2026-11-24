@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 855
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LEVOFLOXACIN"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 description: "Levofloxacin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 48 FDA applications (21 active)"
@@ -71,13 +71,19 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| ANDA077652 | Levofloxacin | Film-coated tablet | Coupler LLC | Valid |
-| ANDA202801 | Levofloxacin | Film-coated tablet | A-S Medication Solutions | Valid |
-| ANDA076710 | Levofloxacin | Film-coated tablet | Northwind Health Company, LLC | Valid |
-| ANDA076890 | Levofloxacin | Tablet | Chartwell RX, LLC | Valid |
-| ANDA090343 | Levofloxacin | Injection, solution | WG Critical Care, LLC | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076361 | LEVOFLOXACIN | TEVA | Tablet; oral | Valid |
+| ANDA076710 | LEVOFLOXACIN | DR REDDYS LABS INC | Tablet; oral | Valid |
+| ANDA076890 | LEVOFLOXACIN | CHARTWELL MOLECULAR | Tablet; oral | Valid |
+| ANDA077652 | LEVOFLOXACIN | ZYDUS LIFESCIENCES | Tablet; oral | Valid |
+| ANDA077700 | LEVOFLOXACIN | RISING | Solution/drops; ophthalmic | Valid |
+
+Showing 5 of 48 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The list shows only the first five of the records available; the local records may be partial. Dosage forms include oral tablets, injectable solutions and an oral solution.
 

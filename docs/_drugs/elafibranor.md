@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ELAFIBRANOR"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Elafibranor: predicted new indication amenorrhea (evidence level L5). Approved use: Primary biliary cholangitis"
 ---
 
@@ -70,9 +70,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA218860 | IQIRVO (Ipsen Biopharmaceuticals, Inc.) | Tablet, film coated (oral) | Not listed in the compiled data; status recorded as valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA218860 | IQIRVO | IPSEN | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

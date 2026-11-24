@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ECULIZUMAB"
 predicted_indications: ["cyclic hematopoiesis", "autosomal recessive severe congenital neutropenia due to JAGN1 deficiency", "X-linked severe congenital neutropenia", "congenital neutropenia-myelofibrosis-nephromegaly syndrome", "adult idiopathic neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "autosomal recessive severe congenital neutropenia due to CSF3R deficiency", "severe congenital neutropenia", "primary release disorder of platelets"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eculizumab: predicted new indication Cyclic hematopoiesis (cyclic neutropenia) (evidence level L5). Approved use: Paroxysmal nocturnal hemoglobinuria"
 ---
 
@@ -71,11 +71,15 @@ No literature was retrieved for cyclic hematopoiesis, the top-ranked prediction.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125166 | SOLIRIS (Alexion Pharmaceuticals Inc.) | Injection, solution, concentrate | Not listed in the data (status: valid) |
-| BLA761333 | BKEMV (Amgen Inc) | Injection, solution, concentrate | Not listed in the data (status: valid) |
-| BLA761340 | EPYSQLI (Teva Pharmaceuticals USA, Inc.) | Injection, solution | Not listed in the data (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125166 | SOLIRIS | ALEXION PHARM | Injectable; iv (infusion) | Valid |
+| BLA761333 | BKEMV | AMGEN INC | Injectable; injection | Valid |
+| BLA761340 | EPYSQLI | SAMSUNG BIOEPIS CO LTD | Injection; solution | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

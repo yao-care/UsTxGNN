@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1119
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RIBAVIRIN"
 predicted_indications: ["chronic hepatitis B virus infection", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "hepatoportal sclerosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related aortitis", "IgG4-related mesenteritis"]
 description: "Ribavirin: predicted new indication Chronic hepatitis B virus infection (evidence level L1). In the US: 16 FDA applications (5 active), plus 8 OTC monograph/unapproved NDC listings"
@@ -116,13 +116,19 @@ Approved indication text is not available for any of them.
 
 <!-- review:end us-lic-20261105-ribavirin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA079111 | Ribavirin (Aurobindo Pharma) | Tablet, film coated | Valid |
-| ANDA079117 | Ribavirin (Aurobindo Pharma) | Capsule | Valid |
-| NDA018859 | Ribavirin (Bryant Ranch Prepack) | Powder, for solution | NDA (Discontinued in Drugs@FDA) |
-| ANDA207366 | Ribavirin (Navinta LLC) | Powder, for solution | ANDA (Discontinued in Drugs@FDA) |
-| Not specified | Ribavirinum (Hahnemann Laboratories) | Pellet | Cancelled |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077094 | RIBAVIRIN | ZYDUS PHARMS USA | Tablet; oral | Valid |
+| ANDA077224 | RIBAVIRIN | ZYDUS PHARMS USA | Capsule; oral | Valid |
+| ANDA077743 | RIBAVIRIN | SANDOZ | Tablet; oral | Valid |
+| ANDA079111 | RIBAVIRIN | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA079117 | RIBAVIRIN | AUROBINDO PHARMA | Capsule; oral | Valid |
+
+Showing 5 of 24 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

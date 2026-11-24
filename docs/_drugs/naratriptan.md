@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 955
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "NARATRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Naratriptan: predicted new indication Atrophoderma vermiculata (evidence level L5). In the US: 10 FDA applications (3 active)"
@@ -90,11 +90,19 @@ The publications below concern migraine and naratriptan in general. None directl
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA200502 | Naratriptan (Avet Pharmaceuticals) | Tablet | Not recorded (valid) |
-| ANDA091441 | Naratriptan (Bionpharma) | Film-coated tablet | Not recorded (valid) |
-| ANDA090381 | Naratriptan (Hikma) | Tablet | Not recorded (valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090381 | NARATRIPTAN | HIKMA | Tablet; oral | Valid |
+| ANDA091441 | NARATRIPTAN | ORBION PHARMS | Tablet; oral | Valid |
+| ANDA200502 | NARATRIPTAN | HERITAGE | Tablet; oral | Valid |
+| ANDA078751 | NARATRIPTAN | ANI PHARMS | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA090288 | NARATRIPTAN | CHARTWELL RX | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

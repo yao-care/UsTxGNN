@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 6
 monitor_inn: "BUPRENORPHINE"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "extrapyramidal and movement disease", "benign shuddering attacks"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Buprenorphine: predicted new indication Acute intermittent porphyria (evidence level L4). Approved use: Opioid dependence (also substance abuse/dependence and morphine depen…"
 ---
 
@@ -82,13 +82,19 @@ The product listing shows no approved indication text. The drug is marketed.
 
 <!-- review:end us-lic-20261106-buprenorphine-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021306 | Butrans | Extended-release patch | Not listed |
-| NDA207932 | BELBUCA | Soluble film | Not listed |
-| NDA210136 | BRIXADI | Injection | Not listed |
-| ANDA211586 | Buprenorphine | Extended-release patch | Not listed |
-| ANDA090622 | Buprenorphine hydrochloride | Tablet | Not listed |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074137 | BUPRENORPHINE HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+| ANDA076931 | BUPRENORPHINE HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA078633 | BUPRENORPHINE HYDROCHLORIDE | HIKMA | Tablet; sublingual | Valid |
+| ANDA090279 | BUPRENORPHINE HYDROCHLORIDE | RUBICON RESEARCH | Tablet; sublingual | Valid |
+| ANDA090622 | BUPRENORPHINE HYDROCHLORIDE | ETHYPHARM | Tablet; sublingual | Valid |
+
+Showing 5 of 53 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Six further generic authorizations (tablets and patches) are also cancelled.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "COLCHICINE"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Colchicine: predicted new indication Plasmodium falciparum malaria (evidence level L5). In the US: 34 FDA applications (25 active)"
 ---
 
@@ -75,13 +75,19 @@ Currently no related clinical trials registered.
 
 Colchicine is marketed in the United States as single-ingredient oral products in film-coated tablet, tablet and capsule forms, from multiple manufacturers (11 records in the data compiled for this report; the list may be partial). The records carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA209470 | Colchicine | Tablet, film coated | Mylan Pharmaceuticals Inc. |
-| NDA204820 | Colchicine | Capsule | Hikma Pharmaceuticals USA Inc. |
-| ANDA217620 | Colchicine | Capsule | Camber Pharmaceuticals, Inc. |
-| ANDA208678 | Colchicine | Capsule | Endo USA, Inc. |
-| NDA022352 | Colchicine | Tablet, film coated | Bryant Ranch Prepack |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA203976 | COLCHICINE | PH HEALTH | Tablet; oral | Valid |
+| ANDA204461 | COLCHICINE | WATSON LABS INC | Tablet; oral | Valid |
+| ANDA204711 | COLCHICINE | AMNEAL PHARMS | Tablet; oral | Valid |
+| ANDA208678 | COLCHICINE | PH HEALTH | Capsule; oral | Valid |
+| ANDA208993 | COLCHICINE | HETERO LABS LTD V | Tablet; oral | Valid |
+
+Showing 5 of 34 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

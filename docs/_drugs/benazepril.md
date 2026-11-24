@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "BENAZEPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benazepril: predicted new indication malignant hypertensive renal disease (evidence level L5). In the US: 34 FDA applications (22 active)"
 ---
 
@@ -72,14 +72,21 @@ Currently no related literature available.
 
 ## US Market Information
 
-Benazepril is marketed in the United States. The records compiled for this report are listed below and may be partial.
+Benazepril is marketed in the United States.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA076118 | Benazepril Hydrochloride | Tablet, coated | PD-Rx Pharmaceuticals, Inc. |
-| ANDA076820 | Benazepril Hydrochloride | Tablet | Bryant Ranch Prepack |
-| ANDA078212 | Benazepril Hydrochloride | Tablet, film coated | Preferred Pharmaceuticlas Inc. |
-| ANDA076267 | Benazepril hydrochloride | Tablet | Chartwell RX, LLC |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076118 | BENAZEPRIL HYDROCHLORIDE | PRINSTON INC | Tablet; oral | Valid |
+| ANDA076211 | BENAZEPRIL HYDROCHLORIDE | TEVA | Tablet; oral | Valid |
+| ANDA076267 | BENAZEPRIL HYDROCHLORIDE | HERITAGE PHARMA | Tablet; oral | Valid |
+| ANDA076333 | BENAZEPRIL HYDROCHLORIDE | ANI PHARMS | Tablet; oral | Valid |
+| ANDA076344 | BENAZEPRIL HYDROCHLORIDE | SUN PHARM INDS LTD | Tablet; oral | Valid |
+
+Showing 5 of 34 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All listed products are oral dosage forms.
 

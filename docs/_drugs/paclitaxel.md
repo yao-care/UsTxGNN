@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1007
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PACLITAXEL"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Paclitaxel: predicted new indication Parameningeal embryonal rhabdomyosarcoma (evidence level L5). In the US: 24 FDA applications (16 active)"
@@ -110,13 +110,19 @@ The literature for this indication is mostly older reviews and early-phase studi
 
 The table shows five of the main ones.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021660 | ABRAXANE (Abraxis BioScience) | Injection, powder, lyophilized, for suspension | Not available |
-| NDA216338 | Paclitaxel (Teva Pharmaceuticals) | Injection, powder, lyophilized, for suspension | Not available |
-| NDA211875 | Paclitaxel protein-bound particles, albumin-bound (American Regent) | Injection, powder, lyophilized, for suspension | Not available |
-| ANDA075184 | Paclitaxel (Teva Parenteral Medicines) | Injection, solution, concentrate | Not available |
-| ANDA076131 | Paclitaxel (Hospira) | Injection, solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075184 | PACLITAXEL | TEVA PHARMS | Injectable; injection | Valid |
+| ANDA075190 | PACLITAXEL | HIKMA | Injectable; injection | Valid |
+| ANDA076131 | PACLITAXEL | HOSPIRA | Injectable; injection | Valid |
+| ANDA077574 | PACLITAXEL | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA090130 | PACLITAXEL | ACTAVIS TOTOWA | Injectable; injection | Valid |
+
+Showing 5 of 24 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All forms are injectable.
 

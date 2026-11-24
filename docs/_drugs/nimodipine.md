@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "NIMODIPINE"
 predicted_indications: ["homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nimodipine: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Subarachnoid hemorrhage (including acquired aneurysmal subarachnoid h…"
 ---
 
@@ -74,12 +74,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA216937 | Nimodipine (Camber Pharmaceuticals) | Solution | Not specified; status valid |
-| ANDA076740 | Nimodipine (Bionpharma) | Capsule, liquid filled | Not specified; status valid |
-| NDA203340 | Nymalize (Azurity Pharmaceuticals) | Solution | Not specified; status valid |
-| ANDA077811 | Nimodipine (Heritage/Avet Pharmaceuticals) | Capsule, liquid filled | Not specified; status valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076740 | NIMODIPINE | BIONPHARMA | Capsule; oral | Valid |
+| ANDA077811 | NIMODIPINE | HERITAGE | Capsule; oral | Valid |
+| ANDA090103 | NIMODIPINE | THEPHARMANETWORK LLC | Capsule; oral | Valid |
+| ANDA213409 | NIMODIPINE | ALKEM LABS LTD | Solution; oral | Valid |
+| ANDA216937 | NIMODIPINE | ANNORA PHARMA | Solution; oral | Valid |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Available dosage forms are an oral liquid-filled capsule and a solution. Route compatibility with the predicted indications has not been assessed.
 

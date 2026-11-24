@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SORBITOL"
 predicted_indications: ["exercise-induced malignant hyperthermia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Sorbitol: predicted new indication Exercise-induced malignant hyperthermia (evidence level L5). Approved use: Not recorded"
 ---
 
@@ -72,11 +72,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA017863 | Sorbitol (Baxter Healthcare Corporation) | Irrigant | Not recorded (status: valid) |
-| M007 | GeriCare Sorbitol Solution (GERI-CARE Pharmaceuticals) | Liquid | Not recorded (status: valid) |
-| nan | Plaque identifying (Shenzhen Yagao Technology Co., Ltd.) | Powder, dentifrice | Not recorded (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA016741 | SORBITOL 3.3% IN PLASTIC CONTAINER | B BRAUN | Solution; irrigation | Valid |
+| NDA017863 | SORBITOL 3% IN PLASTIC CONTAINER | BAXTER HLTHCARE | Solution; irrigation | Valid |
+| NDA018316 | SORBITOL-MANNITOL IN PLASTIC CONTAINER | OTSUKA ICU MEDCL | Solution; irrigation | Valid |
+| NDA018512 | SORBITOL 3% IN PLASTIC CONTAINER | BAXTER HLTHCARE | Solution; irrigation | Discontinued in Drugs@FDA |
+| ANDA080224 | SORBITOL-MANNITOL | HOSPIRA | Solution; irrigation | Discontinued in Drugs@FDA |
+
+Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

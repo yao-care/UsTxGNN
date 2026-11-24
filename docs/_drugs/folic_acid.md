@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FOLIC ACID"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Folic Acid: predicted new indication Biotin metabolic disease (evidence level L5). Approved use: Vitamin deficiency disorder"
 ---
 
@@ -97,13 +97,19 @@ None of the retrieved publications tests folic acid in biotin metabolic disease.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA040796 | Folic Acid (Aphena Pharma Solutions) | Tablet | Not recorded |
-| ANDA211064 | Folic Acid (A-S Medication Solutions) | Tablet | Not recorded |
-| ANDA040625 | Folic Acid (Cardinal Health 107) | Tablet | Not recorded |
-| ANDA202437 | Folic Acid (Cadila Pharmaceuticals) | Tablet | Not recorded |
-| NDA216395 | Folic Acid (Ayurax) | Solution | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040625 | FOLIC ACID | AMNEAL PHARM | Tablet; oral | Valid |
+| ANDA040796 | FOLIC ACID | LEADING | Tablet; oral | Valid |
+| ANDA080680 | FOLIC ACID | WATSON LABS | Tablet; oral | Valid |
+| ANDA089202 | FOLIC ACID | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA090035 | FOLIC ACID | CHARTWELL MOLECULAR | Tablet; oral | Valid |
+
+Showing 5 of 191 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

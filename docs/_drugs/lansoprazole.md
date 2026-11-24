@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 835
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LANSOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Lansoprazole: predicted new indication Duodenal obstruction (evidence level L5). In the US: 41 FDA applications (26 active)"
@@ -79,13 +79,19 @@ Currently no related clinical trials registered.
 
 <!-- review:end us-lic-20261106-lansoprazole-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021428 | Prevacid SoluTab (Takeda) | Orally disintegrating delayed-release tablet | Not available (status: valid) |
-| ANDA202366 | Lansoprazole (Bryant Ranch Prepack) | Delayed-release pellet capsule | Not available (status: valid) |
-| ANDA200816 | Lansoprazole (Zydus) | Orally disintegrating tablet | Not available (status: valid) |
-| ANDA205868 | Lansoprazole (Preferred Pharmaceuticals) | Delayed-release capsule | Not available (status: valid) |
-| ANDA207394 | Lansoprazole (Medcore) | Delayed-release capsule | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077255 | LANSOPRAZOLE | TEVA PHARMS | Capsule, delayed rel pellets; oral | Valid |
+| ANDA090763 | LANSOPRAZOLE | MYLAN PHARMS INC | Capsule, delayed rel pellets; oral | Valid |
+| ANDA091269 | LANSOPRAZOLE | DR REDDYS LABS LTD | Capsule, delayed rel pellets; oral | Valid |
+| ANDA200816 | LANSOPRAZOLE | ZYDUS PHARMS | Tablet, orally disintegrating, delayed release; oral | Valid |
+| ANDA201921 | LANSOPRAZOLE | NATCO PHARMA LTD | Capsule, delayed rel pellets; oral | Valid |
+
+Showing 5 of 41 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

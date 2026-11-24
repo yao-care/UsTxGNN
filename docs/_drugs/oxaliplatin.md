@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "OXALIPLATIN"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oxaliplatin: predicted new indication Malignant pleural mesothelioma (evidence level L2). In the US: 31 FDA applications (13 active)"
 ---
 
@@ -95,13 +95,19 @@ Approved indication text is not available in the license records.
 
 <!-- review:end us-lic-20261106-oxaliplatin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA207325 | Oxaliplatin | Injection, solution | Gland Pharma Limited |
-| ANDA078817 | Oxaliplatin | Injection, solution | Sandoz Inc |
-| ANDA204368 | Oxaliplatin | Injection, solution | BluePoint Laboratories |
-| ANDA091358 | Oxaliplatin | Injection, solution | Mylan Institutional LLC |
-| ANDA217348 | Oxaliplatin | Injection, solution | Meitheal Pharmaceuticals Inc. |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078811 | OXALIPLATIN | FRESENIUS KABI USA | Injectable; intravenous | Valid |
+| ANDA078813 | OXALIPLATIN | HOSPIRA WORLDWIDE | Injectable; intravenous | Valid |
+| ANDA078817 | OXALIPLATIN | SANDOZ | Injectable; intravenous | Valid |
+| ANDA078819 | OXALIPLATIN | FRESENIUS KABI USA | Injectable; intravenous | Valid |
+| ANDA091358 | OXALIPLATIN | MYLAN LABS LTD | Injectable; intravenous | Valid |
+
+Showing 5 of 31 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

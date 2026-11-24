@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "AMPICILLIN"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ampicillin: predicted new indication laryngitis (evidence level L5). In the US: 57 FDA applications (29 active)"
 ---
 
@@ -81,15 +81,21 @@ No retrieved study directly tests ampicillin for laryngitis. The table lists the
 
 ## US Market Information
 
-The data compiled for this report lists 10 US authorizations for single-ingredient ampicillin (ANDA records, injectable powder for solution and one powder for solution). The list may be partial. The records carry no approved-indication text.
+The data compiled for this report lists 10 US authorizations for single-ingredient ampicillin (ANDA records, injectable powder for solution and one powder for solution). The records carry no approved-indication text.
 
-| Authorization Number | Manufacturer | Dosage Form |
-|---------|------|------|
-| ANDA062719 | Fresenius Kabi USA, LLC | Injection, powder, for solution |
-| ANDA062738 | Sandoz Inc | Injection, powder, for solution |
-| ANDA062772 | Medical Purchasing Solutions, LLC | Injection, powder, for solution |
-| ANDA090354 | Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc. | Powder, for solution |
-| ANDA061395 | Sandoz Inc | Injection, powder, for solution |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA061395 | AMPICILLIN SODIUM | SANDOZ | Injectable; injection | Valid |
+| ANDA062719 | AMPICILLIN SODIUM | ACS DOBFAR SPA | Injectable; injection | Valid |
+| ANDA062772 | AMPICILLIN SODIUM | HQ SPECLT PHARMA | Injectable; injection | Valid |
+| ANDA062797 | AMPICILLIN SODIUM | ACS DOBFAR SPA | Injectable; injection | Valid |
+| ANDA063142 | AMPICILLIN SODIUM | HQ SPECLT PHARMA | Injectable; injection | Valid |
+
+Showing 5 of 57 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

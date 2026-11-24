@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 989
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Olopatadine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Allergic rhinitis (also vasomotor rhinitis, atopic conjunctivitis…"
 monitor_inn: "OLOPATADINE"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -80,13 +80,19 @@ Approved indication text is not available for these records. Five of the 12 are 
 
 <!-- review:end us-lic-20261105-olopatadine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA020688 | PATADAY TWICE A DAY RELIEF (Alcon Laboratories) | Solution | Valid |
-| ANDA219557 | Olopatadine Hydrochloride (Glenmark Therapeutics) | Solution | Valid |
-| ANDA209420 | Olopatadine Hydrochloride (Alembic Pharmaceuticals) | Solution/Drops | Valid |
-| ANDA091572 | Olopatadine Hydrochloride (Apotex) | Metered spray | Valid |
-| ANDA210901 | Olopatadine Hydrochloride (Amneal Pharmaceuticals) | Metered spray | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078350 | OLOPATADINE HYDROCHLORIDE | APOTEX | Solution/drops; ophthalmic | Valid |
+| ANDA090848 | OLOPATADINE HYDROCHLORIDE | BARR LABS INC | Solution/drops; ophthalmic | Valid |
+| ANDA090918 | OLOPATADINE HYDROCHLORIDE | APOTEX | Solution/drops; ophthalmic | Valid |
+| ANDA091572 | OLOPATADINE HYDROCHLORIDE | APOTEX INC | Spray, metered; nasal | Valid |
+| ANDA200810 | OLOPATADINE HYDROCHLORIDE | GLENMARK PHARMS | Solution/drops; ophthalmic | Valid |
+
+Showing 5 of 34 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

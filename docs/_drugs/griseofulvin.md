@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "GRISEOFULVIN"
 predicted_indications: ["myiasis", "wound myiasis", "creeping myiasis", "furuncular myiasis", "echinococcus granulosus infectious disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Griseofulvin: predicted new indication Myiasis (evidence level L5). In the US: 22 FDA applications (12 active)"
 ---
 
@@ -81,7 +81,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-Griseofulvin is marketed in the US, and no approved-indication text was recorded. The first five are listed below.
+Griseofulvin is marketed in the US, and no approved-indication text was recorded.
 
 <!-- review:begin us-lic-20261106-griseofulvin-2 -->
 
@@ -89,13 +89,19 @@ Griseofulvin is marketed in the US, and no approved-indication text was recorded
 
 <!-- review:end us-lic-20261106-griseofulvin-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA091592 | Griseofulvin (Sandoz Inc) | Tablet | Not recorded |
-| ANDA061996 | Ultramicrosize Griseofulvin (Chartwell RX) | Tablet | Not recorded |
-| ANDA204371 | Ultramicrosize Griseofulvin (Amneal) | Tablet, coated | Not recorded |
-| ANDA065354 | Griseofulvin (Cipla USA) | Suspension | Not recorded |
-| ANDA065200 | Griseofulvin (Chartwell RX) | Suspension | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA060569 | FULVICIN-U/F | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA061996 | FULVICIN P/G 330 | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA065200 | GRISEOFULVIN | CHARTWELL RX | Suspension; oral | Valid |
+| ANDA065354 | GRISEOFULVIN | CIPLA | Suspension; oral | Valid |
+| ANDA065394 | GRISEOFULVIN | ACTAVIS MID ATLANTIC | Suspension; oral | Valid |
+
+Showing 5 of 22 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Available dosage forms were oral tablets (including coated tablets) and suspensions.
 

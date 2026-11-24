@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "HEPARIN"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Heparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). In the US: 89 FDA applications (33 active)"
 ---
 
@@ -72,15 +72,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA090808 | Heparin Sodium (Sagent Pharmaceuticals) | Injection, solution | Not available (valid) |
-| NDA018916 | Heparin Sodium (Hospira, Inc.) | Injection, solution | Not available (valid) |
-| NDA019953 | Heparin Sodium in Sodium Chloride (B. Braun Medical Inc.) | Injection | Not available (valid) |
-| NDA017037 | Heparin Sodium (Hikma Pharmaceuticals USA Inc.) | Injection | Not available (valid) |
-| NDA018609 | Heparin Sodium in Sodium Chloride (Baxter Healthcare Corporation) | Injection, solution | Not available (valid) |
+<!-- licenses:begin -->
 
-Only 5 are shown here.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA088100 | HEPARIN SODIUM | HOSPIRA | Injectable; injection | Valid |
+| ANDA089522 | HEPARIN SODIUM PRESERVATIVE FREE | HOSPIRA | Injectable; injection | Valid |
+| ANDA090571 | HEPARIN SODIUM | HOSPIRA INC | Injectable; injection | Valid |
+| ANDA090808 | HEPARIN SODIUM | SAGENT PHARMS | Injectable; injection | Valid |
+| ANDA090809 | HEPARIN SODIUM | SAGENT PHARMS | Injectable; injection | Valid |
+
+Showing 5 of 89 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

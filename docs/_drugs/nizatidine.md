@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "NIZATIDINE"
 predicted_indications: ["duodenal obstruction", "gastroduodenitis", "multiple endocrine neoplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nizatidine: predicted new indication duodenal obstruction (evidence level L5). In the US: 13 FDA applications (4 active)"
 ---
 
@@ -68,12 +68,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA076178 | Nizatidine (Epic Pharma, LLC) | Capsule | Not recorded |
-| ANDA090576 | Nizatidine (Amneal Pharmaceuticals LLC) | Solution | Not recorded |
-| ANDA075616 | Nizatidine (Actavis Pharma, Inc.) | Capsule | Not recorded |
-| ANDA077314 | Nizatidine (Dr Reddy's Laboratories Limited) | Capsule | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075616 | NIZATIDINE | WATSON LABS | Capsule; oral | Valid |
+| ANDA076178 | NIZATIDINE | EPIC PHARMA LLC | Capsule; oral | Valid |
+| ANDA077314 | NIZATIDINE | DR REDDYS LABS LTD | Capsule; oral | Valid |
+| NDA020555 | AXID AR | HALEON US HOLDINGS | Tablet; oral | Valid |
+| ANDA075461 | NIZATIDINE | ANI PHARMS | Capsule; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

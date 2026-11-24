@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 984
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ofloxacin: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Bacterial infections (typhoid fever, salmonellosis…"
 monitor_inn: "OFLOXACIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
@@ -96,7 +96,7 @@ Several other retrieved papers concern resistance mechanisms or other organisms 
 
 ## US Market Information
 
-The drug is marketed in the US. No approved-indication text is available. The first five are listed below.
+The drug is marketed in the US. No approved-indication text is available.
 
 <!-- review:begin us-lic-20261106-ofloxacin-1 -->
 
@@ -104,13 +104,19 @@ The drug is marketed in the US. No approved-indication text is available. The fi
 
 <!-- review:end us-lic-20261106-ofloxacin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA076622 | Ofloxacin | Solution/drops | A-S Medication Solutions |
-| ANDA217904 | Ofloxacin | Solution | Leading Pharma, LLC |
-| ANDA091656 | Ofloxacin | Coated tablet | Nivagen Pharmaceuticals, Inc. |
-| ANDA076527 | Ofloxacin Otic | Solution | Bryant Ranch Prepack |
-| ANDA211525 | Ofloxacin | Solution | A-S Medication Solutions |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076093 | OFLOXACIN | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA076128 | OFLOXACIN | BAUSCH AND LOMB INC | Solution/drops; otic | Valid |
+| ANDA076182 | OFLOXACIN | TEVA | Tablet; oral | Valid |
+| ANDA076407 | OFLOXACIN | SENTISS | Solution/drops; ophthalmic | Valid |
+| ANDA076513 | OFLOXACIN | APOTEX INC | Solution/drops; ophthalmic | Valid |
+
+Showing 5 of 34 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

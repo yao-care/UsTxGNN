@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TYROSINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Tyrosine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not available"
 ---
 
@@ -96,9 +96,19 @@ Selected publications retrieved for lower-ranked predictions, none testing tyros
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | L-Tyrosine (Professional Complementary Health Formulas) | Liquid | Not specified (status: cancelled) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA008378 | TPN | INTL MINERALS | Suspension; oral | Discontinued in Drugs@FDA |
+| NDC 63083-7427 | L-Tyrosine 7427 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 63083-7428 | L-Tyrosine High 7428 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 58264-0093 | D-87 | DNA Labs, Inc. | Solution | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43853-0099 | AKSO N2 Youth Complex Essence | HEALWAY | Spray | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "DICYCLOMINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dicyclomine: predicted new indication Cauda equina syndrome (evidence level L5). In the US: 46 FDA applications (31 active)"
 ---
 
@@ -82,13 +82,19 @@ The drug is marketed in the US. Approved indication text was not available. The 
 
 <!-- review:end us-lic-20261106-dicyclomine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA084285 | Dicyclomine Hydrochloride (NuCare Pharmaceuticals) | Capsule | Not available |
-| ANDA216736 | Dicyclomine hydrochloride (Northwind Health) | Tablet | Not available |
-| ANDA040319 | Dicyclomine Hydrochloride (RemedyRepack) | Capsule | Not available |
-| ANDA208353 | Dicyclomine hydrochloride (American Regent) | Injection, solution | Not available |
-| ANDA040465 | Dicyclomine Hydrochloride (Hikma) | Injection | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040161 | DICYCLOMINE HYDROCHLORIDE | HIKMA | Tablet; oral | Valid |
+| ANDA040169 | DICYCLOMINE HYDROCHLORIDE | PH HEALTH | Syrup; oral | Valid |
+| ANDA040204 | DICYCLOMINE HYDROCHLORIDE | HIKMA | Capsule; oral | Valid |
+| ANDA040230 | DICYCLOMINE HYDROCHLORIDE | LANNETT | Tablet; oral | Valid |
+| ANDA040317 | DICYCLOMINE HYDROCHLORIDE | AUROBINDO PHARMA USA | Tablet; oral | Valid |
+
+Showing 5 of 46 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

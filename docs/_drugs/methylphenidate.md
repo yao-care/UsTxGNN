@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 916
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "METHYLPHENIDATE"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 description: "Methylphenidate: predicted new indication Faciodigitogenital syndrome (evidence level L5). In the US: 89 FDA applications (58 active)"
@@ -103,13 +103,19 @@ The approved indication text is not available in the data compiled for this repo
 
 <!-- review:end us-lic-20261106-methylphenidate-2 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021121 | CONCERTA | Extended-release tablet | Not available |
-| NDA209311 | JORNAY PM | Capsule | Not available |
-| NDA216117 | RELEXXII | Extended-release tablet | Not available |
-| NDA021419 | Methylin | Solution | Not available |
-| NDA021259 | Methylphenidate hydrochloride CD | Extended-release capsule | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040300 | METHYLPHENIDATE HYDROCHLORIDE | SPECGX LLC | Tablet; oral | Valid |
+| ANDA075629 | METHYLIN ER | SPECGX LLC | Tablet, extended release; oral | Valid |
+| ANDA076655 | METHYLPHENIDATE HYDROCHLORIDE | ACTAVIS LABS FL | Tablet, extended release; oral | Valid |
+| ANDA076772 | METHYLPHENIDATE HYDROCHLORIDE | ACTAVIS LABS FL | Tablet, extended release; oral | Valid |
+| ANDA077707 | METHYLPHENIDATE HYDROCHLORIDE | TEVA PHARMS | Capsule, extended release; oral | Valid |
+
+Showing 5 of 89 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

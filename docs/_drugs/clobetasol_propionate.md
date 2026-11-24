@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CLOBETASOL PROPIONATE"
 predicted_indications: ["vulvar inverted follicular keratosis", "acrodermatitis chronica atrophicans", "exanthem (disease)", "acne keloid", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clobetasol Propionate: predicted new indication vulvar inverted follicular keratosis (evidence level L5). In the US: 100 FDA applications (57 active)"
 ---
 
@@ -71,13 +71,19 @@ Currently no related literature available.
 
 The compiled data show 18 US licence records for single-ingredient clobetasol propionate products, and the list may be partial. The licence records list the following dosage forms: cream, gel, lotion, ointment, shampoo and solution. Approved-indication text is not recorded in the local data. Because the licence records carry conflicting status information, the status counts are not itemised here; the overall market status is marketed.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA209483 | Impoyz | Cream | Not recorded |
-| ANDA210034 | Clobetasol Propionate | Cream | Not recorded |
-| ANDA212982 | Clobetasol Propionate Cream USP, 0.05% | Cream | Not recorded |
-| ANDA208841 | Clobetasol Propionate | Ointment | Not recorded |
-| ANDA075027 | Clobetasol Propionate | Gel | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074089 | CLOBETASOL PROPIONATE | COSETTE PHARMS NC | Ointment; topical | Valid |
+| ANDA074248 | CLOBETASOL PROPIONATE | SUN PHARMA CANADA | Ointment; topical | Valid |
+| ANDA074249 | CLOBETASOL PROPIONATE | SUN PHARMA CANADA | Cream; topical | Valid |
+| ANDA074392 | CLOBETASOL PROPIONATE | FOUGERA PHARMS INC | Cream; topical | Valid |
+| ANDA074407 | CLOBETASOL PROPIONATE | FOUGERA PHARMS | Ointment; topical | Valid |
+
+Showing 5 of 100 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

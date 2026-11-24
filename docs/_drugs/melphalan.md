@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 896
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MELPHALAN"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
 description: "Melphalan: predicted new indication Female breast carcinoma (evidence level L5). In the US: 24 FDA applications (15 active)"
@@ -81,10 +81,19 @@ The evidence has important limits. In the supporting trials, melphalan is almost
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA207155 | EVOMELA (Acrotech Biopharma) | Injection, powder, lyophilized, for solution | Not available (status: valid) |
-| NDA217110 | IVRA (Apotex) | Injection, solution | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090270 | MELPHALAN HYDROCHLORIDE | MYLAN INSTITUTIONAL | Injectable; injection | Valid |
+| ANDA090303 | MELPHALAN HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA201379 | MELPHALAN HYDROCHLORIDE | SAGENT PHARMS INC | Injectable; injection | Valid |
+| ANDA203393 | MELPHALAN HYDROCHLORIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA203655 | MELPHALAN HYDROCHLORIDE | DR REDDYS | Injectable; injection | Valid |
+
+Showing 5 of 24 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

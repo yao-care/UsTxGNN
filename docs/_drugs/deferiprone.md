@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 578
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DEFERIPRONE"
 predicted_indications: ["hepatic porphyria", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
 description: "Deferiprone: predicted new indication Hepatic porphyria (evidence level L4). In the US: 6 FDA applications (6 active)"
@@ -92,13 +92,19 @@ All six US authorizations are valid, and no approved-indication text is availabl
 
 <!-- review:end us-lic-20261106-deferiprone-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021825 | FERRIPROX (Chiesi USA) | Tablet, film coated | Not available |
-| NDA212269 | FERRIPROX (Chiesi USA) | Tablet | Not available |
-| NDA208030 | FERRIPROX (Chiesi USA) | Solution | Not available |
-| ANDA213239 | Deferiprone (Hikma) | Tablet, coated | Not available |
-| ANDA208800 | Deferiprone (Sun Pharmaceutical) | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208800 | DEFERIPRONE | TARO | Tablet; oral | Valid |
+| ANDA213239 | DEFERIPRONE | HIKMA | Tablet; oral | Valid |
+| ANDA220132 | DEFERIPRONE | PHARMAZONE | Tablet; oral | Valid |
+| NDA021825 | FERRIPROX | CHIESI | Tablet; oral | Valid |
+| NDA208030 | FERRIPROX | CHIESI | Solution; oral | Valid |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

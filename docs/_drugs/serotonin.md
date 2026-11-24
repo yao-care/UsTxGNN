@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "SEROTONIN"
 predicted_indications: ["insomnia (disease)", "anxiety disorder", "migraine disorder", "anxiety", "agoraphobia", "migraine with brainstem aura", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "atrophoderma vermiculata"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Serotonin: predicted new indication Insomnia (disease) (evidence level L4). In the US: no FDA-approved application; 62 OTC monograph/unapproved NDC listings"
 ---
 
@@ -91,9 +91,19 @@ For the other top predictions, the evidence is similar in nature. Anxiety has on
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | Serotonin (BioActive Nutritional) | Liquid | Not available; status: cancelled |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 43742-0665 | Serotonin | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43857-0243 | Serotonin | BioActive Nutritional | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43857-0245 | Serotonin | BioActive Nutritional, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 44911-0143 | Serotonin Phenolic | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 44911-0202 | Serotonin Phenolic | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 62 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

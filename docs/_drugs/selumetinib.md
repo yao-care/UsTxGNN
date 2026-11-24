@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "SELUMETINIB"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "rhabdoid tumor", "acromelanosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "Moynahan syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma", "microcystic/reticular schwannoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Selumetinib: predicted new indication Familial generalized lentiginosis (evidence level L5). In the US: 2 FDA applications (2 active)"
 ---
 
@@ -95,10 +95,14 @@ Clinical support in NF2-related schwannoma is still thin. It consists of one sma
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA213756 | KOSELUGO (AstraZeneca) | Capsule | Not available (status: valid) |
-| NDA219943 | KOSELUGO (AstraZeneca) | Granule | Not available (status: valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA213756 | KOSELUGO | ASTRAZENECA | Capsule; oral | Valid |
+| NDA219943 | KOSELUGO | ASTRAZENECA | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ---
 

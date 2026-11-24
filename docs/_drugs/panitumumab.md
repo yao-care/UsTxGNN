@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "PANITUMUMAB"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Panitumumab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Metastatic malignant neoplasm in the colon"
 ---
 
@@ -70,9 +70,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125147 | Vectibix (Amgen Inc) | Solution | Not listed; license status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125147 | VECTIBIX | AMGEN | Injectable; iv (infusion) | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

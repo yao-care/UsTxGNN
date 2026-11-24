@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 505
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "CEFOXITIN"
 predicted_indications: ["infectious otitis media", "chronic otitis media", "suppurative otitis media", "middle ear disease", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
 description: "Cefoxitin: predicted new indication Infectious otitis media (evidence level L5). In the US: 18 FDA applications (8 active)"
@@ -80,13 +80,19 @@ Approved indication text is not recorded in the local data.
 
 <!-- review:end us-lic-20261106-cefoxitin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA065415 | Cefoxitin (WG Critical Care) | Injection, powder, for solution | Valid |
-| NDA065214 | Cefoxitin and Dextrose (B. Braun) | Injection, solution | Valid |
-| ANDA065238 | Cefoxitin (Hikma) | Injection, powder, for solution | Valid |
-| ANDA200938 | Cefoxitin (Samson Medical Technologies) | Injection, powder, for solution | Valid |
-| ANDA065414 | Cefoxitin (Sagent) | Injection, powder, for solution | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA065050 | CEFOXITIN | HIKMA | Injectable; injection | Valid |
+| ANDA065051 | CEFOXITIN | HIKMA | Injectable; injection | Valid |
+| ANDA065238 | CEFOXITIN | HIKMA FARMACEUTICA | Injectable; injection | Valid |
+| ANDA065239 | CEFOXITIN | HIKMA FARMACEUTICA | Injectable; injection | Valid |
+| ANDA065414 | CEFOXITIN | ACS DOBFAR | Injectable; injection | Valid |
+
+Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

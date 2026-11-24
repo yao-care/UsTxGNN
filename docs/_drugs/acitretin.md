@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "ACITRETIN"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acitretin: predicted new indication Acne (disease) (evidence level L4). In the US: 8 FDA applications (6 active)"
 ---
 
@@ -93,13 +93,19 @@ The strongest signals in the retrieved data concern hidradenitis suppurativa (al
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA202552 | Acitretin (Amneal) | Capsule | Not recorded |
-| ANDA202148 | Acitretin (Mylan) | Capsule | Not recorded |
-| ANDA204633 | Acitretin (Sigmapharm) | Capsule | Not recorded |
-| ANDA217774 | Acitretin (Alembic) | Capsule | Not recorded |
-| ANDA091455 | Acitretin (Teva) | Capsule | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091455 | ACITRETIN | BARR LABS INC | Capsule; oral | Valid |
+| ANDA202148 | ACITRETIN | MYLAN | Capsule; oral | Valid |
+| ANDA202552 | ACITRETIN | IMPAX LABS INC | Capsule; oral | Valid |
+| ANDA202897 | ACITRETIN | TEVA PHARMS USA | Capsule; oral | Valid |
+| ANDA204633 | ACITRETIN | SIGMAPHARM LABS LLC | Capsule; oral | Valid |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 At least 6 licences are recorded, the list may be partial.
 

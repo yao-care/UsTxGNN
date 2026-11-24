@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "DOCUSATE"
 predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Docusate: predicted new indication Plummer-Vinson syndrome (evidence level L5). In the US: no FDA-approved application; 335 OTC monograph/unapproved NDC listings"
 ---
 
@@ -74,10 +74,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M007 (cancelled) | Stool Softener | Capsule, liquid filled | Not specified |
-| M334 (cancelled) | Docusate Sodium | Liquid | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0113-0486 | good sense stool softener | L. Perrigo Company | Capsule, liquid filled | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0121-0935 | Docusate Sodium | PAI Holdings, LLC dba PAI Pharma | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0121-1870 | Docusate Sodium | PAI Holdings, LLC dba PAI Pharma | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0132-0113 | Pedia-Lax | C.B. Fleet Company, Inc. | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 0132-0402 | Fleet | C.B. Fleet Company, Inc. | Capsule, liquid filled | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 335 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The drug is marketed in the US.
 

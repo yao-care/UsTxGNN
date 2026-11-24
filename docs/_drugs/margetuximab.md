@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MARGETUXIMAB"
 predicted_indications: ["drug-induced osteoporosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Margetuximab: predicted new indication Drug-induced osteoporosis (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
@@ -69,9 +69,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761150 | MARGENZA (MacroGenics, Inc) | Injection, solution, concentrate | Indication text not available in the data compiled; status listed as valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761150 | MARGENZA | TERSERA THERAPEUTICS LLC | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 The product is a single-ingredient biologic from MacroGenics, Inc, and the licence is currently valid.
 

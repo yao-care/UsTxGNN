@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FLUPHENAZINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "myopia X-linked", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluphenazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). In the US: 53 FDA applications (29 active)"
 ---
 
@@ -72,15 +72,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-Five examples:
+<!-- licenses:begin -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| ANDA218173 | Fluphenazine Hydrochloride | Film-coated tablet | Alembic Pharmaceuticals Inc. | Valid |
-| ANDA213647 | Fluphenazine Hydrochloride | Film-coated tablet | Amneal Pharmaceuticals NY LLC | Valid |
-| ANDA218055 | Fluphenazine Hydrochloride | Tablet | Aurobindo Pharma Limited | Valid |
-| ANDA089556 | Fluphenazine Hydrochloride | Solution for injection | Fresenius Kabi USA, LLC | Valid |
-| ANDA040146 | Fluphenazine Hydrochloride | Elixir | PAI Holdings, LLC dba PAI Pharma | Valid |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040146 | FLUPHENAZINE HYDROCHLORIDE | PHARM ASSOC | Elixir; oral | Valid |
+| ANDA071413 | FLUPHENAZINE DECANOATE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA074531 | FLUPHENAZINE DECANOATE | HIKMA | Injectable; injection | Valid |
+| ANDA074725 | FLUPHENAZINE HYDROCHLORIDE | PHARM ASSOC | Concentrate; oral | Valid |
+| ANDA075918 | FLUPHENAZINE DECANOATE | MYLAN LABS LTD | Injectable; injection | Valid |
+
+Showing 5 of 53 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Dosage forms across all authorizations: oral tablets (plain and film-coated), injectable solution and oral elixir.
 

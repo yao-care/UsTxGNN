@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "MAGNESIUM SALICYLATE"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "ankylosing spondylitis", "myosclerosis", "brachydactyly-syndactyly syndrome", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Magnesium Salicylate: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not stated in the US licence text."
 ---
 
@@ -74,11 +74,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M013 | Percogesic | Tablet, coated | Not stated in the data compiled |
-| part343 | Doans | Tablet | Not stated in the data compiled |
-| M027 | Diurex | Tablet, coated | Not stated in the data compiled |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 47682-074 | Medique Back Pain Relief | Unifirst First Aid Corporation | Tablet, film coated | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 47682-747 | Medique at Home Back Pain Relief | Unifirst First Aid Corporation | Tablet, film coated | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 55741-224 | Doans Extra Strength | Dr. Reddy's Laboratories Inc. | Tablet | NDC listing, no FDA application (OTC monograph not final) |
+| NDC 55741-600 | Doans Maximum Strength | Dr. Reddy's Laboratories Inc. | Tablet | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 73598-1272 | Maximum Strength Backache Relief | JHK DBA American Safety & First Aid | Capsule, coated | NDC listing, no FDA application (OTC monograph drug) |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Oral dosage forms recorded include coated tablets, coated capsules, film-coated tablets and tablets.
 

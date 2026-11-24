@@ -91058,6 +91058,27 @@
    "summary": "Removed: \"The records compiled for this report list 13 ANDAs, and the list may be partial.\"",
    "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
    "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124c-sumatriptan-1",
+   "drug": "sumatriptan",
+   "file": "sumatriptan.md",
+   "action": "correct",
+   "claim": "Only part of the licence list is held in the data; the list may be incomplete.\n\n",
+   "replacement": "",
+   "note": "Removed: it said only part of the licence list was held in the data; the FDA data compiled for this report cover all applications matched to this drug, and the line under the table shows how many are listed.",
+   "finding": "許可證表下的「只收了部分許可證、清單可能不完整」說明句（10-22 known_use_pages 程式句；該程式在紀錄超過 30 筆、但不是部分紀錄時也加這句，2026-11-24 母 repo 已修）；快照事實層 partial＝False、total 56，說法不成立，刪掉",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Only part of the licence list is held in the data; the list may be incomplete.\"",
+   "method": "2026-11-24 母 repo 修 known_use_pages 的部分紀錄提示句條件後，全站掃非 partial 頁仍有這句的（Us 1 頁）",
+   "anchor": "<!-- licenses:end -->"
   }
  ]
 }

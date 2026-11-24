@@ -21,12 +21,12 @@
   "items_current": 9927
  },
  "reviews": {
-  "records": 2174,
-  "pages": 918,
-  "public_pages_with_records": 895,
+  "records": 2175,
+  "pages": 919,
+  "public_pages_with_records": 896,
   "by_action": {
    "annotate": 1,
-   "correct": 1354,
+   "correct": 1355,
    "mechanism": 819
   }
  },
@@ -286,6 +286,12 @@
  },
  "recent_reviews": [
   {
+   "t": "Sumatriptan",
+   "u": "/drugs/sumatriptan/",
+   "s": "Removed: \"Only part of the licence list is held in the data; the list may be incomplete.\"",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Undecylenic Acid",
    "u": "/drugs/undecylenic-acid/",
    "s": "Removed: \"All three are single-ingredient products.\"",
@@ -422,15 +428,15 @@
    "u": "/drugs/hyoscyamine/",
    "s": "Corrected: \"the only US authorization on record is cancelled,\"",
    "d": "2026-11-24"
-  },
-  {
-   "t": "Hydroxyprogesterone Caproate",
-   "u": "/drugs/hydroxyprogesterone-caproate/",
-   "s": "Corrected: \"since the only licence is cancelled\"",
-   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
+  {
+   "t": "Sumatriptan",
+   "u": "/drugs/sumatriptan/",
+   "s": "Removed: \"Only part of the licence list is held in the data; the list may be incomplete.\"",
+   "d": "2026-11-24"
+  },
   {
    "t": "Undecylenic Acid",
    "u": "/drugs/undecylenic-acid/",
@@ -471,12 +477,6 @@
    "t": "Sofosbuvir",
    "u": "/drugs/sofosbuvir/",
    "s": "Removed: \"Two further licences are not listed here: NDA212477 (Harvoni, pellet) and NDA209195 (Vosevi…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Sevoflurane",
-   "u": "/drugs/sevoflurane/",
-   "s": "Removed: \"One further authorization (ANDA214382, Lannett Company, Inc.) is also valid.\"",
    "d": "2026-11-24"
   }
  ],

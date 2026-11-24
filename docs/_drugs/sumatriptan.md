@@ -96,7 +96,11 @@ Showing 15 of 56 entries (FDA applications first, active before discontinued; ND
 
 <!-- licenses:end -->
 
-Only part of the licence list is held in the data; the list may be incomplete.
+<!-- review:begin us-lic-20261124c-sumatriptan-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Only part of the licence list is held in the data; the list may be incomplete." Removed: it said only part of the licence list was held in the data; the FDA data compiled for this report cover all applications matched to this drug, and the line under the table shows how many are listed. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/).
+
+<!-- review:end us-lic-20261124c-sumatriptan-1 -->
 
 ## Safety Considerations
 
@@ -115,6 +119,18 @@ Only part of the licence list is held in the data; the list may be incomplete.
 Please also refer to the package insert for full safety information.
 
 ---
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: "Only part of the licence list is held in the data; the list may be incomplete." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -226,9 +226,8 @@ def classify(rm):
 def figures(fc):
     if not fc or fc.get("total") is None:
         return ""
-    return (f" The FDA data list {fc['total']} FDA application{'s' if fc['total'] != 1 else ''} or NDC listing"
-            f"{'s' if fc['total'] != 1 else ''} for this drug, {fc.get('valid') or 0} active; the Quick Overview and the table under "
-            "US Market Information show the current figures.")
+    # 2026-11-24（用戶決定）：不再寫當日張數（之後會過期、要同 id 重發），只指向概覽表與程式許可證表
+    return " The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information."
 
 
 def note_for(kind, date, fc):

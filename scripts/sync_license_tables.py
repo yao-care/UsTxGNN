@@ -316,6 +316,49 @@ def resync_tables(bundles, ws=None):
     return out
 
 
+def _snap_facts():
+    """snapshots/us_licenses.json.gz 的 facts（頁 stem → 事實層那一筆）；沒有快照就是空的"""
+    import gzip
+    p = ROOT / "snapshots" / "us_licenses.json.gz"
+    if not p.exists():
+        return {}
+    d = json.loads(gzip.open(p).read().decode("utf-8")).get("drugs") or {}
+    return {k: v.get("facts") for k, v in d.items() if v.get("facts")}
+
+
+def run(only=None, dry=False, ws=None):
+    """已有程式區塊（BEGIN…END）的頁，依證據包（data/bundles）＋事實層重排程式許可證表，回傳改到的頁檔名（xxx.md）。
+    2026-11-24（用戶決定「許可證張數與狀態不再每週過期」）：scripts/build_license_snapshot.py 寫完快照、scripts/apply_drug_reviews.py
+    （非 --check）結尾都會呼叫，讓所有程式表（不只這輪狀態有變的藥）都跟著證據包與快照。
+    事實層：給 ws 用 <ws>/.claude/cache/license_facts，否則用快照的 facts。沒有 data/bundles 的環境（gate、只有快照）什麼都不做。
+    沒有任何申請號或列名產品時不換成 NONE_LINE（那是正文改動，只在依成分重建時做；同 resync_tables）。
+    只動程式區塊（表格列、SHOW 句、標記），不動其他行。"""
+    if not (ROOT / "data/bundles").is_dir():
+        return []
+    only = {x[:-3] if str(x).endswith(".md") else x for x in only} if only else None
+    fs = facts(ws) if ws else _snap_facts()
+    out = []
+    for page in sorted((ROOT / "docs/_drugs").glob("*.md")):
+        if only and page.stem not in only:
+            continue
+        raw = page.read_bytes().decode("utf-8")
+        if BEGIN not in raw:
+            continue
+        key, b = bundle_for(page)
+        if b is None:
+            continue
+        tf = b.get("tfda") or {}
+        if not rows_of(tf, None)[0]:
+            continue
+        new, crlf = resync_page(page, tf, fs.get(key) or fs.get(page.stem))
+        if new is None:
+            continue
+        out.append(page.name)
+        if not dry:
+            _write(page, new, crlf)
+    return out
+
+
 def carry_block(old_text, new_text):
     """sync_notes_to_docs.py 重寫整頁時用：舊頁的程式區塊（BEGIN…END）移植到新頁的市場段落，取代新頁模型寫的
     第一張表（連同緊接的 SHOW 句）；新頁段落沒有表時接在段落第一段之後。舊頁沒有程式區塊就原樣回傳新頁。"""

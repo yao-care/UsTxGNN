@@ -64,7 +64,7 @@ There is an important caution. The high TxGNN score therefore should not be read
 
 <!-- review:begin us-lic-20261031-nisoldipine-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "There is an important caution. Calcium channel blockers are generally not recommended for pulmonary hypertension associated with lung disease or hypoxia, because they may worsen ventilation/perfusion mismatch and cause systemic hypotension." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 4 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "There is an important caution. Calcium channel blockers are generally not recommended for pulmonary hypertension associated with lung disease or hypoxia, because they may worsen ventilation/perfusion mismatch and cause systemic hypotension." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-10-31). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-nisoldipine-1 -->
 
@@ -121,7 +121,7 @@ The mechanistic link is plausible, but the evidence is limited to old preclinica
 
 <!-- review:begin us-lic-20261031-nisoldipine-2 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The mechanistic link is plausible, but the evidence is limited to old preclinical studies (L4) with no registered clinical trials. Calcium channel blockers are generally not recommended in hypoxia-related pulmonary hypertension, and the only US authorization is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 4 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The mechanistic link is plausible, but the evidence is limited to old preclinical studies (L4) with no registered clinical trials. Calcium channel blockers are generally not recommended in hypoxia-related pulmonary hypertension, and the only US authorization is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-nisoldipine-2 -->
 
@@ -134,7 +134,7 @@ The mechanistic link is plausible, but the evidence is limited to old preclinica
 
 <!-- review:begin us-lic-20261106-nisoldipine-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Review of the drug's cancelled market status and the availability of the extended-release formulation" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Review of the drug's cancelled market status and the availability of the extended-release formulation" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-nisoldipine-3 -->
 
@@ -146,9 +146,9 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "Calcium channel blockers are generally not recommended for pulmonary hypertension associated with lung disease or hypoxia, because they may " | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
-| 2026-10-31 | Removed: "Calcium channel blockers are generally not recommended in hypoxia-related pulmonary hypertension, and the only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
-| 2026-11-06 | Removed: "the drug's cancelled market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Calcium channel blockers are generally not recommended for pulmonary hypertension associated with lung disease or hypoxia, because they may " | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Calcium channel blockers are generally not recommended in hypoxia-related pulmonary hypertension, and the only US authorization is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the drug's cancelled market status and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sular (nisoldipine) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=589157fa-d129-4de3-be3d-e0e1c22c5873) |
 
 <!-- review:end log -->

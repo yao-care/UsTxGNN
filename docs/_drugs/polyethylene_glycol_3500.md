@@ -100,7 +100,7 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "There are no clinical trials or publications, the mechanism is unknown, oral PEG 3500 is minimally absorbed, and the only US license is canc" | No longer present after the report was regenerated (2026-11-16: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "There are no clinical trials or publications, the mechanism is unknown, oral PEG 3500 is minimally absorbed, and the only US license is canc" | No longer present after the report was regenerated (2026-11-16: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected (revised 2026-11-24; earlier version kept in the record)) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

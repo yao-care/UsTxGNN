@@ -122,7 +122,7 @@ Please refer to the package insert for warnings and contraindications.
 
 <!-- review:begin us-lic-20261031-ivosidenib-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The two plausible predictions (therapy-related AML/MDS) are mainly extensions of the existing AML use, are classified as research questions, and also lack specific trial or literature evidence. / The US license record shows only a cancelled NDA, and package insert safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The two plausible predictions (therapy-related AML/MDS) are mainly extensions of the existing AML use, are classified as research questions, and also lack specific trial or literature evidence. / The US license record shows only a cancelled NDA, and package insert safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-ivosidenib-1 -->
 
@@ -134,7 +134,7 @@ Please refer to the package insert for warnings and contraindications.
 
 <!-- review:begin us-lic-20261031-ivosidenib-2 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "For therapy-related AML/MDS: IDH1 mutation prevalence in these populations, and a review of existing IDH1-mutant AML/MDS trial subgroups / Clarification of the current US market status, since the only NDA is listed as cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "For therapy-related AML/MDS: IDH1 mutation prevalence in these populations, and a review of existing IDH1-mutant AML/MDS trial subgroups / Clarification of the current US market status, since the only NDA is listed as cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-ivosidenib-2 -->
 
@@ -146,8 +146,8 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The US license record shows only a cancelled NDA, and package insert safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
-| 2026-10-31 | Removed: "Clarification of the current US market status, since the only NDA is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "The US license record shows only a cancelled NDA, and package insert safety data are missing" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Clarification of the current US market status, since the only NDA is listed as cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tibsovo (ivosidenib) prescribing information, Servier Pharmaceutical LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65d254c0-67ad-42c4-b972-ad463b755b2d) |
 
 <!-- review:end log -->

@@ -62,7 +62,7 @@ According to the Mechanism of Action and Microbiology sections of the FDA-approv
 
 <!-- review:begin us-lic-20261031-plazomicin-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The drug is currently marketed in the US (1 valid licence of 1)." Removed: its description of the US products did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The drug is currently marketed in the US (1 valid licence of 1)." Removed: its description of the US products did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-10-31). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-plazomicin-1 -->
 
@@ -115,7 +115,7 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The drug i curre t marketed in the (1 v lid e ce" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "The drug i curre t marketed in the (1 v lid e ce" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zemdri (Plazomicin) (plazomicin) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eccf9fd9-53ac-4252-a106-5567b3a82a70) |
 
 <!-- review:end log -->

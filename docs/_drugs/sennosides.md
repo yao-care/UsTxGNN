@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SENNOSIDES"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Sennosides: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Laxative (inferred from product names"
 ---
 
@@ -87,7 +87,13 @@ No drug-drug interaction records were found, and no contraindication edges were 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or publications, and no plausible mechanism links a stimulant laxative to hair loss. Neither of the two US licences is currently valid.
+The prediction rests only on a model score. There are no clinical trials or publications, and no plausible mechanism links a stimulant laxative to hair loss. 
+
+<!-- review:begin us-lic-20261124-sennosides-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Neither of the two US licences is currently valid." Removed: it said the US products were cancelled or not valid, but this drug has no FDA application and the NDC Directory lists current products under OTC monograph or unapproved categories (Drugs@FDA and the NDC Directory as of 2026-11-06). The current listings are shown in the Quick Overview and in the table under US Market Information. Source: [openFDA NDC Directory](https://open.fda.gov/data/ndc/); [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/).
+
+<!-- review:end us-lic-20261124-sennosides-1 -->
 
 **To proceed, the following is needed:**
 - Mechanism of action data, to test whether any biological link to hair follicle biology exists
@@ -95,6 +101,19 @@ The prediction rests only on a model score. There are no clinical trials or publ
 - Preclinical or mechanistic studies, since none currently exist
 - Route compatibility assessment, since the available oral forms may not suit a scalp indication
 - Review of the other predicted indications for any with better support
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: "Neither of the two US licences is currently valid" | Corrected | [openFDA NDC Directory](https://open.fda.gov/data/ndc/); [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

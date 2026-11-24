@@ -91,7 +91,7 @@ Currently no related literature available (no predicted indication target to que
 
 <!-- review:begin us-lic-20261106-acetaminophen_codeine-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "> **Note**: Acetaminophen + Codeine products are widely marketed internationally (e.g., Tylenol with Codeine No. 3/4 in the US under NDA 022450 and others), but this system did not retrieve those records." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 108 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "> **Note**: Acetaminophen + Codeine products are widely marketed internationally (e.g., Tylenol with Codeine No. 3/4 in the US under NDA 022450 and others), but this system did not retrieve those records." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-acetaminophen_codeine-2 -->
 
@@ -133,7 +133,7 @@ Below is the review log for this page: statements checked against official FDA d
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "No Taiwan license records found for this combination entry. The query returned 0 results from the TFDA database" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
-| 2026-11-06 | Removed: "(e g., Tylenol with Codeine No. 3/4 in the US under NDA 022450 and others), but this system did not retrieve those records" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(e g., Tylenol with Codeine No. 3/4 in the US under NDA 022450 and others), but this system did not retrieve those records" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

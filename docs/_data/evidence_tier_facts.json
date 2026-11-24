@@ -1638,7 +1638,7 @@
   "with_current": 712,
   "none_current": 17,
   "without_data": 48,
-  "with_reviews": 747,
+  "with_reviews": 750,
   "rows": [
    {
     "t": "Ibuprofen",
@@ -2769,8 +2769,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 32,
     "lv": 22,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"every record is listed as 'single-ingredient' type\" (two combination products are on record)",
     "x": 0
    },
    {
@@ -9501,8 +9501,8 @@
     "i": "seborrheic keratosis",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 2,
+    "rs": "Removed: \"The category is too broad to act on, and all three US products are cancelled\"",
     "x": 0
    },
    {
@@ -10018,8 +10018,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: \"Neither of the two US licences is currently valid\"",
     "x": 0
    },
    {
@@ -10062,8 +10062,8 @@
     "i": "meningococcal infection",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: \"Both US products are also cancelled\"",
     "x": 0
    },
    {

@@ -42,7 +42,7 @@ Nabilone is a synthetic cannabinoid capsule. The TxGNN model predicts it may be 
 
 <!-- review:begin us-lic-20261105-nabilone-1 -->
 
-> **Review correction (2026-11-05)**: Originally stated: "Nabilone is a synthetic cannabinoid capsule (marketed in the US as Cesamet) that is known as an antiemetic." Removed: its description of the US products did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 1 FDA application or NDC listing for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-05)**: Originally stated: "Nabilone is a synthetic cannabinoid capsule (marketed in the US as Cesamet) that is known as an antiemetic." Removed: its description of the US products did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261105-nabilone-1 -->
 
@@ -129,7 +129,7 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-05 | Removed: "(marketed in the US as Cesamet) that is known as an antiemetic" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "(marketed in the US as Cesamet) that is known as an antiemetic" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2218896 (nabilone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2218896) |
 
 <!-- review:end log -->

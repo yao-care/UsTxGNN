@@ -97,7 +97,7 @@ The prediction is supported only by the TxGNN model score, with no clinical tria
 
 <!-- review:begin us-lic-20261031-tipranavir-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "SIV is a veterinary and preclinical model, not a human indication. Tipranavir's only US authorization is cancelled, and the knowledge graph flags substantial hepatic, bleeding and metabolic safety signals." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "SIV is a veterinary and preclinical model, not a human indication. Tipranavir's only US authorization is cancelled, and the knowledge graph flags substantial hepatic, bleeding and metabolic safety signals." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-tipranavir-1 -->
 
@@ -109,7 +109,7 @@ The prediction is supported only by the TxGNN model score, with no clinical tria
 
 <!-- review:begin us-lic-20261031-tipranavir-2 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Clarification of whether a human-relevant indication exists, since the top predictions are veterinary, within the existing HIV indication, or lack a plausible mechanism / A review of the regulatory and market situation, given that the only NDA is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "Clarification of whether a human-relevant indication exists, since the top predictions are veterinary, within the existing HIV indication, or lack a plausible mechanism / A review of the regulatory and market situation, given that the only NDA is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-tipranavir-2 -->
 
@@ -121,8 +121,8 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "Tipranavir's only US authorization is cancelled, and the knowledge graph flags substantial hepatic, bleeding and metabolic safety signals" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
-| 2026-10-31 | Removed: "A review of the regulatory and market situation, given that the only NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Tipranavir's only US authorization is cancelled, and the knowledge graph flags substantial hepatic, bleeding and metabolic safety signals" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "A review of the regulatory and market situation, given that the only NDA is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL222559 (tipranavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL222559) |
 
 <!-- review:end log -->

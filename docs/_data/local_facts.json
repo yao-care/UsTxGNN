@@ -21,12 +21,12 @@
   "items_current": 9927
  },
  "reviews": {
-  "records": 2080,
-  "pages": 907,
-  "public_pages_with_records": 884,
+  "records": 2085,
+  "pages": 910,
+  "public_pages_with_records": 887,
   "by_action": {
    "annotate": 1,
-   "correct": 1260,
+   "correct": 1265,
    "mechanism": 819
   }
  },
@@ -286,6 +286,30 @@
  },
  "recent_reviews": [
   {
+   "t": "Stannous Fluoride",
+   "u": "/drugs/stannous-fluoride/",
+   "s": "Removed: \"Both US products are also cancelled\"",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Sennosides",
+   "u": "/drugs/sennosides/",
+   "s": "Removed: \"Neither of the two US licences is currently valid\"",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Celecoxib",
+   "u": "/drugs/celecoxib/",
+   "s": "Corrected: \"every record is listed as 'single-ingredient' type\" (two combination products are on record)",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Aluminum Chloride",
+   "u": "/drugs/aluminum-chloride/",
+   "s": "Removed: \"The category is too broad to act on, and all three US products are cancelled\"",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Andexanet Alfa",
    "u": "/drugs/andexanet-alfa/",
    "s": "Restored: \"The product's license is also cancelled in the US\" (Purple Book lists BLA 125586 as Revoked)",
@@ -404,33 +428,33 @@
    "u": "/drugs/zonisamide/",
    "s": "Removed: \"given that the drug is marketed with seven valid licenses\"",
    "d": "2026-11-06"
-  },
-  {
-   "t": "Zolmitriptan",
-   "u": "/drugs/zolmitriptan/",
-   "s": "Removed: \"and the US licenses are all cancelled\"",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Zinc Sulfate Unspecified Form",
-   "u": "/drugs/zinc-sulfate-unspecified-form/",
-   "s": "Removed: \"ation and the reason for the cancelled authoriz , since the only known product is an injection and…",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Zinc Gluconate",
-   "u": "/drugs/zinc-gluconate/",
-   "s": "Removed: \"with 1 valid license\"",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Zinc Chloride",
-   "u": "/drugs/zinc-chloride/",
-   "s": "Removed: \"with five valid licenses\"",
-   "d": "2026-11-06"
   }
  ],
  "recent_licence_reviews": [
+  {
+   "t": "Stannous Fluoride",
+   "u": "/drugs/stannous-fluoride/",
+   "s": "Removed: \"Both US products are also cancelled\"",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Sennosides",
+   "u": "/drugs/sennosides/",
+   "s": "Removed: \"Neither of the two US licences is currently valid\"",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Celecoxib",
+   "u": "/drugs/celecoxib/",
+   "s": "Corrected: \"every record is listed as 'single-ingredient' type\" (two combination products are on record)",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Aluminum Chloride",
+   "u": "/drugs/aluminum-chloride/",
+   "s": "Removed: \"The category is too broad to act on, and all three US products are cancelled\"",
+   "d": "2026-11-24"
+  },
   {
    "t": "Andexanet Alfa",
    "u": "/drugs/andexanet-alfa/",
@@ -453,30 +477,6 @@
    "t": "Tobramycin",
    "u": "/drugs/tobramycin/",
    "s": "Removed: \"The other 10 licenses are also cancelled generic ANDAs (solution, injection, and eye-drop forms)\"",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Tioconazole",
-   "u": "/drugs/tioconazole/",
-   "s": "Removed: \"The local records show one licence, and it is valid\"",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Prucalopride",
-   "u": "/drugs/prucalopride/",
-   "s": "Removed: \"since 13 licenses are shown as valid\"",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Oxcarbazepine",
-   "u": "/drugs/oxcarbazepine/",
-   "s": "Corrected: \"The full set comprises 11 authorizations, including\"",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Octreotide",
-   "u": "/drugs/octreotide/",
-   "s": "Removed: \"All 14 US authorizations are listed as valid\"",
    "d": "2026-11-12"
   }
  ],

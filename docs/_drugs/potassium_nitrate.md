@@ -44,7 +44,7 @@ This is a model-only prediction, and the data compiled for this report do not su
 
 <!-- review:begin us-lic-20261031-potassium_nitrate-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Potassium nitrate is a nitrate salt. In the US it appears only in cancelled products (a dentifrice paste and a homeopathic pellet), and no approved indication is recorded for it in the data compiled for this report." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "Potassium nitrate is a nitrate salt. In the US it appears only in cancelled products (a dentifrice paste and a homeopathic pellet), and no approved indication is recorded for it in the data compiled for this report." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-potassium_nitrate-1 -->
 
@@ -101,7 +101,7 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 
 <!-- review:begin us-lic-20261106-potassium_nitrate-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The biological rationale for treating meningococcal infection with a nitrate salt is implausible, and the drug is marketed in the US, with 2 valid licenses of 2." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "The biological rationale for treating meningococcal infection with a nitrate salt is implausible, and the drug is marketed in the US, with 2 valid licenses of 2." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-potassium_nitrate-2 -->
 
@@ -120,8 +120,8 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "In the US it appears only in cancelled products (a dentifrice paste and a homeopathic pellet), and no approved indication is recorded for it" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
-| 2026-11-06 | Removed: "with 2 valid licenses of 2" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "In the US it appears only in cancelled products (a dentifrice paste and a homeopathic pellet), and no approved indication is recorded for it" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 2 valid licenses of 2" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

@@ -42,7 +42,7 @@ Collagenase Clostridium histolyticum is a collagen-degrading enzyme product that
 
 <!-- review:begin us-lic-20261106-collagenase_clostridium_histolyticum-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Collagenase Clostridium histolyticum is a collagen-degrading enzyme product that is marketed in the United States as a topical ointment." Removed: its description of the US products did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Collagenase Clostridium histolyticum is a collagen-degrading enzyme product that is marketed in the United States as a topical ointment." Removed: its description of the US products did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-collagenase_clostridium_histolyticum-2 -->
 
@@ -90,7 +90,7 @@ At least one valid licence exists, so the drug is currently marketed in the Unit
 
 <!-- review:begin us-lic-20261106-collagenase_clostridium_histolyticum-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "At least one valid licence exists, so the drug is currently marketed in the United States. The manufacturer is Smith & Nephew, Inc." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "At least one valid licence exists, so the drug is currently marketed in the United States. The manufacturer is Smith & Nephew, Inc." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-collagenase_clostridium_histolyticum-3 -->
 
@@ -125,9 +125,9 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "Verification of the regulatory and supply status of the injectable product in the US, since the only record listed is a cancelled ointment" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
-| 2026-11-06 | Removed: "as a topical ointment" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
-| 2026-11-06 | Removed: "The manufacturer is Smith & Nephew, Inc" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Verification of the regulatory and supply status of the injectable product in the US, since the only record listed is a cancelled ointment" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected (revised 2026-11-24; earlier version kept in the record)) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "as a topical ointment" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "The manufacturer is Smith & Nephew, Inc" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xiaflex (collagenase clostridium histolyticum) prescribing information, Endo USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=805cecd0-fd1f-11dd-87af-0800200c9a66) |
 
 <!-- review:end log -->

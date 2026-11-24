@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "STANNOUS FLUORIDE"
 predicted_indications: ["meningococcal infection"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Stannous Fluoride: predicted new indication Meningococcal infection (evidence level L5). Approved use: No approved indication text is available (marketed as dentifrice/toot…"
 ---
 
@@ -89,7 +89,13 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature and no mechanistic rationale. Stannous fluoride is a topical dental agent, and systemic activity against *Neisseria meningitidis* is not supported by any available data. Both US products are also cancelled.
+The prediction rests only on a model score, with no clinical trials, no literature and no mechanistic rationale. Stannous fluoride is a topical dental agent, and systemic activity against *Neisseria meningitidis* is not supported by any available data. 
+
+<!-- review:begin us-lic-20261124-stannous_fluoride-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Both US products are also cancelled." Removed: it said the US products were cancelled or not valid, but this drug has no FDA application and the NDC Directory lists current products under OTC monograph or unapproved categories (Drugs@FDA and the NDC Directory as of 2026-11-06). The current listings are shown in the Quick Overview and in the table under US Market Information. Source: [openFDA NDC Directory](https://open.fda.gov/data/ndc/); [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/).
+
+<!-- review:end us-lic-20261124-stannous_fluoride-1 -->
 
 **To proceed, the following is needed:**
 - Mechanism of action data for stannous fluoride
@@ -97,6 +103,19 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 - Evidence on whether systemic or otherwise relevant exposure is feasible, since current products are topical or oral-care only
 - Package insert warnings and contraindications for safety screening
 - A review of the dental fluorosis signal, especially if any non-topical use were considered
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: "Both US products are also cancelled" | Corrected | [openFDA NDC Directory](https://open.fda.gov/data/ndc/); [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

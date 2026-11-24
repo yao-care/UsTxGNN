@@ -113,7 +113,7 @@ The prediction is supported only by the TxGNN model score (evidence level L5), w
 
 <!-- review:begin us-lic-20261106-fedratinib-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The prediction is supported only by the TxGNN model score (evidence level L5), with no clinical trials or publications, a weak mechanistic link to mTOR-driven PEComa biology, and a cancelled US NDA." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "The prediction is supported only by the TxGNN model score (evidence level L5), with no clinical trials or publications, a weak mechanistic link to mTOR-driven PEComa biology, and a cancelled US NDA." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-fedratinib-2 -->
 
@@ -126,7 +126,7 @@ The prediction is supported only by the TxGNN model score (evidence level L5), w
 
 <!-- review:begin us-lic-20261031-fedratinib-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Consideration of the HLH predictions as a more mechanistically plausible alternative, after assessing the safety profile in that setting / Clarification of the current US regulatory status of fedratinib, since the compiled record shows only a cancelled NDA" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "Consideration of the HLH predictions as a more mechanistically plausible alternative, after assessing the safety profile in that setting / Clarification of the current US regulatory status of fedratinib, since the compiled record shows only a cancelled NDA" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-fedratinib-1 -->
 
@@ -138,8 +138,8 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "Clarification of the current US regulatory status of fedratinib, since the compiled record shows only a cancelled NDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
-| 2026-11-06 | Removed: "and a cancelled US NDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Clarification of the current US regulatory status of fedratinib, since the compiled record shows only a cancelled NDA" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and a cancelled US NDA" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inrebic (fedratinib hydrochloride) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0f55a2a-4e0c-4cba-8571-03e1424486d7) |
 
 <!-- review:end log -->

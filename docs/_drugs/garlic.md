@@ -43,7 +43,7 @@ The better-supported prediction for this drug is **cerebral infarction**, with 1
 
 <!-- review:begin us-lic-20261031-garlic-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Garlic (DrugBank DB10532) is listed in the US only through three cancelled allergenic-extract and homeopathic product licenses, and no approved indication text is on record. The TxGNN model ranks **gastrin secretion abnormality** as its top prediction, but there are **0 clinical trials** and **0 publications** supporting it." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "Garlic (DrugBank DB10532) is listed in the US only through three cancelled allergenic-extract and homeopathic product licenses, and no approved indication text is on record. The TxGNN model ranks **gastrin secretion abnormality** as its top prediction, but there are **0 clinical trials** and **0 publications** supporting it." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-garlic-1 -->
 
@@ -95,7 +95,7 @@ For reference, the most relevant publications for the best-supported alternative
 
 <!-- review:begin us-lic-20261106-garlic-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All three US licenses are valid, and none carries approved indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "All three US licenses are valid, and none carries approved indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-garlic-2 -->
 
@@ -154,8 +154,8 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "Garlic (DrugBank DB10532) is listed in the US only through three cancelled allergenic-extract and homeopathic product licenses, and no appro" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
-| 2026-11-06 | Removed: "All three US licenses are valid, and none carries approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Garlic (DrugBank DB10532) is listed in the US only through three cancelled allergenic-extract and homeopathic product licenses, and no appro" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All three US licenses are valid, and none carries approved indication text" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

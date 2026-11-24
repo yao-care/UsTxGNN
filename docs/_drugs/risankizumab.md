@@ -120,7 +120,7 @@ The only directly relevant controlled trial (Phase 2, n=172) did not show a clea
 
 <!-- review:begin us-lic-20261031-risankizumab-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The only directly relevant controlled trial (Phase 2, n=172) did not show a clear benefit in atopic dermatitis, and the mechanistic overlap is partial because Th2 signalling dominates. Paradoxical eczema reports add a safety concern, and the current US licence records show only cancelled entries." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The only directly relevant controlled trial (Phase 2, n=172) did not show a clear benefit in atopic dermatitis, and the mechanistic overlap is partial because Th2 signalling dominates. Paradoxical eczema reports add a safety concern, and the current US licence records show only cancelled entries." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-risankizumab-1 -->
 
@@ -139,7 +139,7 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "Paradoxical eczema reports add a safety concern, and the current US licence records show only cancelled entries" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Paradoxical eczema reports add a safety concern, and the current US licence records show only cancelled entries" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-20 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so the description above is based on the drug class and published literature" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Skyrizi (risankizumab-rzaa) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7148c8eb-b39e-e20a-6494-a6df82392858) |
 
 <!-- review:end log -->

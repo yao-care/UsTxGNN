@@ -61,7 +61,7 @@ The literature does discuss adrenergic signalling and airway innervation in asth
 
 <!-- review:begin us-lic-20261031-norepinephrine-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "However, systemic norepinephrine is a potent vasopressor and not a practical bronchodilator. The high TxGNN score is a computational prediction only and is not supported by clinical evidence for this use." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 27 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "However, systemic norepinephrine is a potent vasopressor and not a practical bronchodilator. The high TxGNN score is a computational prediction only and is not supported by clinical evidence for this use." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-10-31). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-norepinephrine-1 -->
 
@@ -112,7 +112,7 @@ The only clinical trial found is a Phase 1 hypertension study unrelated to this 
 
 <!-- review:begin us-lic-20261031-norepinephrine-2 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The only clinical trial found is a Phase 1 hypertension study unrelated to this indication, and the literature consists of background reviews and physiology papers. The high TxGNN score is a computational prediction, the mechanistic overlap mostly restates the old label, and the only US product record is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 27 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The only clinical trial found is a Phase 1 hypertension study unrelated to this indication, and the literature consists of background reviews and physiology papers. The high TxGNN score is a computational prediction, the mechanistic overlap mostly restates the old label, and the only US product record is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-norepinephrine-2 -->
 
@@ -129,8 +129,8 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The high TxGNN score is a computational prediction only and is not supported by clinical evidence for this use" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
-| 2026-10-31 | Removed: "The high TxGNN score is a computational prediction, the mechanistic overlap mostly restates the old label, and the only US product record is" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "The high TxGNN score is a computational prediction only and is not supported by clinical evidence for this use" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "The high TxGNN score is a computational prediction, the mechanistic overlap mostly restates the old label, and the only US product record is" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Norepinephrine Bitartrate In Dextrose (norepinephrine bitartrate) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be3c6f4f-54fc-4cb3-a299-8a022515d396) |
 
 <!-- review:end log -->

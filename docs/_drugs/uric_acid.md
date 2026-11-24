@@ -101,7 +101,7 @@ The prediction rests on a computational score alone. The only trial does not tes
 
 <!-- review:begin us-lic-20261031-uric_acid-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The only trial does not test uric acid, and the literature treats uric acid as a biomarker or risk factor in RA, often a pro-inflammatory one, not as a therapy. The only US authorization is cancelled and has no recorded indication." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The only trial does not test uric acid, and the literature treats uric acid as a biomarker or risk factor in RA, often a pro-inflammatory one, not as a therapy. The only US authorization is cancelled and has no recorded indication." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-uric_acid-1 -->
 
@@ -119,7 +119,7 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The only US authorization is cancelled and has no recorded indication" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "The only US authorization is cancelled and has no recorded indication" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

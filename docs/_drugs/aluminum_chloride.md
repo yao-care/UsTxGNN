@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALUMINUM CHLORIDE"
 predicted_indications: ["seborrheic keratosis", "congenital prothrombin deficiency", "seborrheic dermatitis", "acne (disease)", "vulvar inverted follicular keratosis", "skin disease", "dry eye syndrome", "eye disease", "von Hippel anomaly", "chronic relapsing inflammatory optic neuropathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Aluminum Chloride: predicted new indication seborrheic keratosis (evidence level L5). Approved use: Not specified in the data compiled for this report"
 ---
 
@@ -38,9 +38,15 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Aluminum chloride is a topical astringent and antiperspirant ingredient, and its US products are currently all cancelled.
+Aluminum chloride is a topical astringent and antiperspirant ingredient.
 The TxGNN model's top-ranked predictions lack supporting evidence, so this report focuses on the best-supported candidate, **skin disease** (essentially hyperhidrosis and related conditions), with **3 clinical trials** and **19 publications** retrieved.
 The evidence is mostly reviews and early-phase studies, and it does not demonstrate therapeutic benefit across skin disease in general.
+
+<!-- review:begin us-lic-20261124-aluminum_chloride-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Aluminum chloride is a topical astringent and antiperspirant ingredient, and its US products are currently all cancelled." Removed: it said the US products were cancelled or not valid, but this drug has no FDA application and the NDC Directory lists current products under OTC monograph or unapproved categories (Drugs@FDA and the NDC Directory as of 2026-11-06). The current listings are shown in the Quick Overview and in the table under US Market Information. Source: [openFDA NDC Directory](https://open.fda.gov/data/ndc/); [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/).
+
+<!-- review:end us-lic-20261124-aluminum_chloride-1 -->
 
 ---
 
@@ -123,7 +129,13 @@ Please refer to the package insert for further warnings, contraindications and d
 **Decision: Hold**
 
 **Rationale:**
-Nine of the ten predictions have no supporting clinical evidence (L5). The only one with meaningful support, skin disease, rests on hyperhidrosis reviews and early-phase or exploratory studies (L3). The category is too broad to act on, and all three US products are cancelled.
+Nine of the ten predictions have no supporting clinical evidence (L5). The only one with meaningful support, skin disease, rests on hyperhidrosis reviews and early-phase or exploratory studies (L3). The category is too broad to act on.
+
+<!-- review:begin us-lic-20261124-aluminum_chloride-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The category is too broad to act on, and all three US products are cancelled." Removed: it said the US products were cancelled or not valid, but this drug has no FDA application and the NDC Directory lists current products under OTC monograph or unapproved categories (Drugs@FDA and the NDC Directory as of 2026-11-06). The current listings are shown in the Quick Overview and in the table under US Market Information. Source: [openFDA NDC Directory](https://open.fda.gov/data/ndc/); [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/).
+
+<!-- review:end us-lic-20261124-aluminum_chloride-2 -->
 
 **To proceed, the following is needed:**
 - Re-frame the target as a specific indication (hyperhidrosis), and assess it against existing OTC and prescription antiperspirant products
@@ -132,6 +144,20 @@ Nine of the ten predictions have no supporting clinical evidence (L5). The only 
 - Review randomized trial data for hyperhidrosis and the regorafenib hand-foot skin reaction trial
 - Assess contact allergy and skin irritation risk for any new topical indication
 - Confirm the original approved indication, since no indication text is available in the license records
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: "Aluminum chloride is a topical astringent and antiperspirant ingredient, and its US products are currently all cancelled" | Corrected | [openFDA NDC Directory](https://open.fda.gov/data/ndc/); [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/) |
+| 2026-11-24 | Removed: "The category is too broad to act on, and all three US products are cancelled" | Corrected | [openFDA NDC Directory](https://open.fda.gov/data/ndc/); [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CELECOXIB"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Celecoxib: predicted new indication acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In the US: 32 FDA applications (22 active)"
 ---
 
@@ -68,7 +68,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-Twelve US licence records were compiled, and the list may be partial. The licences are for oral capsules. The local records carry no approved-indication text, and every record is listed as "single-ingredient" type. Examples include:
+Twelve US licence records were compiled, and the list may be partial. The licences are for oral capsules. The local records carry no approved-indication text. Examples include:
+
+<!-- review:begin us-lic-20261124-celecoxib-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The local records carry no approved-indication text, and every record is listed as "single-ingredient" type." Corrected: it said every record is a single-ingredient product, but the FDA data for this drug also include combination products (CONSENSI, NDA210045: amlodipine besylate and celecoxib; SEGLENTIS, NDA213426: celecoxib and tramadol hydrochloride). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/).
+
+<!-- review:end us-lic-20261124-celecoxib-1 -->
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -103,11 +109,12 @@ The prediction rests on a model score alone. No trials or publications address t
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d) |
+| 2026-11-24 | Corrected: "every record is listed as 'single-ingredient' type" (two combination products are on record) | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/) |
 
 <!-- review:end log -->
 

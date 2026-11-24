@@ -561,3 +561,24 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 例：abatacept「Approved use: Not recorded in the local data」→「In the US: 1 FDA application (1 active)」；2026-11-19 改了 555 頁。
 由母目錄 `.claude/drug_meta_description.py --apply --site UsTxGNN` 產生（站上複本 `tools/txgnn/.claude/drug_meta_description.py --apply --root .`），改動記在 `docs/_data/description_local_log.json`（pages＝目前句尾與原字樣、entries＝每次改動前後整行，可還原）。快照數字變了重跑會換新數字；`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾會自動 --apply，`check_seo_docs.py` 跑 --check 擋「還是未記載句尾」或「數字跟快照不符」。只改 front matter，lastmod_fix 不算正文改動、last_modified_at 不動。
 同日修：`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾重算 local_facts 的 atexit 掛鉤在結束時取不到 `__file__`（NameError，之前其實沒跑成），改成先算好路徑。
+
+## 正文許可證張數改由程式維護（2026-11-24）
+
+用戶 2026-11-24 決定（30 站「許可證張數與狀態不再每週過期」）：本站已有程式許可證表（`scripts/sync_license_tables.py`，2026-11-06 起），這次只做 B（正文張數程式改寫），不重做 A。
+- B. `scripts/rewrite_license_counts.py`＋`src/ustxgnn/regulatory/count_prose.py`（照 Kr／My／Eu／Ca 移植，英文句型）：依快照事實層改寫句型明確的「N valid licences」「N FDA applications」「X of Y authorizations are valid」「All N … are valid」；
+  本站口徑：total＝FDA 申請號數（NDA／ANDA／BLA），listed（沒有申請號的 NDC 列名）不算進 total——有列名產品的頁，總數接受 total 與 total＋listed、有效接受 valid 與 valid＋listed，要改時讀法不唯一就不改（ambiguous）。
+  有保留（at least、may be partial…）、講證據包或查詢、相對數（further、other、also…）、劑型、複方、申請類別或品牌子集（generic、ANDA、NDA、BLA、大寫品名、申請號）、NDC 列名／OTC monograph／unapproved、其他國家、講表格顯示筆數（listed、shown、table、below…）、事實層總數 0 的頁不動；
+  同一行有判斷不了的整行不動；單方張數、0 張、跨過 1（單複數）、both、「all／both … valid」而事實不符的不改、列進待查清單。不寫查核框；查核紀錄 replacement／anchor 所在的句子不改。
+- 接上：`scripts/apply_drug_reviews.py`（非 --check）結尾先跑 `sync_license_tables.run()`（已有程式區塊的頁依證據包＋快照事實層重排，沒有 data/bundles 時不動），再跑改寫；
+  `scripts/build_license_snapshot.py` 寫完快照後同樣先重排程式表（用 --ws 的事實層）再改寫（`--no-rewrite` 不跑；不給 --ws 時不重建快照、只跑這兩步，母目錄排程 3a' 用）；
+  `scripts/license_rebuild_run.py` 轉紀錄前那次建快照加 `--no-rewrite`（免得改寫的張數被 reviews_from_edits 當成刪改）；gate 第 22 項（`scripts/check_seo_docs.py`）擋「再跑一次會變」。
+  `scripts/reviews_from_edits.py` 的 figures() 不再寫當日張數（改成指向概覽表與程式許可證表）。
+- 2026-11-24 套用（資料 data-20261123-183708）：公開藥物頁 953 頁（程式表 236 頁、AI 表 701 頁、段落沒有表 12 頁、沒有市場段落 4 頁）；改寫 0 句（AI 正文的張數句幾乎都帶「may be partial／at least」保留語，或講表上筆數；唯一一句 apixaban「Of the 5 licences listed, 3 are valid…」講的是表上 5 列、跟那 5 列一致，DISPLAY 加 bare「listed」後不改）；
+  判斷不了 9 句列進待查清單（ambiguous 3、display 5、grammar 1）。
+- 查核紀錄張數不寫死（用戶同日追加決定）：1,224 筆紀錄 note 裡「The FDA data list N FDA applications … N active」改成「The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.」，同 id 重發、前版存 history（688 頁查核框文字跟著換，last_modified_at 不動）；
+  `us-lic-20261106-zolmitriptan-1` 的 replacement 留下的舊表說明句「Only 5 of the 11 authorizations are shown.」（總數已是 26）一併刪掉。其他 replacement 裡的張數句都在 AI 表的頁、講的是那張表（例「Five representative licenses are listed below.」），不動。
+- 單方／複方標籤：celecoxib「every record is listed as "single-ingredient" type」，證據包有 CONSENSI（NDA210045）、SEGLENTIS（NDA213426）2 筆複方，以 `us-lic-20261124-celecoxib-1` 更正；其他「single-ingredient」句講的是表上列出的產品或帶保留語，逐句對過沒有相反的。
+- 另寫的寬偵測（同句有許可字樣、數字不在事實層任一讀法或表格列數）全量掃公開頁：改前 117 句、改後 114 句。找到 3 頁只有 NDC 列名（total 0，程式不改）卻寫「all three US products are cancelled」「Neither of the two US licences is currently valid」「Both US products are also cancelled」，
+  事實層列名 42／247／180 筆現行，以 `us-lic-20261124-{aluminum_chloride-1,-2,sennosides-1,stannous_fluoride-1}` 刪掉矛盾子句。剩 114 句：保留語 40、講表上筆數 37、子集 13、相對數 11、單方 4、其他 9（多是 AI 表的說明句、交互作用筆數、非許可證數字）。
+- 還沒做：701 頁公開頁的市場段落仍是 AI 寫的自由格式許可證表（只有 236 頁是程式表），表上的「(cancelled)」狀態字與表下說明句會跟事實不一致（例 sennosides、aluminum_chloride 的列名產品寫成 cancelled）；要不要對這些頁做 A 待用戶決定。
+  母目錄 `.claude/license_labels/UsTxGNN.json` 只有「Valid」，程式表另會寫「Discontinued in Drugs@FDA」「License revoked in Purple Book」（cancelled）；排程的狀態格同步會把這兩種列成 unsynced（程式表本身由 sync_tables／build_license_snapshot 重排，不受影響）。

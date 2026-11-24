@@ -3,9 +3,9 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 42 articles, 2 related drugs."
+description: "Health news about flu (influenza). 44 articles, 2 related drugs."
 permalink: /news/influenza/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # flu (influenza) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>42 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>44 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (42)
+## Related News (44)
+
+### [Sniffles? Sore throat? Here’s exactly what you should do at the first signs you’re getting sick - New York Post](https://news.google.com/rss/articles/CBMingFBVV95cUxNd3dTUnFVU1NLMGZ5LWZMVS1mSG1UTDRPdElDTEdaM19MWWRTemJuU3dyY0RlUkttY2wtQjNqZlhHZUFvdHNrSV9STXZpbTdkRURpQmFyV19RcGpwbFg0WkczTFNqdDlZQTBjSE52ejNiZ3pGeFUxRG1FbGJoNVhXc1V2WFJ4TTJNeW91ekxCVkNsZEpMRXpVa2s5R1FyZw?oc=5)
+
+2026-11-23
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMingFBVV95cUxNd3dTUnFVU1NLMGZ5LWZMVS1mSG1UTDRPdElDTEdaM19MWWRTemJuU3dyY0RlUkttY2wtQjNqZlhHZUFvdHNrSV9STXZpbTdkRURpQmFyV19RcGpwbFg0WkczTFNqdDlZQTBjSE52ejNiZ3pGeFUxRG1FbGJoNVhXc1V2WFJ4TTJNeW91ekxCVkNsZEpMRXpVa2s5R1FyZw?oc=5)
+
+---
 
 ### [South Carolina flu hospitalizations nearly triple the usual pace ahead of Thanksgiving](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLW9EOXc4YjdSUHVUanNQQWxvSTBJTFcxT19UNk03Rk5IZkRHcnJJZ1ZQamVzakM0bWF6YnBrV0ZaNHhzN2wxVXdLZkZDaXR2MEpkaDF4VmNCaGhmU2d4Z3hoUXpSNlkxUUx1Nm1zSmcxODRlWUdwSkJtSWxCMl9jbk1MMjRpT2JJTFBwSmZUcElQdUJDV0ZUbHBwdFVzZFFMUTlMWFl4bG0yUVdncDFxeEx5RUdwZWR5YXFIUGltdllhR09WNjUwNG9rVExacEI4MXZOTVBwQUNmMGwzSkpDa0I2Q2h5NTYyb0VTN2xyRlk?oc=5)
 
@@ -62,6 +70,14 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQzR
 2026-11-21
 
 Source: [SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxOdTlwLW51dmxJa3VlX0dxQ1J4WUZKMXpRbC1tRTk3NlcyZzVnZURQa1NKeFJ4RW8tY1l5cnZNOWZVR0x4SzY1bmgzQ3Q1VjVyeGU3V1Bic1V0Mkd3SS1LaTZ4OGVwWkw4Q1cxY3M2UzV1c1VxVDFseXcxUnFXVUZubDl1V0lOOUxnakpuZVdTeTA1N0R0bGZUa0NNTU9vUQ?oc=5)
+
+---
+
+### [Retraction: Pharmacogenetics of morphine poisoning in a breastfed neonate of a codeine-prescribed mother - The Lancet](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXFGeVBXcklSSDNlRjM2dFUtU0ZHTUw1TW5iRDRId1Viczhua094UTZsaFlXSWxsQlNxLV9ON2xacjJuaVBpVGU4MTd5WE9vTDZrNl9LcXJwc3AwSGNmMDBIRWFiendXdzcteGtEaFVFZDhLLXo0Y0U5SXFDOElkdHVLVWdfU0RVMWhN?oc=5)
+
+2026-11-21
+
+Source: [The Lancet](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXFGeVBXcklSSDNlRjM2dFUtU0ZHTUw1TW5iRDRId1Viczhua094UTZsaFlXSWxsQlNxLV9ON2xacjJuaVBpVGU4MTd5WE9vTDZrNl9LcXJwc3AwSGNmMDBIRWFiendXdzcteGtEaFVFZDhLLXo0Y0U5SXFDOElkdHVLVWdfU0RVMWhN?oc=5)
 
 ---
 

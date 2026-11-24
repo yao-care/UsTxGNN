@@ -3,9 +3,9 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 91 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 96 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # UC (inflammatory bowel disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>91 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>96 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,29 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (91)
+## Related News (96)
 
 ### [H.I.V. Research Networks May Again Seek Federal Funding, With a Twist - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
 
-2026-11-23
+2026-11-24
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
+
+---
+
+### [New study reveals how modern humans may have driven Neanderthals to extinction](https://news.google.com/rss/articles/CBMiggFBVV95cUxQQU9iRkNkM3otcEhHbHplcG1DUVd5dlNNU1ZIR2lPc2lCSVRwcGlyTVktdy1wVWZKNlVzZUloTm11TWhna29oNHlRbWxrcmdQdGhyZjhMc1BGd1hVUDlmdy1jVVY1RDFJZU5CejZRcTNqSURYTXBOVEJTY1VEUzd6MW53?oc=5)
+
+2026-11-23
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMiggFBVV95cUxQQU9iRkNkM3otcEhHbHplcG1DUVd5dlNNU1ZIR2lPc2lCSVRwcGlyTVktdy1wVWZKNlVzZUloTm11TWhna29oNHlRbWxrcmdQdGhyZjhMc1BGd1hVUDlmdy1jVVY1RDFJZU5CejZRcTNqSURYTXBOVEJTY1VEUzd6MW53?oc=5)
+
+---
+
+### [Complete biosynthesis and production of paclitaxel in a plant host](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VZE1PNm5jdlJCV3JrLUdKR201X1ZhTDVnamhITUR1UktJbHZleXJIaGp1UE5wT0pQWVJRUFdFcEY2Y2pNOGx4N2R2WG1VT3hQUzJNRlBvY2E3cVpJcTU4?oc=5)
+
+2026-11-23
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VZE1PNm5jdlJCV3JrLUdKR201X1ZhTDVnamhITUR1UktJbHZleXJIaGp1UE5wT0pQWVJRUFdFcEY2Y2pNOGx4N2R2WG1VT3hQUzJNRlBvY2E3cVpJcTU4?oc=5)
 
 ---
 
@@ -50,6 +66,22 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE
 2026-11-23
 
 Source: [WHAS11](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaWxhVmNBZmM3WVVmcUF5ZENKRmoyc284Y3lpS3ZTb0xzcmFfOWktSlRvN3lLV1RQdXFYRkliOERtckNXUVVVZzZsa0JtbVJVb0dSNmJIWDFNbEF1ak5VcXlFM2lFX0dhejRENFUySzI4alFGYndQNmFOTFBjTkdkY1ltS2NDTS1pekFrOXVoS2htcl8tdFJnMXpldXlObTJfS0cwZE5aZUd5TGxiSWFxTDRSVlExQTZNMF9PcTF0N0pJSThQZWNWcGZFV0p0dUpPTzZMMzN5U20?oc=5)
+
+---
+
+### [A Dietitian Shares How Much Fish to Eat for Omega-3 Benefits - Verywell Health](https://news.google.com/rss/articles/CBMic0FVX3lxTFBFc24xOVlYbEF3b19sclJsRFp2MGdqX1BuMHBsUm9wSEkteW4zTVE0em43aU85Y2VrSzFIWF9sTVExTGd3akg0akFkMGZtbDd5NnU1dXBsM3lsQVUtU0M5a3V3dERIenc3aTdyN1BDdlRSWnc?oc=5)
+
+2026-11-23
+
+Source: [Verywell Health](https://news.google.com/rss/articles/CBMic0FVX3lxTFBFc24xOVlYbEF3b19sclJsRFp2MGdqX1BuMHBsUm9wSEkteW4zTVE0em43aU85Y2VrSzFIWF9sTVExTGd3akg0akFkMGZtbDd5NnU1dXBsM3lsQVUtU0M5a3V3dERIenc3aTdyN1BDdlRSWnc?oc=5)
+
+---
+
+### [Scientists Shine New Light on One of the Greatest Mysteries in Modern Physics](https://news.google.com/rss/articles/CBMipgFBVV95cUxPU19nWHdhVEZ5dlptUGFNQ21MaHpkY3lSMjVtTGNwNVZqNS1hQkxmaDZ6a2pkVWJRYkNnMzRacEN3RlA5cTFYUWdLRXV2N2JWZDRiS0gxMGowbzZVX1FXR0d5bGxQR0lSSW5VTlFGeGl2YlRfc1l5LWI3cEVTaWdoQ1dNT3VJTjBOQ3pjMFhpSTRURHM3NHpJS1hBMzl3UFpvQTczcUdn?oc=5)
+
+2026-11-23
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMipgFBVV95cUxPU19nWHdhVEZ5dlptUGFNQ21MaHpkY3lSMjVtTGNwNVZqNS1hQkxmaDZ6a2pkVWJRYkNnMzRacEN3RlA5cTFYUWdLRXV2N2JWZDRiS0gxMGowbzZVX1FXR0d5bGxQR0lSSW5VTlFGeGl2YlRfc1l5LWI3cEVTaWdoQ1dNT3VJTjBOQ3pjMFhpSTRURHM3NHpJS1hBMzl3UFpvQTczcUdn?oc=5)
 
 ---
 
@@ -114,6 +146,14 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiugFBVV95cUxQS01J
 2026-11-22
 
 Source: [Hackaday](https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3dGbmJHWldQQTFxeDBoYWE4SW9oU0tLWVlaS1NUa2tQWWZGOEUwMkRpMkJleEROVnViWGJaUnIyd2liTUdBWUZ4ZkZHUzZ3R0RTQ3VlNjBHbEx1LWIxWDlFd0lhZkF3U01EQjdLSlFUR2Z5ajFocDhhcENJUFI4djBSMzdfUC13cnJCRWFyX3lVTUU0?oc=5)
+
+---
+
+### [A Fitness Expert Shares 4 Ways To Undo The Effects Of Sitting All Day - HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
+
+2026-11-22
+
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
 ---
 

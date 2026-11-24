@@ -3,9 +3,9 @@ layout: default
 title: "RA (arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (arthritis). 371 articles, 7 related drugs."
+description: "Health news about RA (arthritis). 384 articles, 7 related drugs."
 permalink: /news/arthritis/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # RA (arthritis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about RA (arthritis)?">
-<strong>RA (arthritis)</strong> currently has <strong>371 news articles</strong> and 7 related drugs.
+<strong>RA (arthritis)</strong> currently has <strong>384 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,69 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (371)
+## Related News (384)
 
 ### [H.I.V. Research Networks May Again Seek Federal Funding, With a Twist - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
 
-2026-11-23
+2026-11-24
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
+
+---
+
+### [4 patients at Bay Area hospital contracted mold-related disease. Here’s what we know - San Francisco Chronicle](https://news.google.com/rss/articles/CBMikwFBVV95cUxOM09iWDViRE44aGlsaHh5T2lYZjBZZGMzYzdHU2FaOE1kcmowOWVuWnp2TGZXN2RwWEY4aXJ2VGkxUUZzaTh4UXN2QmxFN0lweTFnNzRDWW52UTRldUVteHhYR0lTQ1VQTWV4d05GcE9BN2NENEV4ZU1NS3psLTJFTmp4eDVVcURYS29qVDVyNHpFWjA?oc=5)
+
+2026-11-23
+
+Source: [San Francisco Chronicle](https://news.google.com/rss/articles/CBMikwFBVV95cUxOM09iWDViRE44aGlsaHh5T2lYZjBZZGMzYzdHU2FaOE1kcmowOWVuWnp2TGZXN2RwWEY4aXJ2VGkxUUZzaTh4UXN2QmxFN0lweTFnNzRDWW52UTRldUVteHhYR0lTQ1VQTWV4d05GcE9BN2NENEV4ZU1NS3psLTJFTmp4eDVVcURYS29qVDVyNHpFWjA?oc=5)
+
+---
+
+### [More American Women Are Turning to Natural Family Planning, Study Shows - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE5jNWRYLXVhM1M1UlFSalN5eUwyMEVXenk2QUoteFk4TGVaLUZzRHdKNGt5b2lHRExHZ0FvbFpVVTZKM3BOYkFWUW1kNVBCWkY1c2hYUDJ2UXFhTUI5aWwxcXYtTzczb2kwUm0xMGIteWo4d3JCbmVFV19OLVk?oc=5)
+
+2026-11-23
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE5jNWRYLXVhM1M1UlFSalN5eUwyMEVXenk2QUoteFk4TGVaLUZzRHdKNGt5b2lHRExHZ0FvbFpVVTZKM3BOYkFWUW1kNVBCWkY1c2hYUDJ2UXFhTUI5aWwxcXYtTzczb2kwUm0xMGIteWo4d3JCbmVFV19OLVk?oc=5)
+
+---
+
+### [A Cheap Daily Supplement Seems to Boost Brain Function in Older Adults](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTZBZ3lINkhWVDNUMllCNW1KcE0xNjVjOUstQkpDZEh5Mk9HRzNrcDJBZVRVb2xKajlLaHZaazNISkxQbmFERTBZZXhlZzFZS21Fc0VnR0NsWVNTWmV1S3RTVlMwc012cmVEQWkycEhCamNjMGdWYzl3OFhVWUlOSGZqMzVtWUpHbzV2dUxkbnJfSURvOU5HYVNSRjFod1Za?oc=5)
+
+2026-11-23
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTZBZ3lINkhWVDNUMllCNW1KcE0xNjVjOUstQkpDZEh5Mk9HRzNrcDJBZVRVb2xKajlLaHZaazNISkxQbmFERTBZZXhlZzFZS21Fc0VnR0NsWVNTWmV1S3RTVlMwc012cmVEQWkycEhCamNjMGdWYzl3OFhVWUlOSGZqMzVtWUpHbzV2dUxkbnJfSURvOU5HYVNSRjFod1Za?oc=5)
+
+---
+
+### [Alcohol May Make This Popular Cancer Treatment Worse](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEdmUG5FTDRtMU1odGdVWnVpbnNINmw0NTg0bUhrVnhpQWg4N3B2UlpVQm1oMkJ2dkZQQ1BQTkVRRUhlUVdQb0xIMjFTbS1qaENFdE5rM0VXZE1odWIybFgyY0tSbkYtcWJLSlA1YnFuQ29ITWZZcmlVeFdpSW42T2VTS2dNdmlmd19DblFXT1lsT09aRXQxLTZKTQ?oc=5)
+
+2026-11-23
+
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEdmUG5FTDRtMU1odGdVWnVpbnNINmw0NTg0bUhrVnhpQWg4N3B2UlpVQm1oMkJ2dkZQQ1BQTkVRRUhlUVdQb0xIMjFTbS1qaENFdE5rM0VXZE1odWIybFgyY0tSbkYtcWJLSlA1YnFuQ29ITWZZcmlVeFdpSW42T2VTS2dNdmlmd19DblFXT1lsT09aRXQxLTZKTQ?oc=5)
+
+---
+
+### [Measles Is a Growing Risk for Adults in the United States - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGtaQzBHT0syWURzekZ3WkxPWEVlcXFlZXRGVXZHNGh1akRVTlA4c2dxNHlJbzNNWnBIekU5Wi1VRkhOUEhNU0lPNmRsVnE2TXJIVURzYkFWektCTk1fVXMwQmFBMmdpUXdUcndKemV5R2g4eXBRVmRzSnN6S0c3QjRVN28?oc=5)
+
+2026-11-23
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGtaQzBHT0syWURzekZ3WkxPWEVlcXFlZXRGVXZHNGh1akRVTlA4c2dxNHlJbzNNWnBIekU5Wi1VRkhOUEhNU0lPNmRsVnE2TXJIVURzYkFWektCTk1fVXMwQmFBMmdpUXdUcndKemV5R2g4eXBRVmRzSnN6S0c3QjRVN28?oc=5)
+
+---
+
+### [Giant eagles may have hunted early humans millions of years ago: Study](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUY4OFR0TnJnUE9VRjFrNE9uZllPd3ZYdUNkTms0MDN2UzQ4WHJiN3ljeXdGbU9NbTdZbXppaTVQUjdKYkE5VVFwUy02X2ZWcGlnUWZkYUd0WFBqRHhEQ2g3UDd3VkNSMlF2NHRzVXNJeVc1d0NKRUdTLUVYRWFsQ01XWXlOTnBrYkJodkF5UmpEZw?oc=5)
+
+2026-11-23
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUY4OFR0TnJnUE9VRjFrNE9uZllPd3ZYdUNkTms0MDN2UzQ4WHJiN3ljeXdGbU9NbTdZbXppaTVQUjdKYkE5VVFwUy02X2ZWcGlnUWZkYUd0WFBqRHhEQ2g3UDd3VkNSMlF2NHRzVXNJeVc1d0NKRUdTLUVYRWFsQ01XWXlOTnBrYkJodkF5UmpEZw?oc=5)
+
+---
+
+### [Sniffles? Sore throat? Here’s exactly what you should do at the first signs you’re getting sick - New York Post](https://news.google.com/rss/articles/CBMingFBVV95cUxNd3dTUnFVU1NLMGZ5LWZMVS1mSG1UTDRPdElDTEdaM19MWWRTemJuU3dyY0RlUkttY2wtQjNqZlhHZUFvdHNrSV9STXZpbTdkRURpQmFyV19RcGpwbFg0WkczTFNqdDlZQTBjSE52ejNiZ3pGeFUxRG1FbGJoNVhXc1V2WFJ4TTJNeW91ekxCVkNsZEpMRXpVa2s5R1FyZw?oc=5)
+
+2026-11-23
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMingFBVV95cUxNd3dTUnFVU1NLMGZ5LWZMVS1mSG1UTDRPdElDTEdaM19MWWRTemJuU3dyY0RlUkttY2wtQjNqZlhHZUFvdHNrSV9STXZpbTdkRURpQmFyV19RcGpwbFg0WkczTFNqdDlZQTBjSE52ejNiZ3pGeFUxRG1FbGJoNVhXc1V2WFJ4TTJNeW91ekxCVkNsZEpMRXpVa2s5R1FyZw?oc=5)
 
 ---
 
@@ -62,14 +118,6 @@ Source: [Live Science](https://news.google.com/rss/articles/CBMiywFBVV95cUxNdmFJ
 
 ---
 
-### [Measles Is a Growing Risk for Adults in the United States - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGtaQzBHT0syWURzekZ3WkxPWEVlcXFlZXRGVXZHNGh1akRVTlA4c2dxNHlJbzNNWnBIekU5Wi1VRkhOUEhNU0lPNmRsVnE2TXJIVURzYkFWektCTk1fVXMwQmFBMmdpUXdUcndKemV5R2g4eXBRVmRzSnN6S0c3QjRVN28?oc=5)
-
-2026-11-23
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGtaQzBHT0syWURzekZ3WkxPWEVlcXFlZXRGVXZHNGh1akRVTlA4c2dxNHlJbzNNWnBIekU5Wi1VRkhOUEhNU0lPNmRsVnE2TXJIVURzYkFWektCTk1fVXMwQmFBMmdpUXdUcndKemV5R2g4eXBRVmRzSnN6S0c3QjRVN28?oc=5)
-
----
-
 ### [Losing your memory? A simple diet swap could help: study - New York Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWQ0VE10b3FpQnZxTFJ5MXBKOXhXV1hzYlhrMmo1V3pvd1FZNXJ4ZEFVY2xmNjB0amZqT0lHNDRYS0JBMHBNd09DdnJBbUhZSW02Q1hKX1c5SkZOSXJfdnMwc0hlbzFQX05iaF9VTkZod1pUeEQxcnRLSFJJQnVjQkkyU2QzV1FGRG92bzVLdXBILTJVeUpv?oc=5)
 
 2026-11-23
@@ -78,11 +126,43 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWQ
 
 ---
 
-### [Common Plastic Used in Food Packaging May Fuel Colon Cancer, Mouse Study Finds](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTFpV1RGV3JwTUF0azl5eUYzOXJrV24zb0dKMHdTdXRsOUp5UnNja0Fjbi03cDRYSzlkWWFfazM0VzNuVWhjZF9nUzhVcklfNDlrV3oySzBNaEEyeVA3VmdjaDlYdGVKLXpRbFRDc3hqV1JGdm1hemtzNGgydjdWdkJwNi1WOXpGRDB5c01YV0I5TVBCbDJvT09iZTlnR1BuZWQ4QXRYcW5hQQ?oc=5)
+### [When a WA gun owner showed early signs of dementia - The Seattle Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmhvSk1xVHZHOW94NFhXS3hET0RWWUxYOFJ2bVp4bTNuV2Q4XzdKRWhwTGJVVG5JR0wwSWVxNnlYQ0JMbGRhcjJhVHY3Ri1ndnNpS3pPMWVYam54c1E2V2pzejczU3NBWFRhOFFXRG9iSXhpaFhJRnAxQVFOMUlRSWU1VzZ2aHl2c1BBUjVR?oc=5)
+
+2026-11-23
+
+Source: [The Seattle Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmhvSk1xVHZHOW94NFhXS3hET0RWWUxYOFJ2bVp4bTNuV2Q4XzdKRWhwTGJVVG5JR0wwSWVxNnlYQ0JMbGRhcjJhVHY3Ri1ndnNpS3pPMWVYam54c1E2V2pzejczU3NBWFRhOFFXRG9iSXhpaFhJRnAxQVFOMUlRSWU1VzZ2aHl2c1BBUjVR?oc=5)
+
+---
+
+### [How to Improve Brain Health with 5 Daily Exercises](https://news.google.com/rss/articles/CBMifkFVX3lxTE5rWUFwMlAtd0pVSWhid2ZoRUc3TVBoNW92Wi1Jd0NfcFZsUFowY1hsdUFsMVlLTTdYY0J1aUJqNzNvLWtVMXVhblNOLTJxSTQ4Ml9BSDJYRGNodzA5LTBuNW1OZXU1LVBEanVQb1QtZ0RKOXJUejdvSVVUbWoxQQ?oc=5)
+
+2026-11-23
+
+Source: [GQ](https://news.google.com/rss/articles/CBMifkFVX3lxTE5rWUFwMlAtd0pVSWhid2ZoRUc3TVBoNW92Wi1Jd0NfcFZsUFowY1hsdUFsMVlLTTdYY0J1aUJqNzNvLWtVMXVhblNOLTJxSTQ4Ml9BSDJYRGNodzA5LTBuNW1OZXU1LVBEanVQb1QtZ0RKOXJUejdvSVVUbWoxQQ?oc=5)
+
+---
+
+### [Scientists Shine New Light on One of the Greatest Mysteries in Modern Physics](https://news.google.com/rss/articles/CBMipgFBVV95cUxPU19nWHdhVEZ5dlptUGFNQ21MaHpkY3lSMjVtTGNwNVZqNS1hQkxmaDZ6a2pkVWJRYkNnMzRacEN3RlA5cTFYUWdLRXV2N2JWZDRiS0gxMGowbzZVX1FXR0d5bGxQR0lSSW5VTlFGeGl2YlRfc1l5LWI3cEVTaWdoQ1dNT3VJTjBOQ3pjMFhpSTRURHM3NHpJS1hBMzl3UFpvQTczcUdn?oc=5)
+
+2026-11-23
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMipgFBVV95cUxPU19nWHdhVEZ5dlptUGFNQ21MaHpkY3lSMjVtTGNwNVZqNS1hQkxmaDZ6a2pkVWJRYkNnMzRacEN3RlA5cTFYUWdLRXV2N2JWZDRiS0gxMGowbzZVX1FXR0d5bGxQR0lSSW5VTlFGeGl2YlRfc1l5LWI3cEVTaWdoQ1dNT3VJTjBOQ3pjMFhpSTRURHM3NHpJS1hBMzl3UFpvQTczcUdn?oc=5)
+
+---
+
+### [Scientists Have Found a Link Between Polystyrene Microplastics And Colon Cancer](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTFpV1RGV3JwTUF0azl5eUYzOXJrV24zb0dKMHdTdXRsOUp5UnNja0Fjbi03cDRYSzlkWWFfazM0VzNuVWhjZF9nUzhVcklfNDlrV3oySzBNaEEyeVA3VmdjaDlYdGVKLXpRbFRDc3hqV1JGdm1hemtzNGgydjdWdkJwNi1WOXpGRDB5c01YV0I5TVBCbDJvT09iZTlnR1BuZWQ4QXRYcW5hQQ?oc=5)
 
 2026-11-23
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTFpV1RGV3JwTUF0azl5eUYzOXJrV24zb0dKMHdTdXRsOUp5UnNja0Fjbi03cDRYSzlkWWFfazM0VzNuVWhjZF9nUzhVcklfNDlrV3oySzBNaEEyeVA3VmdjaDlYdGVKLXpRbFRDc3hqV1JGdm1hemtzNGgydjdWdkJwNi1WOXpGRDB5c01YV0I5TVBCbDJvT09iZTlnR1BuZWQ4QXRYcW5hQQ?oc=5)
+
+---
+
+### [Testosterone Therapy Not Tied to Prostate Cancer Progression](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVzVnM1lDWjZIRzQ4ZVRwandpa19IZkhRTDRLRFRHVGJxdUt0OTR0MGo5OVF5TWhUbl9rbFNlYjBiS2JLLXRiQXM0YnJuQTVnZGx1Q1Q3SDE4dTRuZVdqRlp2QlhEZTNscUhFeTVlMTBXUUMzMWVmaTBOb0NwQWU2T1hkMnZlT1dTVXFFVU56Tm01dVBiaGFfb2d0NTR6TndDVnU4RWZzMG1rYzlWSUE?oc=5)
+
+2026-11-23
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVzVnM1lDWjZIRzQ4ZVRwandpa19IZkhRTDRLRFRHVGJxdUt0OTR0MGo5OVF5TWhUbl9rbFNlYjBiS2JLLXRiQXM0YnJuQTVnZGx1Q1Q3SDE4dTRuZVdqRlp2QlhEZTNscUhFeTVlMTBXUUMzMWVmaTBOb0NwQWU2T1hkMnZlT1dTVXFFVU56Tm01dVBiaGFfb2d0NTR6TndDVnU4RWZzMG1rYzlWSUE?oc=5)
 
 ---
 
@@ -91,6 +171,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTFp
 2026-11-23
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DR0VGekl4azRaOEZURkFKN1RvT0pXdGdHUHhhRVQ0YXNHNWxqUm11Nm4talJFNmF1ZU9tckluZlVBZEtRSTktbEdJT3U2cXg1Zmw3d3RkOTczYXEwWGxr?oc=5)
+
+---
+
+### [A shared meaning component across languages in the human brain](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lQ3Q3b2lQQ21mQUtlYzJ3NzY5amJJMEVPclJoZmM3eFpxVUlhMXJydUE1TndDT0xoNGo0MXNJdEVzYzBoZmVIcUNDeVJxX0g4UEEwX2MtVFV0MUQ5Y1RR?oc=5)
+
+2026-11-23
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lQ3Q3b2lQQ21mQUtlYzJ3NzY5amJJMEVPclJoZmM3eFpxVUlhMXJydUE1TndDT0xoNGo0MXNJdEVzYzBoZmVIcUNDeVJxX0g4UEEwX2MtVFV0MUQ5Y1RR?oc=5)
 
 ---
 
@@ -563,6 +651,14 @@ Source: [NDTV](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUTZ0U3BlVTVR
 2026-11-21
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uaGpRX0hEYXBQSnNfT2pzcEMxczNVdnhBQ1JFNWU2WVlLaHBpN3MyT0dWbzlibDRoSHluWm1vQWk1YlB3aXNSbTlDbndsSzlfb2pFZzFoZ2o5WnM?oc=5)
+
+---
+
+### [Retraction: Pharmacogenetics of morphine poisoning in a breastfed neonate of a codeine-prescribed mother - The Lancet](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXFGeVBXcklSSDNlRjM2dFUtU0ZHTUw1TW5iRDRId1Viczhua094UTZsaFlXSWxsQlNxLV9ON2xacjJuaVBpVGU4MTd5WE9vTDZrNl9LcXJwc3AwSGNmMDBIRWFiendXdzcteGtEaFVFZDhLLXo0Y0U5SXFDOElkdHVLVWdfU0RVMWhN?oc=5)
+
+2026-11-21
+
+Source: [The Lancet](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXFGeVBXcklSSDNlRjM2dFUtU0ZHTUw1TW5iRDRId1Viczhua094UTZsaFlXSWxsQlNxLV9ON2xacjJuaVBpVGU4MTd5WE9vTDZrNl9LcXJwc3AwSGNmMDBIRWFiendXdzcteGtEaFVFZDhLLXo0Y0U5SXFDOElkdHVLVWdfU0RVMWhN?oc=5)
 
 ---
 
@@ -1395,6 +1491,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzYXNQdjhBQ2
 2026-11-18
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rRXlCTU15TnFiS1Y4YmlBU3BPakNkZWhHcENpVncxSVE3dVBfR1U2THNqSzJvOWozOHB2UGgxS2wzOVF6VG0zTkdyeEpOX3VFQ2c2V0dXWUU3a0NKZXZR?oc=5)
+
+---
+
+### [Scientists may have figured out what happened to a billion years of Earth’s history that seemingly vanished](https://news.google.com/rss/articles/CBMinwFBVV95cUxPYTFSSi1salpWSnVCNEVNLXcxSV9HVWZDdW1SZzFNN051ekJWaGVBN09fejA5ZmRVZEJoMFVWNVZvT3E5b1ZYNGo3YzR0YkV6dHBOVm8zQ3NGZTU3NGxTU3otRFJqZno1WXo3TDVTb0E5LUpYeEJaQlhKM1k5cjUtRkNHbUxyUWZGeGlBU3F0TkpWUEZFVTlBTE5Zd1dPd3M?oc=5)
+
+2026-11-18
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMinwFBVV95cUxPYTFSSi1salpWSnVCNEVNLXcxSV9HVWZDdW1SZzFNN051ekJWaGVBN09fejA5ZmRVZEJoMFVWNVZvT3E5b1ZYNGo3YzR0YkV6dHBOVm8zQ3NGZTU3NGxTU3otRFJqZno1WXo3TDVTb0E5LUpYeEJaQlhKM1k5cjUtRkNHbUxyUWZGeGlBU3F0TkpWUEZFVTlBTE5Zd1dPd3M?oc=5)
 
 ---
 

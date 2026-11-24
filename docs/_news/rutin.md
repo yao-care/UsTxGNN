@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Rutin. 8 predicted indications."
 permalink: /news/rutin/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Rutin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>93 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>98 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,29 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (93)
+## Related News (98)
 
 ### [H.I.V. Research Networks May Again Seek Federal Funding, With a Twist - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
 
-2026-11-23 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-24 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
+
+---
+
+### [New study reveals how modern humans may have driven Neanderthals to extinction](https://news.google.com/rss/articles/CBMiggFBVV95cUxQQU9iRkNkM3otcEhHbHplcG1DUVd5dlNNU1ZIR2lPc2lCSVRwcGlyTVktdy1wVWZKNlVzZUloTm11TWhna29oNHlRbWxrcmdQdGhyZjhMc1BGd1hVUDlmdy1jVVY1RDFJZU5CejZRcTNqSURYTXBOVEJTY1VEUzd6MW53?oc=5)
+
+2026-11-23 <span class="news-indication-tag">UC</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMiggFBVV95cUxQQU9iRkNkM3otcEhHbHplcG1DUVd5dlNNU1ZIR2lPc2lCSVRwcGlyTVktdy1wVWZKNlVzZUloTm11TWhna29oNHlRbWxrcmdQdGhyZjhMc1BGd1hVUDlmdy1jVVY1RDFJZU5CejZRcTNqSURYTXBOVEJTY1VEUzd6MW53?oc=5)
+
+---
+
+### [Complete biosynthesis and production of paclitaxel in a plant host](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VZE1PNm5jdlJCV3JrLUdKR201X1ZhTDVnamhITUR1UktJbHZleXJIaGp1UE5wT0pQWVJRUFdFcEY2Y2pNOGx4N2R2WG1VT3hQUzJNRlBvY2E3cVpJcTU4?oc=5)
+
+2026-11-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VZE1PNm5jdlJCV3JrLUdKR201X1ZhTDVnamhITUR1UktJbHZleXJIaGp1UE5wT0pQWVJRUFdFcEY2Y2pNOGx4N2R2WG1VT3hQUzJNRlBvY2E3cVpJcTU4?oc=5)
 
 ---
 
@@ -55,6 +71,22 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE
 2026-11-23 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [WHAS11](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaWxhVmNBZmM3WVVmcUF5ZENKRmoyc284Y3lpS3ZTb0xzcmFfOWktSlRvN3lLV1RQdXFYRkliOERtckNXUVVVZzZsa0JtbVJVb0dSNmJIWDFNbEF1ak5VcXlFM2lFX0dhejRENFUySzI4alFGYndQNmFOTFBjTkdkY1ltS2NDTS1pekFrOXVoS2htcl8tdFJnMXpldXlObTJfS0cwZE5aZUd5TGxiSWFxTDRSVlExQTZNMF9PcTF0N0pJSThQZWNWcGZFV0p0dUpPTzZMMzN5U20?oc=5)
+
+---
+
+### [A Dietitian Shares How Much Fish to Eat for Omega-3 Benefits - Verywell Health](https://news.google.com/rss/articles/CBMic0FVX3lxTFBFc24xOVlYbEF3b19sclJsRFp2MGdqX1BuMHBsUm9wSEkteW4zTVE0em43aU85Y2VrSzFIWF9sTVExTGd3akg0akFkMGZtbDd5NnU1dXBsM3lsQVUtU0M5a3V3dERIenc3aTdyN1BDdlRSWnc?oc=5)
+
+2026-11-23 <span class="news-indication-tag">UC</span>
+
+Source: [Verywell Health](https://news.google.com/rss/articles/CBMic0FVX3lxTFBFc24xOVlYbEF3b19sclJsRFp2MGdqX1BuMHBsUm9wSEkteW4zTVE0em43aU85Y2VrSzFIWF9sTVExTGd3akg0akFkMGZtbDd5NnU1dXBsM3lsQVUtU0M5a3V3dERIenc3aTdyN1BDdlRSWnc?oc=5)
+
+---
+
+### [Scientists Shine New Light on One of the Greatest Mysteries in Modern Physics](https://news.google.com/rss/articles/CBMipgFBVV95cUxPU19nWHdhVEZ5dlptUGFNQ21MaHpkY3lSMjVtTGNwNVZqNS1hQkxmaDZ6a2pkVWJRYkNnMzRacEN3RlA5cTFYUWdLRXV2N2JWZDRiS0gxMGowbzZVX1FXR0d5bGxQR0lSSW5VTlFGeGl2YlRfc1l5LWI3cEVTaWdoQ1dNT3VJTjBOQ3pjMFhpSTRURHM3NHpJS1hBMzl3UFpvQTczcUdn?oc=5)
+
+2026-11-23 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMipgFBVV95cUxPU19nWHdhVEZ5dlptUGFNQ21MaHpkY3lSMjVtTGNwNVZqNS1hQkxmaDZ6a2pkVWJRYkNnMzRacEN3RlA5cTFYUWdLRXV2N2JWZDRiS0gxMGowbzZVX1FXR0d5bGxQR0lSSW5VTlFGeGl2YlRfc1l5LWI3cEVTaWdoQ1dNT3VJTjBOQ3pjMFhpSTRURHM3NHpJS1hBMzl3UFpvQTczcUdn?oc=5)
 
 ---
 
@@ -119,6 +151,14 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiugFBVV95cUxQS01J
 2026-11-22 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [Hackaday](https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3dGbmJHWldQQTFxeDBoYWE4SW9oU0tLWVlaS1NUa2tQWWZGOEUwMkRpMkJleEROVnViWGJaUnIyd2liTUdBWUZ4ZkZHUzZ3R0RTQ3VlNjBHbEx1LWIxWDlFd0lhZkF3U01EQjdLSlFUR2Z5ajFocDhhcENJUFI4djBSMzdfUC13cnJCRWFyX3lVTUU0?oc=5)
+
+---
+
+### [A Fitness Expert Shares 4 Ways To Undo The Effects Of Sitting All Day - HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
+
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
+
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
 ---
 
@@ -524,7 +564,7 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQ0J
 
 ### [Multiple short walks better than one long walk for controlling blood sugar - Medical Xpress](https://news.google.com/rss/articles/CBMiekFVX3lxTE1wYXN2RG5FWG14cUpJQ2Z2Nk1nMU9OeXNmc25TRTUzN0kzYUQ4QjBWcENUbjI4bWc5RDIzZjNnZzVqNG5WWTlDM1Y5d0tOUDR3eHo3eUpsaDdOMWpSX294a3ViV0JLZWVic25QOXRqTFdMd0JsTnZKUGdn?oc=5)
 
-2026-11-18 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-18 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span> <span class="news-indication-tag">MI</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiekFVX3lxTE1wYXN2RG5FWG14cUpJQ2Z2Nk1nMU9OeXNmc25TRTUzN0kzYUQ4QjBWcENUbjI4bWc5RDIzZjNnZzVqNG5WWTlDM1Y5d0tOUDR3eHo3eUpsaDdOMWpSX294a3ViV0JLZWVic25QOXRqTFdMd0JsTnZKUGdn?oc=5)
 

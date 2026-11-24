@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ALOSETRON"
 predicted_indications: ["migraine disorder", "leprosy", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "headache disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alosetron: predicted new indication migraine disorder (evidence level L5). In the US: 7 FDA applications (5 active)"
 ---
 
@@ -57,6 +57,22 @@ Alosetron is an oral selective 5-HT3 receptor antagonist. The TxGNN model predic
 Alosetron is a selective 5-HT3 receptor antagonist. This description comes from the general pharmacology of the drug class. According to the Mechanism of Action section of the FDA-approved prescribing information for alosetron: "Alosetron is a potent and selective 5-HT 3 receptor antagonist. 5-HT 3 receptors are ligand-gated cation channels that are extensively distributed on enteric neurons in the human gastrointestinal tract, as well as other peripheral and central locations." ([DailyMed: Lotronex (alosetron hydrochloride) prescribing information, Sebela Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=35cbb9d5-639b-207a-e054-00144ff88e88), label version 2026-06-30; accessed 2026-11-19.) 5-HT3 signalling is thought to play a role in nausea and in peripheral and visceral pain signalling, which gives a loose biological rationale for migraine.
 
 This rationale is weak. 5-HT3 antagonists such as ondansetron are used in migraine mainly to control nausea and vomiting. They have no established efficacy as preventive or acute migraine treatment. The high score is a computational prediction only, and no trials or publications were supplied for this disease.
+
+## US Market Information
+
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA206647 | ALOSETRON HYDROCHLORIDE | AMNEAL PHARMS | Tablet; oral | Valid |
+| ANDA209180 | ALOSETRON HYDROCHLORIDE | RISING | Tablet; oral | Valid |
+| ANDA211621 | ALOSETRON HYDROCHLORIDE | ADAPTIS | Tablet; oral | Valid |
+| ANDA213614 | ALOSETRON HYDROCHLORIDE | MANKIND PHARMA | Tablet; oral | Valid |
+| NDA021107 | LOTRONEX | LEGACY | Tablet; oral | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

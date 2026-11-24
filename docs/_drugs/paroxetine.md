@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PAROXETINE"
 predicted_indications: ["Ohdo syndrome and variants"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Paroxetine: predicted new indication Ohdo syndrome and variants (evidence level L5). In the US: 35 FDA applications (23 active)"
 ---
 
@@ -60,6 +60,22 @@ According to the Mechanism of Action section of the FDA-approved prescribing inf
 Ohdo syndrome variants (for example Say-Barber-Biesecker-Young-Simpson syndrome, linked to KAT6B variants, and the Maat-Kievit-Brunner type) are rare neurodevelopmental disorders. They involve intellectual disability, blepharophimosis and hypotonia, and the underlying problem is a chromatin-regulation defect. Nothing in the available data suggests that paroxetine acts on this defect.
 
 The high score most likely reflects proximity in the knowledge network, such as shared neurodevelopmental or psychiatric-symptom associations, rather than disease-modifying biology. At most, any benefit would be symptomatic, such as treating comorbid anxiety or depression, and would not change the underlying syndrome.
+
+## US Market Information
+
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075356 | PAROXETINE HYDROCHLORIDE | APOTEX | Tablet; oral | Valid |
+| ANDA076618 | PAROXETINE HYDROCHLORIDE | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA076968 | PAROXETINE HYDROCHLORIDE | OXFORD PHARMS | Tablet; oral | Valid |
+| ANDA077584 | PAROXETINE HYDROCHLORIDE | ZYDUS PHARMS USA | Tablet; oral | Valid |
+| ANDA077873 | PAROXETINE HYDROCHLORIDE | AUROBINDO PHARMA USA | Tablet, extended release; oral | Valid |
+
+Showing 5 of 35 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

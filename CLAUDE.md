@@ -598,3 +598,10 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   待查清單 11-24 新增的 9 句全部標 resolved（7 句寫紀錄，mitomycin、nystatin 的表說明句在換表時拿掉）。
 - 寬偵測複查剩 123 句：劑型說法 76 句（逐句對照證據包都成立，或是不排他的列舉）、「at least N」保留語且 N 不大於事實層總數的句子、狀態全稱與事實一致的句子；沒有跟事實相反、未處理的句子。
   checker 全量前後都是 0；gate exit 0；改到的頁 last_modified_at 改 2026-11-24。
+
+## 缺市場段落的公開頁補程式表（2026-11-24 第三輪）
+
+用戶 2026-11-24 決定（比照 JpTxGNN 第二輪 `add_section`）：公開頁（非 noindex、非轉址）整頁沒有市場段落、證據包卻有許可證紀錄的，
+`scripts/sync_license_tables.py` 的 `add_section` 在安全性段之前（沒有就結論、查核紀錄、免責聲明段之前）補「## US Market Information」與程式表；noindex 頁、證據包沒有紀錄的頁不補。
+gate（licenses.py 的 page_problems 第 5 項）擋「公開頁快照有程式表列卻沒有市場段落」；PAGE_NOTE 放行新標題行。
+2026-11-24 全量量測 4 頁（alosetron、clonazepam、paroxetine；dexchlorpheniramine 的已知用途頁標題「## Market information」改成本站標題、舊表換成程式表；run() 也處理還沒有段落的公開頁，所以 apply_drug_reviews／build_license_snapshot 結尾會自動補），補上；正文沒有跟新表矛盾的句子，沒有新查核紀錄。checker 前後都是 0、gate exit 0。

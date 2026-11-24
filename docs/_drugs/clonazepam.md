@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 3
 monitor_inn: "CLONAZEPAM"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clonazepam: predicted new indication restless legs syndrome (evidence level L3). In the US: 19 FDA applications (13 active)"
 ---
 
@@ -76,6 +76,22 @@ Currently no related clinical trials registered.
 | [39787099](https://pubmed.ncbi.nlm.nih.gov/39787099/) | 2025 | Clinical study | Sleep | Compared dopamine agonists and clonazepam on large muscle group movements during sleep |
 | [20156514](https://pubmed.ncbi.nlm.nih.gov/20156514/) | 2010 | Clinical study | Prog Neuropsychopharmacol Biol Psychiatry | Proposed dose equivalence between clonazepam and pramipexole after switching |
 | [17876423](https://pubmed.ncbi.nlm.nih.gov/17876423/) | 2007 | Expert consensus | Arq Neuropsiquiatr | Brazilian expert opinion on diagnosis and management of restless legs syndrome |
+
+## US Market Information
+
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074569 | CLONAZEPAM | TEVA | Tablet; oral | Valid |
+| ANDA074869 | CLONAZEPAM | ACTAVIS ELIZABETH | Tablet; oral | Valid |
+| ANDA074925 | CLONAZEPAM | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA074979 | CLONAZEPAM | SANDOZ | Tablet; oral | Valid |
+| ANDA075150 | CLONAZEPAM | AUROBINDO PHARMA USA | Tablet; oral | Valid |
+
+Showing 5 of 19 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -221,6 +221,44 @@ def _after(after):
     return [""] + after
 
 
+# 2026-11-24 第三輪（用戶決定，比照 JpTxGNN 第二輪）：公開頁沒有「## US Market Information」段落、但證據包有申請號或列名產品的，
+# 補一個段落放程式表（列數同新表規則：最多 5 列，其餘寫 SHOW 句）。位置：「## Safety Considerations」之前；沒有就
+# 「## Conclusion and Next Steps」「## Review Log」「## Disclaimer」之前。known_use_pages 以前退回英文寫的「## Market information」
+# 標題（dexchlorpheniramine）改成本站標題、表照常換成程式表。noindex 頁與證據包沒有紀錄的頁不補。
+ALT_SEC = "## Market information"
+ADD_BEFORE = ("Safety Considerations", "Conclusion and Next Steps", "Review Log", "Disclaimer")
+
+
+def is_public(text):
+    fm = text.split("---", 2)[1] if text.startswith("---") else ""
+    return not re.search(r"^noindex:\s*true", fm, re.M)
+
+
+def needs_section(text):
+    lines = text.replace("\r\n", "\n").split("\n")
+    return SEC not in lines and is_public(text)
+
+
+def add_section(lines, tf):
+    """段落標題＋空表頭（之後由 render 換成程式表）；不補時原樣回傳"""
+    if SEC in lines or not rows_of(tf, None)[0]:
+        return lines
+    if ALT_SEC in lines:
+        lines = list(lines)
+        lines[lines.index(ALT_SEC)] = SEC
+        return lines
+    heads = {m.group(1): i for i, l in enumerate(lines) for m in [re.match(r"^## (.+?)\s*$", l)] if m}
+    at = next((heads[h] for h in ADD_BEFORE if h in heads), None)
+    if at is None:
+        return lines
+    k = at - 1
+    while k > 0 and not lines[k].strip():
+        k -= 1
+    if lines[k].strip() == "<!-- review:begin log -->":  # 查核紀錄段的標題在 log 區塊裡：段落放在區塊之前
+        at = k
+    return lines[:at] + [SEC, "", HEAD, SEP, ""] + lines[at:]
+
+
 def render(lines, tf, fc):
     """重排段落裡的表格與 SHOW 句，前後加程式區塊標記；回傳新的 lines（沒有表格時原樣）"""
     lines = strip_marks(lines)
@@ -283,7 +321,10 @@ def resync_page(page, tf, fc):
     t = raw.replace("\r\n", "\n")
     if "layout: id_redirect" in t[:3000] or 'http-equiv="refresh"' in t[:3000]:
         return None, crlf
-    new = "\n".join(render(t.split("\n"), tf, fc))
+    ls = t.split("\n")
+    if needs_section(t):
+        ls = add_section(ls, tf)
+    new = "\n".join(render(ls, tf, fc))
     new = re.sub(r"\n{3,}", "\n\n", new)
     return (new if new != t else None), crlf
 
@@ -342,7 +383,7 @@ def run(only=None, dry=False, ws=None):
         if only and page.stem not in only:
             continue
         raw = page.read_bytes().decode("utf-8")
-        if BEGIN not in raw:
+        if BEGIN not in raw and not needs_section(raw):
             continue
         key, b = bundle_for(page)
         if b is None:

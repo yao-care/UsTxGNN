@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 592
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Dexchlorpheniramine: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -71,12 +71,21 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Dexchlorp
 | allergic urticaria |
 | cold urticaria |
 
-## Market information
+## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| ANDA202520 | Dexchlorpheniramine Maleate | SOLUTION | Valid |
-| M012 | Chlophedianol HCl, Dexchlorpheniramine Maleate | SOLUTION | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA202520 | POLMON | PHARMOBEDIENT | Syrup; oral | Valid |
+| ANDA086835 | POLARAMINE | SCHERING | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA086837 | POLARAMINE | SCHERING | Syrup; oral | Discontinued in Drugs@FDA |
+| ANDA088251 | DEXCHLORPHENIRAMINE MALEATE | PAI HOLDINGS PHARM | Syrup; oral | Discontinued in Drugs@FDA |
+| ANDA088682 | DEXCHLORPHENIRAMINE MALEATE | ANI PHARMS | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -185,7 +185,8 @@ def update(rec, new):
 # 每週許可證更新（license_refresh_20261029.py 3b 自我檢查）另外允許改的非表格行：許可證表下程式產生的「Showing N of M entries …」
 # （狀態有變、表格重排後要跟著改）與它前後的空行。寫法與 scripts/sync_license_tables.py 的 SHOW 相同。
 # 2026-11-12 起程式表前後有 <!-- licenses:begin/end --> 標記（本站查核機制），重排時會重畫，也要允許。
-PAGE_NOTE = (r"^(Showing \d+ of \d+ entries \(FDA applications first, active before discontinued; "
+# 2026-11-24 第三輪起含 add_section 補的市場段落標題。
+PAGE_NOTE = (r"^(## US Market Information|Showing \d+ of \d+ entries \(FDA applications first, active before discontinued; "
              r"NDC listings without an FDA application last\)\.|<!-- licenses:(begin|end) -->)$")
 
 

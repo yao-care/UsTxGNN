@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 44 articles, 2 related drugs."
+description: "Health news about flu (influenza). 46 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-11-24
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>44 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>46 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,23 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (44)
+## Related News (46)
+
+### [The CDC stays quiet on flu as an early season catches many Americans off-guard](https://news.google.com/rss/articles/CBMibkFVX3lxTFBaSDVQX2tUa2Z5ZHcwRV8ycmZ1dWMxSWoyZ19fbW9iVnNPNG1XWTdqS0Z4OVZ3Mm9VS01yTW9uZTJMb2h4blBUbGl5aFg0eG9WalV2bGQ5cWNyMGw2UUhpWW4tcFZXRkxaVWRsQUJ3?oc=5)
+
+2026-11-24
+
+Source: [CNN](https://news.google.com/rss/articles/CBMibkFVX3lxTFBaSDVQX2tUa2Z5ZHcwRV8ycmZ1dWMxSWoyZ19fbW9iVnNPNG1XWTdqS0Z4OVZ3Mm9VS01yTW9uZTJMb2h4blBUbGl5aFg0eG9WalV2bGQ5cWNyMGw2UUhpWW4tcFZXRkxaVWRsQUJ3?oc=5)
+
+---
+
+### [Reported flu cases surge across New York ahead of Thanksgiving](https://news.google.com/rss/articles/CBMikwFBVV95cUxPUzA4Xy0wRG9xMVV3WWRsT29GQVNRM2lnZ3NvWHI1U2Q1blBsbTNTb3ZYTXJPdG1GWmxhVWdGX1ZOZHh4a1VGc2xWeTZpcWEtaGdReTNNS0JjenBrQVNEVkFjTHlLWnFlUzM5bGFNcWpNREZGTWhQbWRRTDhlUmhYVXMtLUQtYXRDY294eEVEaWdmMzg?oc=5)
+
+2026-11-23
+
+Source: [Gothamist](https://news.google.com/rss/articles/CBMikwFBVV95cUxPUzA4Xy0wRG9xMVV3WWRsT29GQVNRM2lnZ3NvWHI1U2Q1blBsbTNTb3ZYTXJPdG1GWmxhVWdGX1ZOZHh4a1VGc2xWeTZpcWEtaGdReTNNS0JjenBrQVNEVkFjTHlLWnFlUzM5bGFNcWpNREZGTWhQbWRRTDhlUmhYVXMtLUQtYXRDY294eEVEaWdmMzg?oc=5)
+
+---
 
 ### [Sniffles? Sore throat? Here’s exactly what you should do at the first signs you’re getting sick - New York Post](https://news.google.com/rss/articles/CBMingFBVV95cUxNd3dTUnFVU1NLMGZ5LWZMVS1mSG1UTDRPdElDTEdaM19MWWRTemJuU3dyY0RlUkttY2wtQjNqZlhHZUFvdHNrSV9STXZpbTdkRURpQmFyV19RcGpwbFg0WkczTFNqdDlZQTBjSE52ejNiZ3pGeFUxRG1FbGJoNVhXc1V2WFJ4TTJNeW91ekxCVkNsZEpMRXpVa2s5R1FyZw?oc=5)
 

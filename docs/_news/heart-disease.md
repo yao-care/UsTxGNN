@@ -3,9 +3,9 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 41 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 45 articles, 1 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # CAD (heart disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>41 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>45 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,31 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (41)
+## Related News (45)
+
+### [The Mortality Gap Between Black and White Americans Is Shrinking - The New York Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnlpYU96SUUydnc2OFNXTG9CNmZDWUFud3B4NzAzQmJhQk9ZS3RSWEh5Y2hwWHViUVlpTEpGSU1HUmRFbjJpeFRpRWEtQzdkeE1QQ0NKYVBCUC1KU3hLNWVONlZveXFxbkdHMG45X2tNbVcyTEtldjZZdkcySzNrSHhKa1lFVWIzTFV0Mnd3?oc=5)
+
+2026-11-24
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnlpYU96SUUydnc2OFNXTG9CNmZDWUFud3B4NzAzQmJhQk9ZS3RSWEh5Y2hwWHViUVlpTEpGSU1HUmRFbjJpeFRpRWEtQzdkeE1QQ0NKYVBCUC1KU3hLNWVONlZveXFxbkdHMG45X2tNbVcyTEtldjZZdkcySzNrSHhKa1lFVWIzTFV0Mnd3?oc=5)
+
+---
+
+### [These Babies Grew Up With Strict Sugar Limits. Decades Later, The Health Results Are Dramatic.](https://news.google.com/rss/articles/CBMilAFBVV95cUxNWmxzVHJIa0RyYUxoWkhYMVFRWWhKSS1pbjV1aGMtWGJhTExFVEhBcEZ3QTJYcXUycHN4b2tKeDVCU2NMUDlpTkZQaW9pSGtMdUxoLXFiOGxBZ202UmZZNW1RMkJvMUlrVlozUXE5Z3V4ei0tWDhQOUpjNGVhb0YzY3g3MmsxcGRJc29KWWZCUHJHblMy?oc=5)
+
+2026-11-24
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMilAFBVV95cUxNWmxzVHJIa0RyYUxoWkhYMVFRWWhKSS1pbjV1aGMtWGJhTExFVEhBcEZ3QTJYcXUycHN4b2tKeDVCU2NMUDlpTkZQaW9pSGtMdUxoLXFiOGxBZ202UmZZNW1RMkJvMUlrVlozUXE5Z3V4ei0tWDhQOUpjNGVhb0YzY3g3MmsxcGRJc29KWWZCUHJHblMy?oc=5)
+
+---
+
+### [Signs of heart attack and stroke risk can appear years earlier - study](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
+
+2026-11-24
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
+
+---
 
 ### [Cardiovascular Risk Factors and Biomarkers in the Decades Prior to a Cardiovascular Event](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtZ2dnbE1yVVlJS1ZCSFhnMzU3OUVDX2NrekE5RUktc3FrMjhQY3Zza1Z0VDVRS0w0Q21DN3ZoNjdyTXJsd0hGY2hnbXJtMnpoSlEteUlHT2c0SENIdGIzbjFieTBGNnlVYlRvQkg3T1puakRrUnlz?oc=5)
 
@@ -61,6 +85,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEF
 2026-11-23
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMinAJBVV95cUxNUkRBZl9rcGU3OW9GTWZqY19JRFhWd1l3cndZLXBEYTZVU1NpeXdfQm04M2pzQm1ydUVzc1pTOWEtWnkyY0dBd0FPMHhPcTRVbEVuVVpId3EyQjFDYzFiOG9wUk80bkJuUktEMy1CcjU4c1B1aG9SQWdmdTRtTC05T2ZHYXhTVlNmZzVIMkNVOTAzcVQtdDFrZUxNNWdlaE5NZTl6eE82QS1lQXp2UUs4NXJQWjN5eWw3SjhEMDJpdUlGc1pfZTFaYzNpZzRTR3pkd0d6VVd0MTdPVGtfd2lDZFhwcE1Zekl1aEVZcGxKV3hYRDA3NTNDMXJrSzc3QkJYMWE5QUNtaF9ja0ZPYjZyWnEyT0IwSHQ0Y1R0VdIBpAJBVV95cUxOZGhGT1hMa05IVW9OTlRoeEhiTkFCNVlMbHVSWTRFT1ltQ0JGTnN3ZEJVSERaa0RWSThJbTh0YzRsY3dHZlJMd2ZCRUViX1lPRGQ5N05KUWppY25iR0lCZ0FDVHFRcXNoYUJJTnBXTHlJMWItbDFoRGZvd3FKMlRSSVp4UUNISUVfYzFVbWlzSW5HQm1BVkJ2MVJnU21uRWZhbnVhSXozS1ppYlp4TnZIZXU2UmdmTUliX0lFNkxlM21rRGVzTkZTX3pfOVotYVh0QS1NZEoyOUxPMU1NRXd2WlpIeFRyTnFaWlF5MUNVT2pWV0E1dVdEUzM4dmR3dXNnN0dTQUJhaTdrZ0l0UG40VmczQnZTSkF2TEJpaFYzT2dHU1Yx?oc=5)
+
+---
+
+### [Common sleep habit linked to 50% higher death risk in heart patients, recent study finds](https://news.google.com/rss/articles/CBMifEFVX3lxTFA0NXJYV2kzRXd2QkhSS0Vfa2FQZ3FRdHlCbEoycDZXSml3Tlh5TFowTHQwWi02V1haZWt6aUxyaEF5ZGZDc3l4WFFOQVJ3N2ljbXNIT0Z5NjVlOGJ6bk9KM0hvVU9HTlZsUXc2OWFaSHJmNTVFTWh4RFFDYms?oc=5)
+
+2026-11-22
+
+Source: [AOL.com](https://news.google.com/rss/articles/CBMifEFVX3lxTFA0NXJYV2kzRXd2QkhSS0Vfa2FQZ3FRdHlCbEoycDZXSml3Tlh5TFowTHQwWi02V1haZWt6aUxyaEF5ZGZDc3l4WFFOQVJ3N2ljbXNIT0Z5NjVlOGJ6bk9KM0hvVU9HTlZsUXc2OWFaSHJmNTVFTWh4RFFDYms?oc=5)
 
 ---
 

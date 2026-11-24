@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 96 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 104 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-11-24
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>96 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>104 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,29 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (96)
+## Related News (104)
 
-### [H.I.V. Research Networks May Again Seek Federal Funding, With a Twist - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
+### [Prehospital Antibiotics for Patients With Suspected Sepsis The PITSTOP-Antibiotics Factorial Randomized Clinical Trial](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yNkd5Q1JoZVBlZUhFSm5wajBQOVB2bEMtWDhXM2NoaXY5bXVBeUtCcEppbzZBSVc3a19LRmxuaV9XWTlrTmdQZXlYMVQ0U1JYcW4zcGIwcURibVkxV2otbTJZUGdteWlE?oc=5)
 
 2026-11-24
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
+Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yNkd5Q1JoZVBlZUhFSm5wajBQOVB2bEMtWDhXM2NoaXY5bXVBeUtCcEppbzZBSVc3a19LRmxuaV9XWTlrTmdQZXlYMVQ0U1JYcW4zcGIwcURibVkxV2otbTJZUGdteWlE?oc=5)
+
+---
+
+### [Why The Work Commute May Be Harder On The Heart Than Anyone Realized](https://news.google.com/rss/articles/CBMib0FVX3lxTE9WUFJvYVhiV1E1UWRPbXNfbDRTSE9vTUVjOHlST0k2WEljaEt4ckNoUGE3UlVEQlExQkR4NU0xc3ZfcEcwZkNwY0dQNy1Xd1QwbXI1ZTE0V0J2LW1CRERmTndsSHQwLUs2d0lYbU5mVQ?oc=5)
+
+2026-11-24
+
+Source: [StudyFinds](https://news.google.com/rss/articles/CBMib0FVX3lxTE9WUFJvYVhiV1E1UWRPbXNfbDRTSE9vTUVjOHlST0k2WEljaEt4ckNoUGE3UlVEQlExQkR4NU0xc3ZfcEcwZkNwY0dQNy1Xd1QwbXI1ZTE0V0J2LW1CRERmTndsSHQwLUs2d0lYbU5mVQ?oc=5)
+
+---
+
+### [Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdUp5dlFWVzFkeFpGSm1ZWXdZa2RZTTdtRTdZcWVlNTRlcGVMTnpCWmY3TFdHeTZ4MlJoRmNHeW1aNW9EbHY4bkR6bUxQVWpKMTJCX19kSTFpclljTUJkQW9JUWVqcjlwTE91bTMyTTNKNHlUZURZTVY5Z2V4LTRTdkl3dUtwZW9yeUxhb3pIMDVCZnhpMUN5Q083LVNtcENxRDU0VW40RVpMaEZZVjN0azQxeXdRYUNVN29NZmhpZm9qZzZmeG9NTGgtZw?oc=5)
+
+2026-11-23
+
+Source: [Space](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdUp5dlFWVzFkeFpGSm1ZWXdZa2RZTTdtRTdZcWVlNTRlcGVMTnpCWmY3TFdHeTZ4MlJoRmNHeW1aNW9EbHY4bkR6bUxQVWpKMTJCX19kSTFpclljTUJkQW9JUWVqcjlwTE91bTMyTTNKNHlUZURZTVY5Z2V4LTRTdkl3dUtwZW9yeUxhb3pIMDVCZnhpMUN5Q083LVNtcENxRDU0VW40RVpMaEZZVjN0azQxeXdRYUNVN29NZmhpZm9qZzZmeG9NTGgtZw?oc=5)
 
 ---
 
@@ -69,6 +85,14 @@ Source: [WHAS11](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaWxhVmNBZm
 
 ---
 
+### [How to Improve Brain Health with 5 Daily Exercises](https://news.google.com/rss/articles/CBMifkFVX3lxTE5rWUFwMlAtd0pVSWhid2ZoRUc3TVBoNW92Wi1Jd0NfcFZsUFowY1hsdUFsMVlLTTdYY0J1aUJqNzNvLWtVMXVhblNOLTJxSTQ4Ml9BSDJYRGNodzA5LTBuNW1OZXU1LVBEanVQb1QtZ0RKOXJUejdvSVVUbWoxQQ?oc=5)
+
+2026-11-23
+
+Source: [GQ](https://news.google.com/rss/articles/CBMifkFVX3lxTE5rWUFwMlAtd0pVSWhid2ZoRUc3TVBoNW92Wi1Jd0NfcFZsUFowY1hsdUFsMVlLTTdYY0J1aUJqNzNvLWtVMXVhblNOLTJxSTQ4Ml9BSDJYRGNodzA5LTBuNW1OZXU1LVBEanVQb1QtZ0RKOXJUejdvSVVUbWoxQQ?oc=5)
+
+---
+
 ### [A Dietitian Shares How Much Fish to Eat for Omega-3 Benefits - Verywell Health](https://news.google.com/rss/articles/CBMic0FVX3lxTFBFc24xOVlYbEF3b19sclJsRFp2MGdqX1BuMHBsUm9wSEkteW4zTVE0em43aU85Y2VrSzFIWF9sTVExTGd3akg0akFkMGZtbDd5NnU1dXBsM3lsQVUtU0M5a3V3dERIenc3aTdyN1BDdlRSWnc?oc=5)
 
 2026-11-23
@@ -93,6 +117,22 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVl
 
 ---
 
+### [H.I.V. Research Networks May Again Seek Federal Funding, With a Twist - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
+
+2026-11-23
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
+
+---
+
+### [GLP-1 weight-loss drugs could change far more than waistlines, study suggests](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
+
+2026-11-23
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
+
+---
+
 ### [One Common Vitamin May Lower Toxic Alzheimer's Proteins, Research Suggests](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1ZTZWw5ZzBJdXZneHNwNnpteDRTYXFmR08zWXN0MXdSa2pSb041cU1seF9malZmOTRfLW5oRXJHWGxGekVnTEdZY1k2SV9GLVRYLU9paGNKVC1Bem5RREVwaHZGbWpHNDA3UjV4aW9TTFN3QXg4dDFGZkpwN2ZGQzZhMWlLRXlRRHVPNzQ3VE1JWWVtWmhBNXRwYkFZbVo5amRr?oc=5)
 
 2026-11-23
@@ -106,6 +146,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1ZT
 2026-11-22
 
 Source: [Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMijAFBVV95cUxNVXM1ekx0NHI5TGR5S0ZiaTdTSmhHMEFyM1VsMDRqQklsWS1nRFlBYmViRkdXYnN6VThWMG9ic25wQ3FGb2czVFpMeHFTVUJzLU5ualA1NXRCcjh1ME91YVhQSXctMW43VHFoV0drSjVsSGxNcDFXTmNFN2xEdk9wS3R2VmYzZHFIQmU3MQ?oc=5)
+
+---
+
+### [Common sleep habit linked to 50% higher death risk in heart patients, recent study finds](https://news.google.com/rss/articles/CBMifEFVX3lxTFA0NXJYV2kzRXd2QkhSS0Vfa2FQZ3FRdHlCbEoycDZXSml3Tlh5TFowTHQwWi02V1haZWt6aUxyaEF5ZGZDc3l4WFFOQVJ3N2ljbXNIT0Z5NjVlOGJ6bk9KM0hvVU9HTlZsUXc2OWFaSHJmNTVFTWh4RFFDYms?oc=5)
+
+2026-11-22
+
+Source: [AOL.com](https://news.google.com/rss/articles/CBMifEFVX3lxTFA0NXJYV2kzRXd2QkhSS0Vfa2FQZ3FRdHlCbEoycDZXSml3Tlh5TFowTHQwWi02V1haZWt6aUxyaEF5ZGZDc3l4WFFOQVJ3N2ljbXNIT0Z5NjVlOGJ6bk9KM0hvVU9HTlZsUXc2OWFaSHJmNTVFTWh4RFFDYms?oc=5)
 
 ---
 
@@ -138,6 +186,14 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXd
 2026-11-22
 
 Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiugFBVV95cUxQS01Jb2YxaHpLRGI0YTFxRmJRTG9iVURmcHNXVy1zckY4SUxKM1N2S2YtVEZlekR0NGR3U25IYlNndXRVRWZjcU1FX20teWt5dUI5MHdTZFBHVlpWeExLNU5tSHJqRm1fYUp4cTQtTGNpYkhWa04weUlkWnVLR1JIcEVhb2hyR3ptZDY4YnoxTFR4ZXpxb3dCeGlWekRTR1pjTkJUWnhvempoY1JHMUU2YjBBaGxpbmNuUkE?oc=5)
+
+---
+
+### [‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXBmMU9STnB6VzNUbHgzdXRTZHpYQTAwOTZBOTloNERRRlJRdmx3M1ljb05wWm42N2dseVBDVFZkOFI4WkRmVDBvQjNnbGFESXZEdFR4OUNPVi1PQ2h1bmhjSjFyWU1yV1AtdUtpc0tEN1drOUNJUW8tdnFiSFBfT1FvdDRYbHJJNEZfWVE5LWxoZENocXBySHh2Z2VoaDBKNHVvSg?oc=5)
+
+2026-11-22
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXBmMU9STnB6VzNUbHgzdXRTZHpYQTAwOTZBOTloNERRRlJRdmx3M1ljb05wWm42N2dseVBDVFZkOFI4WkRmVDBvQjNnbGFESXZEdFR4OUNPVi1PQ2h1bmhjSjFyWU1yV1AtdUtpc0tEN1drOUNJUW8tdnFiSFBfT1FvdDRYbHJJNEZfWVE5LWxoZENocXBySHh2Z2VoaDBKNHVvSg?oc=5)
 
 ---
 
@@ -194,6 +250,14 @@ Source: [Verywell Health](https://news.google.com/rss/articles/CBMie0FVX3lxTE1jW
 2026-11-21
 
 Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9BbE4zaWprRmJobkFsaUYwalNvZ1hDemZZOVJBNU9MUjI3cWt1bGJGNWtaR3JrUHl5SHBYb2FYSE1QSVFxRm5MbGlwNkJEM0RuczhMX3k2Snkya2dhMDhSZVR1ckxpTHpJNERDd2FBSQ?oc=5)
+
+---
+
+### [New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGFvLVg3UF9PZlFDTTlzZVQwN1ZQQS00Mm9GV1h3SkVBUXdHbmpZX1ZZVUVEX1hwbGJyWV9LOGtNRnN1QVJuWnBoWTNvUzlPdms2enRsSG9OcTRqUk8wWXNMY0hGaGhLR1huUEp5clc2aDQzd2JvNzFBekJQMnNuR0tSTFBkaDNucjdWdU1pcURENkR1elp4ZHk1MW4xd1pyd2c?oc=5)
+
+2026-11-21
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGFvLVg3UF9PZlFDTTlzZVQwN1ZQQS00Mm9GV1h3SkVBUXdHbmpZX1ZZVUVEX1hwbGJyWV9LOGtNRnN1QVJuWnBoWTNvUzlPdms2enRsSG9OcTRqUk8wWXNMY0hGaGhLR1huUEp5clc2aDQzd2JvNzFBekJQMnNuR0tSTFBkaDNucjdWdU1pcURENkR1elp4ZHk1MW4xd1pyd2c?oc=5)
 
 ---
 

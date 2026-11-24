@@ -32,7 +32,7 @@ This page brings together the latest health news about “tumor” and lists the
 
 ## Related News (71)
 
-### [Alcohol May Make This Popular Cancer Treatment Worse](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEdmUG5FTDRtMU1odGdVWnVpbnNINmw0NTg0bUhrVnhpQWg4N3B2UlpVQm1oMkJ2dkZQQ1BQTkVRRUhlUVdQb0xIMjFTbS1qaENFdE5rM0VXZE1odWIybFgyY0tSbkYtcWJLSlA1YnFuQ29ITWZZcmlVeFdpSW42T2VTS2dNdmlmd19DblFXT1lsT09aRXQxLTZKTQ?oc=5)
+### [Alcohol Has a Surprising Effect on This Popular Cancer Treatment](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEdmUG5FTDRtMU1odGdVWnVpbnNINmw0NTg0bUhrVnhpQWg4N3B2UlpVQm1oMkJ2dkZQQ1BQTkVRRUhlUVdQb0xIMjFTbS1qaENFdE5rM0VXZE1odWIybFgyY0tSbkYtcWJLSlA1YnFuQ29ITWZZcmlVeFdpSW42T2VTS2dNdmlmd19DblFXT1lsT09aRXQxLTZKTQ?oc=5)
 
 2026-11-23
 

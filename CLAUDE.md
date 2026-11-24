@@ -582,3 +582,19 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   事實層列名 42／247／180 筆現行，以 `us-lic-20261124-{aluminum_chloride-1,-2,sennosides-1,stannous_fluoride-1}` 刪掉矛盾子句。剩 114 句：保留語 40、講表上筆數 37、子集 13、相對數 11、單方 4、其他 9（多是 AI 表的說明句、交互作用筆數、非許可證數字）。
 - 還沒做：701 頁公開頁的市場段落仍是 AI 寫的自由格式許可證表（只有 236 頁是程式表），表上的「(cancelled)」狀態字與表下說明句會跟事實不一致（例 sennosides、aluminum_chloride 的列名產品寫成 cancelled）；要不要對這些頁做 A 待用戶決定。
   母目錄 `.claude/license_labels/UsTxGNN.json` 只有「Valid」，程式表另會寫「Discontinued in Drugs@FDA」「License revoked in Purple Book」（cancelled）；排程的狀態格同步會把這兩種列成 unsynced（程式表本身由 sync_tables／build_license_snapshot 重排，不受影響）。
+
+## 市場段落 AI 許可證表全部換成程式表、舊錯句逐句更正（2026-11-24 第二輪）
+
+用戶 2026-11-24 第二輪決定：第一輪後仍有 701 個公開頁（＋noindex 1 頁）的市場段落是模型寫的自由格式許可證表（表頭 Authorization Number…／Licence…，程式表只有 236 頁），
+其中有把列名產品寫成 cancelled 的舊表（sennosides、aluminum_chloride 等），每週排程只改得到概覽表。
+- `scripts/sync_license_tables.py --migrate --ws <工作目錄>`：市場段落第一張 AI 許可證表換成程式表（列數＝原表列數與 min(5, 總數) 取大、最多 20，同 render），702 頁；
+  段落裡沒有表、證據包有紀錄的公開頁在段落第一段後補程式表，12 頁；緊鄰舊表、只講「清單可能不完整」的句子（CAPTION_P）與段落內只講舊表／下表列了幾筆的句子（CAPTION_D）拿掉 68 句；
+  ferumoxytol 段落裡重複的第二張 AI 表一併拿掉。查核紀錄的更正文字與錨點所在的句子不動。錨在舊表列上的查核紀錄 0 筆（不用標 superseded，supersede() 照 FR 慣例留著）。
+- gate（`src/ustxgnn/regulatory/licenses.py`）加一條：市場段落（程式區塊外）不准再有模型寫的許可證表。
+- 換表後另寫一支更寬的獨立偵測（市場段落講張數、全稱狀態、顯示筆數、劑型全稱的句子，對事實層與證據包全部紀錄的劑型）全量掃公開頁：207 句（174 頁）。
+  逐句對照後以 89 筆 `us-lic-20261124b-*` 更正（張數改成不寫數字、講舊表「另外 N 張／第六張／not shown」的句子刪、劑型全稱改成成立的寫法：例 celecoxib「The licences are for oral capsules」→「Most licences …」（另有錠劑、懸液、溶液）、
+  mitomycin「only as an injectable」、doxycycline「All products are oral」、mometasone「All are metered nasal sprays」、diazoxide「Only an oral suspension」；沒有 FDA 申請號、只有 NDC 列名的頁寫成「唯一一張有效／已註銷」的改正前提：deanol、hyoscyamine、povidone、aluminum_oxide），
+  更正文字本身是舊表說明或寫死張數的 20 筆 11-05～11-12 紀錄同 id 重發（前版存 history；dasatinib-1 改錨）；直接拿掉只講下表列了幾筆的說明句 16 句。市場段落外另掃「only … form／The only … licence」句 63 句，5 句不成立以紀錄更正。
+  待查清單 11-24 新增的 9 句全部標 resolved（7 句寫紀錄，mitomycin、nystatin 的表說明句在換表時拿掉）。
+- 寬偵測複查剩 123 句：劑型說法 76 句（逐句對照證據包都成立，或是不排他的列舉）、「at least N」保留語且 N 不大於事實層總數的句子、狀態全稱與事實一致的句子；沒有跟事實相反、未處理的句子。
+  checker 全量前後都是 0；gate exit 0；改到的頁 last_modified_at 改 2026-11-24。

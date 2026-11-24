@@ -84,6 +84,12 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-cyanocobalamin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Six further ANDAs (all cancelled) cover injectable forms from other manufacturers." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-cyanocobalamin-1 -->
+
 The drug is marketed in the US. The data compiled for this report provides no approved indication text.
 
 <!-- review:begin us-lic-20261106-cyanocobalamin-1 -->
@@ -105,8 +111,6 @@ The drug is marketed in the US. The data compiled for this report provides no ap
 Showing 5 of 168 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
-
-Six further ANDAs (all cancelled) cover injectable forms from other manufacturers.
 
 ---
 
@@ -150,6 +154,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "with 11 valid licenses for any of them" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d) |
+| 2026-11-24 | Removed: "Six further ANDAs (all cancelled) cover injectable forms from other manufacturers." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

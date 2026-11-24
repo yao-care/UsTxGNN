@@ -84,8 +84,6 @@ Showing 5 of 42 entries (FDA applications first, active before discontinued; NDC
 
 <!-- licenses:end -->
 
-The list shows five of the records in the local data and may be partial.
-
 ## Safety Considerations
 
 - **Drug Interactions**: The interaction screen returned 100 entries. The main ones flagged as Major are with calcium-containing products (calcium chloride, calcium glucoheptonate, calcium gluconate). Moderate interactions include the aminoglycosides kanamycin, neomycin and streptomycin, and picosulfuric acid.

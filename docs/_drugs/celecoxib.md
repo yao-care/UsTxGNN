@@ -68,13 +68,25 @@ Currently no related literature available.
 
 ## US Market Information
 
-Twelve US licence records were compiled, and the list may be partial. The licences are for oral capsules. The local records carry no approved-indication text. Examples include:
+<!-- review:begin us-lic-20261124b-celecoxib-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Twelve US licence records were compiled, and the list may be partial." Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-celecoxib-2 -->
+
+ Most licences are for oral capsules. The local records carry no approved-indication text. Examples include:
 
 <!-- review:begin us-lic-20261124-celecoxib-1 -->
 
 > **Review correction (2026-11-24)**: Originally stated: "The local records carry no approved-indication text, and every record is listed as "single-ingredient" type." Corrected: it said every record is a single-ingredient product, but the FDA data for this drug also include combination products (CONSENSI, NDA210045: amlodipine besylate and celecoxib; SEGLENTIS, NDA213426: celecoxib and tramadol hydrochloride). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/).
 
 <!-- review:end us-lic-20261124-celecoxib-1 -->
+
+<!-- review:begin us-lic-20261124b-celecoxib-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The licences are for oral capsules." Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-celecoxib-1 -->
 
 <!-- licenses:begin -->
 
@@ -121,6 +133,8 @@ Below is the review log for this page: statements checked against official FDA d
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d) |
 | 2026-11-24 | Corrected: "every record is listed as 'single-ingredient' type" (two combination products are on record) | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/) |
+| 2026-11-24 | Corrected: "The licences are for oral capsules." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-24 | Removed: "Twelve US licence records were compiled, and the list may be partial." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

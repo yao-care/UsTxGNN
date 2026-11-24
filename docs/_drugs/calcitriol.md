@@ -69,7 +69,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-The local records list 10 single-ingredient licences, in oral capsule, ointment, solution and injection forms. The records may be partial. The licences carry no indication text, so no approved-indication summary can be given here.
+The local records list single-ingredient licences in oral capsule, ointment, solution and injection forms. The records may be partial. The licences carry no indication text, so no approved-indication summary can be given here.
+
+<!-- review:begin us-lic-20261124b-calcitriol-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The local records list 10 single-ingredient licences, in oral capsule, ointment, solution and injection forms." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-calcitriol-1 -->
 
 <!-- licenses:begin -->
 
@@ -110,11 +116,12 @@ The prediction score is high, but the disease term is obsolete and there are no 
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e) |
+| 2026-11-24 | Corrected: "The local records list 10 single-ingredient licences, in oral capsule, ointment, solution and injection forms." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

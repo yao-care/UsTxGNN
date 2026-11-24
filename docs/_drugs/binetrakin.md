@@ -56,7 +56,13 @@ There are currently **0 clinical trials** and **0 publications** supporting this
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Binetrakin has no recorded mechanism, so no pharmacological link to craniostenosis cataract can be established. The only product in the local records is a drop-form solution (GUNA-IL 4), which gives no further mechanistic insight.
+Currently, detailed mechanism of action data is not available. Binetrakin has no recorded mechanism, so no pharmacological link to craniostenosis cataract can be established. The products in the local records are NDC listings of homeopathic products (a drop-form solution, GUNA-IL 4, and pellets), which give no further mechanistic insight.
+
+<!-- review:begin us-lic-20261124b-binetrakin-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The only product in the local records is a drop-form solution (GUNA-IL 4), which gives no further mechanistic insight." Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-binetrakin-2 -->
 
 The TxGNN score is a computational prediction and is not backed by any clinical trial or publication. Without a known mechanism, the prediction cannot be judged plausible or implausible, and it should be treated as a hypothesis only.
 
@@ -70,6 +76,12 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-binetrakin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The local record lists one licence, and its number and indication text are not recorded." Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-binetrakin-1 -->
+
 <!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
@@ -80,7 +92,7 @@ Currently no related literature available.
 
 <!-- licenses:end -->
 
-The local record lists one licence, and its number and indication text are not recorded. Because the data are limited, this may not give a complete picture of the market situation.
+ Because the data are limited, this may not give a complete picture of the market situation.
 
 ## Safety Considerations
 
@@ -98,6 +110,20 @@ The prediction has no supporting trials or literature, and the drug has no recor
 - FDA package insert warnings and contraindications
 - Any preclinical or clinical studies that directly address craniostenosis cataract
 - A plausible biological rationale linking the drug to the predicted disease
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: "The local record lists one licence, and its number and indication text are not recorded." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-24 | Corrected: "The only product in the local records is a drop-form solution (GUNA-IL 4), which gives no further mechanistic insight." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

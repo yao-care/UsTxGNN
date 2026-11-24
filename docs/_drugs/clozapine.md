@@ -85,7 +85,13 @@ Use would need to be restricted to treatment-refractory cases and managed with s
 
 ## US Market Information
 
-Clozapine is currently marketed in the United States. Several of the records are valid, and at least one is cancelled. The list below may be partial, and the local records carry no approved-indication text.
+Clozapine is currently marketed in the United States. Several of the records are valid, and at least one is cancelled. The local records carry no approved-indication text.
+
+<!-- review:begin us-lic-20261124b-clozapine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The list below may be partial, and the local records carry no approved-indication text." Corrected: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-clozapine-1 -->
 
 <!-- licenses:begin -->
 
@@ -133,11 +139,12 @@ A completed Phase 2 double-blind trial and a systematic review and meta-analysis
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data for clozapine are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Versacloz (clozapine) prescribing information, TruPharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355) |
+| 2026-11-24 | Corrected: "The list below may be partial, and the local records carry no approved-indication text." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

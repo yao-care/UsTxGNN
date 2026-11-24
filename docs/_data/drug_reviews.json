@@ -2932,7 +2932,7 @@
    "claim": "All three authorizations are listed as valid, so currently valid US licences exist in the compiled data. ",
    "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "AI 依舊證據包（只收部分紀錄）寫的張數／狀態句跟事實層（data-20261106-085029）相反：申請 4 件、有效 3、停止 1；照本站 11-05／11-06 慣例刪掉矛盾的子句（有保留的「at least／listed … may be partial」張數不動）",
+   "finding": "AI 依舊證據包（只收部分紀錄）寫的張數／狀態句跟事實層（data-20261106-085029）相反：申請 4 件、有效 3、停止 1；照本站 11-05／11-06 慣例刪掉矛盾的子句（有保留的「at least／listed … may be partial」張數不動）；2026-11-24 改錨（原錨點句由 us-lic-20261124b-* 更正）",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -2948,7 +2948,7 @@
    "checked": "2026-11-12",
    "summary": "Removed: \"All three authorizations are listed as valid, so currently valid US licences exist in the compiled data\"",
    "method": "2026-11-12 人工查核（正文張數對事實層）",
-   "anchor": "All are injectable products.",
+   "anchor": "## US Market Information",
    "history": [
     {
      "id": "us-lic-20261112-apomorphine-1",
@@ -2977,6 +2977,34 @@
      "anchor": "All are injectable products.",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261112-apomorphine-1",
+     "drug": "apomorphine",
+     "file": "apomorphine.md",
+     "action": "correct",
+     "claim": "All three authorizations are listed as valid, so currently valid US licences exist in the compiled data. ",
+     "replacement": "",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "AI 依舊證據包（只收部分紀錄）寫的張數／狀態句跟事實層（data-20261106-085029）相反：申請 4 件、有效 3、停止 1；照本站 11-05／11-06 慣例刪掉矛盾的子句（有保留的「at least／listed … may be partial」張數不動）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-12",
+     "summary": "Removed: \"All three authorizations are listed as valid, so currently valid US licences exist in the compiled data\"",
+     "method": "2026-11-12 人工查核（正文張數對事實層）",
+     "anchor": "All are injectable products.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
    ]
   },
@@ -10767,7 +10795,7 @@
    "claim": "Three more ANDAs (AvKARE, Aurobindo, Zydus) are also listed as cancelled.",
    "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 13 張，有效 13 張、停產 0 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；本藥沒有停產的申請；整句刪（2026-11-06 逐句核對）",
+   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 13 張，有效 13 張、停產 0 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；本藥沒有停產的申請；整句刪（2026-11-06 逐句核對）；2026-11-24 改錨（原錨點句由 us-lic-20261124b-* 更正）",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -10783,7 +10811,7 @@
    "checked": "2026-11-06",
    "summary": "Removed: \"Three more ANDAs (AvKARE, Aurobindo, Zydus) are also listed as cancelled\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：89049662（2026-11-06）",
-   "anchor": "The drug is marketed in this country, and all eight licenses are listed as valid in the data compiled for this report. Approved indication text was not available.",
+   "anchor": "Approved indication text was not available.",
    "history": [
     {
      "id": "us-lic-20261106-dasatinib-1",
@@ -10812,6 +10840,34 @@
      "anchor": "The drug is marketed in this country, and all eight licenses are listed as valid in the data compiled for this report. Approved indication text was not available.",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261106-dasatinib-1",
+     "drug": "dasatinib",
+     "file": "dasatinib.md",
+     "action": "correct",
+     "claim": "Three more ANDAs (AvKARE, Aurobindo, Zydus) are also listed as cancelled.",
+     "replacement": "",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 13 張，有效 13 張、停產 0 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；本藥沒有停產的申請；整句刪（2026-11-06 逐句核對）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removed: \"Three more ANDAs (AvKARE, Aurobindo, Zydus) are also listed as cancelled\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：89049662（2026-11-06）",
+     "anchor": "The drug is marketed in this country, and all eight licenses are listed as valid in the data compiled for this report. Approved indication text was not available.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
    ]
   },
@@ -12291,7 +12347,7 @@
    "claim": "All are single-ingredient generic products (ANDA).",
    "replacement": "",
    "note": "Removed: it described the products in a way that did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06): the FDA data list both generic (ANDA) and brand (NDA) applications for this drug.",
-   "finding": "依 Drugs@FDA／NDC 的 active ingredients（修正後依成分數判單方／複方）本藥 FDA 有效申請 65 張，其中單方 48 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "finding": "依 Drugs@FDA／NDC 的 active ingredients（修正後依成分數判單方／複方）本藥 FDA 有效申請 65 張，其中單方 48 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）；2026-11-24 改錨（原錨點句由 us-lic-20261124b-* 更正）",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -12307,7 +12363,7 @@
    "checked": "2026-11-12",
    "summary": "Removed: \"All are single-ingredient generic products (ANDA)\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d7cfcd0b（2026-11-06）",
-   "anchor": "The five shown below are examples, and approved-indication text is not recorded in the local data.",
+   "anchor": "## US Market Information",
    "history": [
     {
      "id": "us-lic-20261106-dexamethasone-1",
@@ -12335,6 +12391,34 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d7cfcd0b（2026-11-06）",
      "retired": "2026-11-12",
      "reason": "11-06 只刪了「single-ingredient」，留下的「All are generic products (ANDA)」仍跟事實層相反（有 NDA 28 件，其中有效 10 件），整句刪除"
+    },
+    {
+     "id": "us-lic-20261106-dexamethasone-1",
+     "drug": "dexamethasone",
+     "file": "dexamethasone.md",
+     "action": "correct",
+     "claim": "All are single-ingredient generic products (ANDA).",
+     "replacement": "",
+     "note": "Removed: it described the products in a way that did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06): the FDA data list both generic (ANDA) and brand (NDA) applications for this drug.",
+     "finding": "依 Drugs@FDA／NDC 的 active ingredients（修正後依成分數判單方／複方）本藥 FDA 有效申請 65 張，其中單方 48 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-12",
+     "summary": "Removed: \"All are single-ingredient generic products (ANDA)\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d7cfcd0b（2026-11-06）",
+     "anchor": "The five shown below are examples, and approved-indication text is not recorded in the local data.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
    ]
   },
@@ -12346,7 +12430,7 @@
    "claim": "Fifteen US licences are recorded as valid, and the list may be partial. ",
    "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "AI 依舊證據包（只收部分紀錄）寫的張數／狀態句跟事實層（data-20261106-085029）相反：申請 159 件、有效 65、停止 94；照本站 11-05／11-06 慣例刪掉矛盾的子句（有保留的「at least／listed … may be partial」張數不動）",
+   "finding": "AI 依舊證據包（只收部分紀錄）寫的張數／狀態句跟事實層（data-20261106-085029）相反：申請 159 件、有效 65、停止 94；照本站 11-05／11-06 慣例刪掉矛盾的子句（有保留的「at least／listed … may be partial」張數不動）；2026-11-24 改錨（原錨點句由 us-lic-20261124b-* 更正）",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -12362,7 +12446,7 @@
    "checked": "2026-11-12",
    "summary": "Removed: \"Fifteen US licences are recorded as valid, and the list may be partial\"",
    "method": "2026-11-12 人工查核（正文張數對事實層）",
-   "anchor": "The five shown below are examples, and approved-indication text is not recorded in the local data.",
+   "anchor": "## US Market Information",
    "history": [
     {
      "id": "us-lic-20261112-dexamethasone-1",
@@ -12391,6 +12475,34 @@
      "anchor": "The five shown below are examples, and approved-indication text is not recorded in the local data.",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261112-dexamethasone-1",
+     "drug": "dexamethasone",
+     "file": "dexamethasone.md",
+     "action": "correct",
+     "claim": "Fifteen US licences are recorded as valid, and the list may be partial. ",
+     "replacement": "",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "AI 依舊證據包（只收部分紀錄）寫的張數／狀態句跟事實層（data-20261106-085029）相反：申請 159 件、有效 65、停止 94；照本站 11-05／11-06 慣例刪掉矛盾的子句（有保留的「at least／listed … may be partial」張數不動）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-12",
+     "summary": "Removed: \"Fifteen US licences are recorded as valid, and the list may be partial\"",
+     "method": "2026-11-12 人工查核（正文張數對事實層）",
+     "anchor": "The five shown below are examples, and approved-indication text is not recorded in the local data.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
    ]
   },
@@ -14084,9 +14196,9 @@
    "file": "dofetilide.md",
    "action": "correct",
    "claim": "Four more ANDAs (Accord, Bionpharma, Sigmapharm, Exelan) are also valid. All 9 authorizations are in valid status.",
-   "replacement": "Four more ANDAs (Accord, Bionpharma, Sigmapharm, Exelan) are also valid.",
+   "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 10 張、停產 5 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；句子只有張數說法（或主詞就是錯的張數），整句刪（2026-11-06 逐句核對）",
+   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 10 張、停產 5 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；句子只有張數說法（或主詞就是錯的張數），整句刪（2026-11-06 逐句核對）；2026-11-24 同 id 重發：講舊 AI 表以外的「另外 4 張」；表已換成程式表；整句刪",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -14099,7 +14211,7 @@
      "accessed": "2026-11-06"
     }
    ],
-   "checked": "2026-11-06",
+   "checked": "2026-11-24",
    "summary": "Removed: \"All 9 authorizations are in valid status\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：6ae3e49c（2026-11-06）",
    "history": [
@@ -14129,8 +14241,36 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：6ae3e49c（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261106-dofetilide-2",
+     "drug": "dofetilide",
+     "file": "dofetilide.md",
+     "action": "correct",
+     "claim": "Four more ANDAs (Accord, Bionpharma, Sigmapharm, Exelan) are also valid. All 9 authorizations are in valid status.",
+     "replacement": "Four more ANDAs (Accord, Bionpharma, Sigmapharm, Exelan) are also valid.",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 10 張、停產 5 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；句子只有張數說法（或主詞就是錯的張數），整句刪（2026-11-06 逐句核對）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removed: \"All 9 authorizations are in valid status\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：6ae3e49c（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
-   ]
+   ],
+   "anchor": "## US Market Information"
   },
   {
    "id": "us-lic-20261106-dofetilide-3",
@@ -17344,9 +17484,9 @@
    "file": "ephedrine.md",
    "action": "correct",
    "claim": "All 14 licenses are valid, and no approved indication text is recorded for any of them. The five main entries are shown below.",
-   "replacement": "The five main entries are shown below.",
+   "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）；2026-11-24 同 id 重發：拿掉更正文字裡只講舊表列了幾筆的說明句（表已換成程式表）",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -17359,7 +17499,7 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "Removed: \"All 14 licenses are valid, and no approved indication text is recorded for any of them\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
    "history": [
@@ -17389,8 +17529,36 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261105-ephedrine-1",
+     "drug": "ephedrine",
+     "file": "ephedrine.md",
+     "action": "correct",
+     "claim": "All 14 licenses are valid, and no approved indication text is recorded for any of them. The five main entries are shown below.",
+     "replacement": "The five main entries are shown below.",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-05"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "Removed: \"All 14 licenses are valid, and no approved indication text is recorded for any of them\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
-   ]
+   ],
+   "anchor": "## US Market Information"
   },
   {
    "id": "us-lic-20261106-ephedrine-2",
@@ -19578,9 +19746,9 @@
    "file": "exemestane.md",
    "action": "correct",
    "claim": "All 7 listings are cancelled. Two further ANDAs (Zydus, Breckenridge) are not shown above.",
-   "replacement": "Two further ANDAs (Zydus, Breckenridge) are not shown above.",
+   "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 12 張，有效 9 張、停產 3 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）",
+   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 12 張，有效 9 張、停產 3 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）；2026-11-24 同 id 重發：講舊 AI 表沒列的 2 張；表已換成程式表；整句刪",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -19593,7 +19761,7 @@
      "accessed": "2026-11-06"
     }
    ],
-   "checked": "2026-11-06",
+   "checked": "2026-11-24",
    "summary": "Removed: \"All 7 listings are cancelled\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：89049662（2026-11-06）",
    "history": [
@@ -19623,8 +19791,36 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：89049662（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261106-exemestane-1",
+     "drug": "exemestane",
+     "file": "exemestane.md",
+     "action": "correct",
+     "claim": "All 7 listings are cancelled. Two further ANDAs (Zydus, Breckenridge) are not shown above.",
+     "replacement": "Two further ANDAs (Zydus, Breckenridge) are not shown above.",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 12 張，有效 9 張、停產 3 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removed: \"All 7 listings are cancelled\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：89049662（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
-   ]
+   ],
+   "anchor": "## US Market Information"
   },
   {
    "id": "us-lic-20261106-ezetimibe-1",
@@ -20172,9 +20368,9 @@
    "file": "fentanyl.md",
    "action": "correct",
    "claim": "One further authorization (ANDA212086, Fresenius Kabi, injection solution) is also valid. All six authorizations are valid.",
-   "replacement": "One further authorization (ANDA212086, Fresenius Kabi, injection solution) is also valid.",
+   "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）；2026-11-24 同 id 重發：講舊 AI 表以外的「另外 1 張」；表已換成程式表；整句刪",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -20187,7 +20383,7 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "Removed: \"All six authorizations are valid\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
    "history": [
@@ -20217,8 +20413,36 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261105-fentanyl-1",
+     "drug": "fentanyl",
+     "file": "fentanyl.md",
+     "action": "correct",
+     "claim": "One further authorization (ANDA212086, Fresenius Kabi, injection solution) is also valid. All six authorizations are valid.",
+     "replacement": "One further authorization (ANDA212086, Fresenius Kabi, injection solution) is also valid.",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-05"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "Removed: \"All six authorizations are valid\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
-   ]
+   ],
+   "anchor": "## US Market Information"
   },
   {
    "id": "us-lic-20261106-fentanyl-2",
@@ -25500,9 +25724,9 @@
    "file": "guanfacine.md",
    "action": "correct",
    "claim": "There are 11 valid authorizations. The five main ones are listed below, and the approved indication text is not specified in the authorization records.",
-   "replacement": "The five main ones are listed below, and the approved indication text is not specified in the authorization records.",
+   "replacement": "The approved indication text is not specified in the authorization records.",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 27 張，有效 22 張；句中的有效張數（11 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）",
+   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 27 張，有效 22 張；句中的有效張數（11 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）；2026-11-24 同 id 重發：講舊 AI 表的 5 筆；只拿掉顯示筆數的子句",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -25515,7 +25739,7 @@
      "accessed": "2026-11-06"
     }
    ],
-   "checked": "2026-11-06",
+   "checked": "2026-11-24",
    "summary": "Removed: \"There are 11 valid authorizations\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dbfac67a（2026-11-06）",
    "history": [
@@ -25545,6 +25769,33 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dbfac67a（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261106-guanfacine-1",
+     "drug": "guanfacine",
+     "file": "guanfacine.md",
+     "action": "correct",
+     "claim": "There are 11 valid authorizations. The five main ones are listed below, and the approved indication text is not specified in the authorization records.",
+     "replacement": "The five main ones are listed below, and the approved indication text is not specified in the authorization records.",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 27 張，有效 22 張；句中的有效張數（11 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removed: \"There are 11 valid authorizations\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dbfac67a（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
    ]
   },
@@ -27182,7 +27433,7 @@
    "claim": "Five further authorizations (ANDA216811, ANDA217656, ANDA217844, ANDA218899, ANDA217919) are also cancelled.",
    "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 13 張，有效 13 張、停產 0 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；點名的 5 個 ANDA 都有效；整句刪（2026-11-06 逐句核對）",
+   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 13 張，有效 13 張、停產 0 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；點名的 5 個 ANDA 都有效；整句刪（2026-11-06 逐句核對）；2026-11-24 改錨（原錨點句由 us-lic-20261124b-* 更正）",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -27198,7 +27449,7 @@
    "checked": "2026-11-06",
    "summary": "Removed: \"Five further authorizations (ANDA216811, ANDA217656, ANDA217844, ANDA218899, ANDA217919) are also cancelled\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：89049662（2026-11-06）",
-   "anchor": "All 10 authorizations below are listed as valid. No approved indication text was available for any of them.",
+   "anchor": "No approved indication text was available for any of them.",
    "history": [
     {
      "id": "us-lic-20261106-icosapent_ethyl-1",
@@ -27227,6 +27478,34 @@
      "anchor": "All 10 authorizations below are listed as valid. No approved indication text was available for any of them.",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261106-icosapent_ethyl-1",
+     "drug": "icosapent_ethyl",
+     "file": "icosapent_ethyl.md",
+     "action": "correct",
+     "claim": "Five further authorizations (ANDA216811, ANDA217656, ANDA217844, ANDA218899, ANDA217919) are also cancelled.",
+     "replacement": "",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 13 張，有效 13 張、停產 0 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；點名的 5 個 ANDA 都有效；整句刪（2026-11-06 逐句核對）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removed: \"Five further authorizations (ANDA216811, ANDA217656, ANDA217844, ANDA218899, ANDA217919) are also cancelled\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：89049662（2026-11-06）",
+     "anchor": "All 10 authorizations below are listed as valid. No approved indication text was available for any of them.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
    ]
   },
@@ -33073,9 +33352,9 @@
    "file": "levofloxacin.md",
    "action": "correct",
    "claim": "The list shows only the first five of the records available; the local records may be partial. In total, 10 licences are valid and 1 is cancelled.",
-   "replacement": "The list shows only the first five of the records available; the local records may be partial.",
+   "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 48 張，有效 21 張、停產 27 張；句子的總數／有效／註銷張數（舊資料子集合）與事實不符；句子只有張數說法，整句刪（2026-11-06 用戶決定：前一輪保留的舊張數句只刪錯的張數子句；前一輪 keep 的理由「不超過事實、不是全部註銷」改由 checker 總數說法規則判定）",
+   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 48 張，有效 21 張、停產 27 張；句子的總數／有效／註銷張數（舊資料子集合）與事實不符；句子只有張數說法，整句刪（2026-11-06 用戶決定：前一輪保留的舊張數句只刪錯的張數子句；前一輪 keep 的理由「不超過事實、不是全部註銷」改由 checker 總數說法規則判定）；2026-11-24 同 id 重發：拿掉更正文字裡只講舊表列了幾筆的說明句（表已換成程式表）",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -33088,7 +33367,7 @@
      "accessed": "2026-11-06"
     }
    ],
-   "checked": "2026-11-06",
+   "checked": "2026-11-24",
    "summary": "Removed: \"In total, 10 licences are valid and 1 is cancelled\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：6ae3e49c（2026-11-06）",
    "history": [
@@ -33118,8 +33397,36 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：6ae3e49c（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261106-levofloxacin-1",
+     "drug": "levofloxacin",
+     "file": "levofloxacin.md",
+     "action": "correct",
+     "claim": "The list shows only the first five of the records available; the local records may be partial. In total, 10 licences are valid and 1 is cancelled.",
+     "replacement": "The list shows only the first five of the records available; the local records may be partial.",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 48 張，有效 21 張、停產 27 張；句子的總數／有效／註銷張數（舊資料子集合）與事實不符；句子只有張數說法，整句刪（2026-11-06 用戶決定：前一輪保留的舊張數句只刪錯的張數子句；前一輪 keep 的理由「不超過事實、不是全部註銷」改由 checker 總數說法規則判定）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removed: \"In total, 10 licences are valid and 1 is cancelled\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：6ae3e49c（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
-   ]
+   ],
+   "anchor": "## US Market Information"
   },
   {
    "id": "us-lic-20261031-levomilnacipran-1",
@@ -33289,9 +33596,9 @@
    "file": "lidocaine.md",
    "action": "correct",
    "claim": "Nine US licences are listed; the list may be partial. All are single-ingredient products.",
-   "replacement": "Nine US licences are listed; the list may be partial.",
+   "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依 Drugs@FDA／NDC 的 active ingredients（修正後依成分數判單方／複方）本藥 FDA 有效申請 93 張，其中單方 76 張；句子說全部是單方，與事實不符，刪掉「單方」後句子沒有內容，整句刪（2026-11-06 用戶決定：單方／複方說法只刪錯的詞或子句）",
+   "finding": "依 Drugs@FDA／NDC 的 active ingredients（修正後依成分數判單方／複方）本藥 FDA 有效申請 93 張，其中單方 76 張；句子說全部是單方，與事實不符，刪掉「單方」後句子沒有內容，整句刪（2026-11-06 用戶決定：單方／複方說法只刪錯的詞或子句）；2026-11-24 同 id 重發：拿掉更正文字裡只講舊表列了幾筆的說明句（表已換成程式表）",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -33304,7 +33611,7 @@
      "accessed": "2026-11-06"
     }
    ],
-   "checked": "2026-11-06",
+   "checked": "2026-11-24",
    "summary": "Removed: \"All are single-ingredient products\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d7cfcd0b（2026-11-06）",
    "history": [
@@ -33334,8 +33641,36 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d7cfcd0b（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261106-lidocaine-1",
+     "drug": "lidocaine",
+     "file": "lidocaine.md",
+     "action": "correct",
+     "claim": "Nine US licences are listed; the list may be partial. All are single-ingredient products.",
+     "replacement": "Nine US licences are listed; the list may be partial.",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依 Drugs@FDA／NDC 的 active ingredients（修正後依成分數判單方／複方）本藥 FDA 有效申請 93 張，其中單方 76 張；句子說全部是單方，與事實不符，刪掉「單方」後句子沒有內容，整句刪（2026-11-06 用戶決定：單方／複方說法只刪錯的詞或子句）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removed: \"All are single-ingredient products\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d7cfcd0b（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
-   ]
+   ],
+   "anchor": "## US Market Information"
   },
   {
    "id": "us-lic-20261106-lifitegrast-1",
@@ -36035,9 +36370,9 @@
    "file": "mepivacaine.md",
    "action": "correct",
    "claim": "One further license (ANDA089408, Polocaine-MPF, Fresenius Kabi USA) is also valid. All six licenses are valid, so there is currently valid US authorization in these records.",
-   "replacement": "One further license (ANDA089408, Polocaine-MPF, Fresenius Kabi USA) is also valid.",
+   "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）；2026-11-24 同 id 重發：講舊 AI 表以外的「另外 1 張」；表已換成程式表；整句刪",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -36050,7 +36385,7 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "Removed: \"All six licenses are valid, so there is currently valid US authorization in these records\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
    "history": [
@@ -36080,8 +36415,36 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261105-mepivacaine-1",
+     "drug": "mepivacaine",
+     "file": "mepivacaine.md",
+     "action": "correct",
+     "claim": "One further license (ANDA089408, Polocaine-MPF, Fresenius Kabi USA) is also valid. All six licenses are valid, so there is currently valid US authorization in these records.",
+     "replacement": "One further license (ANDA089408, Polocaine-MPF, Fresenius Kabi USA) is also valid.",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-05"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "Removed: \"All six licenses are valid, so there is currently valid US authorization in these records\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
-   ]
+   ],
+   "anchor": "## US Market Information"
   },
   {
    "id": "us-lic-20261105-mepivacaine-2",
@@ -36467,9 +36830,9 @@
    "file": "methadone.md",
    "action": "correct",
    "claim": "All 16 licenses are valid, and no approved-indication text is recorded. Five representative licenses are listed below.",
-   "replacement": "Five representative licenses are listed below.",
+   "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）；2026-11-24 同 id 重發：拿掉更正文字裡只講舊表列了幾筆的說明句（表已換成程式表）",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -36482,7 +36845,7 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "Removed: \"All 16 licenses are valid, and no approved-indication text is recorded\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
    "history": [
@@ -36512,8 +36875,36 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261105-methadone-1",
+     "drug": "methadone",
+     "file": "methadone.md",
+     "action": "correct",
+     "claim": "All 16 licenses are valid, and no approved-indication text is recorded. Five representative licenses are listed below.",
+     "replacement": "Five representative licenses are listed below.",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-05"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "Removed: \"All 16 licenses are valid, and no approved-indication text is recorded\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
-   ]
+   ],
+   "anchor": "## US Market Information"
   },
   {
    "id": "us-lic-20261106-methocarbamol-1",
@@ -38637,9 +39028,9 @@
    "file": "mitomycin.md",
    "action": "correct",
    "claim": "Mitomycin is marketed in the US only as an injectable (lyophilised powder for solution). Of the 8 licences in the records reviewed, 7 are valid and 1 is cancelled.",
-   "replacement": "Mitomycin is marketed in the US only as an injectable (lyophilised powder for solution).",
+   "replacement": "Mitomycin is marketed in the US mainly as an injectable (lyophilised powder for solution); topical, pyelocalyceal and intravesical products are also on record.",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 18 張，有效 13 張、停產 5 張；句子的總數／有效／註銷張數（舊資料子集合）與事實不符；句子只有張數說法，整句刪（2026-11-06 用戶決定：前一輪保留的舊張數句只刪錯的張數子句；前一輪 keep 的理由「不超過事實、不是全部註銷」改由 checker 總數說法規則判定）",
+   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 18 張，有效 13 張、停產 5 張；句子的總數／有效／註銷張數（舊資料子集合）與事實不符；句子只有張數說法，整句刪（2026-11-06 用戶決定：前一輪保留的舊張數句只刪錯的張數子句；前一輪 keep 的理由「不超過事實、不是全部註銷」改由 checker 總數說法規則判定）；2026-11-24 同 id 重發：證據包 18 張：注射劑 15，另有外用溶液、腎盂用與膀胱內用粉劑各 1 張；「只有注射劑」不成立",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -38652,7 +39043,7 @@
      "accessed": "2026-11-06"
     }
    ],
-   "checked": "2026-11-06",
+   "checked": "2026-11-24",
    "summary": "Removed: \"Of the 8 licences in the records reviewed, 7 are valid and 1 is cancelled\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：6ae3e49c（2026-11-06）",
    "history": [
@@ -38682,6 +39073,33 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：6ae3e49c（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261106-mitomycin-1",
+     "drug": "mitomycin",
+     "file": "mitomycin.md",
+     "action": "correct",
+     "claim": "Mitomycin is marketed in the US only as an injectable (lyophilised powder for solution). Of the 8 licences in the records reviewed, 7 are valid and 1 is cancelled.",
+     "replacement": "Mitomycin is marketed in the US only as an injectable (lyophilised powder for solution).",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 18 張，有效 13 張、停產 5 張；句子的總數／有效／註銷張數（舊資料子集合）與事實不符；句子只有張數說法，整句刪（2026-11-06 用戶決定：前一輪保留的舊張數句只刪錯的張數子句；前一輪 keep 的理由「不超過事實、不是全部註銷」改由 checker 總數說法規則判定）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removed: \"Of the 8 licences in the records reviewed, 7 are valid and 1 is cancelled\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：6ae3e49c（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
    ]
   },
@@ -38909,9 +39327,9 @@
    "file": "mometasone.md",
    "action": "correct",
    "claim": "The drug is marketed in the US, and all 4 licenses are valid. All are metered nasal sprays.",
-   "replacement": "All are metered nasal sprays.",
+   "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）；2026-11-24 同 id 重發：證據包 35 張：鼻噴劑 10 張，其餘是軟膏、乳液、乳膏、吸入劑；「全部鼻噴劑」不成立；整句刪",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -38924,7 +39342,7 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "Removed: \"The drug is marketed in the US, and all 4 licenses are valid\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
    "history": [
@@ -38954,8 +39372,36 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261105-mometasone-1",
+     "drug": "mometasone",
+     "file": "mometasone.md",
+     "action": "correct",
+     "claim": "The drug is marketed in the US, and all 4 licenses are valid. All are metered nasal sprays.",
+     "replacement": "All are metered nasal sprays.",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-05"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "Removed: \"The drug is marketed in the US, and all 4 licenses are valid\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
-   ]
+   ],
+   "anchor": "## US Market Information"
   },
   {
    "id": "us-lic-20261106-mometasone-2",
@@ -39071,9 +39517,9 @@
    "file": "montelukast.md",
    "action": "correct",
    "claim": "All available forms are oral (chewable tablet, film-coated tablet, tablet). The cancelled-only status in this dataset should be checked against current FDA records before any development decision.",
-   "replacement": "All available forms are oral (chewable tablet, film-coated tablet, tablet).",
+   "replacement": "All available forms are oral (chewable tablet, film-coated tablet, tablet, granules).",
    "note": "Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 52 張，有效 34 張、停產 18 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）",
+   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 52 張，有效 34 張、停產 18 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）；2026-11-24 同 id 重發：證據包另有口服顆粒（granule; oral）7 張",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -39086,7 +39532,7 @@
      "accessed": "2026-11-06"
     }
    ],
-   "checked": "2026-11-06",
+   "checked": "2026-11-24",
    "summary": "Removed: \"The cancelled-only status in this dataset should be checked against current FDA records before any development decision\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：89049662（2026-11-06）",
    "history": [
@@ -39116,6 +39562,33 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：89049662（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261106-montelukast-1",
+     "drug": "montelukast",
+     "file": "montelukast.md",
+     "action": "correct",
+     "claim": "All available forms are oral (chewable tablet, film-coated tablet, tablet). The cancelled-only status in this dataset should be checked against current FDA records before any development decision.",
+     "replacement": "All available forms are oral (chewable tablet, film-coated tablet, tablet).",
+     "note": "Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 52 張，有效 34 張、停產 18 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removed: \"The cancelled-only status in this dataset should be checked against current FDA records before any development decision\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：89049662（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
    ]
   },
@@ -44547,7 +45020,7 @@
    "claim": "Two further licenses, NYVEPRIA (BLA761111, Pfizer) and STIMUFEND (BLA761173, Northstar Rx), are also cancelled.",
    "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 9 張，有效 9 張、停產 0 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；BLA761111、BLA761173 有效；整句刪（2026-11-06 逐句核對）",
+   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 9 張，有效 9 張、停產 0 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；BLA761111、BLA761173 有效；整句刪（2026-11-06 逐句核對）；2026-11-24 改錨（原錨點句由 us-lic-20261124b-* 更正）",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -44563,7 +45036,7 @@
    "checked": "2026-11-06",
    "summary": "Removed: \"Two further licenses, NYVEPRIA (BLA761111, Pfizer) and STIMUFEND (BLA761173, Northstar Rx), are also cancelled\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：89049662（2026-11-06）",
-   "anchor": "All seven US biologics licenses for pegfilgrastim are valid, and the approved-indication text was not available for any of them.",
+   "anchor": "and the approved-indication text was not available for any of them.",
    "history": [
     {
      "id": "us-lic-20261106-pegfilgrastim-1",
@@ -44592,6 +45065,34 @@
      "anchor": "All seven US biologics licenses for pegfilgrastim are valid, and the approved-indication text was not available for any of them.",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261106-pegfilgrastim-1",
+     "drug": "pegfilgrastim",
+     "file": "pegfilgrastim.md",
+     "action": "correct",
+     "claim": "Two further licenses, NYVEPRIA (BLA761111, Pfizer) and STIMUFEND (BLA761173, Northstar Rx), are also cancelled.",
+     "replacement": "",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 9 張，有效 9 張、停產 0 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；BLA761111、BLA761173 有效；整句刪（2026-11-06 逐句核對）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removed: \"Two further licenses, NYVEPRIA (BLA761111, Pfizer) and STIMUFEND (BLA761173, Northstar Rx), are also cancelled\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：89049662（2026-11-06）",
+     "anchor": "All seven US biologics licenses for pegfilgrastim are valid, and the approved-indication text was not available for any of them.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
    ]
   },
@@ -56961,9 +57462,9 @@
    "file": "sotalol.md",
    "action": "correct",
    "claim": "Two further cancelled ANDAs (Epic Pharma, Aphena Pharma Solutions) are not shown. All 7 licenses are oral tablets.",
-   "replacement": "Two further cancelled ANDAs (Epic Pharma, Aphena Pharma Solutions) are not shown.",
+   "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 21 張，有效 13 張、停產 8 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；句子只有張數說法（或主詞就是錯的張數），整句刪（2026-11-06 逐句核對）",
+   "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 21 張，有效 13 張、停產 8 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；句子只有張數說法（或主詞就是錯的張數），整句刪（2026-11-06 逐句核對）；2026-11-24 同 id 重發：講舊 AI 表沒列的 2 張；表已換成程式表；整句刪",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -56976,7 +57477,7 @@
      "accessed": "2026-11-06"
     }
    ],
-   "checked": "2026-11-06",
+   "checked": "2026-11-24",
    "summary": "Removed: \"All 7 licenses are oral tablets\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：6ae3e49c（2026-11-06）",
    "history": [
@@ -57006,8 +57507,36 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：6ae3e49c（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261106-sotalol-1",
+     "drug": "sotalol",
+     "file": "sotalol.md",
+     "action": "correct",
+     "claim": "Two further cancelled ANDAs (Epic Pharma, Aphena Pharma Solutions) are not shown. All 7 licenses are oral tablets.",
+     "replacement": "Two further cancelled ANDAs (Epic Pharma, Aphena Pharma Solutions) are not shown.",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 21 張，有效 13 張、停產 8 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；句子只有張數說法（或主詞就是錯的張數），整句刪（2026-11-06 逐句核對）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removed: \"All 7 licenses are oral tablets\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：6ae3e49c（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
-   ]
+   ],
+   "anchor": "## US Market Information"
   },
   {
    "id": "us-lic-20261106-sotalol-2",
@@ -61002,9 +61531,9 @@
    "file": "tiopronin.md",
    "action": "correct",
    "claim": "Two further licenses are not shown: ANDA216278 (Amneal, delayed-release tablet) and ANDA214326 (Teva, sugar-coated tablet). All 7 licenses are valid.",
-   "replacement": "Two further licenses are not shown: ANDA216278 (Amneal, delayed-release tablet) and ANDA214326 (Teva, sugar-coated tablet).",
+   "replacement": "",
    "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
-   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）；2026-11-24 同 id 重發：講舊 AI 表沒列的 2 張；表已換成程式表；整句刪",
    "sources": [
     {
      "title": "openFDA Drugs@FDA",
@@ -61017,7 +61546,7 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "Removed: \"All 7 licenses are valid\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
    "history": [
@@ -61047,8 +61576,36 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明文字不再寫當日張數（會過期），改成指向概覽表與程式許可證表；更正的事實內容不變"
+    },
+    {
+     "id": "us-lic-20261105-tiopronin-1",
+     "drug": "tiopronin",
+     "file": "tiopronin.md",
+     "action": "correct",
+     "claim": "Two further licenses are not shown: ANDA216278 (Amneal, delayed-release tablet) and ANDA214326 (Teva, sugar-coated tablet). All 7 licenses are valid.",
+     "replacement": "Two further licenses are not shown: ANDA216278 (Amneal, delayed-release tablet) and ANDA214326 (Teva, sugar-coated tablet).",
+     "note": "Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-05"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "Removed: \"All 7 licenses are valid\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9f0285b5（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表取代 AI 許可證表、正文張數改由程式維護後，更正文字裡的張數／舊表說法過期（2026-11-24 用戶第二輪決定）"
     }
-   ]
+   ],
+   "anchor": "## US Market Information"
   },
   {
    "id": "us-lic-20261031-tipranavir-1",
@@ -88236,6 +88793,2271 @@
    "summary": "Removed: \"Both US products are also cancelled\"",
    "method": "2026-11-24 人工查核（正文許可證狀態對事實層，寬偵測）",
    "anchor": "Stannous fluoride is a topical dental agent, and systemic activity against *Neisseria meningitidis* is not supported by any available data."
+  },
+  {
+   "id": "us-lic-20261124b-acetylcysteine-1",
+   "drug": "acetylcysteine",
+   "file": "acetylcysteine.md",
+   "action": "correct",
+   "claim": "The data compiled for this report records 14 US licences for single-ingredient acetylcysteine, in inhalant, solution and injection forms.",
+   "replacement": "The data compiled for this report record US licences for single-ingredient acetylcysteine, in inhalant, solution and injection forms.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 FDA 申請 34 張（有效 18），正文寫 14 張；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The data compiled for this report records 14 US licences for single-ingredient acetylcysteine, in inhalant, solution and\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-acyclovir-1",
+   "drug": "acyclovir",
+   "file": "acyclovir.md",
+   "action": "correct",
+   "claim": "Several records in the data are for valacyclovir products, and only the acyclovir-named records are listed above.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "證據包 100 筆沒有 valacyclovir 產品；句子講的是舊 AI 表，換成程式表後不成立；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Several records in the data are for valacyclovir products, and only the acyclovir-named records are listed above.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-adenine-1",
+   "drug": "adenine",
+   "file": "adenine.md",
+   "action": "correct",
+   "claim": "The one licence on record is for a single-ingredient product made by Professional Complementary Health Formulas.",
+   "replacement": "",
+   "note": "Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "本藥沒有 FDA 申請號，證據包是 23 筆 NDC 列名產品（無 FDA 申請）；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"The one licence on record is for a single-ingredient product made by Professional Complementary Health Formulas.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-adenosine-1",
+   "drug": "adenosine",
+   "file": "adenosine.md",
+   "action": "correct",
+   "claim": "The data compiled for this report list 8 US records (ANDA generic injectables and one cosmetic cream record).",
+   "replacement": "The data compiled for this report list FDA applications (mostly generic ANDA injectables) and NDC listings without an FDA application (mostly creams and liquids).",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 FDA 申請 23 張＋NDC 列名 74 筆，正文寫 8 筆、乳膏 1 筆；改成不寫張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The data compiled for this report list 8 US records (ANDA generic injectables and one cosmetic cream record).\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-aluminum_oxide-1",
+   "drug": "aluminum_oxide",
+   "file": "aluminum_oxide.md",
+   "action": "correct",
+   "claim": "Valid licences are present, so the drug is shown as marketed.",
+   "replacement": "NDC listings without an FDA application are present, so the drug is shown as marketed.",
+   "note": "Corrected: the status statement did not match the FDA data (Drugs@FDA and the NDC Directory); see the Quick Overview and the table under US Market Information.",
+   "finding": "本藥沒有 FDA 申請號（事實層 total 0），上市狀態來自 86 筆 NDC 列名；改正前提（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"Valid licences are present, so the drug is shown as marketed.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-ambrisentan-1",
+   "drug": "ambrisentan",
+   "file": "ambrisentan.md",
+   "action": "correct",
+   "claim": "All 9 are for single-ingredient oral film-coated tablets.",
+   "replacement": "All are for single-ingredient oral film-coated tablets.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 10 張、單方 10 張、全為口服錠；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"All 9 are for single-ingredient oral film-coated tablets.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-ammonia-1",
+   "drug": "ammonia",
+   "file": "ammonia.md",
+   "action": "correct",
+   "claim": "Both listed licences are single-ingredient products.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "本藥沒有 FDA 申請號，證據包是 NDC 列名產品（20 筆以上）；句子講舊 AI 表的 2 筆；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Both listed licences are single-ingredient products.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-ammonia_n-13-1",
+   "drug": "ammonia_n-13",
+   "file": "ammonia_n-13.md",
+   "action": "correct",
+   "claim": "The local records list 20 US licences for single-ingredient Ammonia N-13 injection products (injection and injection solution), all held by academic or radiopharmacy manufacturers.",
+   "replacement": "The local records list US licences for single-ingredient Ammonia N-13 injection products (injection and injection solution), all held by academic or radiopharmacy manufacturers.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 31 張，正文寫 20 張；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The local records list 20 US licences for single-ingredient Ammonia N-13 injection products (injection and injection sol\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-ammonium_chloride-1",
+   "drug": "ammonium_chloride",
+   "file": "ammonium_chloride.md",
+   "action": "correct",
+   "claim": "The list may be partial, and all three are single-ingredient products.",
+   "replacement": "",
+   "note": "Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 FDA 申請 5 張＋NDC 列名 20 筆以上，正文說「三張」；講舊 AI 表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"The list may be partial, and all three are single-ingredient products.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-ampicillin-1",
+   "drug": "ampicillin",
+   "file": "ampicillin.md",
+   "action": "correct",
+   "claim": "The data compiled for this report lists 10 US authorizations for single-ingredient ampicillin (ANDA records, injectable powder for solution and one powder for solution).",
+   "replacement": "The data compiled for this report list US authorizations for single-ingredient ampicillin (ANDA records, injectable powder for solution and one powder for solution).",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 57 張，正文寫 10 張；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The data compiled for this report lists 10 US authorizations for single-ingredient ampicillin (ANDA records, injectable \"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-apixaban-1",
+   "drug": "apixaban",
+   "file": "apixaban.md",
+   "action": "correct",
+   "claim": "Of the 5 licences listed, 3 are valid and 2 are cancelled.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表 5 筆的狀態；程式表依有效在前排序，前 5 列跟舊表不同；事實層 17 張中有效 6 張；整句刪（待查清單 11-24）（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Of the 5 licences listed, 3 are valid and 2 are cancelled.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-apomorphine-1",
+   "drug": "apomorphine",
+   "file": "apomorphine.md",
+   "action": "correct",
+   "claim": "All are injectable products.",
+   "replacement": "Most are injectable products.",
+   "note": "Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information.",
+   "finding": "證據包 FDA 申請 4 張：皮下注射 3 張、舌下膜劑 1 張（film; sublingual），「全部注射劑」不成立（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"All are injectable products.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-aripiprazole-1",
+   "drug": "aripiprazole",
+   "file": "aripiprazole.md",
+   "action": "correct",
+   "claim": "Six further generic tablet ANDAs are also listed as cancelled.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表以外的「另外 6 張」；表已換成程式表（本藥 46 張中停產 15 張）；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Six further generic tablet ANDAs are also listed as cancelled.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-atracurium_besylate-1",
+   "drug": "atracurium_besylate",
+   "file": "atracurium_besylate.md",
+   "action": "correct",
+   "claim": "The compiled licence records list six single-ingredient ANDA injection (solution) products from AuroMedics Pharma LLC, Meitheal Pharmaceuticals Inc. and Hospira, Inc.",
+   "replacement": "The compiled licence records list single-ingredient injection (solution) products from several manufacturers, such as AuroMedics Pharma LLC, Meitheal Pharmaceuticals Inc. and Hospira, Inc.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 23 張（ANDA 與 NDA，持有人 11 家），正文寫 6 張 ANDA、3 家；拿掉張數與全稱（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The compiled licence records list six single-ingredient ANDA injection (solution) products from AuroMedics Pharma LLC, M\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-baclofen-1",
+   "drug": "baclofen",
+   "file": "baclofen.md",
+   "action": "correct",
+   "claim": "They cover oral tablets and one injection product,",
+   "replacement": "They include oral tablets and intrathecal injection products,",
+   "note": "Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information.",
+   "finding": "證據包 52 張：口服錠 36、鞘內注射 10 張，「一個注射產品」不成立（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"They cover oral tablets and one injection product,\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-benzoyl_peroxide-1",
+   "drug": "benzoyl_peroxide",
+   "file": "benzoyl_peroxide.md",
+   "action": "correct",
+   "claim": "Market status is \"Marketed\", with 2 licences in the local records.",
+   "replacement": "Market status is \"Marketed\".",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 FDA 申請 41 張，正文寫 2 張；拿掉張數（待查清單 11-24）（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"Market status is \"Marketed\", with 2 licences in the local records.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-benzphetamine-1",
+   "drug": "benzphetamine",
+   "file": "benzphetamine.md",
+   "action": "correct",
+   "claim": "Both are single-ingredient oral products.",
+   "replacement": "All are single-ingredient oral products.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 10 張、單方 10 張、全為口服錠；「兩張」改成全稱（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"Both are single-ingredient oral products.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-binetrakin-1",
+   "drug": "binetrakin",
+   "file": "binetrakin.md",
+   "action": "correct",
+   "claim": "The local record lists one licence, and its number and indication text are not recorded.",
+   "replacement": "",
+   "note": "Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "本藥沒有 FDA 申請號，證據包是 3 筆 NDC 列名產品（程式表列出 NDC 號）；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"The local record lists one licence, and its number and indication text are not recorded.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-brivaracetam-1",
+   "drug": "brivaracetam",
+   "file": "brivaracetam.md",
+   "action": "correct",
+   "claim": "According to the data compiled for this report, 10 US licence records exist for brivaracetam (brand and generic), covering oral tablets, oral solutions and an injection.",
+   "replacement": "According to the data compiled for this report, US licence records exist for brivaracetam (brand and generic), covering oral tablets, oral solutions and injections.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 23 張（注射液 5 張），正文寫 10 張、一個注射劑；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"According to the data compiled for this report, 10 US licence records exist for brivaracetam (brand and generic), coveri\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-buprenorphine-1",
+   "drug": "buprenorphine",
+   "file": "buprenorphine.md",
+   "action": "correct",
+   "claim": "Six further generic authorizations (tablets and patches) are also cancelled.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表以外的「另外 6 張」；表已換成程式表（本藥 53 張中停產 12 張）；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Six further generic authorizations (tablets and patches) are also cancelled.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-caffeine-1",
+   "drug": "caffeine",
+   "file": "caffeine.md",
+   "action": "correct",
+   "claim": "Three further cancelled records (M011 Stay Awake, 505G(a)(3) Stay Awake, and the Caffeinum pellet) are not listed here.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表沒列的 3 筆；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Three further cancelled records (M011 Stay Awake, 505G(a)(3) Stay Awake, and the Caffeinum pellet) are not listed here.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-calcitriol-1",
+   "drug": "calcitriol",
+   "file": "calcitriol.md",
+   "action": "correct",
+   "claim": "The local records list 10 single-ingredient licences, in oral capsule, ointment, solution and injection forms.",
+   "replacement": "The local records list single-ingredient licences in oral capsule, ointment, solution and injection forms.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 23 張，正文寫 10 張；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The local records list 10 single-ingredient licences, in oral capsule, ointment, solution and injection forms.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-canakinumab-1",
+   "drug": "canakinumab",
+   "file": "canakinumab.md",
+   "action": "correct",
+   "claim": "The local records list two licences. Both are single-ingredient products.",
+   "replacement": "The local records list the FDA biologics licence for ILARIS (BLA125319); the other entries are NDC listings of unapproved homeopathic products without an FDA application.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 FDA 申請 1 張（BLA125319 ILARIS）＋NDC 列名 5 筆（Guna 順勢療法產品）；「兩張、都是單方」不成立（待查清單 11-24）（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The local records list two licences. Both are single-ingredient products.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-carisoprodol-1",
+   "drug": "carisoprodol",
+   "file": "carisoprodol.md",
+   "action": "correct",
+   "claim": "Carisoprodol has six single-ingredient US licence records in the data compiled for this report",
+   "replacement": "Carisoprodol has single-ingredient US licence records in the data compiled for this report",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 36 張，正文寫 6 張；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"Carisoprodol has six single-ingredient US licence records in the data compiled for this report\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-cefazolin-1",
+   "drug": "cefazolin",
+   "file": "cefazolin.md",
+   "action": "correct",
+   "claim": "Eleven US authorizations are recorded for single-ingredient cefazolin products, all injectable or solution forms.",
+   "replacement": "US authorizations are recorded for single-ingredient cefazolin products, all injectable or solution forms.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 41 張，正文寫 11 張；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"Eleven US authorizations are recorded for single-ingredient cefazolin products, all injectable or solution forms.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-cefprozil-1",
+   "drug": "cefprozil",
+   "file": "cefprozil.md",
+   "action": "correct",
+   "claim": "with six single-ingredient generic (ANDA) records in oral tablet and powder-for-suspension forms.",
+   "replacement": "with single-ingredient generic (ANDA) records in oral tablet and powder-for-suspension forms.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 18 張，正文寫 6 張；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"with six single-ingredient generic (ANDA) records in oral tablet and powder-for-suspension forms.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-celecoxib-1",
+   "drug": "celecoxib",
+   "file": "celecoxib.md",
+   "action": "correct",
+   "claim": "The licences are for oral capsules.",
+   "replacement": "Most licences are for oral capsules.",
+   "note": "Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information.",
+   "finding": "證據包 32 張：口服膠囊 28 張，另有錠劑 2 張（CONSENSI、SEGLENTIS）、口服懸液 1、口服溶液 1；「全部膠囊」不成立（派工點名）（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The licences are for oral capsules.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-chlorpromazine-1",
+   "drug": "chlorpromazine",
+   "file": "chlorpromazine.md",
+   "action": "correct",
+   "claim": "The data compiled for this report list 11 US generic (ANDA) records for single-ingredient chlorpromazine.",
+   "replacement": "The data compiled for this report list US generic (ANDA) records for single-ingredient chlorpromazine.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 84 張，正文寫 11 張；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The data compiled for this report list 11 US generic (ANDA) records for single-ingredient chlorpromazine.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-cidofovir-1",
+   "drug": "cidofovir",
+   "file": "cidofovir.md",
+   "action": "correct",
+   "claim": "The compiled data lists two single-ingredient injectable solution products (ANDA202501 and ANDA201276, from Avet Pharmaceuticals and Mylan Institutional). No approved indication text is recorded for either,",
+   "replacement": "The compiled data list single-ingredient injectable solution products, including ANDA202501 and ANDA201276 (from Avet Pharmaceuticals and Mylan Institutional). No approved indication text is recorded for any of them,",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 3 張：ANDA202501、ANDA201276 有效，NDA020638（Vistide，Gilead）停產；正文只講兩張（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The compiled data lists two single-ingredient injectable solution products (ANDA202501 and ANDA201276, from Avet Pharmac\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-citalopram-1",
+   "drug": "citalopram",
+   "file": "citalopram.md",
+   "action": "correct",
+   "claim": "The licence records also include escitalopram products, which are not listed here.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "證據包 37 張沒有 escitalopram 產品；講舊 AI 表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"The licence records also include escitalopram products, which are not listed here.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-cyanocobalamin-1",
+   "drug": "cyanocobalamin",
+   "file": "cyanocobalamin.md",
+   "action": "correct",
+   "claim": "Six further ANDAs (all cancelled) cover injectable forms from other manufacturers.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表以外的「另外 6 張」；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Six further ANDAs (all cancelled) cover injectable forms from other manufacturers.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-dasatinib-1",
+   "drug": "dasatinib",
+   "file": "dasatinib.md",
+   "action": "correct",
+   "claim": "all eight licenses are listed as valid in the data compiled for this report.",
+   "replacement": "all of its licenses are listed as valid in the data compiled for this report.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 13 張全部有效，正文寫 8 張；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"all eight licenses are listed as valid in the data compiled for this report.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-deanol-1",
+   "drug": "deanol",
+   "file": "deanol.md",
+   "action": "correct",
+   "claim": "The only authorization is a single-ingredient product (manufacturer: Professional Complementary Health Formulas), and it is currently valid.",
+   "replacement": "The only product on record is an NDC listing without an FDA application (unapproved homeopathic; manufacturer: Professional Complementary Health Formulas).",
+   "note": "Corrected: the status statement did not match the FDA data (Drugs@FDA and the NDC Directory); see the Quick Overview and the table under US Market Information.",
+   "finding": "本藥沒有 FDA 申請號；證據包唯一一筆是 NDC 列名的未核准順勢療法產品（DMAE 1549），不是有效的 FDA 核准（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The only authorization is a single-ingredient product (manufacturer: Professional Complementary Health Formulas), and it\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-desloratadine-1",
+   "drug": "desloratadine",
+   "file": "desloratadine.md",
+   "action": "correct",
+   "claim": "A sixth license, ANDA202936 (Desloratadine Oral Solution, INA Pharmaceutics), is also listed.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表的「第六張」；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"A sixth license, ANDA202936 (Desloratadine Oral Solution, INA Pharmaceutics), is also listed.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-dexamethasone-1",
+   "drug": "dexamethasone",
+   "file": "dexamethasone.md",
+   "action": "correct",
+   "claim": "The five shown below are examples, and approved-indication text is not recorded in the local data.",
+   "replacement": "Approved-indication text is not recorded in the local data.",
+   "note": "Corrected: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表的 5 筆；只拿掉顯示筆數的子句（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The five shown below are examples, and approved-indication text is not recorded in the local data.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-dexamethasone-2",
+   "drug": "dexamethasone",
+   "file": "dexamethasone.md",
+   "action": "correct",
+   "claim": "No topical product is listed.",
+   "replacement": "",
+   "note": "Removed: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information.",
+   "finding": "證據包有眼用／耳用懸液與軟膏等局部用產品；講舊 AI 表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"No topical product is listed.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-dexmedetomidine-1",
+   "drug": "dexmedetomidine",
+   "file": "dexmedetomidine.md",
+   "action": "correct",
+   "claim": "All products are injectables (injection, injection solution, and injection solution concentrate).",
+   "replacement": "Nearly all products are injectables (injection, injection solution, and injection solution concentrate); a buccal/sublingual film is also on record.",
+   "note": "Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information.",
+   "finding": "證據包 36 張：注射劑 35 張，另有 1 張頰／舌下膜劑（film; buccal, sublingual）；「全部注射劑」不成立（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"All products are injectables (injection, injection solution, and injection solution concentrate).\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-dexmethylphenidate-1",
+   "drug": "dexmethylphenidate",
+   "file": "dexmethylphenidate.md",
+   "action": "correct",
+   "claim": "Four further authorizations (extended-release capsule from Par Health; tablets from Bryant Ranch Prepack, Lupin and Sun Pharmaceutical) are also cancelled.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表以外的「另外 4 張」；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Four further authorizations (extended-release capsule from Par Health; tablets from Bryant Ranch Prepack, Lupin and Sun \"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-diazoxide-1",
+   "drug": "diazoxide",
+   "file": "diazoxide.md",
+   "action": "correct",
+   "claim": "Only an oral suspension is on record.",
+   "replacement": "Oral suspension, capsule and injectable products are on record.",
+   "note": "Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information.",
+   "finding": "證據包 7 張：口服懸液 3、注射劑 3、膠囊 1；「只有口服懸液」不成立（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"Only an oral suspension is on record.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-doxycycline-1",
+   "drug": "doxycycline",
+   "file": "doxycycline.md",
+   "action": "correct",
+   "claim": "All products are oral (tablets and capsules).",
+   "replacement": "Most products are oral (tablets and capsules); injectable products are also on record.",
+   "note": "Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information.",
+   "finding": "證據包 146 張：注射劑 21 張；「全部口服」不成立（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"All products are oral (tablets and capsules).\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-enoxaparin-1",
+   "drug": "enoxaparin",
+   "file": "enoxaparin.md",
+   "action": "correct",
+   "claim": "Two further ANDAs (ANDA214646, ANDA206834) are also on record.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表以外的「另外 2 張」；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Two further ANDAs (ANDA214646, ANDA206834) are also on record.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-ephedrine-1",
+   "drug": "ephedrine",
+   "file": "ephedrine.md",
+   "action": "correct",
+   "claim": "Only one is an oral tablet, and none is a nasal formulation.",
+   "replacement": "",
+   "note": "Removed: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information.",
+   "finding": "本藥 FDA 申請 24 張全是靜脈注射液，口服錠是 NDC 列名產品（5 筆）；講舊 AI 表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Only one is an oral tablet, and none is a nasal formulation.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-ergocalciferol-1",
+   "drug": "ergocalciferol",
+   "file": "ergocalciferol.md",
+   "action": "correct",
+   "claim": "All five listed licences are single-ingredient products with valid status.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表 5 筆；事實層 23 張中有效 5 張；整句刪（待查清單 11-24）（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"All five listed licences are single-ingredient products with valid status.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-ergocalciferol-2",
+   "drug": "ergocalciferol",
+   "file": "ergocalciferol.md",
+   "action": "correct",
+   "claim": "All listed forms are oral.",
+   "replacement": "",
+   "note": "Removed: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information.",
+   "finding": "證據包有注射劑 8 張與靜脈用粉劑；「全部口服」不成立；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"All listed forms are oral.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-fluorouracil-1",
+   "drug": "fluorouracil",
+   "file": "fluorouracil.md",
+   "action": "correct",
+   "claim": "Seven further cancelled ANDAs exist (injection, solution, cream and topical solution forms).",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表以外的「另外 7 張」；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Seven further cancelled ANDAs exist (injection, solution, cream and topical solution forms).\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-goserelin-1",
+   "drug": "goserelin",
+   "file": "goserelin.md",
+   "action": "correct",
+   "claim": "Both authorizations are listed as valid; the drug is currently marketed.",
+   "replacement": "All authorizations are listed as valid; the drug is currently marketed.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 3 張全部有效，正文寫「兩張」（待查清單 11-24）（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"Both authorizations are listed as valid; the drug is currently marketed.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-goserelin-2",
+   "drug": "goserelin",
+   "file": "goserelin.md",
+   "action": "correct",
+   "claim": "Both US licences are valid, but the key safety documents are missing.",
+   "replacement": "All US licences are valid, but the key safety documents are missing.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 3 張全部有效，正文寫「兩張」（待查清單 11-24）（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"Both US licences are valid, but the key safety documents are missing.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-hydroxyprogesterone_caproate-1",
+   "drug": "hydroxyprogesterone_caproate",
+   "file": "hydroxyprogesterone_caproate.md",
+   "action": "correct",
+   "claim": "The drug currently has no valid US licence. The only licence on record is cancelled.",
+   "replacement": "The drug currently has no valid US licence. All licences on record are cancelled.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 8 張全部停產，正文寫「唯一一張」（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The drug currently has no valid US licence. The only licence on record is cancelled.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-hydroxyprogesterone_caproate-2",
+   "drug": "hydroxyprogesterone_caproate",
+   "file": "hydroxyprogesterone_caproate.md",
+   "action": "correct",
+   "claim": "so the evidence level is L5. The only licence on record is cancelled.",
+   "replacement": "so the evidence level is L5. All licences on record are cancelled.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 8 張全部停產，正文寫「唯一一張」（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"so the evidence level is L5. The only licence on record is cancelled.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-icosapent_ethyl-1",
+   "drug": "icosapent_ethyl",
+   "file": "icosapent_ethyl.md",
+   "action": "correct",
+   "claim": "All 10 authorizations below are listed as valid.",
+   "replacement": "All authorizations are listed as valid.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 13 張全部有效，正文寫 10 張；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"All 10 authorizations below are listed as valid.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-labetalol-1",
+   "drug": "labetalol",
+   "file": "labetalol.md",
+   "action": "correct",
+   "claim": "Four more authorizations (oral tablets and injections) are also cancelled.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表以外的「另外 4 張」；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Four more authorizations (oral tablets and injections) are also cancelled.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-lacosamide-1",
+   "drug": "lacosamide",
+   "file": "lacosamide.md",
+   "action": "correct",
+   "claim": "Available dosage forms across all licenses: oral tablets (plain and film-coated), oral solution, and injection.",
+   "replacement": "Available dosage forms across all licenses: oral tablets (plain and film-coated), oral solution, extended-release oral capsules, and injection.",
+   "note": "Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information.",
+   "finding": "證據包另有口服緩釋膠囊（capsule, extended release; oral）1 張（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"Available dosage forms across all licenses: oral tablets (plain and film-coated), oral solution, and injection.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-mannitol-1",
+   "drug": "mannitol",
+   "file": "mannitol.md",
+   "action": "correct",
+   "claim": "Two further cancelled authorizations are not shown: QR PAIN (cream) and Sorbitol-Mannitol (irrigant).",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表沒列的 2 筆；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Two further cancelled authorizations are not shown: QR PAIN (cream) and Sorbitol-Mannitol (irrigant).\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-methylene_blue-1",
+   "drug": "methylene_blue",
+   "file": "methylene_blue.md",
+   "action": "correct",
+   "claim": "All 10 US authorizations are listed as valid,",
+   "replacement": "All US authorizations are listed as valid,",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 FDA 申請 8 張全部有效，正文寫 10 張；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"All 10 US authorizations are listed as valid,\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-nitrous_oxide-1",
+   "drug": "nitrous_oxide",
+   "file": "nitrous_oxide.md",
+   "action": "correct",
+   "claim": "All three listed authorizations are valid,",
+   "replacement": "All listed authorizations are valid,",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 7 張全部有效，正文寫 3 張；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"All three listed authorizations are valid,\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-palonosetron-1",
+   "drug": "palonosetron",
+   "file": "palonosetron.md",
+   "action": "correct",
+   "claim": "Only injectable forms are listed.",
+   "replacement": "",
+   "note": "Removed: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information.",
+   "finding": "證據包另有口服膠囊 2 張；「只有注射劑」不成立；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Only injectable forms are listed.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-pegfilgrastim-1",
+   "drug": "pegfilgrastim",
+   "file": "pegfilgrastim.md",
+   "action": "correct",
+   "claim": "All seven US biologics licenses for pegfilgrastim are valid,",
+   "replacement": "All US biologics licenses for pegfilgrastim are valid,",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 9 張全部有效，正文寫 7 張；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"All seven US biologics licenses for pegfilgrastim are valid,\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-prednisolone-1",
+   "drug": "prednisolone",
+   "file": "prednisolone.md",
+   "action": "correct",
+   "claim": "Note that some listed licenses are for methylprednisolone products (e.g., SOLU-MEDROL), which are a related but different drug.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "證據包 134 張沒有 methylprednisolone 產品；講舊 AI 表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Note that some listed licenses are for methylprednisolone products (e.g., SOLU-MEDROL), which are a related but differen\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-prochlorperazine-1",
+   "drug": "prochlorperazine",
+   "file": "prochlorperazine.md",
+   "action": "correct",
+   "claim": "Six further cancelled ANDAs exist (tablets, film-coated tablets and an injection) from other manufacturers.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表以外的「另外 6 張」；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Six further cancelled ANDAs exist (tablets, film-coated tablets and an injection) from other manufacturers.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-propafenone-1",
+   "drug": "propafenone",
+   "file": "propafenone.md",
+   "action": "correct",
+   "claim": "Four further cancelled ANDAs (Northstar, Strides, Rising, Bryant Ranch Prepack) are not listed.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表沒列的 4 張；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Four further cancelled ANDAs (Northstar, Strides, Rising, Bryant Ranch Prepack) are not listed.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-scopolamine-1",
+   "drug": "scopolamine",
+   "file": "scopolamine.md",
+   "action": "correct",
+   "claim": "The nine US license records for scopolamine are all valid.",
+   "replacement": "The US license records for scopolamine are all valid.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 FDA 申請 8 張全部有效，正文寫 9 張；拿掉張數（待查清單 11-24）（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The nine US license records for scopolamine are all valid.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-sevoflurane-1",
+   "drug": "sevoflurane",
+   "file": "sevoflurane.md",
+   "action": "correct",
+   "claim": "One further authorization (ANDA214382, Lannett Company, Inc.) is also valid.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表以外的「另外 1 張」；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"One further authorization (ANDA214382, Lannett Company, Inc.) is also valid.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-sofosbuvir-1",
+   "drug": "sofosbuvir",
+   "file": "sofosbuvir.md",
+   "action": "correct",
+   "claim": "Two further licences are not listed here: NDA212477 (Harvoni, pellet) and NDA209195 (Vosevi, tablet, film coated).",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表沒列的 2 張；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Two further licences are not listed here: NDA212477 (Harvoni, pellet) and NDA209195 (Vosevi, tablet, film coated).\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-temozolomide-1",
+   "drug": "temozolomide",
+   "file": "temozolomide.md",
+   "action": "correct",
+   "claim": "All are single-ingredient oral capsules.",
+   "replacement": "Nearly all are single-ingredient oral capsules; an intravenous powder is also on record.",
+   "note": "Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information.",
+   "finding": "證據包 18 張：口服膠囊 17、靜脈用粉劑 1；「全部膠囊」不成立（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"All are single-ingredient oral capsules.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-tocilizumab-1",
+   "drug": "tocilizumab",
+   "file": "tocilizumab.md",
+   "action": "correct",
+   "claim": "A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also listed.",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表的「第六張」；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also listed.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-trastuzumab-1",
+   "drug": "trastuzumab",
+   "file": "trastuzumab.md",
+   "action": "correct",
+   "claim": "Four further listings are not shown: HERZUMA (BLA761091), OGIVRI (BLA761074), HERCESSI (BLA761346) and Ontruzant (BLA761100).",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表沒列的 4 張；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Four further listings are not shown: HERZUMA (BLA761091), OGIVRI (BLA761074), HERCESSI (BLA761346) and Ontruzant (BLA761\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-tretinoin-1",
+   "drug": "tretinoin",
+   "file": "tretinoin.md",
+   "action": "correct",
+   "claim": "All listed products are topical (gel, cream, lotion).",
+   "replacement": "",
+   "note": "Removed: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information.",
+   "finding": "證據包另有口服膠囊 4 張；「全部外用」不成立；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"All listed products are topical (gel, cream, lotion).\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-undecylenic_acid-1",
+   "drug": "undecylenic_acid",
+   "file": "undecylenic_acid.md",
+   "action": "correct",
+   "claim": "All three are single-ingredient products.",
+   "replacement": "",
+   "note": "Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "本藥沒有 FDA 申請號，證據包是 NDC 列名產品（20 筆以上）；講舊 AI 表 3 筆；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"All three are single-ingredient products.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-anastrozole-1",
+   "drug": "anastrozole",
+   "file": "anastrozole.md",
+   "action": "correct",
+   "claim": "The list may be partial; further records exist beyond those shown (NDA020541, ARIMIDEX, is also on file).",
+   "replacement": "",
+   "note": "Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表沒列的申請號；表已換成程式表；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"The list may be partial; further records exist beyond those shown (NDA020541, ARIMIDEX, is also on file).\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-clozapine-1",
+   "drug": "clozapine",
+   "file": "clozapine.md",
+   "action": "correct",
+   "claim": "The list below may be partial, and the local records carry no approved-indication text.",
+   "replacement": "The local records carry no approved-indication text.",
+   "note": "Corrected: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory).",
+   "finding": "講舊 AI 表的「清單可能不完整」；只拿掉這個子句（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The list below may be partial, and the local records carry no approved-indication text.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-hydroxyprogesterone_caproate-3",
+   "drug": "hydroxyprogesterone_caproate",
+   "file": "hydroxyprogesterone_caproate.md",
+   "action": "correct",
+   "claim": "since the only licence is cancelled",
+   "replacement": "since all licences on record are cancelled",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 8 張全部停產，待辦條目的前提寫「唯一一張」；只改前提，建議內容不動（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"since the only licence is cancelled\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-hyoscyamine-1",
+   "drug": "hyoscyamine",
+   "file": "hyoscyamine.md",
+   "action": "correct",
+   "claim": "the only US authorization on record is cancelled,",
+   "replacement": "no FDA-approved application is on record (only NDC listings without an FDA application),",
+   "note": "Corrected: the status statement did not match the FDA data (Drugs@FDA and the NDC Directory); see the Quick Overview and the table under US Market Information.",
+   "finding": "本藥沒有 FDA 申請號（事實層 total 0），證據包是 20 筆 NDC 列名產品（未核准）；「唯一一張已註銷」不成立（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"the only US authorization on record is cancelled,\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-povidone-1",
+   "drug": "povidone",
+   "file": "povidone.md",
+   "action": "correct",
+   "claim": "The only US authorization on record is cancelled, and",
+   "replacement": "No FDA application is on record (only NDC listings without an FDA application), and",
+   "note": "Corrected: the status statement did not match the FDA data (Drugs@FDA and the NDC Directory); see the Quick Overview and the table under US Market Information.",
+   "finding": "本藥沒有 FDA 申請號（事實層 total 0），證據包是 NDC 列名產品；「唯一一張已註銷」不成立（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The only US authorization on record is cancelled, and\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-phenazopyridine-1",
+   "drug": "phenazopyridine",
+   "file": "phenazopyridine.md",
+   "action": "correct",
+   "claim": "The only US product record compiled for this report is a cancelled tablet, and it carries no stated indication text.",
+   "replacement": "The FDA applications compiled for this report are discontinued tablets (other products are NDC listings without an FDA application), and they carry no stated indication text.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 FDA 申請 3 張全部停產（口服錠），另有 20 筆 NDC 列名產品；「唯一一筆」不成立（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The only US product record compiled for this report is a cancelled tablet, and it carries no stated indication text.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-binetrakin-2",
+   "drug": "binetrakin",
+   "file": "binetrakin.md",
+   "action": "correct",
+   "claim": "The only product in the local records is a drop-form solution (GUNA-IL 4), which gives no further mechanistic insight.",
+   "replacement": "The products in the local records are NDC listings of homeopathic products (a drop-form solution, GUNA-IL 4, and pellets), which give no further mechanistic insight.",
+   "note": "Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information.",
+   "finding": "證據包是 3 筆 NDC 列名產品（滴劑 1、丸劑 2）；「唯一產品是滴劑」不成立（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The only product in the local records is a drop-form solution (GUNA-IL 4), which gives no further mechanistic insight.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-acetazolamide-1",
+   "drug": "acetazolamide",
+   "file": "acetazolamide.md",
+   "action": "correct",
+   "claim": "The data compiled for this report list 12 US licences, and the list may be partial.",
+   "replacement": "",
+   "note": "Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 43 張，正文寫 12 張；正文寫的張數（附「清單可能不完整」保留語）是舊證據包／舊 AI 表的筆數，跟事實層總數不符；表已換成程式表（表下有總筆數）；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"The data compiled for this report list 12 US licences, and the list may be partial.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-alprazolam-1",
+   "drug": "alprazolam",
+   "file": "alprazolam.md",
+   "action": "correct",
+   "claim": "Seven US licences are recorded, and the list may be partial.",
+   "replacement": "",
+   "note": "Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 40 張，正文寫 7 張；正文寫的張數（附「清單可能不完整」保留語）是舊證據包／舊 AI 表的筆數，跟事實層總數不符；表已換成程式表（表下有總筆數）；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Seven US licences are recorded, and the list may be partial.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-amphetamine-1",
+   "drug": "amphetamine",
+   "file": "amphetamine.md",
+   "action": "correct",
+   "claim": "Ten US records for single-ingredient amphetamine products are in the local data; the list may be partial.",
+   "replacement": "",
+   "note": "Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 70 張，正文寫 10 張；正文寫的張數（附「清單可能不完整」保留語）是舊證據包／舊 AI 表的筆數，跟事實層總數不符；表已換成程式表（表下有總筆數）；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Ten US records for single-ingredient amphetamine products are in the local data; the list may be partial.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-ascorbic_acid-1",
+   "drug": "ascorbic_acid",
+   "file": "ascorbic_acid.md",
+   "action": "correct",
+   "claim": "The licence records compiled for this report (8 records, which may be a partial list) carry no approved-indication text.",
+   "replacement": "The licence records compiled for this report carry no approved-indication text.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 23 張，正文寫 8 筆；正文寫的張數（附「清單可能不完整」保留語）是舊證據包／舊 AI 表的筆數，跟事實層總數不符；表已換成程式表（表下有總筆數）；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The licence records compiled for this report (8 records, which may be a partial list) carry no approved-indication text.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-atenolol-1",
+   "drug": "atenolol",
+   "file": "atenolol.md",
+   "action": "correct",
+   "claim": "Eight single-ingredient oral tablet authorizations are listed in total, and the list may be partial.",
+   "replacement": "",
+   "note": "Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 42 張（口服錠 41、注射 1），正文寫 8 張；正文寫的張數（附「清單可能不完整」保留語）是舊證據包／舊 AI 表的筆數，跟事實層總數不符；表已換成程式表（表下有總筆數）；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Eight single-ingredient oral tablet authorizations are listed in total, and the list may be partial.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-baclofen-2",
+   "drug": "baclofen",
+   "file": "baclofen.md",
+   "action": "correct",
+   "claim": "Baclofen has 11 ANDA records in the US data; the list may be partial.",
+   "replacement": "",
+   "note": "Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 52 張，正文寫 11 張；正文寫的張數（附「清單可能不完整」保留語）是舊證據包／舊 AI 表的筆數，跟事實層總數不符；表已換成程式表（表下有總筆數）；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Baclofen has 11 ANDA records in the US data; the list may be partial.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-bupivacaine-1",
+   "drug": "bupivacaine",
+   "file": "bupivacaine.md",
+   "action": "correct",
+   "claim": "The licence records compiled for this report list 13 single-ingredient injectable products (all in the form of injection solution, from several manufacturers), and the list may be partial.",
+   "replacement": "The licence records compiled for this report list single-ingredient injectable products from several manufacturers.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 52 張，正文寫 13 張「全部注射液」；另有脊髓、脂質體注射、植入劑等；正文寫的張數（附「清單可能不完整」保留語）是舊證據包／舊 AI 表的筆數，跟事實層總數不符；表已換成程式表（表下有總筆數）；拿掉張數與劑型全稱（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The licence records compiled for this report list 13 single-ingredient injectable products (all in the form of injection\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-celecoxib-2",
+   "drug": "celecoxib",
+   "file": "celecoxib.md",
+   "action": "correct",
+   "claim": "Twelve US licence records were compiled, and the list may be partial.",
+   "replacement": "",
+   "note": "Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 32 張，正文寫 12 張；正文寫的張數（附「清單可能不完整」保留語）是舊證據包／舊 AI 表的筆數，跟事實層總數不符；表已換成程式表（表下有總筆數）；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"Twelve US licence records were compiled, and the list may be partial.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-cimetidine-1",
+   "drug": "cimetidine",
+   "file": "cimetidine.md",
+   "action": "correct",
+   "claim": "Nine US authorizations are recorded for single-ingredient cimetidine products (the list may be partial).",
+   "replacement": "US authorizations are recorded for single-ingredient cimetidine products.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 57 張，正文寫 9 張；正文寫的張數（附「清單可能不完整」保留語）是舊證據包／舊 AI 表的筆數，跟事實層總數不符；表已換成程式表（表下有總筆數）；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"Nine US authorizations are recorded for single-ingredient cimetidine products (the list may be partial).\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-clarithromycin-1",
+   "drug": "clarithromycin",
+   "file": "clarithromycin.md",
+   "action": "correct",
+   "claim": "The local data list 7 ANDA records for single-ingredient clarithromycin products (the list may be partial).",
+   "replacement": "The local data list ANDA records for single-ingredient clarithromycin products.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 33 張，正文寫 7 張；正文寫的張數（附「清單可能不完整」保留語）是舊證據包／舊 AI 表的筆數，跟事實層總數不符；表已換成程式表（表下有總筆數）；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The local data list 7 ANDA records for single-ingredient clarithromycin products (the list may be partial).\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-clindamycin-1",
+   "drug": "clindamycin",
+   "file": "clindamycin.md",
+   "action": "correct",
+   "claim": "The US records compiled for this report list 14 licences, and the list may be partial.",
+   "replacement": "",
+   "note": "Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 141 張，正文寫 14 張；正文寫的張數（附「清單可能不完整」保留語）是舊證據包／舊 AI 表的筆數，跟事實層總數不符；表已換成程式表（表下有總筆數）；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"The US records compiled for this report list 14 licences, and the list may be partial.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
+  },
+  {
+   "id": "us-lic-20261124b-clobetasol_propionate-1",
+   "drug": "clobetasol_propionate",
+   "file": "clobetasol_propionate.md",
+   "action": "correct",
+   "claim": "The compiled data show 18 US licence records for single-ingredient clobetasol propionate products, and the list may be partial.",
+   "replacement": "The compiled data show US licence records for single-ingredient clobetasol propionate products.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 100 張，正文寫 18 張；正文寫的張數（附「清單可能不完整」保留語）是舊證據包／舊 AI 表的筆數，跟事實層總數不符；表已換成程式表（表下有總筆數）；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"The compiled data show 18 US licence records for single-ingredient clobetasol propionate products, and the list may be p\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-colchicine-1",
+   "drug": "colchicine",
+   "file": "colchicine.md",
+   "action": "correct",
+   "claim": "from multiple manufacturers (11 records in the data compiled for this report; the list may be partial).",
+   "replacement": "from multiple manufacturers.",
+   "note": "Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 34 張，正文寫 11 筆；正文寫的張數（附「清單可能不完整」保留語）是舊證據包／舊 AI 表的筆數，跟事實層總數不符；表已換成程式表（表下有總筆數）；拿掉張數（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Corrected: \"from multiple manufacturers (11 records in the data compiled for this report; the list may be partial).\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）"
+  },
+  {
+   "id": "us-lic-20261124b-theophylline-1",
+   "drug": "theophylline",
+   "file": "theophylline.md",
+   "action": "correct",
+   "claim": "The records compiled for this report list 13 ANDAs, and the list may be partial.",
+   "replacement": "",
+   "note": "Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "事實層 127 張，正文寫 13 張；正文寫的張數（附「清單可能不完整」保留語）是舊證據包／舊 AI 表的筆數，跟事實層總數不符；表已換成程式表（表下有總筆數）；整句刪（證據包 Release data-20261123-183708、快照事實層）",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "openFDA NDC Directory",
+     "url": "https://open.fda.gov/data/ndc/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"The records compiled for this report list 13 ANDAs, and the list may be partial.\"",
+   "method": "2026-11-24 人工查核（第二輪：市場段落換成程式許可證表後，逐句對照證據包全部紀錄與快照事實層）",
+   "anchor": "## US Market Information"
   }
  ]
 }

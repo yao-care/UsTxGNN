@@ -82,7 +82,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-The nine US license records for scopolamine are all valid. No approved indication text is available in these records.
+The US license records for scopolamine are all valid. No approved indication text is available in these records.
+
+<!-- review:begin us-lic-20261124b-scopolamine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The nine US license records for scopolamine are all valid." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-scopolamine-1 -->
 
 <!-- licenses:begin -->
 
@@ -143,6 +149,7 @@ Below is the review log for this page: statements checked against official FDA d
 |------|------|------|------|
 | 2026-11-06 | Removed: "All nine US licenses are valid, and t" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Transderm Scop (scopolamine) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b877a694-a1d0-4280-937a-a06820b12a88) |
+| 2026-11-24 | Corrected: "The nine US license records for scopolamine are all valid." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

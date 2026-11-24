@@ -70,7 +70,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-According to the data compiled for this report, 10 US licence records exist for brivaracetam (brand and generic), covering oral tablets, oral solutions and an injection. The list may be partial. No approved-indication text is recorded for these licences. The licence records show conflicting status information, so the status of individual licences should be verified against the current FDA listing.
+According to the data compiled for this report, US licence records exist for brivaracetam (brand and generic), covering oral tablets, oral solutions and injections. The list may be partial. No approved-indication text is recorded for these licences. The licence records show conflicting status information, so the status of individual licences should be verified against the current FDA listing.
+
+<!-- review:begin us-lic-20261124b-brivaracetam-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "According to the data compiled for this report, 10 US licence records exist for brivaracetam (brand and generic), covering oral tablets, oral solutions and an injection." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-brivaracetam-1 -->
 
 <!-- licenses:begin -->
 
@@ -111,11 +117,12 @@ The prediction score is high, but there are no clinical trials or publications o
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Briviact (brivaracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cf2f439-0e97-443e-8e33-25ecef616f6c) |
+| 2026-11-24 | Corrected: "According to the data compiled for this report, 10 US licence records exist for brivaracetam (brand and generic), coveri" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

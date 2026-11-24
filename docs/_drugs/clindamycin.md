@@ -79,7 +79,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-The US records compiled for this report list 14 licences, and the list may be partial. They cover oral capsules, granules for oral solution, injectable solutions, topical solutions, and topical creams. The records carry no approved-indication text. Main entries:
+<!-- review:begin us-lic-20261124b-clindamycin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The US records compiled for this report list 14 licences, and the list may be partial." Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-clindamycin-1 -->
+
+ They cover oral capsules, granules for oral solution, injectable solutions, topical solutions, and topical creams. The records carry no approved-indication text. Main entries:
 
 <!-- licenses:begin -->
 
@@ -129,11 +135,12 @@ The prediction has the highest score among the listed candidates but no supporti
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cleocin Hydrochloride (clindamycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df9a2a41-b132-4f43-8940-b2d773b1369a) |
+| 2026-11-24 | Removed: "The US records compiled for this report list 14 licences, and the list may be partial." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

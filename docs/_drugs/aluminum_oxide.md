@@ -95,7 +95,13 @@ Showing 5 of 86 entries (FDA applications first, active before discontinued; NDC
 
 <!-- licenses:end -->
 
-The single record in the local data is for a single-ingredient product in pellet form. Valid licences are present, so the drug is shown as marketed.
+The single record in the local data is for a single-ingredient product in pellet form. NDC listings without an FDA application are present, so the drug is shown as marketed.
+
+<!-- review:begin us-lic-20261124b-aluminum_oxide-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Valid licences are present, so the drug is shown as marketed." Corrected: the status statement did not match the FDA data (Drugs@FDA and the NDC Directory); see the Quick Overview and the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-aluminum_oxide-1 -->
 
 ---
 
@@ -116,6 +122,19 @@ The prediction rests on a model score alone. No clinical trial exists, the singl
 - Mechanism of action data and a plausible biological rationale for rheumatoid arthritis
 - Package insert warnings and contraindications for safety screening
 - Preclinical or clinical studies that directly examine aluminum oxide in rheumatoid arthritis
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Corrected: "Valid licences are present, so the drug is shown as marketed." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

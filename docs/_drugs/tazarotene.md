@@ -81,7 +81,7 @@ For reference, the second-ranked prediction, seborrheic keratosis, has two indir
 
 ## US Market Information
 
-The drug is marketed. Approved indication text was not available. Five main authorizations:
+The drug is marketed. Approved indication text was not available.
 
 <!-- review:begin us-lic-20261106-tazarotene-2 -->
 

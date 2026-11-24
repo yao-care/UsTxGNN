@@ -91,7 +91,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-The US market status is **Marketed**. The list may be partial. Approved-indication text is not recorded. Five representative licences:
+The US market status is **Marketed**. The list may be partial. Approved-indication text is not recorded.
 
 <!-- review:begin us-lic-20261106-diazepam-1 -->
 

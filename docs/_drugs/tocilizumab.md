@@ -98,6 +98,12 @@ The clinical record is less supportive. Two randomized placebo-controlled trials
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-tocilizumab-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also listed." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-tocilizumab-1 -->
+
 <!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
@@ -112,7 +118,7 @@ Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC 
 
 <!-- licenses:end -->
 
-A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also listed. The drug is marketed in this country.
+ The drug is marketed in this country.
 
 <!-- review:begin us-lic-20261106-tocilizumab-2 -->
 
@@ -166,6 +172,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "since all six BLAs show as cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "All six licenses are valid, and t" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Avtozma (tocilizumab) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=581c288f-8015-40ef-a4c3-683c96db193d) |
+| 2026-11-24 | Removed: "A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also listed." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

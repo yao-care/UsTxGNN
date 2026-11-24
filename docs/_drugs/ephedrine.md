@@ -77,13 +77,17 @@ Both publications are low-tier evidence. They involve combination products and d
 
 ## US Market Information
 
-The five main entries are shown below.
-
 <!-- review:begin us-lic-20261105-ephedrine-1 -->
 
-> **Review correction (2026-11-05)**: Originally stated: "All 14 licenses are valid, and no approved indication text is recorded for any of them. The five main entries are shown below." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-24)**: Originally stated: "All 14 licenses are valid, and no approved indication text is recorded for any of them. The five main entries are shown below." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261105-ephedrine-1 -->
+
+<!-- review:begin us-lic-20261124b-ephedrine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Only one is an oral tablet, and none is a nasal formulation." Removed: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-ephedrine-1 -->
 
 <!-- licenses:begin -->
 
@@ -99,7 +103,7 @@ Showing 5 of 29 entries (FDA applications first, active before discontinued; NDC
 
 <!-- licenses:end -->
 
-Most licenses are for injectable products. Only one is an oral tablet, and none is a nasal formulation. This is a route mismatch with the predicted nasal indication.
+Most licenses are for injectable products.  This is a route mismatch with the predicted nasal indication.
 
 ## Safety Considerations
 
@@ -136,9 +140,10 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-05 | Removed: "All 14 licenses are valid, and no approved indication text is recorded for any of them" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-24 | Removed: "All 14 licenses are valid, and no approved indication text is recorded for any of them" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 14 valid US licenses" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Emerphed Pfs (ephedrine sulfate) prescribing information, Nexus Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14601778-93ac-43ec-b66b-5a942317133f) |
+| 2026-11-24 | Removed: "Only one is an oral tablet, and none is a nasal formulation." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

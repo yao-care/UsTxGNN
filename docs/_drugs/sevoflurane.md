@@ -72,6 +72,12 @@ For context, the next-ranked predictions have only incidental literature. For ex
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-sevoflurane-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "One further authorization (ANDA214382, Lannett Company, Inc.) is also valid." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-sevoflurane-1 -->
+
 <!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
@@ -86,7 +92,7 @@ Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC 
 
 <!-- licenses:end -->
 
-One further authorization (ANDA214382, Lannett Company, Inc.) is also valid. All six authorizations are valid.
+ All six authorizations are valid.
 
 ## Safety Considerations
 
@@ -113,11 +119,12 @@ The prediction has a very high model score but no clinical trials and no support
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1200694 (sevoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200694) |
+| 2026-11-24 | Removed: "One further authorization (ANDA214382, Lannett Company, Inc.) is also valid." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

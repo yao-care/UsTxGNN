@@ -81,7 +81,13 @@ No retrieved study directly tests ampicillin for laryngitis. The table lists the
 
 ## US Market Information
 
-The data compiled for this report lists 10 US authorizations for single-ingredient ampicillin (ANDA records, injectable powder for solution and one powder for solution). The records carry no approved-indication text.
+The data compiled for this report list US authorizations for single-ingredient ampicillin (ANDA records, injectable powder for solution and one powder for solution). The records carry no approved-indication text.
+
+<!-- review:begin us-lic-20261124b-ampicillin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The data compiled for this report lists 10 US authorizations for single-ingredient ampicillin (ANDA records, injectable powder for solution and one powder for solution)." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-ampicillin-1 -->
 
 <!-- licenses:begin -->
 
@@ -121,11 +127,12 @@ The TxGNN score is high, but no cited study directly addresses laryngitis. The l
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1) |
+| 2026-11-24 | Corrected: "The data compiled for this report lists 10 US authorizations for single-ingredient ampicillin (ANDA records, injectable " | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

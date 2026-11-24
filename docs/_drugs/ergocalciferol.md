@@ -71,7 +71,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-The licence records do not include approved-indication text, so no label indication is cited here. All five listed licences are single-ingredient products with valid status.
+<!-- review:begin us-lic-20261124b-ergocalciferol-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All five listed licences are single-ingredient products with valid status." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-ergocalciferol-1 -->
+
+<!-- review:begin us-lic-20261124b-ergocalciferol-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All listed forms are oral." Removed: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-ergocalciferol-2 -->
+
+The licence records do not include approved-indication text, so no label indication is cited here. 
 
 <!-- licenses:begin -->
 
@@ -87,7 +99,7 @@ Showing 5 of 27 entries (FDA applications first, active before discontinued; NDC
 
 <!-- licenses:end -->
 
-All listed forms are oral. The total number of licences is "at least 5", so this list may be partial.
+ The total number of licences is "at least 5", so this list may be partial.
 
 ## Safety Considerations
 
@@ -117,11 +129,13 @@ The prediction rests only on a TxGNN model (deep learning) score. There are no t
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vitamin D (ergocalciferol) prescribing information, Preferred Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba2076ef-1650-45e1-b092-a4c449dd6210) |
+| 2026-11-24 | Removed: "All five listed licences are single-ingredient products with valid status." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-24 | Removed: "All listed forms are oral." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

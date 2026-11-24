@@ -81,6 +81,12 @@ These sources are old, indirect or anecdotal. The only recent report (2026) desc
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-fluorouracil-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Seven further cancelled ANDAs exist (injection, solution, cream and topical solution forms)." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-fluorouracil-1 -->
+
 Fluorouracil is marketed. The approved indication text was not available in the data compiled for this report.
 
 <!-- review:begin us-lic-20261106-fluorouracil-1 -->
@@ -103,7 +109,7 @@ Showing 5 of 52 entries (FDA applications first, active before discontinued; NDC
 
 <!-- licenses:end -->
 
-Seven further cancelled ANDAs exist (injection, solution, cream and topical solution forms). Fluorouracil has both injectable and topical (cream) formulations.
+ Fluorouracil has both injectable and topical (cream) formulations.
 
 ## Cytotoxicity
 
@@ -166,6 +172,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "with 12 valid licenses" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 12 valid US licenses" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b) |
+| 2026-11-24 | Removed: "Seven further cancelled ANDAs exist (injection, solution, cream and topical solution forms)." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

@@ -81,6 +81,12 @@ Cold urticaria is a histamine-mediated physical urticaria. Desloratadine is alre
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-desloratadine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "A sixth license, ANDA202936 (Desloratadine Oral Solution, INA Pharmaceutics), is also listed." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-desloratadine-1 -->
+
 <!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
@@ -94,8 +100,6 @@ Cold urticaria is a histamine-mediated physical urticaria. Desloratadine is alre
 Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
-
-A sixth license, ANDA202936 (Desloratadine Oral Solution, INA Pharmaceutics), is also listed.
 
 ## Safety Considerations
 
@@ -141,6 +145,7 @@ Below is the review log for this page: statements checked against official FDA d
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the product's US licenses are all cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f) |
+| 2026-11-24 | Removed: "A sixth license, ANDA202936 (Desloratadine Oral Solution, INA Pharmaceutics), is also listed." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

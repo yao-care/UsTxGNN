@@ -38,8 +38,14 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Phenazopyridine is an oral urinary tract analgesic. The only US product record compiled for this report is a cancelled tablet, and it carries no stated indication text.
+Phenazopyridine is an oral urinary tract analgesic. The FDA applications compiled for this report are discontinued tablets (other products are NDC listings without an FDA application), and they carry no stated indication text.
 The TxGNN model predicts it may be effective for **bronchitis**, but this rests on a model score alone, with **0 clinical trials** and **0 publications** currently supporting the direction.
+
+<!-- review:begin us-lic-20261124b-phenazopyridine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The only US product record compiled for this report is a cancelled tablet, and it carries no stated indication text." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-phenazopyridine-1 -->
 
 ## Quick Overview
 
@@ -132,6 +138,7 @@ Below is the review log for this page: statements checked against official FDA d
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license on record is cancelled, and no label safety data were available" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-24 | Corrected: "The only US product record compiled for this report is a cancelled tablet, and it carries no stated indication text." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

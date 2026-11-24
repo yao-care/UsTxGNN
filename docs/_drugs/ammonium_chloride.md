@@ -73,7 +73,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-The licences listed are the ones available in the compiled data. The list may be partial, and all three are single-ingredient products.
+<!-- review:begin us-lic-20261124b-ammonium_chloride-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The list may be partial, and all three are single-ingredient products." Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-ammonium_chloride-1 -->
+
+The licences listed are the ones available in the compiled data. 
 
 <!-- licenses:begin -->
 
@@ -117,6 +123,19 @@ The prediction rests only on a high model score. No clinical trials or publicati
 - Literature or trial evidence directly studying ammonium chloride in nasal cavity disease
 - Clarification of the specific nasal condition and the route of administration, since the marketed products are smelling salts rather than treatments for nasal disease
 - Review of the knowledge-graph contraindications (especially cardiovascular, renal and hepatic) against the intended use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: "The list may be partial, and all three are single-ingredient products." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -84,7 +84,13 @@ Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC 
 
 <!-- licenses:end -->
 
-The drug currently has no valid US licence. The only licence on record is cancelled.
+The drug currently has no valid US licence. All licences on record are cancelled.
+
+<!-- review:begin us-lic-20261124b-hydroxyprogesterone_caproate-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The drug currently has no valid US licence. The only licence on record is cancelled." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-hydroxyprogesterone_caproate-1 -->
 
 ## Safety Considerations
 
@@ -95,23 +101,38 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The progestin-class mechanism makes the prediction plausible. However, no trial or publication directly studies this drug in endometriosis of uterus, so the evidence level is L5. The only licence on record is cancelled.
+The progestin-class mechanism makes the prediction plausible. However, no trial or publication directly studies this drug in endometriosis of uterus, so the evidence level is L5. All licences on record are cancelled.
+
+<!-- review:begin us-lic-20261124b-hydroxyprogesterone_caproate-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "so the evidence level is L5. The only licence on record is cancelled." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-hydroxyprogesterone_caproate-2 -->
 
 **To proceed, the following is needed:**
 - Retrieval and review of the package insert warnings and contraindications, which are not yet available
 - Detailed mechanism-of-action data for the drug
 - Clinical evidence, such as trials or comparative studies, of this drug in endometriosis of uterus
-- Confirmation of the regulatory pathway and formulation, since the only licence is cancelled
+- Confirmation of the regulatory pathway and formulation, since all licences on record are cancelled
+
+<!-- review:begin us-lic-20261124b-hydroxyprogesterone_caproate-3 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "since the only licence is cancelled" Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-hydroxyprogesterone_caproate-3 -->
 
 <!-- review:begin log -->
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data for this drug is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: hydroxyprogesterone caproate prescribing information, Eugia US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df) |
+| 2026-11-24 | Corrected: "The drug currently has no valid US licence. The only licence on record is cancelled." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-24 | Corrected: "so the evidence level is L5. The only licence on record is cancelled." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-24 | Corrected: "since the only licence is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

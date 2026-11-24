@@ -75,7 +75,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The data compiled for this report do not include approved-indication text. Up to 5 of the licenses are listed below.
+The data compiled for this report do not include approved-indication text.
 
 <!-- licenses:begin -->
 

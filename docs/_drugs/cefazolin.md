@@ -75,7 +75,13 @@ No study directly evaluates cefazolin for infectious otitis media, so the eviden
 
 ## US Market Information
 
-Eleven US authorizations are recorded for single-ingredient cefazolin products, all injectable or solution forms.
+US authorizations are recorded for single-ingredient cefazolin products, all injectable or solution forms.
+
+<!-- review:begin us-lic-20261124b-cefazolin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Eleven US authorizations are recorded for single-ingredient cefazolin products, all injectable or solution forms." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-cefazolin-1 -->
 
 <!-- licenses:begin -->
 
@@ -114,11 +120,12 @@ The prediction score is high, but no clinical trial exists and no published stud
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4) |
+| 2026-11-24 | Corrected: "Eleven US authorizations are recorded for single-ingredient cefazolin products, all injectable or solution forms." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

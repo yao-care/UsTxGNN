@@ -84,6 +84,12 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-propafenone-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Four further cancelled ANDAs (Northstar, Strides, Rising, Bryant Ranch Prepack) are not listed." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-propafenone-1 -->
+
 <!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
@@ -97,8 +103,6 @@ Currently no related clinical trials registered.
 Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
-
-Four further cancelled ANDAs (Northstar, Strides, Rising, Bryant Ranch Prepack) are not listed.
 
 ## Safety Considerations
 
@@ -130,11 +134,12 @@ Please refer to the package insert for full warnings and contraindications.
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data for propafenone is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42) |
+| 2026-11-24 | Removed: "Four further cancelled ANDAs (Northstar, Strides, Rising, Bryant Ranch Prepack) are not listed." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

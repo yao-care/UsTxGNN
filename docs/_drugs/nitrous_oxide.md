@@ -74,7 +74,13 @@ The only clinical connection is procedural. Nitrous oxide has been used to reduc
 
 ## US Market Information
 
-All three listed authorizations are valid, and no approved indication text is recorded for them.
+All listed authorizations are valid, and no approved indication text is recorded for them.
+
+<!-- review:begin us-lic-20261124b-nitrous_oxide-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All three listed authorizations are valid," Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-nitrous_oxide-1 -->
 
 <!-- licenses:begin -->
 
@@ -126,6 +132,7 @@ Below is the review log for this page: statements checked against official FDA d
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with three valid licenses" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-24 | Corrected: "All three listed authorizations are valid," | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

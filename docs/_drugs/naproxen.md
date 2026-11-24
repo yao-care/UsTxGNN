@@ -82,7 +82,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The drug is marketed. The approved-indication text is blank in the records. The five main authorizations are shown below.
+The drug is marketed. The approved-indication text is blank in the records.
 
 <!-- review:begin us-lic-20261106-naproxen-1 -->
 

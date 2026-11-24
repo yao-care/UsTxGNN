@@ -69,7 +69,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-The licence records compiled for this report list 13 single-ingredient injectable products (all in the form of injection solution, from several manufacturers), and the list may be partial. They carry no approved-indication text, so no indication summary can be given. Examples include Marcaine (NDA016964, Hospira), Sensorcaine (NDA018304, Henry Schein) and several generic ANDA products.
+The licence records compiled for this report list single-ingredient injectable products from several manufacturers. They carry no approved-indication text, so no indication summary can be given. Examples include Marcaine (NDA016964, Hospira), Sensorcaine (NDA018304, Henry Schein) and several generic ANDA products.
+
+<!-- review:begin us-lic-20261124b-bupivacaine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The licence records compiled for this report list 13 single-ingredient injectable products (all in the form of injection solution, from several manufacturers), and the list may be partial." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-bupivacaine-1 -->
 
 <!-- licenses:begin -->
 
@@ -109,11 +115,12 @@ The prediction has no supporting clinical trials or publications and no plausibl
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Exparel (bupivacaine) prescribing information, Pacira Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb5a9e59-0f51-11df-8a39-0800200c9a66) |
+| 2026-11-24 | Corrected: "The licence records compiled for this report list 13 single-ingredient injectable products (all in the form of injection" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

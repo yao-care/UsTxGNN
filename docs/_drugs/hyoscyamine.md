@@ -116,7 +116,13 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no registered clinical trials and no directly relevant literature (L5, model prediction only). The mechanism is plausible but only symptomatic, the only US authorization on record is cancelled, and the knowledge graph lists gastritis and gastric ulcer among its contraindications.
+The prediction has no registered clinical trials and no directly relevant literature (L5, model prediction only). The mechanism is plausible but only symptomatic, no FDA-approved application is on record (only NDC listings without an FDA application), and the knowledge graph lists gastritis and gastric ulcer among its contraindications.
+
+<!-- review:begin us-lic-20261124b-hyoscyamine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "the only US authorization on record is cancelled," Corrected: the status statement did not match the FDA data (Drugs@FDA and the NDC Directory); see the Quick Overview and the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-hyoscyamine-1 -->
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -129,11 +135,12 @@ The prediction has no registered clinical trials and no directly relevant litera
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nulev (hyoscyamine sulfate) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ae2a78b2-b811-11e2-9e96-0800200c9a66) |
+| 2026-11-24 | Corrected: "the only US authorization on record is cancelled," | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

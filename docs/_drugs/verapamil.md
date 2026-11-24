@@ -93,7 +93,7 @@ For the other predictions, only two indications returned publications, and none 
 
 ## US Market Information
 
-The drug is marketed in the US. Approved-indication text is not available in the licence records. Five representative entries:
+The drug is marketed in the US. Approved-indication text is not available in the licence records.
 
 <!-- review:begin us-lic-20261106-verapamil-1 -->
 

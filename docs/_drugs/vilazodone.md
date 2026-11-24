@@ -98,7 +98,7 @@ Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC 
 
 <!-- licenses:end -->
 
-These are the first 5 of 6 listed records. The total is "at least 6", and the list may be partial.
+The total is "at least 6", and the list may be partial.
 
 ## Safety Considerations
 

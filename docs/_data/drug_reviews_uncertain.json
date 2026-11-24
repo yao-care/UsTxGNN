@@ -1253,91 +1253,130 @@
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "apixaban",
    "file": "apixaban.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Of the 5 licences listed, 3 are valid and 2 are cancelled.",
    "reason": "display",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "resolved_on": "2026-11-24",
+   "record_ids": [
+    "us-lic-20261124b-apixaban-1"
+   ],
+   "resolution": "逐句對照證據包與快照事實層，跟事實不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "benzoyl_peroxide",
    "file": "benzoyl_peroxide.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Market status is \"Marketed\", with 2 licences in the local records.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "resolved_on": "2026-11-24",
+   "record_ids": [
+    "us-lic-20261124b-benzoyl_peroxide-1"
+   ],
+   "resolution": "逐句對照證據包與快照事實層，跟事實不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "canakinumab",
    "file": "canakinumab.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The local records list two licences.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "resolved_on": "2026-11-24",
+   "record_ids": [
+    "us-lic-20261124b-canakinumab-1"
+   ],
+   "resolution": "逐句對照證據包與快照事實層，跟事實不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "ergocalciferol",
    "file": "ergocalciferol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "All five listed licences are single-ingredient products with valid status.",
    "reason": "display",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "resolved_on": "2026-11-24",
+   "record_ids": [
+    "us-lic-20261124b-ergocalciferol-1"
+   ],
+   "resolution": "逐句對照證據包與快照事實層，跟事實不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "goserelin",
    "file": "goserelin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Both authorizations are listed as valid; the drug is currently marketed.",
    "reason": "display",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "resolved_on": "2026-11-24",
+   "record_ids": [
+    "us-lic-20261124b-goserelin-1"
+   ],
+   "resolution": "逐句對照證據包與快照事實層，跟事實不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "goserelin",
    "file": "goserelin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Both US licences are valid, but the key safety documents are missing.",
    "reason": "grammar",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "resolved_on": "2026-11-24",
+   "record_ids": [
+    "us-lic-20261124b-goserelin-2"
+   ],
+   "resolution": "逐句對照證據包與快照事實層，跟事實不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "mitomycin",
    "file": "mitomycin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The table shows the first five licences.",
    "reason": "display",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "resolved_on": "2026-11-24",
+   "resolution": "只講舊 AI 許可證表列了幾筆的說明句；市場段落換成程式許可證表時一併拿掉（scripts/sync_license_tables.py --migrate，2026-11-24 第二輪）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "nystatin",
    "file": "nystatin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The list below shows 5 of the 12 licences on record.",
    "reason": "display",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "resolved_on": "2026-11-24",
+   "resolution": "只講舊 AI 許可證表列了幾筆的說明句；市場段落換成程式許可證表時一併拿掉（scripts/sync_license_tables.py --migrate，2026-11-24 第二輪）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "scopolamine",
    "file": "scopolamine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The nine US license records for scopolamine are all valid.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「all／both … valid」「none … cancelled」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "resolved_on": "2026-11-24",
+   "record_ids": [
+    "us-lic-20261124b-scopolamine-1"
+   ],
+   "resolution": "逐句對照證據包與快照事實層，跟事實不符，以查核紀錄更正（更正文字不寫死張數）"
   }
  ]
 }

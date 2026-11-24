@@ -95,8 +95,6 @@ No randomized controlled trials or human studies in pulmonary hypertension were 
 
 ## US Market Information
 
-Five representative entries:
-
 <!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |

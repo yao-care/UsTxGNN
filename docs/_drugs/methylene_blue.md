@@ -90,7 +90,13 @@ None of these publications shows therapeutic benefit of methylene blue in bronch
 
 ## US Market Information
 
-All 10 US authorizations are listed as valid, the drug is marketed, and no approved indication text is recorded for them.
+All US authorizations are listed as valid, the drug is marketed, and no approved indication text is recorded for them.
+
+<!-- review:begin us-lic-20261124b-methylene_blue-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All 10 US authorizations are listed as valid," Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-methylene_blue-1 -->
 
 <!-- licenses:begin -->
 
@@ -157,6 +163,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "Five further authorizations (including ANDA219550, ANDA219363, ANDA217380, and 505G(a)(3)) are also cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and the US licenses are all cancelled with injectable-only forms" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism-of-action data for methylene blue is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Provayblue (methylene blue) prescribing information, American Regent, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232) |
+| 2026-11-24 | Corrected: "All 10 US authorizations are listed as valid," | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

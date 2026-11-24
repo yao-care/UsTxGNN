@@ -89,6 +89,12 @@ The table below lists the most relevant publications for schizophrenia (rank 5).
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261112-apomorphine-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "All three authorizations are listed as valid, so currently valid US licences exist in the compiled data." Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-apomorphine-1 -->
+
 <!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
@@ -103,13 +109,13 @@ Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC 
 
 <!-- licenses:end -->
 
-All are injectable products.
+Most are injectable products.
 
-<!-- review:begin us-lic-20261112-apomorphine-1 -->
+<!-- review:begin us-lic-20261124b-apomorphine-1 -->
 
-> **Review correction (2026-11-12)**: Originally stated: "All three authorizations are listed as valid, so currently valid US licences exist in the compiled data." Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-24)**: Originally stated: "All are injectable products." Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
-<!-- review:end us-lic-20261112-apomorphine-1 -->
+<!-- review:end us-lic-20261124b-apomorphine-1 -->
 
 ## Safety Considerations
 
@@ -159,6 +165,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-12 | Removed: "All three authorizations are listed as valid, so currently valid US licences exist in the compiled data" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-12 | Removed: "given that all 3 licences are listed as valid" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Onapgo (apomorphine hydrochloride) prescribing information, MDD US Operations, LLC, a subsidiary of Supernus Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f3552b6e-5ae7-4993-aa1a-e399c4a7080a) |
+| 2026-11-24 | Corrected: "All are injectable products." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

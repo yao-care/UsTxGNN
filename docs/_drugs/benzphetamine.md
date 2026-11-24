@@ -82,7 +82,13 @@ Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC
 
 <!-- licenses:end -->
 
-Both are single-ingredient oral products.
+All are single-ingredient oral products.
+
+<!-- review:begin us-lic-20261124b-benzphetamine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Both are single-ingredient oral products." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-benzphetamine-1 -->
 
 ## Safety Considerations
 
@@ -113,11 +119,12 @@ The prediction has a very high model score but no supporting clinical trials or 
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data for benzphetamine are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: benzphetamine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c726aa7-3b78-45de-aca0-fd8a5fff9403) |
+| 2026-11-24 | Corrected: "Both are single-ingredient oral products." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

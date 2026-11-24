@@ -77,6 +77,12 @@ No literature was found for the top predicted indication (specific developmental
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-dexmethylphenidate-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Four further authorizations (extended-release capsule from Par Health; tablets from Bryant Ranch Prepack, Lupin and Sun Pharmaceutical) are also cancelled." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-dexmethylphenidate-1 -->
+
 The drug is marketed. No approved indication text is available.
 
 <!-- review:begin us-lic-20261106-dexmethylphenidate-1 -->
@@ -98,8 +104,6 @@ The drug is marketed. No approved indication text is available.
 Showing 5 of 24 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
-
-Four further authorizations (extended-release capsule from Par Health; tablets from Bryant Ranch Prepack, Lupin and Sun Pharmaceutical) are also cancelled.
 
 ## Safety Considerations
 
@@ -146,6 +150,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "with nine valid authorizations for them" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with nine valid authorizations" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dexmethylphenidate Hydrochloride Extended-Release (dexmethylphenidate hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb4f32eb-05c7-449e-8e5a-f45781a58f70) |
+| 2026-11-24 | Removed: "Four further authorizations (extended-release capsule from Par Health; tablets from Bryant Ranch Prepack, Lupin and Sun " | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

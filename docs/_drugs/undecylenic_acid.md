@@ -83,6 +83,12 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-undecylenic_acid-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All three are single-ingredient products." Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-undecylenic_acid-1 -->
+
 At least 3 licences are on record; the list may be partial. None of the records contains approved indication text.
 
 <!-- licenses:begin -->
@@ -99,7 +105,7 @@ Showing 5 of 180 entries (FDA applications first, active before discontinued; ND
 
 <!-- licenses:end -->
 
-All three are single-ingredient products. Other dosage forms on record include cream and spray.
+ Other dosage forms on record include cream and spray.
 
 ## Safety Considerations
 
@@ -119,6 +125,19 @@ All three predictions rest on model scores alone, with no clinical trials or pub
 - A literature search for any clinical use in pityriasis versicolor or tinea capitis
 - A justification of added value over existing topical azoles and selenium sulfide
 - Confirmation of the approved indication wording on the US licences
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: "All three are single-ingredient products." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

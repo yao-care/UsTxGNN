@@ -21,12 +21,12 @@
   "items_current": 9927
  },
  "reviews": {
-  "records": 2085,
-  "pages": 910,
-  "public_pages_with_records": 887,
+  "records": 2174,
+  "pages": 918,
+  "public_pages_with_records": 895,
   "by_action": {
    "annotate": 1,
-   "correct": 1265,
+   "correct": 1354,
    "mechanism": 819
   }
  },
@@ -86,7 +86,7 @@
    "l": "L5",
    "lt": 141,
    "lv": 85,
-   "r": 1,
+   "r": 2,
    "i": "punctate epithelial keratoconjunctivitis"
   },
   {
@@ -104,7 +104,7 @@
    "l": "L5",
    "lt": 146,
    "lv": 74,
-   "r": 3,
+   "r": 4,
    "i": "punctate epithelial keratoconjunctivitis"
   }
  ],
@@ -178,7 +178,7 @@
    "l": "L5",
    "lt": 8,
    "lv": 0,
-   "r": 1,
+   "r": 4,
    "i": "endometriosis of uterus"
   },
   {
@@ -214,12 +214,39 @@
    "l": "L5",
    "lt": 3,
    "lv": 0,
-   "r": 1,
+   "r": 2,
    "i": "bronchitis"
   }
  ],
  "no_current_more": 9,
  "most_reviewed": [
+  {
+   "t": "Apomorphine",
+   "u": "/drugs/apomorphine/",
+   "l": "L5",
+   "lt": 4,
+   "lv": 3,
+   "r": 5,
+   "i": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"
+  },
+  {
+   "t": "Aripiprazole",
+   "u": "/drugs/aripiprazole/",
+   "l": "L5",
+   "lt": 46,
+   "lv": 31,
+   "r": 5,
+   "i": "gaze palsy, familial horizontal, with progressive scoliosis"
+  },
+  {
+   "t": "Buprenorphine",
+   "u": "/drugs/buprenorphine/",
+   "l": "L4",
+   "lt": 53,
+   "lv": 41,
+   "r": 5,
+   "i": "acute intermittent porphyria"
+  },
   {
    "t": "Darunavir",
    "u": "/drugs/darunavir/",
@@ -230,6 +257,15 @@
    "i": "feline acquired immunodeficiency syndrome"
   },
   {
+   "t": "Dexamethasone",
+   "u": "/drugs/dexamethasone/",
+   "l": "L5",
+   "lt": 159,
+   "lv": 65,
+   "r": 5,
+   "i": "alopecia mucinosa"
+  },
+  {
    "t": "Folic Acid",
    "u": "/drugs/folic-acid/",
    "l": "L5",
@@ -237,42 +273,6 @@
    "lv": 17,
    "r": 5,
    "i": "biotin metabolic disease"
-  },
-  {
-   "t": "Griseofulvin",
-   "u": "/drugs/griseofulvin/",
-   "l": "L5",
-   "lt": 22,
-   "lv": 12,
-   "r": 5,
-   "i": "myiasis"
-  },
-  {
-   "t": "Hyaluronidase",
-   "u": "/drugs/hyaluronidase/",
-   "l": "L5",
-   "lt": 3,
-   "lv": 2,
-   "r": 5,
-   "i": "esotropia"
-  },
-  {
-   "t": "Isoniazid",
-   "u": "/drugs/isoniazid/",
-   "l": "L5",
-   "lt": 48,
-   "lv": 5,
-   "r": 5,
-   "i": "conjunctivitis"
-  },
-  {
-   "t": "Ketamine",
-   "u": "/drugs/ketamine/",
-   "l": "L2",
-   "lt": 12,
-   "lv": 8,
-   "r": 5,
-   "i": "headache disorder"
   }
  ],
  "example": {
@@ -286,198 +286,198 @@
  },
  "recent_reviews": [
   {
-   "t": "Stannous Fluoride",
-   "u": "/drugs/stannous-fluoride/",
-   "s": "Removed: \"Both US products are also cancelled\"",
+   "t": "Undecylenic Acid",
+   "u": "/drugs/undecylenic-acid/",
+   "s": "Removed: \"All three are single-ingredient products.\"",
    "d": "2026-11-24"
   },
   {
-   "t": "Sennosides",
-   "u": "/drugs/sennosides/",
-   "s": "Removed: \"Neither of the two US licences is currently valid\"",
+   "t": "Tretinoin",
+   "u": "/drugs/tretinoin/",
+   "s": "Removed: \"All listed products are topical (gel, cream, lotion).\"",
    "d": "2026-11-24"
   },
   {
-   "t": "Celecoxib",
-   "u": "/drugs/celecoxib/",
-   "s": "Corrected: \"every record is listed as 'single-ingredient' type\" (two combination products are on record)",
+   "t": "Trastuzumab",
+   "u": "/drugs/trastuzumab/",
+   "s": "Removed: \"Four further listings are not shown: HERZUMA (BLA761091), OGIVRI (BLA761074), HERCESSI (BLA761346)…",
    "d": "2026-11-24"
   },
   {
-   "t": "Aluminum Chloride",
-   "u": "/drugs/aluminum-chloride/",
-   "s": "Removed: \"The category is too broad to act on, and all three US products are cancelled\"",
+   "t": "Tocilizumab",
+   "u": "/drugs/tocilizumab/",
+   "s": "Removed: \"A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also…",
    "d": "2026-11-24"
   },
   {
-   "t": "Andexanet Alfa",
-   "u": "/drugs/andexanet-alfa/",
-   "s": "Restored: \"The product's license is also cancelled in the US\" (Purple Book lists BLA 125586 as Revoked)",
-   "d": "2026-11-17"
+   "t": "Theophylline",
+   "u": "/drugs/theophylline/",
+   "s": "Removed: \"The records compiled for this report list 13 ANDAs, and the list may be partial.\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Warfarin",
-   "u": "/drugs/warfarin/",
-   "s": "Removed: \"since four authorizations are listed as valid\"",
-   "d": "2026-11-12"
+   "t": "Temozolomide",
+   "u": "/drugs/temozolomide/",
+   "s": "Corrected: \"All are single-ingredient oral capsules.\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tramadol",
-   "u": "/drugs/tramadol/",
-   "s": "Corrected: \"All 10 authorizations are listed as valid; the five main\"",
-   "d": "2026-11-12"
+   "t": "Sofosbuvir",
+   "u": "/drugs/sofosbuvir/",
+   "s": "Removed: \"Two further licences are not listed here: NDA212477 (Harvoni, pellet) and NDA209195 (Vosevi…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tobramycin",
-   "u": "/drugs/tobramycin/",
-   "s": "Removed: \"The other 10 licenses are also cancelled generic ANDAs (solution, injection, and eye-drop forms)\"",
-   "d": "2026-11-12"
+   "t": "Sevoflurane",
+   "u": "/drugs/sevoflurane/",
+   "s": "Removed: \"One further authorization (ANDA214382, Lannett Company, Inc.) is also valid.\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tioconazole",
-   "u": "/drugs/tioconazole/",
-   "s": "Removed: \"The local records show one licence, and it is valid\"",
-   "d": "2026-11-12"
+   "t": "Scopolamine",
+   "u": "/drugs/scopolamine/",
+   "s": "Corrected: \"The nine US license records for scopolamine are all valid.\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Prucalopride",
-   "u": "/drugs/prucalopride/",
-   "s": "Removed: \"since 13 licenses are shown as valid\"",
-   "d": "2026-11-12"
+   "t": "Propafenone",
+   "u": "/drugs/propafenone/",
+   "s": "Removed: \"Four further cancelled ANDAs (Northstar, Strides, Rising, Bryant Ranch Prepack) are not listed.\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Oxcarbazepine",
-   "u": "/drugs/oxcarbazepine/",
-   "s": "Corrected: \"The full set comprises 11 authorizations, including\"",
-   "d": "2026-11-12"
+   "t": "Prochlorperazine",
+   "u": "/drugs/prochlorperazine/",
+   "s": "Removed: \"Six further cancelled ANDAs exist (tablets, film-coated tablets and an injection) from other…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Octreotide",
-   "u": "/drugs/octreotide/",
-   "s": "Removed: \"All 14 US authorizations are listed as valid\"",
-   "d": "2026-11-12"
+   "t": "Prednisolone",
+   "u": "/drugs/prednisolone/",
+   "s": "Removed: \"Note that some listed licenses are for methylprednisolone products (e.g., SOLU-MEDROL), which are a…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Nystatin",
-   "u": "/drugs/nystatin/",
-   "s": "Corrected: \"Eleven are valid and one is cancelled; the list may be partial\"",
-   "d": "2026-11-12"
+   "t": "Povidone",
+   "u": "/drugs/povidone/",
+   "s": "Corrected: \"The only US authorization on record is cancelled, and\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Minoxidil",
-   "u": "/drugs/minoxidil/",
-   "s": "Removed: \"All 10 are recorded as valid\"",
-   "d": "2026-11-12"
+   "t": "Phenazopyridine",
+   "u": "/drugs/phenazopyridine/",
+   "s": "Corrected: \"The only US product record compiled for this report is a cancelled tablet, and it carries no…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Miglustat",
-   "u": "/drugs/miglustat/",
-   "s": "Removed: \"All five licenses are listed as valid\"",
-   "d": "2026-11-12"
+   "t": "Pegfilgrastim",
+   "u": "/drugs/pegfilgrastim/",
+   "s": "Corrected: \"All seven US biologics licenses for pegfilgrastim are valid,\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Griseofulvin",
-   "u": "/drugs/griseofulvin/",
-   "s": "Removed: \"The remaining five licences are also cancelled\"",
-   "d": "2026-11-12"
+   "t": "Palonosetron",
+   "u": "/drugs/palonosetron/",
+   "s": "Removed: \"Only injectable forms are listed.\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Granisetron",
-   "u": "/drugs/granisetron/",
-   "s": "Removed: \"Five more licenses (all cancelled) are on file, covering tablets, film-coated tablets and…",
-   "d": "2026-11-12"
+   "t": "Nitrous Oxide",
+   "u": "/drugs/nitrous-oxide/",
+   "s": "Corrected: \"All three listed authorizations are valid,\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Eplerenone",
-   "u": "/drugs/eplerenone/",
-   "s": "Removed: \"since all six listed authorizations are shown as valid\"",
-   "d": "2026-11-12"
+   "t": "Methylene Blue",
+   "u": "/drugs/methylene-blue/",
+   "s": "Corrected: \"All 10 US authorizations are listed as valid,\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Dexamethasone",
-   "u": "/drugs/dexamethasone/",
-   "s": "Removed: \"Fifteen US licences are recorded as valid, and the list may be partial\"",
-   "d": "2026-11-12"
+   "t": "Mannitol",
+   "u": "/drugs/mannitol/",
+   "s": "Removed: \"Two further cancelled authorizations are not shown: QR PAIN (cream) and Sorbitol-Mannitol…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Darunavir",
-   "u": "/drugs/darunavir/",
-   "s": "Removed: \"All 10 authorizations listed below are in valid status\"",
-   "d": "2026-11-12"
+   "t": "Lacosamide",
+   "u": "/drugs/lacosamide/",
+   "s": "Corrected: \"Available dosage forms across all licenses: oral tablets (plain and film-coated), oral solution…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Daptomycin",
-   "u": "/drugs/daptomycin/",
-   "s": "Removed: \"with 17 US licenses currently valid\"",
-   "d": "2026-11-12"
+   "t": "Labetalol",
+   "u": "/drugs/labetalol/",
+   "s": "Removed: \"Four more authorizations (oral tablets and injections) are also cancelled.\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Apomorphine",
-   "u": "/drugs/apomorphine/",
-   "s": "Removed: \"given that all 3 licences are listed as valid\"",
-   "d": "2026-11-12"
+   "t": "Icosapent Ethyl",
+   "u": "/drugs/icosapent-ethyl/",
+   "s": "Corrected: \"All 10 authorizations below are listed as valid.\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Lansoprazole",
-   "u": "/drugs/lansoprazole/",
-   "s": "Removed: \"Five more authorizations (all cancelled, 10 in total) are on record and not listed here\"",
-   "d": "2026-11-12"
+   "t": "Hyoscyamine",
+   "u": "/drugs/hyoscyamine/",
+   "s": "Corrected: \"the only US authorization on record is cancelled,\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Zonisamide",
-   "u": "/drugs/zonisamide/",
-   "s": "Removed: \"given that the drug is marketed with seven valid licenses\"",
-   "d": "2026-11-06"
+   "t": "Hydroxyprogesterone Caproate",
+   "u": "/drugs/hydroxyprogesterone-caproate/",
+   "s": "Corrected: \"since the only licence is cancelled\"",
+   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
   {
-   "t": "Stannous Fluoride",
-   "u": "/drugs/stannous-fluoride/",
-   "s": "Removed: \"Both US products are also cancelled\"",
+   "t": "Undecylenic Acid",
+   "u": "/drugs/undecylenic-acid/",
+   "s": "Removed: \"All three are single-ingredient products.\"",
    "d": "2026-11-24"
   },
   {
-   "t": "Sennosides",
-   "u": "/drugs/sennosides/",
-   "s": "Removed: \"Neither of the two US licences is currently valid\"",
+   "t": "Tretinoin",
+   "u": "/drugs/tretinoin/",
+   "s": "Removed: \"All listed products are topical (gel, cream, lotion).\"",
    "d": "2026-11-24"
   },
   {
-   "t": "Celecoxib",
-   "u": "/drugs/celecoxib/",
-   "s": "Corrected: \"every record is listed as 'single-ingredient' type\" (two combination products are on record)",
+   "t": "Trastuzumab",
+   "u": "/drugs/trastuzumab/",
+   "s": "Removed: \"Four further listings are not shown: HERZUMA (BLA761091), OGIVRI (BLA761074), HERCESSI (BLA761346)…",
    "d": "2026-11-24"
   },
   {
-   "t": "Aluminum Chloride",
-   "u": "/drugs/aluminum-chloride/",
-   "s": "Removed: \"The category is too broad to act on, and all three US products are cancelled\"",
+   "t": "Tocilizumab",
+   "u": "/drugs/tocilizumab/",
+   "s": "Removed: \"A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also…",
    "d": "2026-11-24"
   },
   {
-   "t": "Andexanet Alfa",
-   "u": "/drugs/andexanet-alfa/",
-   "s": "Restored: \"The product's license is also cancelled in the US\" (Purple Book lists BLA 125586 as Revoked)",
-   "d": "2026-11-17"
+   "t": "Theophylline",
+   "u": "/drugs/theophylline/",
+   "s": "Removed: \"The records compiled for this report list 13 ANDAs, and the list may be partial.\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Warfarin",
-   "u": "/drugs/warfarin/",
-   "s": "Removed: \"since four authorizations are listed as valid\"",
-   "d": "2026-11-12"
+   "t": "Temozolomide",
+   "u": "/drugs/temozolomide/",
+   "s": "Corrected: \"All are single-ingredient oral capsules.\"",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tramadol",
-   "u": "/drugs/tramadol/",
-   "s": "Corrected: \"All 10 authorizations are listed as valid; the five main\"",
-   "d": "2026-11-12"
+   "t": "Sofosbuvir",
+   "u": "/drugs/sofosbuvir/",
+   "s": "Removed: \"Two further licences are not listed here: NDA212477 (Harvoni, pellet) and NDA209195 (Vosevi…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tobramycin",
-   "u": "/drugs/tobramycin/",
-   "s": "Removed: \"The other 10 licenses are also cancelled generic ANDAs (solution, injection, and eye-drop forms)\"",
-   "d": "2026-11-12"
+   "t": "Sevoflurane",
+   "u": "/drugs/sevoflurane/",
+   "s": "Removed: \"One further authorization (ANDA214382, Lannett Company, Inc.) is also valid.\"",
+   "d": "2026-11-24"
   }
  ],
  "files": {

@@ -101,7 +101,13 @@ Please refer to the package insert for further safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no clinical trials or publications (Evidence Level L5). The only US authorization on record is cancelled, and the proposed mechanism is speculative and symptomatic at best for a genetic keratinization disorder.
+The prediction is supported only by a model score, with no clinical trials or publications (Evidence Level L5). No FDA application is on record (only NDC listings without an FDA application), and the proposed mechanism is speculative and symptomatic at best for a genetic keratinization disorder.
+
+<!-- review:begin us-lic-20261124b-povidone-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The only US authorization on record is cancelled, and" Corrected: the status statement did not match the FDA data (Drugs@FDA and the NDC Directory); see the Quick Overview and the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-povidone-1 -->
 
 **To proceed, the following is needed:**
 - Official package insert warnings and contraindications (currently a blocking gap for safety screening)
@@ -109,6 +115,19 @@ The prediction is supported only by a model score, with no clinical trials or pu
 - Preclinical or clinical evidence of benefit in congenital ichthyosiform erythroderma
 - Assessment of topical route and formulation compatibility
 - Review of the knowledge-graph contraindication signals against labeling
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Corrected: "The only US authorization on record is cancelled, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -70,6 +70,12 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-adenine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The one licence on record is for a single-ingredient product made by Professional Complementary Health Formulas." Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-adenine-1 -->
+
 <!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
@@ -83,8 +89,6 @@ Currently no related clinical trials registered.
 Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
-
-The one licence on record is for a single-ingredient product made by Professional Complementary Health Formulas.
 
 ## Safety Considerations
 
@@ -104,6 +108,19 @@ The prediction rests only on a model score. No clinical trial exists, and the si
 - Package insert warnings and contraindications
 - Preclinical studies of adenine in models of drug-induced osteoporosis, including its effects on kidney and bone
 - Confirmation of the current regulatory and market status of the adenine product
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: "The one licence on record is for a single-ingredient product made by Professional Complementary Health Formulas." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

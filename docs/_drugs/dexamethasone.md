@@ -68,8 +68,6 @@ Currently no related literature available.
 
 ## US Market Information
 
- The five shown below are examples, and approved-indication text is not recorded in the local data.
-
 <!-- review:begin us-lic-20261106-dexamethasone-1 -->
 
 > **Review correction (2026-11-12)**: Originally stated: "All are single-ingredient generic products (ANDA)." Removed: it described the products in a way that did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06): the FDA data list both generic (ANDA) and brand (NDA) applications for this drug. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
@@ -81,6 +79,20 @@ Currently no related literature available.
 > **Review correction (2026-11-12)**: Originally stated: "Fifteen US licences are recorded as valid, and the list may be partial." Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261112-dexamethasone-1 -->
+
+<!-- review:begin us-lic-20261124b-dexamethasone-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "No topical product is listed." Removed: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-dexamethasone-2 -->
+
+ Approved-indication text is not recorded in the local data.
+
+<!-- review:begin us-lic-20261124b-dexamethasone-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The five shown below are examples, and approved-indication text is not recorded in the local data." Corrected: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-dexamethasone-1 -->
 
 <!-- licenses:begin -->
 
@@ -96,7 +108,7 @@ Showing 5 of 162 entries (FDA applications first, active before discontinued; ND
 
 <!-- licenses:end -->
 
-Available routes are oral (tablet) and injectable (solution, plain injection, emulsion). No topical product is listed.
+Available routes are oral (tablet) and injectable (solution, plain injection, emulsion). 
 
 ## Safety Considerations
 
@@ -129,9 +141,11 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-12 | Removed: "All are single-ingredient generic products (ANDA)" | Corrected (revised 2026-11-12; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "All are single-ingredient generic products (ANDA)" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-12 | Removed: "Fifteen US licences are recorded as valid, and the list may be partial" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism-of-action data for dexamethasone are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129) |
+| 2026-11-24 | Corrected: "The five shown below are examples, and approved-indication text is not recorded in the local data." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-24 | Removed: "No topical product is listed." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

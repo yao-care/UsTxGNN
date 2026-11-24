@@ -71,7 +71,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-The compiled data lists two single-ingredient injectable solution products (ANDA202501 and ANDA201276, from Avet Pharmaceuticals and Mylan Institutional). No approved indication text is recorded for either, and the status of these licences is reported inconsistently in the data, so no market conclusion is drawn beyond the overall status of Marketed.
+The compiled data list single-ingredient injectable solution products, including ANDA202501 and ANDA201276 (from Avet Pharmaceuticals and Mylan Institutional). No approved indication text is recorded for any of them, and the status of these licences is reported inconsistently in the data, so no market conclusion is drawn beyond the overall status of Marketed.
+
+<!-- review:begin us-lic-20261124b-cidofovir-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The compiled data lists two single-ingredient injectable solution products (ANDA202501 and ANDA201276, from Avet Pharmaceuticals and Mylan Institutional). No approved indication text is recorded for either," Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-cidofovir-1 -->
 
 <!-- licenses:begin -->
 
@@ -110,11 +116,12 @@ The prediction for sclerosing cholangitis has a very high model score but no tri
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cidofovir (cidofovir anhydrous) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56541229-8c1a-4550-8951-2415ed08e7e9) |
+| 2026-11-24 | Corrected: "The compiled data lists two single-ingredient injectable solution products (ANDA202501 and ANDA201276, from Avet Pharmac" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

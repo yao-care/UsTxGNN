@@ -102,8 +102,6 @@ Showing 5 of 38 entries (FDA applications first, active before discontinued; NDC
 
 <!-- licenses:end -->
 
-The list shows the first 5 of the licences in the local records and may be partial.
-
 ---
 
 ## Safety Considerations

@@ -70,11 +70,11 @@ Currently no related literature available.
 
 ## US Market Information
 
-Mitomycin is marketed in the US only as an injectable (lyophilised powder for solution). The list may be partial. The approved indication text is not recorded in the local data.
+Mitomycin is marketed in the US mainly as an injectable (lyophilised powder for solution); topical, pyelocalyceal and intravesical products are also on record. The list may be partial. The approved indication text is not recorded in the local data.
 
 <!-- review:begin us-lic-20261106-mitomycin-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Mitomycin is marketed in the US only as an injectable (lyophilised powder for solution). Of the 8 licences in the records reviewed, 7 are valid and 1 is cancelled." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-24)**: Originally stated: "Mitomycin is marketed in the US only as an injectable (lyophilised powder for solution). Of the 8 licences in the records reviewed, 7 are valid and 1 is cancelled." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-mitomycin-1 -->
 
@@ -136,7 +136,7 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "Of the 8 licences in the records reviewed, 7 are valid and 1 is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-24 | Removed: "Of the 8 licences in the records reviewed, 7 are valid and 1 is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mutamycin (mitomycin) prescribing information, Accord BioPharma Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbf0f6ba-3a53-4791-9a85-5c6b271eeb8e) |
 
 <!-- review:end log -->

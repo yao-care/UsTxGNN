@@ -9,7 +9,7 @@
   "with_current": 50,
   "none_current": 0,
   "without_data": 2,
-  "with_reviews": 50,
+  "with_reviews": 51,
   "rows": [
    {
     "t": "Bendamustine",
@@ -172,8 +172,8 @@
     "i": "thrombotic disease",
     "lt": 34,
     "lv": 18,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"The data compiled for this report records 14 US licences for single-ingredient acetylcysteine, in…",
     "x": 0
    },
    {
@@ -227,8 +227,8 @@
     "i": "urinary tract infection (disease)",
     "lt": 18,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Corrected: \"with six single-ingredient generic (ANDA) records in oral tablet and powder-for-suspension forms.\"",
     "x": 0
    },
    {
@@ -238,8 +238,8 @@
     "i": "obsessive-compulsive disorder",
     "lt": 37,
     "lv": 15,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for citalopram is not available in the data compiled for this report\"…",
+    "r": 2,
+    "rs": "Removed: \"The licence records also include escitalopram products, which are not listed here.\"",
     "x": 0
    },
    {
@@ -249,8 +249,8 @@
     "i": "manic bipolar affective disorder",
     "lt": 16,
     "lv": 10,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for clozapine are not available in the data compiled for this report\"…",
+    "r": 2,
+    "rs": "Corrected: \"The list below may be partial, and the local records carry no approved-indication text.\"",
     "x": 0
    },
    {
@@ -271,8 +271,8 @@
     "i": "Ewing sarcoma",
     "lt": 13,
     "lv": 13,
-    "r": 3,
-    "rs": "Removed: \"Clarification of the cancelled US market status, to confirm product availability\"",
+    "r": 4,
+    "rs": "Corrected: \"all eight licenses are listed as valid in the data compiled for this report.\"",
     "x": 0
    },
    {
@@ -337,8 +337,8 @@
     "i": "amenorrhea (disease)",
     "lt": 3,
     "lv": 3,
-    "r": 2,
-    "rs": "Removed: \"larification of the regulatory status of the cancelled Zoladex NDAs and c\"",
+    "r": 4,
+    "rs": "Corrected: \"Both US licences are valid, but the key safety documents are missing.\"",
     "x": 0
    },
    {
@@ -404,7 +404,7 @@
     "lt": 52,
     "lv": 34,
     "r": 4,
-    "rs": "Removed: \"with 14 valid authorizations\"",
+    "rs": "Removed: \"The cancelled-only status in this dataset should be checked against current FDA records before any…",
     "x": 0
    },
    {
@@ -480,8 +480,8 @@
     "i": "alopecia areata",
     "lt": 134,
     "lv": 26,
-    "r": 2,
-    "rs": "Removed: \"with 13 valid licenses in the data\"",
+    "r": 3,
+    "rs": "Removed: \"Note that some listed licenses are for methylprednisolone products (e.g., SOLU-MEDROL), which are a…",
     "x": 0
    },
    {
@@ -535,8 +535,8 @@
     "i": "hepatitis B virus infection",
     "lt": 8,
     "lv": 7,
-    "r": 3,
-    "rs": "Removed: \"All seven US licences are valid, and the drug is marketed in the US\"",
+    "r": 4,
+    "rs": "Removed: \"Two further licences are not listed here: NDA212477 (Harvoni, pellet) and NDA209195 (Vosevi…",
     "x": 0
    },
    {
@@ -623,8 +623,8 @@
     "i": "insomnia (disease)",
     "lt": 40,
     "lv": 14,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Removed: \"Seven US licences are recorded, and the list may be partial.\"",
     "x": 0
    },
    {
@@ -909,8 +909,8 @@
     "i": "ankylosing spondylitis",
     "lt": 7,
     "lv": 7,
-    "r": 3,
-    "rs": "Removed: \"All six licenses are valid, and t\"",
+    "r": 4,
+    "rs": "Removed: \"A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also…",
     "x": 0
    },
    {
@@ -1041,8 +1041,8 @@
     "i": "acute intermittent porphyria",
     "lt": 53,
     "lv": 41,
-    "r": 4,
-    "rs": "Removed: \"with 11 valid authorizations\"",
+    "r": 5,
+    "rs": "Removed: \"Six further generic authorizations (tablets and patches) are also cancelled.\"",
     "x": 0
    },
    {
@@ -1184,8 +1184,8 @@
     "i": "nasal cavity disease",
     "lt": 24,
     "lv": 20,
-    "r": 3,
-    "rs": "Removed: \"with 14 valid US licenses\"",
+    "r": 4,
+    "rs": "Removed: \"Only one is an oral tablet, and none is a nasal formulation.\"",
     "x": 0
    },
    {
@@ -1638,7 +1638,7 @@
   "with_current": 712,
   "none_current": 17,
   "without_data": 48,
-  "with_reviews": 750,
+  "with_reviews": 757,
   "rows": [
    {
     "t": "Ibuprofen",
@@ -1680,8 +1680,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 141,
     "lv": 85,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Removed: \"The US records compiled for this report list 14 licences, and the list may be partial.\"",
     "x": 0
    },
    {
@@ -1691,8 +1691,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 146,
     "lv": 74,
-    "r": 3,
-    "rs": "Removed: \"with 15 valid licenses\"",
+    "r": 4,
+    "rs": "Corrected: \"All products are oral (tablets and capsules).\"",
     "x": 0
    },
    {
@@ -1735,8 +1735,8 @@
     "i": "alopecia mucinosa",
     "lt": 159,
     "lv": 65,
-    "r": 3,
-    "rs": "Removed: \"Fifteen US licences are recorded as valid, and the list may be partial\"",
+    "r": 5,
+    "rs": "Removed: \"No topical product is listed.\"",
     "x": 0
    },
    {
@@ -1779,8 +1779,8 @@
     "i": "vulvar inverted follicular keratosis",
     "lt": 100,
     "lv": 57,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action text is not available in the data compiled for this report, so this description…",
+    "r": 2,
+    "rs": "Corrected: \"The compiled data show 18 US licence records for single-ingredient clobetasol propionate…",
     "x": 0
    },
    {
@@ -1867,8 +1867,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 100,
     "lv": 49,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so this…",
+    "r": 2,
+    "rs": "Removed: \"Several records in the data are for valacyclovir products, and only the acyclovir-named records are…",
     "x": 0
    },
    {
@@ -1878,8 +1878,8 @@
     "i": "faciodigitogenital syndrome",
     "lt": 70,
     "lv": 48,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for amphetamine are not available in the data compiled for this report\"…",
+    "r": 2,
+    "rs": "Removed: \"Ten US records for single-ingredient amphetamine products are in the local data; the list may be…",
     "x": 5
    },
    {
@@ -1900,8 +1900,8 @@
     "i": "nasal cavity disease",
     "lt": 128,
     "lv": 46,
-    "r": 3,
-    "rs": "Removed: \"with 8 valid licences\"",
+    "r": 4,
+    "rs": "Removed: \"Three further cancelled records (M011 Stay Awake, 505G(a)(3) Stay Awake, and the Caffeinum pellet)…",
     "x": 0
    },
    {
@@ -1955,8 +1955,8 @@
     "i": "rheumatoid nodulosis",
     "lt": 55,
     "lv": 42,
-    "r": 2,
-    "rs": "Removed: \"There are 16 valid US licenses and n\"",
+    "r": 3,
+    "rs": "Removed: \"All listed products are topical (gel, cream, lotion).\"",
     "x": 0
    },
    {
@@ -1988,8 +1988,8 @@
     "i": "manic bipolar affective disorder",
     "lt": 48,
     "lv": 40,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"Available dosage forms across all licenses: oral tablets (plain and film-coated), oral solution…",
     "x": 0
    },
    {
@@ -2043,8 +2043,8 @@
     "i": "acrodermatitis chronica atrophicans",
     "lt": 52,
     "lv": 35,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"The licence records compiled for this report list 13 single-ingredient injectable products (all…",
     "x": 0
    },
    {
@@ -2076,8 +2076,8 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 52,
     "lv": 34,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for baclofen is not available in the data compiled for this report\"…",
+    "r": 3,
+    "rs": "Removed: \"Baclofen has 11 ANDA records in the US data; the list may be partial.\"",
     "x": 0
    },
    {
@@ -2087,8 +2087,8 @@
     "i": "vulvar inverted follicular keratosis",
     "lt": 41,
     "lv": 34,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"Market status is \"Marketed\", with 2 licences in the local records.\"",
     "x": 0
    },
    {
@@ -2219,8 +2219,8 @@
     "i": "gaze palsy, familial horizontal, with progressive scoliosis",
     "lt": 46,
     "lv": 31,
-    "r": 4,
-    "rs": "Removed: \"with 11 valid licenses\"",
+    "r": 5,
+    "rs": "Removed: \"Six further generic tablet ANDAs are also listed as cancelled.\"",
     "x": 0
    },
    {
@@ -2230,8 +2230,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 36,
     "lv": 31,
-    "r": 3,
-    "rs": "Removed: \"All US listings are cancelled, and t\"",
+    "r": 4,
+    "rs": "Corrected: \"All products are injectables (injection, injection solution, and injection solution concentrate).\"",
     "x": 0
    },
    {
@@ -2285,8 +2285,8 @@
     "i": "laryngitis",
     "lt": 57,
     "lv": 29,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"The data compiled for this report lists 10 US authorizations for single-ingredient ampicillin…",
     "x": 0
    },
    {
@@ -2340,8 +2340,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 84,
     "lv": 28,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"The data compiled for this report list 11 US generic (ANDA) records for single-ingredient…",
     "x": 0
    },
    {
@@ -2384,8 +2384,8 @@
     "i": "exercise-induced malignant hyperthermia",
     "lt": 43,
     "lv": 27,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for acetazolamide are not available in the data compiled for this report\"…",
+    "r": 2,
+    "rs": "Removed: \"The data compiled for this report list 12 US licences, and the list may be partial.\"",
     "x": 0
    },
    {
@@ -2527,8 +2527,8 @@
     "i": "Plasmodium falciparum malaria",
     "lt": 34,
     "lv": 25,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"from multiple manufacturers (11 records in the data compiled for this report; the list may be…",
     "x": 0
    },
    {
@@ -2571,8 +2571,8 @@
     "i": "non-syndromic esophageal malformation",
     "lt": 31,
     "lv": 24,
-    "r": 2,
-    "rs": "Removed: \"and all 20 licences are counted as valid\"",
+    "r": 3,
+    "rs": "Corrected: \"The local records list 20 US licences for single-ingredient Ammonia N-13 injection products…",
     "x": 2
    },
    {
@@ -2593,8 +2593,8 @@
     "i": "botryoid-type embryonal rhabdomyosarcoma of the vagina",
     "lt": 52,
     "lv": 24,
-    "r": 3,
-    "rs": "Removed: \"with 12 valid US licenses\"",
+    "r": 4,
+    "rs": "Removed: \"Seven further cancelled ANDAs exist (injection, solution, cream and topical solution forms).\"",
     "x": 0
    },
    {
@@ -2648,8 +2648,8 @@
     "i": "biotin metabolic disease",
     "lt": 62,
     "lv": 23,
-    "r": 3,
-    "rs": "Removed: \"with 11 valid licenses\"",
+    "r": 4,
+    "rs": "Removed: \"Six further ANDAs (all cancelled) cover injectable forms from other manufacturers.\"",
     "x": 0
    },
    {
@@ -2725,8 +2725,8 @@
     "i": "thrombotic disease",
     "lt": 127,
     "lv": 23,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Removed: \"The records compiled for this report list 13 ANDAs, and the list may be partial.\"",
     "x": 0
    },
    {
@@ -2769,8 +2769,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 32,
     "lv": 22,
-    "r": 2,
-    "rs": "Corrected: \"every record is listed as 'single-ingredient' type\" (two combination products are on record)",
+    "r": 4,
+    "rs": "Removed: \"Twelve US licence records were compiled, and the list may be partial.\"",
     "x": 0
    },
    {
@@ -2835,8 +2835,8 @@
     "i": "beta-ketothiolase deficiency",
     "lt": 23,
     "lv": 21,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"According to the data compiled for this report, 10 US licence records exist for brivaracetam…",
     "x": 0
    },
    {
@@ -2869,7 +2869,7 @@
     "lt": 27,
     "lv": 21,
     "r": 3,
-    "rs": "Removed: \"with 11 valid authorizations\"",
+    "rs": "Removed: \"There are 11 valid authorizations\"",
     "x": 0
    },
    {
@@ -2879,8 +2879,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 34,
     "lv": 21,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Removed: \"Four more authorizations (oral tablets and injections) are also cancelled.\"",
     "x": 0
    },
    {
@@ -2956,8 +2956,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 59,
     "lv": 21,
-    "r": 2,
-    "rs": "Removed: \"with 11 valid authorizations, and none has approved indication text on record\"",
+    "r": 3,
+    "rs": "Removed: \"Six further cancelled ANDAs exist (tablets, film-coated tablets and an injection) from other…",
     "x": 0
    },
    {
@@ -3023,7 +3023,7 @@
     "lt": 35,
     "lv": 20,
     "r": 4,
-    "rs": "Removed: \"(topical versus the nasal spray forms in the data) and of the regulatory and commercial…",
+    "rs": "Removed: \"The drug is marketed in the US, and all 4 licenses are valid\"",
     "x": 0
    },
    {
@@ -3165,8 +3165,8 @@
     "i": "specific developmental disorder",
     "lt": 24,
     "lv": 18,
-    "r": 3,
-    "rs": "Removed: \"with nine valid authorizations\"",
+    "r": 4,
+    "rs": "Removed: \"Four further authorizations (extended-release capsule from Par Health; tablets from Bryant Ranch…",
     "x": 0
    },
    {
@@ -3319,8 +3319,8 @@
     "i": "migraine disorder",
     "lt": 25,
     "lv": 17,
-    "r": 2,
-    "rs": "Removed: \"with 14 valid licenses in the data\"",
+    "r": 3,
+    "rs": "Removed: \"Only injectable forms are listed.\"",
     "x": 0
    },
    {
@@ -3429,8 +3429,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 42,
     "lv": 15,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action statement",
+    "r": 2,
+    "rs": "Removed: \"Eight single-ingredient oral tablet authorizations are listed in total, and the list may be…",
     "x": 0
    },
    {
@@ -3462,8 +3462,8 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 33,
     "lv": 15,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for clarithromycin are not available in the data compiled for this report\"…",
+    "r": 2,
+    "rs": "Corrected: \"The local data list 7 ANDA records for single-ingredient clarithromycin products (the list may be…",
     "x": 0
    },
    {
@@ -3583,8 +3583,8 @@
     "i": "obsolete bundle branch block",
     "lt": 23,
     "lv": 14,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"The data compiled for this report list 8 US records (ANDA generic injectables and one cosmetic…",
     "x": 0
    },
    {
@@ -3594,8 +3594,8 @@
     "i": "obsolete vitamin D deficiency",
     "lt": 23,
     "lv": 14,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"The local records list 10 single-ingredient licences, in oral capsule, ointment, solution and…",
     "x": 0
    },
    {
@@ -3616,8 +3616,8 @@
     "i": "insomnia (disease)",
     "lt": 36,
     "lv": 14,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for carisoprodol is not available in the data compiled for this report\"…",
+    "r": 2,
+    "rs": "Corrected: \"Carisoprodol has six single-ingredient US licence records in the data compiled for this report\"",
     "x": 0
    },
    {
@@ -3770,8 +3770,8 @@
     "i": "nasal cavity disease",
     "lt": 20,
     "lv": 13,
-    "r": 2,
-    "rs": "Removed: \"and the product's US licenses are all cancelled\"",
+    "r": 3,
+    "rs": "Removed: \"A sixth license, ANDA202936 (Desloratadine Oral Solution, INA Pharmaceutics), is also listed.\"",
     "x": 0
    },
    {
@@ -3781,8 +3781,8 @@
     "i": "thrombophilia due to protein C deficiency, autosomal recessive",
     "lt": 13,
     "lv": 13,
-    "r": 3,
-    "rs": "Removed: \"with 7 valid licenses\"",
+    "r": 4,
+    "rs": "Removed: \"Two further ANDAs (ANDA214646, ANDA206834) are also on record.\"",
     "x": 0
    },
    {
@@ -3803,8 +3803,8 @@
     "i": "hemoglobinopathy",
     "lt": 13,
     "lv": 13,
-    "r": 4,
-    "rs": "Removed: \"with 10 valid authorizations\"",
+    "r": 5,
+    "rs": "Corrected: \"All 10 authorizations below are listed as valid.\"",
     "x": 0
    },
    {
@@ -3859,7 +3859,7 @@
     "lt": 21,
     "lv": 13,
     "r": 3,
-    "rs": "Removed: \"with 7 valid licenses\"",
+    "rs": "Removed: \"All 7 licenses are oral tablets\"",
     "x": 0
    },
    {
@@ -3880,8 +3880,8 @@
     "i": "non-syndromic esophageal malformation",
     "lt": 23,
     "lv": 12,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for ascorbic acid are not available in the data compiled for this report\"…",
+    "r": 2,
+    "rs": "Corrected: \"The licence records compiled for this report (8 records, which may be a partial list) carry no…",
     "x": 0
    },
    {
@@ -3902,8 +3902,8 @@
     "i": "infectious otitis media",
     "lt": 41,
     "lv": 12,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"Eleven US authorizations are recorded for single-ingredient cefazolin products, all injectable or…",
     "x": 0
    },
    {
@@ -4111,8 +4111,8 @@
     "i": "manic bipolar affective disorder",
     "lt": 18,
     "lv": 11,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for propafenone is not available in the data compiled for this report\"…",
+    "r": 2,
+    "rs": "Removed: \"Four further cancelled ANDAs (Northstar, Strides, Rising, Bryant Ranch Prepack) are not listed.\"",
     "x": 0
    },
    {
@@ -4122,8 +4122,8 @@
     "i": "cauda equina neoplasm",
     "lt": 18,
     "lv": 11,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"All are single-ingredient oral capsules.\"",
     "x": 0
    },
    {
@@ -4166,8 +4166,8 @@
     "i": "neuroblastoma",
     "lt": 21,
     "lv": 10,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Removed: \"The list may be partial; further records exist beyond those shown (NDA020541, ARIMIDEX, is also on…",
     "x": 0
    },
    {
@@ -4188,8 +4188,8 @@
     "i": "peptic ulcer perforation",
     "lt": 57,
     "lv": 10,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"Nine US authorizations are recorded for single-ingredient cimetidine products (the list may be…",
     "x": 0
    },
    {
@@ -4200,7 +4200,7 @@
     "lt": 15,
     "lv": 10,
     "r": 4,
-    "rs": "Removed: \"with 9 valid US authorizations\"",
+    "rs": "Removed: \"All 9 authorizations are in valid status\"",
     "x": 9
    },
    {
@@ -4365,7 +4365,7 @@
     "lt": 39,
     "lv": 9,
     "r": 4,
-    "rs": "Removed: \"and the cancelled market status\"",
+    "rs": "Removed: \"All six authorizations are valid\"",
     "x": 0
    },
    {
@@ -4441,8 +4441,8 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 9,
     "lv": 9,
-    "r": 3,
-    "rs": "Removed: \"all seven US licenses are valid and\"",
+    "r": 4,
+    "rs": "Corrected: \"All seven US biologics licenses for pegfilgrastim are valid,\"",
     "x": 0
    },
    {
@@ -4474,8 +4474,8 @@
     "i": "malignant cutaneous granular cell skin tumor",
     "lt": 9,
     "lv": 9,
-    "r": 3,
-    "rs": "Removed: \"since all listings show as cancelled\"",
+    "r": 4,
+    "rs": "Removed: \"Four further listings are not shown: HERZUMA (BLA761091), OGIVRI (BLA761074), HERCESSI (BLA761346)…",
     "x": 0
    },
    {
@@ -4540,8 +4540,8 @@
     "i": "pulmonary arteriovenous malformation (disease)",
     "lt": 10,
     "lv": 8,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"All 9 are for single-ingredient oral film-coated tablets.\"",
     "x": 0
    },
    {
@@ -4738,8 +4738,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 22,
     "lv": 8,
-    "r": 2,
-    "rs": "Removed: \"with 7 of 7 licenses valid\"",
+    "r": 3,
+    "rs": "Removed: \"Two further cancelled authorizations are not shown: QR PAIN (cream) and Sorbitol-Mannitol…",
     "x": 0
    },
    {
@@ -4749,8 +4749,8 @@
     "i": "bronchitis",
     "lt": 8,
     "lv": 8,
-    "r": 3,
-    "rs": "Removed: \"and the US licenses are all cancelled with injectable-only forms\"",
+    "r": 4,
+    "rs": "Corrected: \"All 10 US authorizations are listed as valid,\"",
     "x": 0
    },
    {
@@ -4837,8 +4837,8 @@
     "i": "cauda equina syndrome",
     "lt": 8,
     "lv": 8,
-    "r": 2,
-    "rs": "Removed: \"All nine US licenses are valid, and t\"",
+    "r": 3,
+    "rs": "Corrected: \"The nine US license records for scopolamine are all valid.\"",
     "x": 0
    },
    {
@@ -5068,8 +5068,8 @@
     "i": "benign prostatic hyperplasia (disease)",
     "lt": 7,
     "lv": 7,
-    "r": 1,
-    "rs": "Removed: \"with three valid licenses\"",
+    "r": 2,
+    "rs": "Corrected: \"All three listed authorizations are valid,\"",
     "x": 0
    },
    {
@@ -5222,8 +5222,8 @@
     "i": "migraine disorder",
     "lt": 17,
     "lv": 6,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Removed: \"Of the 5 licences listed, 3 are valid and 2 are cancelled.\"",
     "x": 0
    },
    {
@@ -5233,8 +5233,8 @@
     "i": "preeclampsia",
     "lt": 23,
     "lv": 6,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for atracurium is not available in the data compiled for this report\"…",
+    "r": 2,
+    "rs": "Corrected: \"The compiled licence records list six single-ingredient ANDA injection (solution) products from…",
     "x": 0
    },
    {
@@ -5465,7 +5465,7 @@
     "lt": 21,
     "lv": 6,
     "r": 3,
-    "rs": "Removed: \"given that all six licenses are valid and the drug is marketed\"",
+    "rs": "Removed: \"All six licenses are valid, so there is currently valid US authorization in these records\"",
     "x": 0
    },
    {
@@ -5530,8 +5530,8 @@
     "i": "Prinzmetal angina",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Removed: \"One further authorization (ANDA214382, Lannett Company, Inc.) is also valid.\"",
     "x": 0
    },
    {
@@ -5783,8 +5783,8 @@
     "i": "acromesomelic dysplasia, Campailla Martinelli type",
     "lt": 23,
     "lv": 5,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "r": 3,
+    "rs": "Removed: \"All listed forms are oral.\"",
     "x": 0
    },
    {
@@ -6014,8 +6014,8 @@
     "i": "hypervitaminosis",
     "lt": 10,
     "lv": 4,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for benzphetamine are not available in the data compiled for this report\"…",
+    "r": 2,
+    "rs": "Corrected: \"Both are single-ingredient oral products.\"",
     "x": 4
    },
    {
@@ -6355,8 +6355,8 @@
     "i": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
     "lt": 4,
     "lv": 3,
-    "r": 4,
-    "rs": "Removed: \"given that all 3 licences are listed as valid\"",
+    "r": 5,
+    "rs": "Corrected: \"All are injectable products.\"",
     "x": 0
    },
    {
@@ -6454,8 +6454,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 7,
     "lv": 3,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"Only an oral suspension is on record.\"",
     "x": 0
    },
    {
@@ -6927,8 +6927,8 @@
     "i": "sclerosing cholangitis",
     "lt": 3,
     "lv": 2,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"The compiled data lists two single-ingredient injectable solution products (ANDA202501 and…",
     "x": 0
    },
    {
@@ -7686,8 +7686,8 @@
     "i": "nasal cavity disease",
     "lt": 5,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: \"The list may be partial, and all three are single-ingredient products.\"",
     "x": 0
    },
    {
@@ -7873,8 +7873,8 @@
     "i": "hepatic infarction",
     "lt": 1,
     "lv": 1,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Corrected: \"The local records list two licences. Both are single-ingredient products.\"",
     "x": 0
    },
    {
@@ -9479,8 +9479,8 @@
     "i": "drug-induced osteoporosis",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: \"The one licence on record is for a single-ingredient product made by Professional Complementary…",
     "x": 0
    },
    {
@@ -9512,8 +9512,8 @@
     "i": "rheumatoid arthritis",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Corrected: \"Valid licences are present, so the drug is shown as marketed.\"",
     "x": 0
    },
    {
@@ -9523,8 +9523,8 @@
     "i": "acrodermatitis chronica atrophicans",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: \"Both listed licences are single-ingredient products.\"",
     "x": 0
    },
    {
@@ -9578,8 +9578,8 @@
     "i": "craniostenosis cataract",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 2,
+    "rs": "Corrected: \"The only product in the local records is a drop-form solution (GUNA-IL 4), which gives no further…",
     "x": 9
    },
    {
@@ -9611,8 +9611,8 @@
     "i": "insomnia (disease)",
     "lt": 0,
     "lv": 0,
-    "r": 1,
-    "rs": "Removed: \"Deanol (DMAE) has no recorded approved indication in the data compiled for this report, and its…",
+    "r": 2,
+    "rs": "Corrected: \"The only authorization is a single-ingredient product (manufacturer: Professional Complementary…",
     "x": 0
    },
    {
@@ -9699,8 +9699,8 @@
     "i": "endometriosis of uterus",
     "lt": 8,
     "lv": 0,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for this drug is not available in the data compiled for this report\"…",
+    "r": 4,
+    "rs": "Corrected: \"since the only licence is cancelled\"",
     "x": 0
    },
    {
@@ -9710,8 +9710,8 @@
     "i": "gastroduodenitis",
     "lt": 0,
     "lv": 0,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Corrected: \"the only US authorization on record is cancelled,\"",
     "x": 0
    },
    {
@@ -9831,8 +9831,8 @@
     "i": "bronchitis",
     "lt": 3,
     "lv": 0,
-    "r": 1,
-    "rs": "Removed: \"The only US license on record is cancelled, and no label safety data were available\"",
+    "r": 2,
+    "rs": "Corrected: \"The only US product record compiled for this report is a cancelled tablet, and it carries no…",
     "x": 0
    },
    {
@@ -9930,8 +9930,8 @@
     "i": "congenital ichthyosiform erythroderma",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Corrected: \"The only US authorization on record is cancelled, and\"",
     "x": 0
    },
    {
@@ -10150,8 +10150,8 @@
     "i": "ectothrix infectious disease",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: \"All three are single-ingredient products.\"",
     "x": 0
    },
    {

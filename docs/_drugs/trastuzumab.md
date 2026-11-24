@@ -91,6 +91,12 @@ PR status does not change this mechanism. Tumours that are both HER2-positive an
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-trastuzumab-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Four further listings are not shown: HERZUMA (BLA761091), OGIVRI (BLA761074), HERCESSI (BLA761346) and Ontruzant (BLA761100)." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-trastuzumab-1 -->
+
 The data compiled for this report do not include approved indication text for any of them.
 
 <!-- review:begin us-lic-20261106-trastuzumab-1 -->
@@ -112,8 +118,6 @@ The data compiled for this report do not include approved indication text for an
 Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
-
-Four further listings are not shown: HERZUMA (BLA761091), OGIVRI (BLA761074), HERCESSI (BLA761346) and Ontruzant (BLA761100).
 
 ## Cytotoxicity
 
@@ -170,6 +174,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "All nine US listings for trastuzumab products are marked as cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since all listings show as cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c) |
+| 2026-11-24 | Removed: "Four further listings are not shown: HERZUMA (BLA761091), OGIVRI (BLA761074), HERCESSI (BLA761346) and Ontruzant (BLA761" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

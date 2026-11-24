@@ -83,7 +83,13 @@ Currently no related literature available.
 
 <!-- licenses:end -->
 
-The only authorization is a single-ingredient product (manufacturer: Professional Complementary Health Formulas), and it is currently valid. The drug is marketed in the United States.
+The only product on record is an NDC listing without an FDA application (unapproved homeopathic; manufacturer: Professional Complementary Health Formulas). The drug is marketed in the United States.
+
+<!-- review:begin us-lic-20261124b-deanol-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The only authorization is a single-ingredient product (manufacturer: Professional Complementary Health Formulas), and it is currently valid." Corrected: the status statement did not match the FDA data (Drugs@FDA and the NDC Directory); see the Quick Overview and the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-deanol-1 -->
 
 ## Safety Considerations
 
@@ -114,6 +120,7 @@ Below is the review log for this page: statements checked against official FDA d
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Deanol (DMAE) has no recorded approved indication in the data compiled for this report, and its only US listing is a cancelled product" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-24 | Corrected: "The only authorization is a single-ingredient product (manufacturer: Professional Complementary Health Formulas), and it" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

@@ -72,6 +72,12 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-enoxaparin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Two further ANDAs (ANDA214646, ANDA206834) are also on record." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-enoxaparin-1 -->
+
 <!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
@@ -86,7 +92,7 @@ Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC
 
 <!-- licenses:end -->
 
-Two further ANDAs (ANDA214646, ANDA206834) are also on record. Approved indication text is not available in the license records. The drug is marketed in the US.
+ Approved indication text is not available in the license records. The drug is marketed in the US.
 
 <!-- review:begin us-lic-20261106-enoxaparin-1 -->
 
@@ -144,6 +150,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "with 7 valid licenses" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 valid licenses" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism-of-action data for enoxaparin are not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lovenox (enoxaparin sodium) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5017a927-2a24-4f27-89f9-27c805bf7d59) |
+| 2026-11-24 | Removed: "Two further ANDAs (ANDA214646, ANDA206834) are also on record." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

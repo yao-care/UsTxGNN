@@ -92,7 +92,13 @@ Currently no related clinical trials registered for urinary tract infection.
 
 ## US Market Information
 
-The data compiled for this report show the drug as marketed in the United States, with six single-ingredient generic (ANDA) records in oral tablet and powder-for-suspension forms. The record list may be partial, and the licence text carries no indication wording.
+The data compiled for this report show the drug as marketed in the United States, with single-ingredient generic (ANDA) records in oral tablet and powder-for-suspension forms. The record list may be partial, and the licence text carries no indication wording.
+
+<!-- review:begin us-lic-20261124b-cefprozil-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "with six single-ingredient generic (ANDA) records in oral tablet and powder-for-suspension forms." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-cefprozil-1 -->
 
 <!-- licenses:begin -->
 
@@ -131,6 +137,19 @@ Three randomized comparative studies show cefprozil performed similarly to cefac
 - Comparison with currently recommended first-line agents
 - Package insert warnings and contraindications
 - Mechanism-of-action data from a primary source
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Corrected: "with six single-ingredient generic (ANDA) records in oral tablet and powder-for-suspension forms." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

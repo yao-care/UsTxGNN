@@ -101,7 +101,13 @@ Two other predictions (renal hypoplasia and bilateral renal hypoplasia, both sco
 
 <!-- licenses:end -->
 
-Both authorizations are listed as valid; the drug is currently marketed.
+All authorizations are listed as valid; the drug is currently marketed.
+
+<!-- review:begin us-lic-20261124b-goserelin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Both authorizations are listed as valid; the drug is currently marketed." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-goserelin-1 -->
 
 ## Safety Considerations
 
@@ -117,7 +123,13 @@ The package insert warnings and contraindications were not available in the data
 **Decision: Hold**
 
 **Rationale:**
-Amenorrhea is mainly an expected pharmacological effect of goserelin, not a distinct therapeutic opportunity. The only trial is indirect (oncologic endpoint, unknown status). Both US licences are valid, but the key safety documents are missing. The renal hypoplasia predictions have no supporting evidence at all.
+Amenorrhea is mainly an expected pharmacological effect of goserelin, not a distinct therapeutic opportunity. The only trial is indirect (oncologic endpoint, unknown status). All US licences are valid, but the key safety documents are missing. The renal hypoplasia predictions have no supporting evidence at all.
+
+<!-- review:begin us-lic-20261124b-goserelin-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Both US licences are valid, but the key safety documents are missing." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-goserelin-2 -->
 
 **To proceed, the following is needed:**
 - A clear therapeutic framing, such as menstrual suppression or ovarian protection during chemotherapy, rather than treatment of pathological amenorrhea.
@@ -142,6 +154,8 @@ Below is the review log for this page: statements checked against official FDA d
 |------|------|------|------|
 | 2026-11-06 | Removed: "larification of the regulatory status of the cancelled Zoladex NDAs and c" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-20 | "The data compiled for this report contains no detailed mechanism-of-action entry for goserelin. The description above is based on its known pharmacology" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Zoladex (goserelin) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=294b168b-6e5f-4db9-bf70-d599271458b3) |
+| 2026-11-24 | Corrected: "Both authorizations are listed as valid; the drug is currently marketed." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-24 | Corrected: "Both US licences are valid, but the key safety documents are missing." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

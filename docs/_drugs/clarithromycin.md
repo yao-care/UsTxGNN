@@ -78,7 +78,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-The local data list 7 ANDA records for single-ingredient clarithromycin products (the list may be partial). Indication text is not recorded in these records.
+The local data list ANDA records for single-ingredient clarithromycin products. Indication text is not recorded in these records.
+
+<!-- review:begin us-lic-20261124b-clarithromycin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The local data list 7 ANDA records for single-ingredient clarithromycin products (the list may be partial)." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-clarithromycin-1 -->
 
 <!-- licenses:begin -->
 
@@ -123,11 +129,12 @@ The prediction has no supporting clinical trials or publications, and no plausib
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data for clarithromycin are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460) |
+| 2026-11-24 | Corrected: "The local data list 7 ANDA records for single-ingredient clarithromycin products (the list may be partial)." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

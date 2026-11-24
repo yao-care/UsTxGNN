@@ -91,7 +91,7 @@ Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC
 
 <!-- licenses:end -->
 
-The list shows 5 of the records available; it may be partial. All products are oral formulations.
+All products are oral formulations.
 
 ## Cytotoxicity
 

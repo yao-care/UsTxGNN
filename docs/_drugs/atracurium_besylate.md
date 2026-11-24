@@ -69,7 +69,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-The compiled licence records list six single-ingredient ANDA injection (solution) products from AuroMedics Pharma LLC, Meitheal Pharmaceuticals Inc. and Hospira, Inc. No approved-indication text is recorded for them in the local data. Market status is recorded as marketed.
+The compiled licence records list single-ingredient injection (solution) products from several manufacturers, such as AuroMedics Pharma LLC, Meitheal Pharmaceuticals Inc. and Hospira, Inc. No approved-indication text is recorded for them in the local data. Market status is recorded as marketed.
+
+<!-- review:begin us-lic-20261124b-atracurium_besylate-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The compiled licence records list six single-ingredient ANDA injection (solution) products from AuroMedics Pharma LLC, Meitheal Pharmaceuticals Inc. and Hospira, Inc." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-atracurium_besylate-1 -->
 
 <!-- licenses:begin -->
 
@@ -106,11 +112,12 @@ The prediction has no supporting trials or publications, and no plausible diseas
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data for atracurium is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: atracurium besylate prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efe90ee2-fe9e-421f-9e54-2961085d3b12) |
+| 2026-11-24 | Corrected: "The compiled licence records list six single-ingredient ANDA injection (solution) products from AuroMedics Pharma LLC, M" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

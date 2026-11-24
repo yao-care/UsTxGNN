@@ -84,13 +84,19 @@ Clinical support is weak, however. A review notes that in the Phase 2 study in a
 
 ## US Market Information
 
-The drug is marketed in this country, and all eight licenses are listed as valid in the data compiled for this report. Approved indication text was not available.
+The drug is marketed in this country, and all of its licenses are listed as valid in the data compiled for this report. Approved indication text was not available.
 
 <!-- review:begin us-lic-20261106-dasatinib-1 -->
 
 > **Review correction (2026-11-06)**: Originally stated: "Three more ANDAs (AvKARE, Aurobindo, Zydus) are also listed as cancelled." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The current number of FDA applications and NDC listings for this drug is shown in the Quick Overview and in the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-dasatinib-1 -->
+
+<!-- review:begin us-lic-20261124b-dasatinib-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "all eight licenses are listed as valid in the data compiled for this report." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-dasatinib-1 -->
 
 <!-- licenses:begin -->
 
@@ -158,6 +164,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "Three more ANDAs (AvKARE, Aurobindo, Zydus) are also listed as cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Clarification of the cancelled US market status, to confirm product availability" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sprycel (dasatinib) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4764f37b-c9e6-4ede-bcc2-8a03b7c521df) |
+| 2026-11-24 | Corrected: "all eight licenses are listed as valid in the data compiled for this report." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

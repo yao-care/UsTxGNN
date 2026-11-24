@@ -71,7 +71,13 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Carisoprodol has six single-ingredient US licence records in the data compiled for this report (ANDA and NDA, oral tablets; the brand product is Soma). The list may be partial, and the records carry no approved-indication text.
+Carisoprodol has single-ingredient US licence records in the data compiled for this report (ANDA and NDA, oral tablets; the brand product is Soma). The list may be partial, and the records carry no approved-indication text.
+
+<!-- review:begin us-lic-20261124b-carisoprodol-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Carisoprodol has six single-ingredient US licence records in the data compiled for this report" Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-carisoprodol-1 -->
 
 <!-- licenses:begin -->
 
@@ -112,11 +118,12 @@ The prediction is supported only by a model score and a plausible sedative mecha
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data for carisoprodol is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Carisoprodol Tablets, Usp, 350 Mg (carisoprodol) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f08f4af-37c2-49b5-a4e3-284414f866fa) |
+| 2026-11-24 | Corrected: "Carisoprodol has six single-ingredient US licence records in the data compiled for this report" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

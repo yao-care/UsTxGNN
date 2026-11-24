@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The records below are single-ingredient levothyroxine products. Indication text is not included in the licence records. The list shows 5 of at least 11 approvals and may be partial.
+The records below are single-ingredient levothyroxine products. Indication text is not included in the licence records.
 
 <!-- licenses:begin -->
 

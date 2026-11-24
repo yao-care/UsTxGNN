@@ -69,7 +69,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-The data compiled for this report list 8 US records (ANDA generic injectables and one cosmetic cream record). The list may be partial, and the records carry no approved-indication text.
+The data compiled for this report list FDA applications (mostly generic ANDA injectables) and NDC listings without an FDA application (mostly creams and liquids). The list may be partial, and the records carry no approved-indication text.
+
+<!-- review:begin us-lic-20261124b-adenosine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The data compiled for this report list 8 US records (ANDA generic injectables and one cosmetic cream record)." Corrected: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-adenosine-1 -->
 
 <!-- licenses:begin -->
 
@@ -107,11 +113,12 @@ The prediction score is very high, but there are no clinical trials or publicati
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: adenosine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30) |
+| 2026-11-24 | Corrected: "The data compiled for this report list 8 US records (ANDA generic injectables and one cosmetic cream record)." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

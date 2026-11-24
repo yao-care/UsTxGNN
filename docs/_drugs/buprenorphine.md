@@ -74,6 +74,12 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-buprenorphine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Six further generic authorizations (tablets and patches) are also cancelled." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-buprenorphine-1 -->
+
 The product listing shows no approved indication text. The drug is marketed.
 
 <!-- review:begin us-lic-20261106-buprenorphine-2 -->
@@ -95,8 +101,6 @@ The product listing shows no approved indication text. The drug is marketed.
 Showing 5 of 53 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
-
-Six further generic authorizations (tablets and patches) are also cancelled.
 
 ## Safety Considerations
 
@@ -143,6 +147,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "with 11 valid authorizations" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid authorizations" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95) |
+| 2026-11-24 | Removed: "Six further generic authorizations (tablets and patches) are also cancelled." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

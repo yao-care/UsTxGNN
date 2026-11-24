@@ -133,7 +133,13 @@ Showing 5 of 36 entries (FDA applications first, active before discontinued; NDC
 
 <!-- licenses:end -->
 
-All products are injectables (injection, injection solution, and injection solution concentrate). The nebulized route used in the headache trials is not an approved route in the compiled data.
+Nearly all products are injectables (injection, injection solution, and injection solution concentrate); a buccal/sublingual film is also on record. The nebulized route used in the headache trials is not an approved route in the compiled data.
+
+<!-- review:begin us-lic-20261124b-dexmedetomidine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All products are injectables (injection, injection solution, and injection solution concentrate)." Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-dexmedetomidine-1 -->
 
 ---
 
@@ -184,6 +190,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "All 13 listings are cancelled, and none has approved indication text in the compiled data" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "All US listings are cancelled, and t" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Precedex (dexmedetomidine hydrochloride) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92b7ddaa-e45a-4b64-a802-bb5df8771dd6) |
+| 2026-11-24 | Corrected: "All products are injectables (injection, injection solution, and injection solution concentrate)." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

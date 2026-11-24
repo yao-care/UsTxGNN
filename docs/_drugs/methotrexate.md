@@ -79,7 +79,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The drug is marketed, and the compiled records contain no approved indication text. The five main ones are listed below, with NDAs first.
+The drug is marketed, and the compiled records contain no approved indication text.
 
 <!-- review:begin us-lic-20261106-methotrexate-1 -->
 

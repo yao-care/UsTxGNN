@@ -93,7 +93,13 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-The drug is marketed in the US. Approved-indication text is not available. Five representative entries:
+<!-- review:begin us-lic-20261124b-prednisolone-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Note that some listed licenses are for methylprednisolone products (e.g., SOLU-MEDROL), which are a related but different drug." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-prednisolone-1 -->
+
+The drug is marketed in the US. Approved-indication text is not available.
 
 <!-- review:begin us-lic-20261106-prednisolone-1 -->
 
@@ -114,8 +120,6 @@ The drug is marketed in the US. Approved-indication text is not available. Five 
 Showing 5 of 134 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
-
-Note that some listed licenses are for methylprednisolone products (e.g., SOLU-MEDROL), which are a related but different drug.
 
 ---
 
@@ -161,6 +165,7 @@ Below is the review log for this page: statements checked against official FDA d
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 13 valid licenses in the data" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
+| 2026-11-24 | Removed: "Note that some listed licenses are for methylprednisolone products (e.g., SOLU-MEDROL), which are a related but differen" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

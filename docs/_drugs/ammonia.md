@@ -70,6 +70,12 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-ammonia-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Both listed licences are single-ingredient products." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-ammonia-1 -->
+
 <!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
@@ -84,7 +90,7 @@ Showing 5 of 33 entries (FDA applications first, active before discontinued; NDC
 
 <!-- licenses:end -->
 
-At least 2 records are listed, and the list may be partial. Both listed licences are single-ingredient products. Their status in the licence records is cancelled, although overall market status is recorded as Marketed, so the status information should be verified before any decision relies on it.
+At least 2 records are listed, and the list may be partial.  Their status in the licence records is cancelled, although overall market status is recorded as Marketed, so the status information should be verified before any decision relies on it.
 
 ## Safety Considerations
 
@@ -105,6 +111,19 @@ The prediction has no supporting trials or literature (evidence level L5), no do
 - Any preclinical or clinical studies directly examining acrodermatitis chronica atrophicans
 - Verification of the licence status records
 - A safety assessment of topical or other exposure routes for this use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: "Both listed licences are single-ingredient products." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

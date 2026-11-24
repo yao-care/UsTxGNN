@@ -88,7 +88,7 @@ Clinical use has focused on combinations. Gemcitabine plus docetaxel and docetax
 
 ## US Market Information
 
-Licences recorded for docetaxel in the United States are all injectable. Approved indication text is not recorded in the local data. The table shows 5 of the 15 recorded licences; the list may be partial.
+Licences recorded for docetaxel in the United States are all injectable. Approved indication text is not recorded in the local data.
 
 <!-- licenses:begin -->
 

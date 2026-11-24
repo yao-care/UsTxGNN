@@ -96,6 +96,12 @@ Note: PMID 38669232 (an aripiprazole/bupropion meta-analysis) has been retracted
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-aripiprazole-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Six further generic tablet ANDAs are also listed as cancelled." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-aripiprazole-1 -->
+
 The drug is marketed in the US, and no approved indication text is recorded.
 
 <!-- review:begin us-lic-20261106-aripiprazole-2 -->
@@ -117,8 +123,6 @@ The drug is marketed in the US, and no approved indication text is recorded.
 Showing 5 of 46 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
-
-Six further generic tablet ANDAs are also listed as cancelled.
 
 ## Safety Considerations
 
@@ -176,6 +180,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "with 11 valid licenses for any of them" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Abilify Asimtufii (aripiprazole) prescribing information, Otsuka America Pharmaceutical, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be) |
+| 2026-11-24 | Removed: "Six further generic tablet ANDAs are also listed as cancelled." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

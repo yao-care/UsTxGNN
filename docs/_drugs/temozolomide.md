@@ -92,7 +92,13 @@ Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC
 
 <!-- licenses:end -->
 
-At least 6 approvals are on record (the sixth is ANDA213328, Nivagen Pharmaceuticals), and the list may be partial. All are single-ingredient oral capsules.
+At least 6 approvals are on record (the sixth is ANDA213328, Nivagen Pharmaceuticals), and the list may be partial. Nearly all are single-ingredient oral capsules; an intravenous powder is also on record.
+
+<!-- review:begin us-lic-20261124b-temozolomide-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All are single-ingredient oral capsules." Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-temozolomide-1 -->
 
 ## Cytotoxicity
 
@@ -129,11 +135,12 @@ No clinical trial is registered for this indication, and the only closely relate
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56) |
+| 2026-11-24 | Corrected: "All are single-ingredient oral capsules." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

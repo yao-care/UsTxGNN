@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "PALONOSETRON"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Palonosetron: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available in the data compiled for this report (palonosetron is g…"
 ---
 
@@ -76,6 +76,12 @@ A 2026 review of antiemetic-associated QT prolongation (PMID 42748473, *European
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-palonosetron-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Only injectable forms are listed." Removed: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-palonosetron-1 -->
+
 <!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
@@ -90,7 +96,7 @@ Showing 5 of 25 entries (FDA applications first, active before discontinued; NDC
 
 <!-- licenses:end -->
 
-The drug is marketed in the US. Only the 5 main authorizations are shown here. Only injectable forms are listed.
+The drug is marketed in the US. 
 
 <!-- review:begin us-lic-20261106-palonosetron-1 -->
 
@@ -136,6 +142,7 @@ Below is the review log for this page: statements checked against official FDA d
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 14 valid licenses in the data" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Posfrea (palonosetron) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13a201ba-c86d-48c5-a0e1-a3e0b4e6a2a7) |
+| 2026-11-24 | Removed: "Only injectable forms are listed." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

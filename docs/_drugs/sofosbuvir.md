@@ -109,6 +109,12 @@ Trials below are for the two leading candidates.
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-sofosbuvir-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Two further licences are not listed here: NDA212477 (Harvoni, pellet) and NDA209195 (Vosevi, tablet, film coated)." Removed: this statement described the earlier model-written license table, which has been replaced by the program-generated table under US Market Information (Drugs@FDA and the NDC Directory). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-sofosbuvir-1 -->
+
 The licence records contain no approved-indication text.
 
 <!-- review:begin us-lic-20261105-sofosbuvir-1 -->
@@ -130,8 +136,6 @@ The licence records contain no approved-indication text.
 Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
-
-Two further licences are not listed here: NDA212477 (Harvoni, pellet) and NDA209195 (Vosevi, tablet, film coated).
 
 ---
 
@@ -181,6 +185,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-05 | Removed: "All seven US licences are valid" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All seven US licences are valid, and the drug is marketed in the US" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf) |
+| 2026-11-24 | Removed: "Two further licences are not listed here: NDA212477 (Harvoni, pellet) and NDA209195 (Vosevi, tablet, film coated)." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

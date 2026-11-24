@@ -81,7 +81,19 @@ None of these publications studies baclofen in ADHD. They are listed as indirect
 
 ## US Market Information
 
-Baclofen has 11 ANDA records in the US data; the list may be partial. They cover oral tablets and one injection product, from manufacturers and repackagers such as Direct_Rx, A-S Medication Solutions, Rising Pharma Holdings, Bryant Ranch Prepack, Aphena Pharma Solutions, Proficient Rx, REMEDYREPACK, Advagen Pharma and Major Pharmaceuticals.
+<!-- review:begin us-lic-20261124b-baclofen-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Baclofen has 11 ANDA records in the US data; the list may be partial." Removed: the number or type of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-baclofen-2 -->
+
+ They include oral tablets and intrathecal injection products, from manufacturers and repackagers such as Direct_Rx, A-S Medication Solutions, Rising Pharma Holdings, Bryant Ranch Prepack, Aphena Pharma Solutions, Proficient Rx, REMEDYREPACK, Advagen Pharma and Major Pharmaceuticals.
+
+<!-- review:begin us-lic-20261124b-baclofen-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "They cover oral tablets and one injection product," Corrected: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-baclofen-1 -->
 
 <!-- licenses:begin -->
 
@@ -120,11 +132,13 @@ The TxGNN score is very high (0.9932), but there are no registered clinical tria
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data for baclofen is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2) |
+| 2026-11-24 | Corrected: "They cover oral tablets and one injection product," | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-24 | Removed: "Baclofen has 11 ANDA records in the US data; the list may be partial." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

@@ -76,6 +76,12 @@ For reference, the only publications retrieved for any top-ranked prediction con
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261124b-tretinoin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All listed products are topical (gel, cream, lotion)." Removed: the dosage-form statement did not match the dosage forms of all FDA applications on record (Drugs@FDA and the NDC Directory); see the table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261124b-tretinoin-1 -->
+
 No approved-indication text is on record. The five main ones are:
 
 <!-- review:begin us-lic-20261106-tretinoin-1 -->
@@ -98,7 +104,7 @@ Showing 5 of 55 entries (FDA applications first, active before discontinued; NDC
 
 <!-- licenses:end -->
 
-All listed products are topical (gel, cream, lotion). No systemic formulation appears in the data compiled for this report.
+ No systemic formulation appears in the data compiled for this report.
 
 ## Cytotoxicity
 
@@ -157,6 +163,7 @@ Below is the review log for this page: statements checked against official FDA d
 |------|------|------|------|
 | 2026-11-06 | Removed: "There are 16 valid US licenses and n" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: tretinoin prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c4ae9d9-c2a0-4995-a27a-e3f0f0284db9) |
+| 2026-11-24 | Removed: "All listed products are topical (gel, cream, lotion)." | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

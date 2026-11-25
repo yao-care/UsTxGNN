@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 107 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 115 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-11-25
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>107 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>115 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,55 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (107)
+## Related News (115)
+
+### [WA measles situation ‘much worse,’ with five outbreaks so far - The Seattle Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdms1cXJSREoyV04tRHBOS05KczBmMkMtb3NEU0dEcTJkb3BKOEp0a0dHY0IzZF9fUlR1YVp3MkVzdmd4TDd2LXFJeXp2Nld1M3M3bExBdGt6MGIzbWI2X2VsR3VZQzRsYWNyQTBWbHFxbG1CclhFX0FFNWxEeVM4ZXZZQU5QZmFTNEg5UXVVbnlRQVgtelgxSHRJN0diSUN3RmxZOUk5dkdrdVVsYVZmZDE4VTBKUG9LZEIwVw?oc=5)
+
+2026-11-25
+
+Source: [The Seattle Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdms1cXJSREoyV04tRHBOS05KczBmMkMtb3NEU0dEcTJkb3BKOEp0a0dHY0IzZF9fUlR1YVp3MkVzdmd4TDd2LXFJeXp2Nld1M3M3bExBdGt6MGIzbWI2X2VsR3VZQzRsYWNyQTBWbHFxbG1CclhFX0FFNWxEeVM4ZXZZQU5QZmFTNEg5UXVVbnlRQVgtelgxSHRJN0diSUN3RmxZOUk5dkdrdVVsYVZmZDE4VTBKUG9LZEIwVw?oc=5)
+
+---
+
+### [Common sleep and anxiety drugs could be harming aging brains](https://news.google.com/rss/articles/CBMib0FVX3lxTE5WQnVwWGZqV3FwRkJzQTZBY0daR2xJMDQycGpqZGNfaGtVbE5Nd1I1SXVIOVJ4R0NQUnAzQktVT3kyTW5mUjI1alNpN0gtdWlXX0V1ZG05T1JZc05va1dhM083OTdvYnhiUGNnRGg1MA?oc=5)
+
+2026-11-25
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5WQnVwWGZqV3FwRkJzQTZBY0daR2xJMDQycGpqZGNfaGtVbE5Nd1I1SXVIOVJ4R0NQUnAzQktVT3kyTW5mUjI1alNpN0gtdWlXX0V1ZG05T1JZc05va1dhM083OTdvYnhiUGNnRGg1MA?oc=5)
+
+---
+
+### [Maybe Dark Energy Isn't so Inexplicable After All - Universe Today](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSlNjTzlUYTRGZGlCcktaSlZuSno0Nm8wQk10bUstR3VtUEJLeGdaM3BaMDN3RHBHNGlPcW5vTWRuTzRHSUpNeEMyd0l4T3ZiNFhDdkltZ1EzbkpJdWNjTGs1YV9zS3pKODdlaUl2T0YtVjdBNE5zVU1zV2pxdm9SM3FnTmlfYlFuNUxIQkE3Rjg?oc=5)
+
+2026-11-25
+
+Source: [Universe Today](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSlNjTzlUYTRGZGlCcktaSlZuSno0Nm8wQk10bUstR3VtUEJLeGdaM3BaMDN3RHBHNGlPcW5vTWRuTzRHSUpNeEMyd0l4T3ZiNFhDdkltZ1EzbkpJdWNjTGs1YV9zS3pKODdlaUl2T0YtVjdBNE5zVU1zV2pxdm9SM3FnTmlfYlFuNUxIQkE3Rjg?oc=5)
+
+---
+
+### [5 Drinks That Support Gut Health More Than Kombucha](https://news.google.com/rss/articles/CBMijgFBVV95cUxNd050bXZQSGo3WE9WeFdDemZCVUVJeVFFc2dzUDMxdUEzcnJVLVhoRDhOOTFWUEcwTEU2aEJvVHRmNWFQbUJWMUFGeVJWMHlJUEI2cGFmUU43XzFuUlozLTJycndFWENDUkRYb0tXcGJsSWlEdTF4aGJUM1FrSTBSSUFqRy14c1ZCWlcyRmR3?oc=5)
+
+2026-11-25
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMijgFBVV95cUxNd050bXZQSGo3WE9WeFdDemZCVUVJeVFFc2dzUDMxdUEzcnJVLVhoRDhOOTFWUEcwTEU2aEJvVHRmNWFQbUJWMUFGeVJWMHlJUEI2cGFmUU43XzFuUlozLTJycndFWENDUkRYb0tXcGJsSWlEdTF4aGJUM1FrSTBSSUFqRy14c1ZCWlcyRmR3?oc=5)
+
+---
+
+### [‘A Miracle’: Oklahoman with alpha-gal syndrome sees success with existing allergy drug](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTh1SUIyR0NFV0Q4MVgzeHJsVS01cEJ3aW9uaG0yTk14UkF1djBQMC1pNi1nR2ctQzgtT1dhTHp5dVN0UzZwUU1aX2FpbEVKYVAtbG5tX0ttczgwa3ROd1hLbjVYQUpPYndoVk9Mak1HUDh0NTN1VlRpbXZZR2RHaGx0bjEwVm5Zd1UxTkFJNXloaUpOZ1pTQ0N3bjlBU3h5Q0wxQjRMQVpmQdIBrwFBVV95cUxNZzNMTm11bjZkZDdFWVA1MFRERVRmSnNKM3VDLUVaZXBwa3lBcDVYMUloem9uN1lMU2RuYUlOMTNiRnFWb3ZJYWl0eW95THhPTGt3SWIxR0FJaFRqUlVha3B4dlk5eGZ3ZUtUeF95REktOHZuNmdYeFROVjFDbEZKQ2hUcDBaMFM3R1lkY1BacThFc1lTckJoeUVVdUdWM2JFQkluNWE1QkVfNzR6TUZn?oc=5)
+
+2026-11-25
+
+Source: [KFOR](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTh1SUIyR0NFV0Q4MVgzeHJsVS01cEJ3aW9uaG0yTk14UkF1djBQMC1pNi1nR2ctQzgtT1dhTHp5dVN0UzZwUU1aX2FpbEVKYVAtbG5tX0ttczgwa3ROd1hLbjVYQUpPYndoVk9Mak1HUDh0NTN1VlRpbXZZR2RHaGx0bjEwVm5Zd1UxTkFJNXloaUpOZ1pTQ0N3bjlBU3h5Q0wxQjRMQVpmQdIBrwFBVV95cUxNZzNMTm11bjZkZDdFWVA1MFRERVRmSnNKM3VDLUVaZXBwa3lBcDVYMUloem9uN1lMU2RuYUlOMTNiRnFWb3ZJYWl0eW95THhPTGt3SWIxR0FJaFRqUlVha3B4dlk5eGZ3ZUtUeF95REktOHZuNmdYeFROVjFDbEZKQ2hUcDBaMFM3R1lkY1BacThFc1lTckJoeUVVdUdWM2JFQkluNWE1QkVfNzR6TUZn?oc=5)
+
+---
+
+### [Major Success Sees Viral Infections Fall 68% in Brazil After Releasing Wolbachia-Infected Mosquitoes - Good News Network](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaHJiVTMwcHdFM28xY3JVSGFSenY1QUJVbVRQcXl5b3k0Tlk1ZThyT0dXdzBhWmdnYkx2YmpjbW9uYzJxSkRCc1VRd2prMGZ0LTdzcVBob2kwM3N5U3AxVmlxZUM1TThHMUUxZGdzUU1FdmVfcTNLNjlFUVBDYmpNSjhqZTJKVGg4dEZvZWZHNG5qMDV6LUQ2ZF9UUENQd2tBTjhVNWRTMElMSlRYVDg2ODVxdm5LVG9iOHI1d0JoT0NOREVfRkhjeTFfaVQ?oc=5)
+
+2026-11-24
+
+Source: [Good News Network](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaHJiVTMwcHdFM28xY3JVSGFSenY1QUJVbVRQcXl5b3k0Tlk1ZThyT0dXdzBhWmdnYkx2YmpjbW9uYzJxSkRCc1VRd2prMGZ0LTdzcVBob2kwM3N5U3AxVmlxZUM1TThHMUUxZGdzUU1FdmVfcTNLNjlFUVBDYmpNSjhqZTJKVGg4dEZvZWZHNG5qMDV6LUQ2ZF9UUENQd2tBTjhVNWRTMElMSlRYVDg2ODVxdm5LVG9iOHI1d0JoT0NOREVfRkhjeTFfaVQ?oc=5)
+
+---
 
 ### [1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQamQyRW9UOGNIRDRkRGJQWGJ5ZFR6RDhISHo4VVlLODNMemhGVzBTZ3FwT3p3dnA5eDRYVDdFbUFPdFZZUklkekh0c1dac1kyTV8yTkhtT0tSUWlZOEhDQTBwVDZUUXZzYnhPZjNaRWFUUUZQSjVDTTVHNl8ybmZZYUQzWDVFU3RKNGtTSXVwYjRUTENYRmlGOG5lX2RRWDZXd0tZSVVIUU5tbi15YWRMel9PeUU2Um9FdERQcDhtNTVYSjh1SVlDUnAtMzFyMFM4TEZidWFYNnJMZThoUzlVMUZEano3QQ?oc=5)
 
@@ -66,6 +114,14 @@ Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yNkd5Q1JoZVBl
 2026-11-24
 
 Source: [StudyFinds](https://news.google.com/rss/articles/CBMib0FVX3lxTE9WUFJvYVhiV1E1UWRPbXNfbDRTSE9vTUVjOHlST0k2WEljaEt4ckNoUGE3UlVEQlExQkR4NU0xc3ZfcEcwZkNwY0dQNy1Xd1QwbXI1ZTE0V0J2LW1CRERmTndsSHQwLUs2d0lYbU5mVQ?oc=5)
+
+---
+
+### [GLP-1s could prevent millions of deaths: Study - FOX8 WGHP](https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXVIY05yRTlRaDNETTlhMGdaVTE4TkNwUW5OYmo4UGVRbDBqMGE5X2FFdTBlOVEzN2hIVG92TmIyQ2REXzk2dEluMnFlUVNnTmlJN1J0QU1vNGNYVXJIU29Ob3gxMGtpTFR4NFhnMThtU2MwclFkblIwbTBYSzFjRDc1SdIBiAFBVV95cUxQUFYwVHRzOGhtWldIal9DdUtfU09KckE5Q0JzV2p4OW9nSVhKQkR2N1k1TXl6SXFLa2hzVy1jZW84X2lSWGhOYkhtRjdkTFNENmRJQW56TkVxbnFDWDV1ZVNZS3VXZ0I3aUNhN1diY2FCeWxBWHFJc05Ud0VVMzlic0ZBN1gzUG9i?oc=5)
+
+2026-11-24
+
+Source: [FOX8 WGHP](https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXVIY05yRTlRaDNETTlhMGdaVTE4TkNwUW5OYmo4UGVRbDBqMGE5X2FFdTBlOVEzN2hIVG92TmIyQ2REXzk2dEluMnFlUVNnTmlJN1J0QU1vNGNYVXJIU29Ob3gxMGtpTFR4NFhnMThtU2MwclFkblIwbTBYSzFjRDc1SdIBiAFBVV95cUxQUFYwVHRzOGhtWldIal9DdUtfU09KckE5Q0JzV2p4OW9nSVhKQkR2N1k1TXl6SXFLa2hzVy1jZW84X2lSWGhOYkhtRjdkTFNENmRJQW56TkVxbnFDWDV1ZVNZS3VXZ0I3aUNhN1diY2FCeWxBWHFJc05Ud0VVMzlic0ZBN1gzUG9i?oc=5)
 
 ---
 
@@ -482,6 +538,14 @@ Source: [Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWhSRzFsU
 2026-11-19
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ1lYdWZaVzc0R3pEemRhYmdoalVVWGxFODdhUWZ1UWZrYmVaS1pBUnJfYkE1MzBkeUpOdTc0VVJUM2JLNFBndmxQQmpCWjBJSldCeFBzelkxNVFwU2dzUlJxRUI5SUNoM3Bfc2NWOURmdVZac3l2QzZ3eERkNmdBU19ENWE4LVpFT05GX0J6dzBLamRrOU4wdlZtalNCNGdsZ09BZkw4b3dlbG04S1dkaUlFclZsV0l1ak0w?oc=5)
+
+---
+
+### [TOI Medithon: Why managing diabetes means looking beyond blood sugar, from heart health and obesity to ki - The Times of India](https://news.google.com/rss/articles/CBMiugJBVV95cUxOZjlEMWJGV2V5VlFEaFJ1VzQ0Nmt5OHRhSVlHMUZ4NFFZMXVMeTdXd2k2b1U1TGFseGdoVVJWemR0MDdBVG5tYmZnNTI0aGtDdllqdFZaWUxiMTNCQWE2a18tZXJiLUhPSzlQWF9OV2w3dVNzeG8xcjNqUV9EODZWOEV4eDl0ZmpwM3ZjbmQ0TTFLcmY2aVltWlZxTElKUFNwVnFzRm12UEotTUhtSW1KbkVPWjFxSWloLXRiZkhnMlFOUElDWmg1WG4wYVhzb3I3dXdyVkpVb0hBWG9fUUhpeWc4bVdVd0xlRmV0dlZxNXVDTkUxUUhEWVJucUhuYmNEQnVvU0w3TjZmNU5jXzYwWUdmX04yc0FKemd3dHBOdXNyelZrZFlvTjZaUGlOd0tMbWpkbFR3QmtZUdIBvwJBVV95cUxOTkJpVUdNVTNERHB0eURuN3lLX05tN3BmZ013MjFoQUJnR1FrOGM5OFVBU1pvdHF3amU5b3pXMlhVZ0ZfUXhJWnVTWk1WMkZENkZDd084S1dpbkQzVEk2Zm1GMl84a1JnMnVkdV9LMjRVNjhvWVBkMFFnZmpZLVppck5CSDRBbHdWSGh2aUhEQ0hhSmpMUjNRWUdZbm9MclZmT243RUFXUG8wTkhiTUNNVUg0dWZHQW9neVBCZ2dzNS1BeEZXTjhRQzRUendKX29zSUQ1bVZNSnRxMFB5LWZjdk03V1RUS0JSYm9nQzlOczladG05aW5VN2VQNTF6Y3VsbC1zaVVLRTZQRnBFbF9QNHNJa1p6UUJjQ3k4RlhDelJ6ZURaWG0wLVhSUDRhN3ZiMi14aEpCblFQUFM2V25F?oc=5)
+
+2026-11-19
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMiugJBVV95cUxOZjlEMWJGV2V5VlFEaFJ1VzQ0Nmt5OHRhSVlHMUZ4NFFZMXVMeTdXd2k2b1U1TGFseGdoVVJWemR0MDdBVG5tYmZnNTI0aGtDdllqdFZaWUxiMTNCQWE2a18tZXJiLUhPSzlQWF9OV2w3dVNzeG8xcjNqUV9EODZWOEV4eDl0ZmpwM3ZjbmQ0TTFLcmY2aVltWlZxTElKUFNwVnFzRm12UEotTUhtSW1KbkVPWjFxSWloLXRiZkhnMlFOUElDWmg1WG4wYVhzb3I3dXdyVkpVb0hBWG9fUUhpeWc4bVdVd0xlRmV0dlZxNXVDTkUxUUhEWVJucUhuYmNEQnVvU0w3TjZmNU5jXzYwWUdmX04yc0FKemd3dHBOdXNyelZrZFlvTjZaUGlOd0tMbWpkbFR3QmtZUdIBvwJBVV95cUxOTkJpVUdNVTNERHB0eURuN3lLX05tN3BmZ013MjFoQUJnR1FrOGM5OFVBU1pvdHF3amU5b3pXMlhVZ0ZfUXhJWnVTWk1WMkZENkZDd084S1dpbkQzVEk2Zm1GMl84a1JnMnVkdV9LMjRVNjhvWVBkMFFnZmpZLVppck5CSDRBbHdWSGh2aUhEQ0hhSmpMUjNRWUdZbm9MclZmT243RUFXUG8wTkhiTUNNVUg0dWZHQW9neVBCZ2dzNS1BeEZXTjhRQzRUendKX29zSUQ1bVZNSnRxMFB5LWZjdk03V1RUS0JSYm9nQzlOczladG05aW5VN2VQNTF6Y3VsbC1zaVVLRTZQRnBFbF9QNHNJa1p6UUJjQ3k4RlhDelJ6ZURaWG0wLVhSUDRhN3ZiMi14aEpCblFQUFM2V25F?oc=5)
 
 ---
 

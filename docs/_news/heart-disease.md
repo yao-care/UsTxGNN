@@ -3,7 +3,7 @@ layout: default
 title: "CVD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CVD (heart disease). 47 articles, 1 related drugs."
+description: "Health news about CVD (heart disease). 49 articles, 1 related drugs."
 permalink: /news/heart-disease/
 last_modified_at: 2026-11-25
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about CVD (heart disease)?">
-<strong>CVD (heart disease)</strong> currently has <strong>47 news articles</strong> and 1 related drugs.
+<strong>CVD (heart disease)</strong> currently has <strong>49 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ This page brings together the latest health news about “CVD” and lists the d
 </ul>
 </div>
 
-## Related News (47)
+## Related News (49)
+
+### [Single-cell variant-to-enhancer-to-gene map for coronary artery disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
+
+2026-11-25
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
+
+---
 
 ### [US Cardiologists Issued New Guidelines For How to Manage Cholesterol](https://news.google.com/rss/articles/CBMingFBVV95cUxOWG5qWWRnazQtWWQwMlBEQXVVVzVSbkd1cTFrQ3FJQ0RWcDVndDZNVGQ5R1JHSktoN0tIRHpsWE9MLXZkSEthci1DWjZ2MkEzVklVYmFibkxlQk5QbG9laHJqVlNmN3BuRlNHQmhkUE8zSG5jakVHM1ZVTTE1ZWpyRXdxdTMyNjROaFJfYjBhSlJzdVF4aGhJTHBFZkdOZw?oc=5)
 
 2026-11-24
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxOWG5qWWRnazQtWWQwMlBEQXVVVzVSbkd1cTFrQ3FJQ0RWcDVndDZNVGQ5R1JHSktoN0tIRHpsWE9MLXZkSEthci1DWjZ2MkEzVklVYmFibkxlQk5QbG9laHJqVlNmN3BuRlNHQmhkUE8zSG5jakVHM1ZVTTE1ZWpyRXdxdTMyNjROaFJfYjBhSlJzdVF4aGhJTHBFZkdOZw?oc=5)
+
+---
+
+### [ASCVD Risk Reclassification, Statin Recommendations With 2026 Dyslipidemia Guideline - American College of Cardiology](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkhOMFYyYnNscTk4bTZfelNMWlAyMzdiZlpXWjRTelFmQllZTDJkQzR2TGdTcjZDZ0s1cTZuaFVBZTFNN19xUUU3RThuaWVxcUlxZkhMVHV5c3VPQ3NNUkJwQXhUVDJlRTRUakRqVTJFbi1ScUNRRk5HcnFxbXFGOW5kZ1pCRm9EdlA0dnZNQ0hBWXZ5Und2Z05aMUg5MDEt?oc=5)
+
+2026-11-24
+
+Source: [American College of Cardiology](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkhOMFYyYnNscTk4bTZfelNMWlAyMzdiZlpXWjRTelFmQllZTDJkQzR2TGdTcjZDZ0s1cTZuaFVBZTFNN19xUUU3RThuaWVxcUlxZkhMVHV5c3VPQ3NNUkJwQXhUVDJlRTRUakRqVTJFbi1ScUNRRk5HcnFxbXFGOW5kZ1pCRm9EdlA0dnZNQ0hBWXZ5Und2Z05aMUg5MDEt?oc=5)
 
 ---
 

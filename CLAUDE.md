@@ -621,4 +621,4 @@ gate（licenses.py 的 page_problems 第 5 項）擋「公開頁快照有程式�
 - 2026-11-25 套用：29 個證據包補 31 個申請號（例 pertuzumab＋PEBRILZO BLA761501、doxorubicin＋OXDERYS NDA221093、amifampridine＋2 張 ANDA、brimonidine＋timolol 複方 ANDA217589 進 5 個證據包、calcium_chloride＋CALREZDY NDA219456）；第二次跑 0 筆。
   證據包 local_regulatory 重算 11 個（有證據包的 11 頁）；概覽狀態列／張數列 11 頁 22 格、程式表 11 頁、description 6 頁由程式同步；last_modified_at 11 頁改 2026-11-25。
   正文跟新事實矛盾 1 句：hydroxyurea 待辦「since 7 authorizations are currently valid」（事實層有效 8 張）以 `us-lic-20261125-hydroxyurea-1` 拿掉寫死的張數。另寫的寬偵測（11 頁正文的張數、only／all／both＋許可字樣）其餘命中都是試驗、文獻數。
-  data/raw 的兩份全量檔、狀態檔與改到的證據包、證據包以 data-overlay 換進 Release。checker 前後非 M 類都是 P1 369／P3 136／P4 1／P7 352（既有、跟許可證無關；改後中途出現的 M3 1 句即上面那句，已更正）；gate exit 0。
+  data/raw 的兩份全量檔、狀態檔與改到的 bundles、evidence_packs 以 data-overlay 換進 Release。checker 前後都是 P1 369／P3 136／P4 1／P7 352（本機只還原 bundles、raw 與 11 個 evidence_packs，P 類前後相同、跟許可證無關；改後中途出現的 M3 1 句即上面那句，已更正，M 類 0）；gate exit 0。

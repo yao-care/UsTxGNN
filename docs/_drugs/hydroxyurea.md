@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 781
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "HYDROXYUREA"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
-description: "Hydroxyurea: predicted new indication Female breast carcinoma (evidence level L5). In the US: 10 FDA applications (7 active)"
+description: "Hydroxyurea: predicted new indication Female breast carcinoma (evidence level L5). In the US: 11 FDA applications (8 active)"
 ---
 
 # Hydroxyurea
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **female breast carcinoma**, bu
 | Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 (preclinical and mechanistic studies only) |
-| US Market Status | Marketed (active FDA-approved applications: 7 of 10) |
-| Number of FDA Applications | 10 (active: 7) |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 11) |
+| Number of FDA Applications | 11 (active: 8) |
 | Recommended Decision | Hold |
 
 ---
@@ -101,9 +101,9 @@ Several other retrieved papers are only loosely related, such as cervical cancer
 | ANDA075340 | HYDROXYUREA | PH HEALTH | Capsule; oral | Valid |
 | ANDA213438 | HYDROXYUREA | LEADING | Capsule; oral | Valid |
 | ANDA218021 | HYDROXYUREA | QILU | Capsule; oral | Valid |
-| NDA016295 | DROXIA | WAYLIS THERAP | Capsule; oral | Valid |
+| ANDA220300 | HYDROXYUREA | ESJAY PHARMA | Tablet; oral | Valid |
 
-Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
 
@@ -152,7 +152,13 @@ Among the other candidates evaluated for hydroxyurea, **sickle cell-hemoglobin C
 - Detailed mechanism-of-action data
 - Modern preclinical data on hydroxyurea alone or in combination in breast cancer models, such as subtype-specific or BRCA-deficient models
 - A clinical rationale and trial design, since no registered breast cancer trial exists
-- Clarification of the US regulatory position, since 7 authorizations are currently valid
+- Clarification of the US regulatory position (the current number of active FDA applications is shown in the Quick Overview and in the table under US Market Information)
+
+<!-- review:begin us-lic-20261125-hydroxyurea-1 -->
+
+> **Review correction (2026-11-25)**: Originally stated: "Clarification of the US regulatory position, since 7 authorizations are currently valid" Corrected: the number of active FDA applications stated here no longer matches the FDA data after a newly approved application was added (Drugs@FDA as of 2026-11-20). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/).
+
+<!-- review:end us-lic-20261125-hydroxyurea-1 -->
 
 <!-- review:begin log -->
 
@@ -164,6 +170,7 @@ Below is the review log for this page: statements checked against official FDA d
 |------|------|------|------|
 | 2026-11-06 | Removed: "Two further generic capsule authorizations (ANDA218021, ANDA213438) are also cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xromi (hydroxyurea) prescribing information, Nova Laboratories, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b37d336-86da-4363-aef1-34a7d3ba973b) |
+| 2026-11-25 | Corrected: "Clarification of the US regulatory position, since 7 authorizations are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/) |
 
 <!-- review:end log -->
 

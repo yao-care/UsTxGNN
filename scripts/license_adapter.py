@@ -18,6 +18,8 @@ Drugs@FDA 沒有的申請號另查兩份 FDA 現行清單（Drugs@FDA 有的照�
   兩份都是選用：下載失敗就略過（只少了這部分的涵蓋，不影響 Drugs@FDA 的判定）。三份都沒有的申請號照舊保留原狀態、列為查不到，
   不推定註銷（Drugs@FDA 不含 CBER，Purple Book 不含部分過敏原 BLA，NDC 列名不等於許可），所以本站沒有 confirmed_absent。
   OTC monograph（M0xx／part 3xx）等沒有申請號的紀錄不受影響（record_id 只認 NDA／ANDA／BLA）。
+2026-11-25（用戶決定「adapter 存成分」）：狀態檔只有申請號與狀態，現在另把下載到的 Drugs@FDA、NDC 全量檔原樣存成 data/raw/drugsfda_openfda.zip、
+ndc_openfda.zip（us_license_match 用的檔名；有成分、品名、劑型），Purple Book 的紀錄另存 Proper Name（proper_names）。
 """
 import io
 import json
@@ -50,6 +52,7 @@ def fetch():
                 raise
             time.sleep(15 * (attempt + 1))
     data = json.loads(z.read(z.namelist()[0]))
+    _save_raw("drugsfda_openfda.zip", r.content, len(data.get("results") or []) >= 15000)
     out = []
     for x in data.get("results", []):
         a = (x.get("application_number") or "").strip()
@@ -62,6 +65,19 @@ def fetch():
     have |= {r["appl"] for r in pb}
     out += [r for r in _fetch_ndc() if r["appl"] not in have]
     return out
+
+
+def _save_raw(name, content, ok):
+    """2026-11-25（用戶決定「adapter 存成分」）：下載到的全量檔原樣存進 data/raw（Release 帶著），
+    檔名＝src/ustxgnn/collectors/us_license_match.py 用的那兩份（drugsfda_openfda.zip、ndc_openfda.zip，都有成分、品名、劑型欄），
+    scripts/rebuild_licenses_by_ingredient.py --skip-download 就是用現行清單比對。筆數檢查沒過（ok 為假）不覆寫。"""
+    if not ok:
+        print(f"{name} 筆數檢查沒過，不覆寫 data/raw")
+        return
+    from pathlib import Path
+    p = Path(__file__).resolve().parents[1] / "data" / "raw" / name
+    p.parent.mkdir(parents=True, exist_ok=True)
+    p.write_bytes(content)
 
 
 def _get(url, timeout=300):
@@ -102,20 +118,24 @@ def _fetch_purplebook():
         print("Purple Book 找不到表頭，略過")
         return []
     ib, im, il = head.index("BLA Number"), head.index("Marketing Status"), head.index("Licensure")
-    st = {}
+    ip = head.index("Proper Name") if "Proper Name" in head else None
+    st, names = {}, {}
     for r in rows:
         if len(r) > max(ib, im, il) and r[ib].strip().isdigit():
             st.setdefault("BLA" + r[ib].strip().zfill(6), set()).add(f"{r[im].strip()}|{r[il].strip()}")
+            if ip is not None and len(r) > ip and r[ip].strip():
+                names.setdefault("BLA" + r[ib].strip().zfill(6), set()).add(r[ip].strip())
     if len(st) < PB_MIN:
         print(f"Purple Book 只有 {len(st)} 個 BLA，疑似格式改變，略過")
         return []
-    return [{"appl": a, "ids": sorted(v), "src": "purplebook"} for a, v in st.items()]
+    return [{"appl": a, "ids": sorted(v), "src": "purplebook", "proper_names": sorted(names.get(a, ()))} for a, v in st.items()]
 
 
 def _fetch_ndc():
     """openFDA NDC Directory → 有現行成品列名的申請號 [{appl, ids: ["NDC listed"], src: ndc}]；失敗回空清單"""
     try:
-        z = zipfile.ZipFile(io.BytesIO(_get(NDC_URL).content))
+        content = _get(NDC_URL).content
+        z = zipfile.ZipFile(io.BytesIO(content))
         data = json.loads(z.read(z.namelist()[0])).get("results", [])
     except Exception as e:
         print(f"openFDA NDC 下載失敗，略過（Drugs@FDA 沒有的申請號維持原狀態）：{e}")
@@ -127,6 +147,7 @@ def _fetch_ndc():
     if len(ok) < NDC_MIN:
         print(f"openFDA NDC 只有 {len(ok)} 個申請號，疑似格式改變，略過")
         return []
+    _save_raw("ndc_openfda.zip", content, len(data) >= 50000)
     return [{"appl": a, "ids": ["NDC listed"], "src": "ndc"} for a in sorted(ok)]
 
 

@@ -91079,6 +91079,26 @@
    "summary": "Removed: \"Only part of the licence list is held in the data; the list may be incomplete.\"",
    "method": "2026-11-24 母 repo 修 known_use_pages 的部分紀錄提示句條件後，全站掃非 partial 頁仍有這句的（Us 1 頁）",
    "anchor": "<!-- licenses:end -->"
+  },
+  {
+   "id": "us-lic-20261125-hydroxyurea-1",
+   "drug": "hydroxyurea",
+   "file": "hydroxyurea.md",
+   "action": "correct",
+   "claim": "- Clarification of the US regulatory position, since 7 authorizations are currently valid",
+   "replacement": "- Clarification of the US regulatory position (the current number of active FDA applications is shown in the Quick Overview and in the table under US Market Information)",
+   "note": "Corrected: the number of active FDA applications stated here no longer matches the FDA data after a newly approved application was added (Drugs@FDA as of 2026-11-20). The current figures are shown in the Quick Overview and in the program-generated table under US Market Information.",
+   "finding": "2026-11-25 依原規則補收 ANDA220300（HYDROXYUREA，Drugs@FDA 2026-11-20）後事實層 FDA 申請 11 張（有效 8），待辦寫 7 張有效；只拿掉寫死的張數，建議內容不動",
+   "sources": [
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "summary": "Corrected: \"Clarification of the US regulatory position, since 7 authorizations are currently valid\"",
+   "method": "2026-11-25 人工查核（第五輪：新許可依原規則補收後，逐句對照證據包與快照事實層）"
   }
  ]
 }

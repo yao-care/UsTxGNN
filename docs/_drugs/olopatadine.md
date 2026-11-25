@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 989
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Olopatadine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Allergic rhinitis (also vasomotor rhinitis, atopic conjunctivitis…"
 monitor_inn: "OLOPATADINE"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -50,8 +50,8 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 26 of 34) |
-| Number of FDA Applications | 34 (active: 26) |
+| US Market Status | Marketed (active FDA-approved applications: 27 of 35) |
+| Number of FDA Applications | 35 (active: 27) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -90,7 +90,7 @@ Approved indication text is not available for these records. Five of the 12 are 
 | ANDA091572 | OLOPATADINE HYDROCHLORIDE | APOTEX INC | Spray, metered; nasal | Valid |
 | ANDA200810 | OLOPATADINE HYDROCHLORIDE | GLENMARK PHARMS | Solution/drops; ophthalmic | Valid |
 
-Showing 5 of 34 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+Showing 5 of 35 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
 

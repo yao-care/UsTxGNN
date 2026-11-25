@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BRIVARACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-24
-description: "Brivaracetam: predicted new indication beta-ketothiolase deficiency (evidence level L5). In the US: 23 FDA applications (21 active)"
+last_modified_at: 2026-11-25
+description: "Brivaracetam: predicted new indication beta-ketothiolase deficiency (evidence level L5). In the US: 24 FDA applications (22 active)"
 ---
 
 # Brivaracetam
@@ -50,8 +50,8 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | beta-ketothiolase deficiency |
 | TxGNN Prediction Score | 0.9914 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 21 of 23) |
-| Number of FDA Applications | 23 (active: 21) |
+| US Market Status | Marketed (active FDA-approved applications: 22 of 24) |
+| Number of FDA Applications | 24 (active: 22) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -88,7 +88,7 @@ According to the data compiled for this report, US licence records exist for bri
 | ANDA214875 | BRIVARACETAM | APOTEX | Tablet; oral | Valid |
 | ANDA214880 | BRIVARACETAM | MICRO LABS | Solution; intravenous | Valid |
 
-Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+Showing 5 of 24 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
 

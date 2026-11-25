@@ -605,3 +605,20 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 `scripts/sync_license_tables.py` 的 `add_section` 在安全性段之前（沒有就結論、查核紀錄、免責聲明段之前）補「## US Market Information」與程式表；noindex 頁、證據包沒有紀錄的頁不補。
 gate（licenses.py 的 page_problems 第 5 項）擋「公開頁快照有程式表列卻沒有市場段落」；PAGE_NOTE 放行新標題行。
 2026-11-24 全量量測 4 頁（alosetron、clonazepam、paroxetine；dexchlorpheniramine 的已知用途頁標題「## Market information」改成本站標題、舊表換成程式表；run() 也處理還沒有段落的公開頁，所以 apply_drug_reviews／build_license_snapshot 結尾會自動補），補上；正文沒有跟新表矛盾的句子，沒有新查核紀錄。checker 前後都是 0、gate exit 0。
+
+## adapter 存成分、新申請號依原規則補收（2026-11-25 第五輪）
+
+用戶 2026-11-25 決定（第五輪第 3 條，有缺口照第 2 條接上補收）：第四輪跨站量測時本站每週排程的狀態檔（data/raw/drugsfda_appl_status.json）只存申請號與狀態，
+比 Release 的 openFDA Drugs@FDA 全量檔（2026-11-06）多 483 個申請號沒有成分（Purple Book 401、NDC 50、Drugs@FDA 新申請 32），判斷不了漏收。
+- `scripts/license_adapter.py`：fetch() 下載到的 openFDA Drugs@FDA、NDC 全量檔原樣存成 data/raw/drugsfda_openfda.zip、ndc_openfda.zip（`us_license_match` 用的檔名，有成分、品名、劑型、途徑；
+  筆數檢查沒過不覆寫），Purple Book 紀錄另存 Proper Name（proper_names）。狀態對應不變。
+- 量測（原規則：`scripts/rebuild_licenses_by_ingredient.py --skip-download --dry-run`，同一套 `us_license_match.LicenseIndex.match`）：用 2026-11-06 的舊檔重跑，申請號集合跟證據包 0 個不同（只有 NDC 列名因結束日過了少幾筆）；
+  用 2026-11-25 下載的現行檔（Drugs@FDA、NDC 都是 2026-11-20 版）：29 個證據包少 31 個申請號（公開頁 11 個，其餘 18 個沒有藥物頁），另 2 個證據包有申請號已不在現行檔（festuca_pratensis_pollen BLA103053、hydroxyzine_dihydrochloride 2 張；只加不刪，照舊由排程管狀態）、
+  184 個證據包的 NDC 列名數有增減（列名不是 FDA 核准，這次不處理）。
+- `scripts/add_current_applications.py [--download] [--dry-run] [--report]`：照同一套比對重算本藥的申請號，證據包還沒有的補一筆（欄位同重建的紀錄，另記 added、added_by），
+  插入位置照重建的排序鍵（有效在前、成分數少的在前、申請號），applications_total、total_matches 跟著加；只補申請號、不補 NDC 列名，只加不刪，可重複執行。
+  `.github/workflows/license-refresh.yml` 在 license_refresh 前以 `--download` 跑（步驟 Add new FDA applications by ingredient），有補收就照常發新 Release。
+- 2026-11-25 套用：29 個證據包補 31 個申請號（例 pertuzumab＋PEBRILZO BLA761501、doxorubicin＋OXDERYS NDA221093、amifampridine＋2 張 ANDA、brimonidine＋timolol 複方 ANDA217589 進 5 個證據包、calcium_chloride＋CALREZDY NDA219456）；第二次跑 0 筆。
+  證據包 local_regulatory 重算 11 個（有證據包的 11 頁）；概覽狀態列／張數列 11 頁 22 格、程式表 11 頁、description 6 頁由程式同步；last_modified_at 11 頁改 2026-11-25。
+  正文跟新事實矛盾 1 句：hydroxyurea 待辦「since 7 authorizations are currently valid」（事實層有效 8 張）以 `us-lic-20261125-hydroxyurea-1` 拿掉寫死的張數。另寫的寬偵測（11 頁正文的張數、only／all／both＋許可字樣）其餘命中都是試驗、文獻數。
+  data/raw 的兩份全量檔、狀態檔與改到的證據包、證據包以 data-overlay 換進 Release。checker 前後非 M 類都是 P1 369／P3 136／P4 1／P7 352（既有、跟許可證無關；改後中途出現的 M3 1 句即上面那句，已更正）；gate exit 0。

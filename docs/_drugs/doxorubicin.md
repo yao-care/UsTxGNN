@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 626
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "DOXORUBICIN"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-description: "Doxorubicin: predicted new indication Ewing sarcoma (evidence level L2). In the US: 30 FDA applications (20 active), plus 1 OTC monograph/unapproved NDC listing"
+description: "Doxorubicin: predicted new indication Ewing sarcoma (evidence level L2). In the US: 31 FDA applications (21 active), plus 1 OTC monograph/unapproved NDC listing"
 ---
 
 # Doxorubicin
@@ -50,8 +50,8 @@ with **28 clinical trials** and **20 publications** currently supporting this di
 | Predicted New Indication | Ewing sarcoma |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (active FDA-approved applications: 20 of 30; OTC monograph / unapproved listings: 1) |
-| Number of FDA Applications | 30 (active: 20) |
+| US Market Status | Marketed (active FDA-approved applications: 21 of 31; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 31 (active: 21) |
 | Recommended Decision | Proceed with Guardrails |
 
 Note: the data compiled for this report assigns L2. By the stated rules, the several completed Phase 3 trials in the list would argue for L1, but most do not report doxorubicin-specific results and their relevance grading is pending. L2 is retained as the conservative level.
@@ -116,7 +116,7 @@ The drug is marketed in the US. Approved-indication text is not available.
 | ANDA064097 | DOXORUBICIN HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
 | ANDA091418 | DOXORUBICIN HYDROCHLORIDE | SUN PHARM INDS | Injectable; injection | Valid |
 
-Showing 5 of 31 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+Showing 5 of 32 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
 

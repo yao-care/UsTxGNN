@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "THIAMINE"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Thiamine: predicted new indication resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (evidence level L5). Approved use: Not available"
 ---
 
@@ -50,8 +50,8 @@ Thiamine (vitamin B1) is marketed in the United States as injectable products, b
 | Predicted New Indication | Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (top-ranked); other predictions: primary hereditary glaucoma, open-angle glaucoma |
 | TxGNN Prediction Score | 0.9943 (top-ranked prediction) |
 | Evidence Level | L5 (top-ranked prediction) |
-| US Market Status | Marketed (active FDA-approved applications: 18 of 38; OTC monograph / unapproved listings: 69) |
-| Number of FDA Applications | 38 (active: 18) |
+| US Market Status | Marketed (active FDA-approved applications: 19 of 39; OTC monograph / unapproved listings: 69) |
+| Number of FDA Applications | 39 (active: 19) |
 | Number of approvals | At least 11 ANDAs or similar records (the list may be partial) |
 | Recommended Decision | Hold |
 
@@ -110,7 +110,7 @@ The compiled data list at least 11 records, and the list may be partial. None in
 | ANDA091623 | THIAMINE HYDROCHLORIDE | MYLAN INSTITUTIONAL | Injectable; injection | Valid |
 | ANDA206106 | THIAMINE HYDROCHLORIDE | SAGENT PHARMS INC | Injectable; injection | Valid |
 
-Showing 5 of 107 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+Showing 5 of 108 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
 

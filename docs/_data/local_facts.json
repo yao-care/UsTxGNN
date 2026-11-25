@@ -17,16 +17,16 @@
   "drugs_none_current": 21,
   "drugs_without_data": 60,
   "drugs_partial": 0,
-  "items_total": 19551,
-  "items_current": 9927
+  "items_total": 19563,
+  "items_current": 9939
  },
  "reviews": {
-  "records": 2175,
+  "records": 2176,
   "pages": 919,
   "public_pages_with_records": 896,
   "by_action": {
    "annotate": 1,
-   "correct": 1355,
+   "correct": 1356,
    "mechanism": 819
   }
  },
@@ -286,6 +286,12 @@
  },
  "recent_reviews": [
   {
+   "t": "Hydroxyurea",
+   "u": "/drugs/hydroxyurea/",
+   "s": "Corrected: \"Clarification of the US regulatory position, since 7 authorizations are currently valid\"",
+   "d": "2026-11-25"
+  },
+  {
    "t": "Sumatriptan",
    "u": "/drugs/sumatriptan/",
    "s": "Removed: \"Only part of the licence list is held in the data; the list may be incomplete.\"",
@@ -422,15 +428,15 @@
    "u": "/drugs/icosapent-ethyl/",
    "s": "Corrected: \"All 10 authorizations below are listed as valid.\"",
    "d": "2026-11-24"
-  },
-  {
-   "t": "Hyoscyamine",
-   "u": "/drugs/hyoscyamine/",
-   "s": "Corrected: \"the only US authorization on record is cancelled,\"",
-   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
+  {
+   "t": "Hydroxyurea",
+   "u": "/drugs/hydroxyurea/",
+   "s": "Corrected: \"Clarification of the US regulatory position, since 7 authorizations are currently valid\"",
+   "d": "2026-11-25"
+  },
   {
    "t": "Sumatriptan",
    "u": "/drugs/sumatriptan/",
@@ -471,12 +477,6 @@
    "t": "Temozolomide",
    "u": "/drugs/temozolomide/",
    "s": "Corrected: \"All are single-ingredient oral capsules.\"",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Sofosbuvir",
-   "u": "/drugs/sofosbuvir/",
-   "s": "Removed: \"Two further licences are not listed here: NDA212477 (Harvoni, pellet) and NDA209195 (Vosevi…",
    "d": "2026-11-24"
   }
  ],

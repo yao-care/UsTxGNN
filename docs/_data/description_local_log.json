@@ -332,9 +332,9 @@
       "date": "2026-11-19"
     },
     "brivaracetam": {
-      "tail": "In the US: 23 FDA applications (21 active)",
+      "tail": "In the US: 24 FDA applications (22 active)",
       "original": "Approved use: Not recorded in the local data",
-      "date": "2026-11-19"
+      "date": "2026-11-25"
     },
     "brodalumab": {
       "tail": "In the US: 1 FDA application (1 active)",
@@ -857,9 +857,9 @@
       "date": "2026-11-19"
     },
     "doxorubicin": {
-      "tail": "In the US: 30 FDA applications (20 active), plus 1 OTC monograph/unapproved NDC listing",
+      "tail": "In the US: 31 FDA applications (21 active), plus 1 OTC monograph/unapproved NDC listing",
       "original": "Approved use: Not recorded in the local data",
-      "date": "2026-11-19"
+      "date": "2026-11-25"
     },
     "dronabinol": {
       "tail": "In the US: 7 FDA applications (2 active)",
@@ -1307,9 +1307,9 @@
       "date": "2026-11-19"
     },
     "hydroxyurea": {
-      "tail": "In the US: 10 FDA applications (7 active)",
+      "tail": "In the US: 11 FDA applications (8 active)",
       "original": "Approved use: Not recorded in the local data",
-      "date": "2026-11-19"
+      "date": "2026-11-25"
     },
     "hydroxyzine": {
       "tail": "In the US: 151 FDA applications (35 active)",
@@ -2047,9 +2047,9 @@
       "date": "2026-11-19"
     },
     "pertuzumab": {
-      "tail": "In the US: 3 FDA applications (3 active)",
+      "tail": "In the US: 4 FDA applications (4 active)",
       "original": "Approved use: Not recorded in the local data",
-      "date": "2026-11-19"
+      "date": "2026-11-25"
     },
     "phenobarbital": {
       "tail": "In the US: 1 FDA application (1 active), plus 190 OTC monograph/unapproved NDC listings",
@@ -2622,9 +2622,9 @@
       "date": "2026-11-19"
     },
     "tretinoin": {
-      "tail": "In the US: 55 FDA applications (42 active)",
+      "tail": "In the US: 56 FDA applications (43 active)",
       "original": "Approved use: Not recorded in the local data",
-      "date": "2026-11-19"
+      "date": "2026-11-25"
     },
     "triamterene": {
       "tail": "In the US: 29 FDA applications (15 active)",
@@ -2637,9 +2637,9 @@
       "date": "2026-11-19"
     },
     "trimethoprim": {
-      "tail": "In the US: 84 FDA applications (22 active)",
+      "tail": "In the US: 85 FDA applications (23 active)",
       "original": "Approved use: Not recorded in the local data",
-      "date": "2026-11-19"
+      "date": "2026-11-25"
     },
     "tripelennamine": {
       "tail": "In the US: 14 FDA applications (0 active), plus 3 OTC monograph/unapproved NDC listings",
@@ -6766,6 +6766,48 @@
       "date": "2026-11-23",
       "from": "\"Terbutaline: predicted new indication Respiratory malformation (evidence level L5). In the US: 15 FDA applications (6 active)\"",
       "to": "\"Terbutaline: predicted new indication Respiratory malformation (evidence level L5). In the US: 15 FDA applications (5 active)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/brivaracetam.md",
+      "date": "2026-11-25",
+      "from": "\"Brivaracetam: predicted new indication beta-ketothiolase deficiency (evidence level L5). In the US: 23 FDA applications (21 active)\"",
+      "to": "\"Brivaracetam: predicted new indication beta-ketothiolase deficiency (evidence level L5). In the US: 24 FDA applications (22 active)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/doxorubicin.md",
+      "date": "2026-11-25",
+      "from": "\"Doxorubicin: predicted new indication Ewing sarcoma (evidence level L2). In the US: 30 FDA applications (20 active), plus 1 OTC monograph/unapproved NDC listing\"",
+      "to": "\"Doxorubicin: predicted new indication Ewing sarcoma (evidence level L2). In the US: 31 FDA applications (21 active), plus 1 OTC monograph/unapproved NDC listing\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/hydroxyurea.md",
+      "date": "2026-11-25",
+      "from": "\"Hydroxyurea: predicted new indication Female breast carcinoma (evidence level L5). In the US: 10 FDA applications (7 active)\"",
+      "to": "\"Hydroxyurea: predicted new indication Female breast carcinoma (evidence level L5). In the US: 11 FDA applications (8 active)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pertuzumab.md",
+      "date": "2026-11-25",
+      "from": "\"Pertuzumab: predicted new indication Ectomesenchymoma (evidence level L5). In the US: 3 FDA applications (3 active)\"",
+      "to": "\"Pertuzumab: predicted new indication Ectomesenchymoma (evidence level L5). In the US: 4 FDA applications (4 active)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tretinoin.md",
+      "date": "2026-11-25",
+      "from": "\"Tretinoin: predicted new indication Rheumatoid nodulosis (evidence level L5). In the US: 55 FDA applications (42 active)\"",
+      "to": "\"Tretinoin: predicted new indication Rheumatoid nodulosis (evidence level L5). In the US: 56 FDA applications (43 active)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/trimethoprim.md",
+      "date": "2026-11-25",
+      "from": "\"Trimethoprim: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 84 FDA applications (22 active)\"",
+      "to": "\"Trimethoprim: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 85 FDA applications (23 active)\"",
       "tool": ".claude/drug_meta_description.py --apply"
     }
   ]

@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 1034
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-25
 monitor_inn: "PERTUZUMAB"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
-description: "Pertuzumab: predicted new indication Ectomesenchymoma (evidence level L5). In the US: 3 FDA applications (3 active)"
+description: "Pertuzumab: predicted new indication Ectomesenchymoma (evidence level L5). In the US: 4 FDA applications (4 active)"
 ---
 
 # Pertuzumab
@@ -51,8 +51,8 @@ Currently **1 clinical trial** and **20 publications** support this direction, i
 | Predicted New Indication | Ectomesenchymoma |
 | TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 3 of 3) |
-| Number of FDA Applications | 3 (active: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 4) |
+| Number of FDA Applications | 4 (active: 4) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -102,6 +102,7 @@ Note: this is a biosimilar equivalence trial in a hormone-receptor-negative popu
 |------|------|------|------|------|
 | BLA125409 | PERJETA | GENENTECH | Vial; single-use | Valid |
 | BLA761450 | POHERDY | SHANGHAI HENLIUS BIOTECH | Injectable; intravenous | Valid |
+| BLA761501 | PEBRILZO | BIOCON BIOLOGICS INC | Solution; injection | Valid |
 | BLA761170 | PHESGO | GENENTECH INC | Injectable; subcutaneous | Valid |
 
 <!-- licenses:end -->

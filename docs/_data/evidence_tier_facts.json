@@ -302,8 +302,8 @@
     "u": "/drugs/doxorubicin/",
     "l": "L2",
     "i": "Ewing sarcoma",
-    "lt": 30,
-    "lv": 20,
+    "lt": 31,
+    "lv": 21,
     "r": 4,
     "rs": "Removed: \"and 12 US authorizations are currently valid for any of them\"",
     "x": 0
@@ -368,8 +368,8 @@
     "u": "/drugs/ketamine/",
     "l": "L2",
     "i": "headache disorder",
-    "lt": 12,
-    "lv": 8,
+    "lt": 13,
+    "lv": 9,
     "r": 5,
     "rs": "Removed: \"given that the drug is marketed with 6 valid authorizations\"",
     "x": 0
@@ -1160,8 +1160,8 @@
     "u": "/drugs/emtricitabine/",
     "l": "L4",
     "i": "simian immunodeficiency virus infection",
-    "lt": 41,
-    "lv": 33,
+    "lt": 42,
+    "lv": 34,
     "r": 4,
     "rs": "Removed: \"with 14 valid authorizations\"",
     "x": 0
@@ -1953,8 +1953,8 @@
     "u": "/drugs/tretinoin/",
     "l": "L5",
     "i": "rheumatoid nodulosis",
-    "lt": 55,
-    "lv": 42,
+    "lt": 56,
+    "lv": 43,
     "r": 3,
     "rs": "Removed: \"All listed products are topical (gel, cream, lotion).\"",
     "x": 0
@@ -2444,6 +2444,17 @@
     "x": 0
    },
    {
+    "t": "Olopatadine",
+    "u": "/drugs/olopatadine/",
+    "l": "L5",
+    "i": "rosacea conjunctivitis",
+    "lt": 35,
+    "lv": 27,
+    "r": 3,
+    "rs": "Removed: \"with 12 valid authorizations\"",
+    "x": 0
+   },
+   {
     "t": "Tranexamic Acid",
     "u": "/drugs/tranexamic-acid/",
     "l": "L5",
@@ -2507,17 +2518,6 @@
     "lv": 26,
     "r": 2,
     "rs": "Removed: \"12 valid licenses are on the market in this country, and n\"",
-    "x": 0
-   },
-   {
-    "t": "Olopatadine",
-    "u": "/drugs/olopatadine/",
-    "l": "L5",
-    "i": "rosacea conjunctivitis",
-    "lt": 34,
-    "lv": 26,
-    "r": 3,
-    "rs": "Removed: \"with 12 valid authorizations\"",
     "x": 0
    },
    {
@@ -2730,6 +2730,17 @@
     "x": 0
    },
    {
+    "t": "Trimethoprim",
+    "u": "/drugs/trimethoprim/",
+    "l": "L5",
+    "i": "punctate epithelial keratoconjunctivitis",
+    "lt": 85,
+    "lv": 23,
+    "r": 4,
+    "rs": "Removed: \"with 7 of 7 licences valid\"",
+    "x": 0
+   },
+   {
     "t": "Amantadine",
     "u": "/drugs/amantadine/",
     "l": "L5",
@@ -2749,6 +2760,17 @@
     "lv": 22,
     "r": 1,
     "rs": "\"Detailed mechanism-of-action data for benazepril are not available in the data compiled for this report\"…",
+    "x": 0
+   },
+   {
+    "t": "Brivaracetam",
+    "u": "/drugs/brivaracetam/",
+    "l": "L5",
+    "i": "beta-ketothiolase deficiency",
+    "lt": 24,
+    "lv": 22,
+    "r": 2,
+    "rs": "Corrected: \"According to the data compiled for this report, 10 US licence records exist for brivaracetam…",
     "x": 0
    },
    {
@@ -2815,28 +2837,6 @@
     "lv": 22,
     "r": 3,
     "rs": "Removed: \"and 10 licenses are valid\"",
-    "x": 0
-   },
-   {
-    "t": "Trimethoprim",
-    "u": "/drugs/trimethoprim/",
-    "l": "L5",
-    "i": "punctate epithelial keratoconjunctivitis",
-    "lt": 84,
-    "lv": 22,
-    "r": 4,
-    "rs": "Removed: \"with 7 of 7 licences valid\"",
-    "x": 0
-   },
-   {
-    "t": "Brivaracetam",
-    "u": "/drugs/brivaracetam/",
-    "l": "L5",
-    "i": "beta-ketothiolase deficiency",
-    "lt": 23,
-    "lv": 21,
-    "r": 2,
-    "rs": "Corrected: \"According to the data compiled for this report, 10 US licence records exist for brivaracetam…",
     "x": 0
    },
    {
@@ -3148,6 +3148,17 @@
     "x": 0
    },
    {
+    "t": "Thiamine",
+    "u": "/drugs/thiamine/",
+    "l": "L5",
+    "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
+    "lt": 39,
+    "lv": 19,
+    "r": 1,
+    "rs": "Removed: \"single-ingredient\"",
+    "x": 0
+   },
+   {
     "t": "Tramadol",
     "u": "/drugs/tramadol/",
     "l": "L5",
@@ -3189,17 +3200,6 @@
     "lv": 18,
     "r": 4,
     "rs": "Removed: \"since the drug is marketed with 8 valid licenses\"",
-    "x": 0
-   },
-   {
-    "t": "Thiamine",
-    "u": "/drugs/thiamine/",
-    "l": "L5",
-    "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
-    "lt": 38,
-    "lv": 18,
-    "r": 1,
-    "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
    {
@@ -4699,6 +4699,17 @@
     "x": 0
    },
    {
+    "t": "Hydroxyurea",
+    "u": "/drugs/hydroxyurea/",
+    "l": "L5",
+    "i": "female breast carcinoma",
+    "lt": 11,
+    "lv": 8,
+    "r": 3,
+    "rs": "Corrected: \"Clarification of the US regulatory position, since 7 authorizations are currently valid\"",
+    "x": 0
+   },
+   {
     "t": "Insulin Glargine",
     "u": "/drugs/insulin-glargine/",
     "l": "L5",
@@ -4993,17 +5004,6 @@
     "lv": 7,
     "r": 2,
     "rs": "Removed: \"Of the 5 licence records, 4 are valid and 1 is cancelled\"",
-    "x": 0
-   },
-   {
-    "t": "Hydroxyurea",
-    "u": "/drugs/hydroxyurea/",
-    "l": "L5",
-    "i": "female breast carcinoma",
-    "lt": 10,
-    "lv": 7,
-    "r": 2,
-    "rs": "Removed: \"Two further generic capsule authorizations (ANDA218021, ANDA213438) are also cancelled\"",
     "x": 0
    },
    {
@@ -6008,6 +6008,17 @@
     "x": 0
    },
    {
+    "t": "Amifampridine",
+    "u": "/drugs/amifampridine/",
+    "l": "L5",
+    "i": "glaucoma",
+    "lt": 4,
+    "lv": 4,
+    "r": 2,
+    "rs": "Removed: \"The only US authorization on record is also cancelled\"",
+    "x": 0
+   },
+   {
     "t": "Benzphetamine",
     "u": "/drugs/benzphetamine/",
     "l": "L5",
@@ -6258,6 +6269,17 @@
     "lv": 4,
     "r": 1,
     "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "x": 0
+   },
+   {
+    "t": "Pertuzumab",
+    "u": "/drugs/pertuzumab/",
+    "l": "L5",
+    "i": "ectomesenchymoma",
+    "lt": 4,
+    "lv": 4,
+    "r": 2,
+    "rs": "Removed: \"In addition, the US license is listed as cancelled\"",
     "x": 0
    },
    {
@@ -6690,17 +6712,6 @@
     "x": 0
    },
    {
-    "t": "Pertuzumab",
-    "u": "/drugs/pertuzumab/",
-    "l": "L5",
-    "i": "ectomesenchymoma",
-    "lt": 3,
-    "lv": 3,
-    "r": 2,
-    "rs": "Removed: \"In addition, the US license is listed as cancelled\"",
-    "x": 0
-   },
-   {
     "t": "Primaquine",
     "u": "/drugs/primaquine/",
     "l": "L5",
@@ -6841,17 +6852,6 @@
     "lv": 2,
     "r": 3,
     "rs": "Removed: \"(both licenses cancelled)\"",
-    "x": 0
-   },
-   {
-    "t": "Amifampridine",
-    "u": "/drugs/amifampridine/",
-    "l": "L5",
-    "i": "glaucoma",
-    "lt": 2,
-    "lv": 2,
-    "r": 2,
-    "rs": "Removed: \"The only US authorization on record is also cancelled\"",
     "x": 0
    },
    {

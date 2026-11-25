@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 1264
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "TRIMETHOPRIM"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-description: "Trimethoprim: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 84 FDA applications (22 active)"
+description: "Trimethoprim: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 85 FDA applications (23 active)"
 ---
 
 # Trimethoprim
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **Punctate Epithelial Keratocon
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 22 of 84) |
-| Number of FDA Applications | 84 (active: 22) |
+| US Market Status | Marketed (active FDA-approved applications: 23 of 85) |
+| Number of FDA Applications | 85 (active: 23) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -96,10 +96,10 @@ The drug is marketed in the US. Approved-indication text was not available.
 | ANDA070049 | TRIMETHOPRIM | WATSON LABS | Tablet; oral | Valid |
 | ANDA091437 | TRIMETHOPRIM | NOVEL LABS INC | Tablet; oral | Valid |
 | ANDA216393 | TRIMETHOPRIM | NOVITIUM PHARMA | Tablet; oral | Valid |
+| ANDA220920 | TRIMETHOPRIM | SQUARE PHARMS PLC | Tablet; oral | Valid |
 | ANDA221194 | TRIMETHOPRIM | BIONPHARMA | Tablet; oral | Valid |
-| NDA018679 | TRIMETHOPRIM | DR REDDYS LABS SA | Tablet; oral | Valid |
 
-Showing 5 of 84 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+Showing 5 of 85 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
 

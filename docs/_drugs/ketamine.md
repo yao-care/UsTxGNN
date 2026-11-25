@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 1
 monitor_inn: "KETAMINE"
 predicted_indications: ["headache disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-25
 description: "Ketamine: predicted new indication Headache disorder (evidence level L2). Approved use: Not available"
 ---
 
@@ -58,8 +58,8 @@ The evidence includes one completed Phase 3 trial (THINK), but no trial results 
 | Predicted New Indication | Headache disorder |
 | TxGNN Prediction Score | 0.9933 |
 | Evidence Level | L2 (see note below) |
-| US Market Status | Marketed (active FDA-approved applications: 8 of 12) |
-| Number of FDA Applications | 12 (active: 8) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 13) |
+| Number of FDA Applications | 13 (active: 9) |
 | Recommended Decision | Hold |
 
 *Note on evidence level:* Only one Phase 3 trial (THINK, NCT03081416) is completed, and the other Phase 3 trial (KetHead) is still recruiting. This does not meet L1 (≥2 completed Phase 3 RCTs). Because no results are available, the evidence is conservatively classed as L2. The upstream scoring labelled this L1, which I have not adopted.
@@ -123,7 +123,7 @@ Many other retrieved papers concern ketamine in depression, which is not the tar
 | ANDA215808 | KETAMINE HYDROCHLORIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
 | ANDA216809 | KETAMINE HYDROCHLORIDE | GLAND | Injectable; injection | Valid |
 
-Showing 5 of 12 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 <!-- licenses:end -->
 

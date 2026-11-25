@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ramucirumab. 10 predicted indications."
 permalink: /news/ramucirumab/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Ramucirumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>71 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>77 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,47 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (71)
+## Related News (77)
+
+### [A 116-Year-Old Had No Cancer, Disease, or Dementia. Scientists Looked Inside](https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3FTOTZWZkVacjVTTl9WZ2I4emxuZlI0YncxTkhUZ1ZDTzFzNF80SERUMVpVdkNMcVRfVThDSmVaZ1BoUkdLZGJWb3lOUzZ5ejJzMkFvaWp4Y3RoVFJTQWZrdzYtam9fenlxQkU0c3VjRllTUWM0U29iQU83eHhWQlBFa1NoZGc?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span>
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3FTOTZWZkVacjVTTl9WZ2I4emxuZlI0YncxTkhUZ1ZDTzFzNF80SERUMVpVdkNMcVRfVThDSmVaZ1BoUkdLZGJWb3lOUzZ5ejJzMkFvaWp4Y3RoVFJTQWZrdzYtam9fenlxQkU0c3VjRllTUWM0U29iQU83eHhWQlBFa1NoZGc?oc=5)
+
+---
+
+### [One More Thing Alcohol Harms: Immunotherapy Treatment](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkJJOWF3NUJGaWRZWXkwcldDRjNqZGRIZUVCQ3BGTXBzMEN2cDRXMWxSTHhQcjRKd2RZYmZOZ1RtNF8yM3JRNk9Nd1NDY2tEVmxqOG01TWNyNks3UWJkV2ZYaW9ERnhHTWJDeWg0S0hfQmdxSUxvM0RkeUd1eHc1dUwyaUtTVUNqMl9SUXJ1UGFFeUtyVUMzcw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Newser](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkJJOWF3NUJGaWRZWXkwcldDRjNqZGRIZUVCQ3BGTXBzMEN2cDRXMWxSTHhQcjRKd2RZYmZOZ1RtNF8yM3JRNk9Nd1NDY2tEVmxqOG01TWNyNks3UWJkV2ZYaW9ERnhHTWJDeWg0S0hfQmdxSUxvM0RkeUd1eHc1dUwyaUtTVUNqMl9SUXJ1UGFFeUtyVUMzcw?oc=5)
+
+---
+
+### [Scientists Used Tobacco to Affordably Grow Anti-Cancer Drug Taxol](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnBpajNPVHdPVDBOV2pkdUJWeTc2cWVVVW5JdVZHNVY4M2liMVhQMVYzVGVsNFRFdERmM3lvRUkxSE43N1ZvM1BPTWtObkpmOERYYkxob1JNNkFqTlJwTXFjSEc0dU1HZzZQWG1xTkd4dWJHSDRjM0pXYktLb0dxRkFyQm9ILWpwOEdiVndZVGRXUXp5NXZlRUNYOHBuZXZ4R2xTSlNKUGJKVmJVUFozcw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnBpajNPVHdPVDBOV2pkdUJWeTc2cWVVVW5JdVZHNVY4M2liMVhQMVYzVGVsNFRFdERmM3lvRUkxSE43N1ZvM1BPTWtObkpmOERYYkxob1JNNkFqTlJwTXFjSEc0dU1HZzZQWG1xTkd4dWJHSDRjM0pXYktLb0dxRkFyQm9ILWpwOEdiVndZVGRXUXp5NXZlRUNYOHBuZXZ4R2xTSlNKUGJKVmJVUFozcw?oc=5)
+
+---
+
+### [The Mortality Gap Between Black and White Americans Is Shrinking - The New York Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnlpYU96SUUydnc2OFNXTG9CNmZDWUFud3B4NzAzQmJhQk9ZS3RSWEh5Y2hwWHViUVlpTEpGSU1HUmRFbjJpeFRpRWEtQzdkeE1QQ0NKYVBCUC1KU3hLNWVONlZveXFxbkdHMG45X2tNbVcyTEtldjZZdkcySzNrSHhKa1lFVWIzTFV0Mnd3?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnlpYU96SUUydnc2OFNXTG9CNmZDWUFud3B4NzAzQmJhQk9ZS3RSWEh5Y2hwWHViUVlpTEpGSU1HUmRFbjJpeFRpRWEtQzdkeE1QQ0NKYVBCUC1KU3hLNWVONlZveXFxbkdHMG45X2tNbVcyTEtldjZZdkcySzNrSHhKa1lFVWIzTFV0Mnd3?oc=5)
+
+---
+
+### [Focal Therapy for Prostate Cancer: Ready to Go First-Line?](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDU1NG1tb0xCN2F4UElzVjVyZFl2c0wyc1FUMXREbXdiVWZsNkkxeXZ5TnBVN01ZNEtsRnhnUXRESjllazdON2FMNnphU2tpTkVlQTBwOWF1WVBncUMyMEFuazJrNzMtbnpXWlgxQU9INWVSRTdTMHVNMkllYzh3eUI0dnlMVGJRbkRRWTFFcFFuVzVqYldyNEtLczlQZFNF?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDU1NG1tb0xCN2F4UElzVjVyZFl2c0wyc1FUMXREbXdiVWZsNkkxeXZ5TnBVN01ZNEtsRnhnUXRESjllazdON2FMNnphU2tpTkVlQTBwOWF1WVBncUMyMEFuazJrNzMtbnpXWlgxQU9INWVSRTdTMHVNMkllYzh3eUI0dnlMVGJRbkRRWTFFcFFuVzVqYldyNEtLczlQZFNF?oc=5)
+
+---
 
 ### [Alcohol Has a Surprising Effect on This Popular Cancer Treatment](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEdmUG5FTDRtMU1odGdVWnVpbnNINmw0NTg0bUhrVnhpQWg4N3B2UlpVQm1oMkJ2dkZQQ1BQTkVRRUhlUVdQb0xIMjFTbS1qaENFdE5rM0VXZE1odWIybFgyY0tSbkYtcWJLSlA1YnFuQ29ITWZZcmlVeFdpSW42T2VTS2dNdmlmd19DblFXT1lsT09aRXQxLTZKTQ?oc=5)
 
@@ -57,6 +97,14 @@ Source: [Gizmodo](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEdmUG5FT
 2026-11-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VZE1PNm5jdlJCV3JrLUdKR201X1ZhTDVnamhITUR1UktJbHZleXJIaGp1UE5wT0pQWVJRUFdFcEY2Y2pNOGx4N2R2WG1VT3hQUzJNRlBvY2E3cVpJcTU4?oc=5)
+
+---
+
+### [I have advanced pancreatic cancer – these are the signs I missed - The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU2JCZEdMX0VMUHJ5dzAwajJyOERSdU4tMXpsSTlpa2daSWd1bWp5aFFYQmVGRUkzU3BiekNtNW5tNW5sMFZJeEdJd2JPX1dBMXhoQUNYaGxTRFI0WjV4blFiTkt6WU1nNDdKUTJWNl8wSTJOOE5PWWhEdU93MHJmSS10MTdsMkJILU9r?oc=5)
+
+2026-11-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU2JCZEdMX0VMUHJ5dzAwajJyOERSdU4tMXpsSTlpa2daSWd1bWp5aFFYQmVGRUkzU3BiekNtNW5tNW5sMFZJeEdJd2JPX1dBMXhoQUNYaGxTRFI0WjV4blFiTkt6WU1nNDdKUTJWNl8wSTJOOE5PWWhEdU93MHJmSS10MTdsMkJILU9r?oc=5)
 
 ---
 

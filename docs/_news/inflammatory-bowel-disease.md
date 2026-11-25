@@ -3,9 +3,9 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 104 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 107 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # UC (inflammatory bowel disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>104 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>107 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,23 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (104)
+## Related News (107)
+
+### [1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQamQyRW9UOGNIRDRkRGJQWGJ5ZFR6RDhISHo4VVlLODNMemhGVzBTZ3FwT3p3dnA5eDRYVDdFbUFPdFZZUklkekh0c1dac1kyTV8yTkhtT0tSUWlZOEhDQTBwVDZUUXZzYnhPZjNaRWFUUUZQSjVDTTVHNl8ybmZZYUQzWDVFU3RKNGtTSXVwYjRUTENYRmlGOG5lX2RRWDZXd0tZSVVIUU5tbi15YWRMel9PeUU2Um9FdERQcDhtNTVYSjh1SVlDUnAtMzFyMFM4TEZidWFYNnJMZThoUzlVMUZEano3QQ?oc=5)
+
+2026-11-24
+
+Source: [Space](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQamQyRW9UOGNIRDRkRGJQWGJ5ZFR6RDhISHo4VVlLODNMemhGVzBTZ3FwT3p3dnA5eDRYVDdFbUFPdFZZUklkekh0c1dac1kyTV8yTkhtT0tSUWlZOEhDQTBwVDZUUXZzYnhPZjNaRWFUUUZQSjVDTTVHNl8ybmZZYUQzWDVFU3RKNGtTSXVwYjRUTENYRmlGOG5lX2RRWDZXd0tZSVVIUU5tbi15YWRMel9PeUU2Um9FdERQcDhtNTVYSjh1SVlDUnAtMzFyMFM4TEZidWFYNnJMZThoUzlVMUZEano3QQ?oc=5)
+
+---
+
+### [Scientists Used Tobacco to Affordably Grow Anti-Cancer Drug Taxol](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnBpajNPVHdPVDBOV2pkdUJWeTc2cWVVVW5JdVZHNVY4M2liMVhQMVYzVGVsNFRFdERmM3lvRUkxSE43N1ZvM1BPTWtObkpmOERYYkxob1JNNkFqTlJwTXFjSEc0dU1HZzZQWG1xTkd4dWJHSDRjM0pXYktLb0dxRkFyQm9ILWpwOEdiVndZVGRXUXp5NXZlRUNYOHBuZXZ4R2xTSlNKUGJKVmJVUFozcw?oc=5)
+
+2026-11-24
+
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnBpajNPVHdPVDBOV2pkdUJWeTc2cWVVVW5JdVZHNVY4M2liMVhQMVYzVGVsNFRFdERmM3lvRUkxSE43N1ZvM1BPTWtObkpmOERYYkxob1JNNkFqTlJwTXFjSEc0dU1HZzZQWG1xTkd4dWJHSDRjM0pXYktLb0dxRkFyQm9ILWpwOEdiVndZVGRXUXp5NXZlRUNYOHBuZXZ4R2xTSlNKUGJKVmJVUFozcw?oc=5)
+
+---
 
 ### [Prehospital Antibiotics for Patients With Suspected Sepsis The PITSTOP-Antibiotics Factorial Randomized Clinical Trial](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yNkd5Q1JoZVBlZUhFSm5wajBQOVB2bEMtWDhXM2NoaXY5bXVBeUtCcEppbzZBSVc3a19LRmxuaV9XWTlrTmdQZXlYMVQ0U1JYcW4zcGIwcURibVkxV2otbTJZUGdteWlE?oc=5)
 
@@ -149,19 +165,19 @@ Source: [Archaeology News Online Magazine](https://news.google.com/rss/articles/
 
 ---
 
-### [Common sleep habit linked to 50% higher death risk in heart patients, recent study finds](https://news.google.com/rss/articles/CBMifEFVX3lxTFA0NXJYV2kzRXd2QkhSS0Vfa2FQZ3FRdHlCbEoycDZXSml3Tlh5TFowTHQwWi02V1haZWt6aUxyaEF5ZGZDc3l4WFFOQVJ3N2ljbXNIT0Z5NjVlOGJ6bk9KM0hvVU9HTlZsUXc2OWFaSHJmNTVFTWh4RFFDYms?oc=5)
-
-2026-11-22
-
-Source: [AOL.com](https://news.google.com/rss/articles/CBMifEFVX3lxTFA0NXJYV2kzRXd2QkhSS0Vfa2FQZ3FRdHlCbEoycDZXSml3Tlh5TFowTHQwWi02V1haZWt6aUxyaEF5ZGZDc3l4WFFOQVJ3N2ljbXNIT0Z5NjVlOGJ6bk9KM0hvVU9HTlZsUXc2OWFaSHJmNTVFTWh4RFFDYms?oc=5)
-
----
-
 ### [Common sleep habit linked to 50% higher death risk in heart patients, recent study finds - Fox News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVR3cGkxcy15MDlNVkRkZ19wcnhGVlc2V28zYmgxb0lKSXZJOUo3ZmFodXBEa3JnMjJodFlkTFZ0U05YVTdDQkw3Rm9CdE4xUHB5R1RPSXJrNWNzM0c4VUI5WTV5QnhnY2dtOWFQR3ZjY2N0S1lKaTMwZGktUHZsYmphWkZlS0RWTnVwOTQ2aVo5M0tXWjNDdmxRbDliOE9MVkVjR1pDNEwyY2FrSmFPUNIBtgFBVV95cUxPUWNkTDRUcUN2MG9EYVQzYUtnRlhuZS13V3VhbWVrWW1qb1pOSFdFTlRyOTlycHEwWVF2azJZX2M4Yzk5WkpPeDhENFJCTkd0RXFZUFVYckMxaUFsay1UU1NLenBldnQzXzQxanJnZTBPTmxoaktGWWRUS2RVakJ3NzA0MWJfT0djMjNMNlJBSnREdzVsbTFOUHZHYlM5Z0dnOWx4VHJNNWRVc1c0OE04TXl5bTVPZw?oc=5)
 
 2026-11-22
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVR3cGkxcy15MDlNVkRkZ19wcnhGVlc2V28zYmgxb0lKSXZJOUo3ZmFodXBEa3JnMjJodFlkTFZ0U05YVTdDQkw3Rm9CdE4xUHB5R1RPSXJrNWNzM0c4VUI5WTV5QnhnY2dtOWFQR3ZjY2N0S1lKaTMwZGktUHZsYmphWkZlS0RWTnVwOTQ2aVo5M0tXWjNDdmxRbDliOE9MVkVjR1pDNEwyY2FrSmFPUNIBtgFBVV95cUxPUWNkTDRUcUN2MG9EYVQzYUtnRlhuZS13V3VhbWVrWW1qb1pOSFdFTlRyOTlycHEwWVF2azJZX2M4Yzk5WkpPeDhENFJCTkd0RXFZUFVYckMxaUFsay1UU1NLenBldnQzXzQxanJnZTBPTmxoaktGWWRUS2RVakJ3NzA0MWJfT0djMjNMNlJBSnREdzVsbTFOUHZHYlM5Z0dnOWx4VHJNNWRVc1c0OE04TXl5bTVPZw?oc=5)
+
+---
+
+### [Common sleep habit linked to 50% higher death risk in heart patients, recent study finds](https://news.google.com/rss/articles/CBMifEFVX3lxTFA0NXJYV2kzRXd2QkhSS0Vfa2FQZ3FRdHlCbEoycDZXSml3Tlh5TFowTHQwWi02V1haZWt6aUxyaEF5ZGZDc3l4WFFOQVJ3N2ljbXNIT0Z5NjVlOGJ6bk9KM0hvVU9HTlZsUXc2OWFaSHJmNTVFTWh4RFFDYms?oc=5)
+
+2026-11-22
+
+Source: [AOL.com](https://news.google.com/rss/articles/CBMifEFVX3lxTFA0NXJYV2kzRXd2QkhSS0Vfa2FQZ3FRdHlCbEoycDZXSml3Tlh5TFowTHQwWi02V1haZWt6aUxyaEF5ZGZDc3l4WFFOQVJ3N2ljbXNIT0Z5NjVlOGJ6bk9KM0hvVU9HTlZsUXc2OWFaSHJmNTVFTWh4RFFDYms?oc=5)
 
 ---
 
@@ -514,6 +530,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzYXNQdjhBQ2
 2026-11-18
 
 Source: [Science | AAAS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQa25Fd0hGYU1xUVpkTXhZQjB5aVhiSWJ4MkpxVUhaSFVuS1FVd3BGNXpHRkgxNTNCazdjQzRmUGs3ekJYcFo5NERtVHVmamxrMlhWcUliLU93ZGRDOHlzSDF3RDhLT05uNy1xbFZFQnc3OVd2LTBhT0dsdVFXRU91NHJnVE1Yc3dDVldMcE5ZQzNoUUJGdGxBUU9rb1VOUFRocDRpN1p1SQ?oc=5)
+
+---
+
+### [Temporal interference stimulation targeting the ventromedial prefrontal cortex enhances reward learning and improves depression scores - Science | AAAS](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QOERld1MyYS1lUUljRG1kWmpSS2N0Mm04M29TelltcDVIdGltTmpRaVIxVGhDVDNZSTRMcGNHZVY3WjU2N2dleDR3T3FmTUI3ekJvUWJEX2VrMmRaUDZnSHhKZ21zdHM?oc=5)
+
+2026-11-18
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QOERld1MyYS1lUUljRG1kWmpSS2N0Mm04M29TelltcDVIdGltTmpRaVIxVGhDVDNZSTRMcGNHZVY3WjU2N2dleDR3T3FmTUI3ekJvUWJEX2VrMmRaUDZnSHhKZ21zdHM?oc=5)
 
 ---
 

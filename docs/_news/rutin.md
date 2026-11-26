@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>123 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>129 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (123)
+## Related News (129)
+
+### [NASA nuclear propulsion demo mission to make limited use of nuclear propulsion](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGYxYVJvZmE2ZzVYTmFUWV95RTZQVkhQR2toQnlhWUpnMkQxSUJPcm1Vdm5tT0dJZ0lNMWFRMGlJOFJXcUNXVGg1WnY5OVVvRXBQMDVtYVVmbmVBSExQSk0tRG1FSVpZdzNfcnVnUFptZkQtZUNDNTVQMHhBTWJaTXdTX0x1ejdydXBPOUdkRWRYc0NRSTN5WlFGOUw3a1Y0VFM4?oc=5)
+
+2026-11-25 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [SpaceNews](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGYxYVJvZmE2ZzVYTmFUWV95RTZQVkhQR2toQnlhWUpnMkQxSUJPcm1Vdm5tT0dJZ0lNMWFRMGlJOFJXcUNXVGg1WnY5OVVvRXBQMDVtYVVmbmVBSExQSk0tRG1FSVpZdzNfcnVnUFptZkQtZUNDNTVQMHhBTWJaTXdTX0x1ejdydXBPOUdkRWRYc0NRSTN5WlFGOUw3a1Y0VFM4?oc=5)
+
+---
 
 ### [Photothermally gated nanorobots for active blood-brain barrier transcytosis and brain delivery - Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
 
@@ -58,9 +66,17 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhs
 
 ---
 
+### [Hidden health risk in young adulthood linked to worse memory by age 55: study - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxObHMzTnhiYVFZQm93YkFmbHF3X1ZHYkxuUDVxSFBpb0ZTQjUxVnVMNnRzYU9SLXlMaTZsS21lMG43SGZnWS01Yl9oYkowVEVMYXlxWGZKcVNHZnY1S2RweFVYQ3pMRWg1WVlYTVhHOGlkaGVnWmpRRHJ3MXBYRW9ZY196anZ3UUJsQl9SclhYazM2c1ptWW15dHk2aXoxM1lvWTNWSg?oc=5)
+
+2026-11-25 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxObHMzTnhiYVFZQm93YkFmbHF3X1ZHYkxuUDVxSFBpb0ZTQjUxVnVMNnRzYU9SLXlMaTZsS21lMG43SGZnWS01Yl9oYkowVEVMYXlxWGZKcVNHZnY1S2RweFVYQ3pMRWg1WVlYTVhHOGlkaGVnWmpRRHJ3MXBYRW9ZY196anZ3UUJsQl9SclhYazM2c1ptWW15dHk2aXoxM1lvWTNWSg?oc=5)
+
+---
+
 ### [WA measles situation ‘much worse,’ with five outbreaks so far - The Seattle Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdms1cXJSREoyV04tRHBOS05KczBmMkMtb3NEU0dEcTJkb3BKOEp0a0dHY0IzZF9fUlR1YVp3MkVzdmd4TDd2LXFJeXp2Nld1M3M3bExBdGt6MGIzbWI2X2VsR3VZQzRsYWNyQTBWbHFxbG1CclhFX0FFNWxEeVM4ZXZZQU5QZmFTNEg5UXVVbnlRQVgtelgxSHRJN0diSUN3RmxZOUk5dkdrdVVsYVZmZDE4VTBKUG9LZEIwVw?oc=5)
 
-2026-11-25 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span> <span class="news-indication-tag">RA</span>
+2026-11-25 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span> <span class="news-indication-tag">RA</span>
 
 Source: [The Seattle Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdms1cXJSREoyV04tRHBOS05KczBmMkMtb3NEU0dEcTJkb3BKOEp0a0dHY0IzZF9fUlR1YVp3MkVzdmd4TDd2LXFJeXp2Nld1M3M3bExBdGt6MGIzbWI2X2VsR3VZQzRsYWNyQTBWbHFxbG1CclhFX0FFNWxEeVM4ZXZZQU5QZmFTNEg5UXVVbnlRQVgtelgxSHRJN0diSUN3RmxZOUk5dkdrdVVsYVZmZDE4VTBKUG9LZEIwVw?oc=5)
 
@@ -79,6 +95,22 @@ Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTHYwWi
 2026-11-25 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5WQnVwWGZqV3FwRkJzQTZBY0daR2xJMDQycGpqZGNfaGtVbE5Nd1I1SXVIOVJ4R0NQUnAzQktVT3kyTW5mUjI1alNpN0gtdWlXX0V1ZG05T1JZc05va1dhM083OTdvYnhiUGNnRGg1MA?oc=5)
+
+---
+
+### [Peppermint oil significantly lowers blood pressure in just 20 days - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5nZGJCQmV6Y040Y0N2MGhWMkJpWms2SmZzem43RUVTRlRLR2plWklQaVIteGxKb1pldGY2OGpBUk1YLVpRVFEzd3NBUDBZRnNhdjRlcVhUcGJRZWZGV2xjTnZzZjlEd2JxLTdLNVdBTQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5nZGJCQmV6Y040Y0N2MGhWMkJpWms2SmZzem43RUVTRlRLR2plWklQaVIteGxKb1pldGY2OGpBUk1YLVpRVFEzd3NBUDBZRnNhdjRlcVhUcGJRZWZGV2xjTnZzZjlEd2JxLTdLNVdBTQ?oc=5)
+
+---
+
+### [Summer vitamin D levels may say more about your health than in winter](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVFlqNjBSa29wT3BtbmhzZ1JXUkZYelo0VGhVLXNZaFgzcnk1dzBTcDgxaXdOLUhLYkM0VVZGSzZPNDlzR1Zmazc3ekNwTDkyZXNiOXREWkNZWnFjUmNsR2c5MFU1b1Baa1d3cVhGUTRLWHJxaVBhNnpKYWk4aVljMWNIelZDT3l1WlZ3UXhMM05haG9EQV9sVUVHUGd3Mk5vOEh4MDJZUl9oZ1pZR1I2c01hWFdXY3VXbnNFYXVB?oc=5)
+
+2026-11-25 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVFlqNjBSa29wT3BtbmhzZ1JXUkZYelo0VGhVLXNZaFgzcnk1dzBTcDgxaXdOLUhLYkM0VVZGSzZPNDlzR1Zmazc3ekNwTDkyZXNiOXREWkNZWnFjUmNsR2c5MFU1b1Baa1d3cVhGUTRLWHJxaVBhNnpKYWk4aVljMWNIelZDT3l1WlZ3UXhMM05haG9EQV9sVUVHUGd3Mk5vOEh4MDJZUl9oZ1pZR1I2c01hWFdXY3VXbnNFYXVB?oc=5)
 
 ---
 
@@ -114,6 +146,14 @@ Source: [KFOR](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTh1SUIyR0NF
 
 ---
 
+### [Fossil Scorpion from Alabama Coal Mine is Oldest of Its Kind in North America](https://news.google.com/rss/articles/CBMihAFBVV95cUxNYlJsUXJWTEY2OUpiRmQ5c1hWX2NvbzBUa0FXbGhnT21JSUpTWFBicmJQbnN2VGZ3QXpaSW85bFE5bmVGTE1mbzZ6c0NZWHNYYVVuYTRiZVp6QjlxSzUtbjRRNy1BVHZVSVc1ZnJlRHR5Uk1QcE00UmRyTURsNFByRFpnSlM?oc=5)
+
+2026-11-24 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Sci.News](https://news.google.com/rss/articles/CBMihAFBVV95cUxNYlJsUXJWTEY2OUpiRmQ5c1hWX2NvbzBUa0FXbGhnT21JSUpTWFBicmJQbnN2VGZ3QXpaSW85bFE5bmVGTE1mbzZ6c0NZWHNYYVVuYTRiZVp6QjlxSzUtbjRRNy1BVHZVSVc1ZnJlRHR5Uk1QcE00UmRyTURsNFByRFpnSlM?oc=5)
+
+---
+
 ### [Major Success Sees Viral Infections Fall 68% in Brazil After Releasing Wolbachia-Infected Mosquitoes - Good News Network](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaHJiVTMwcHdFM28xY3JVSGFSenY1QUJVbVRQcXl5b3k0Tlk1ZThyT0dXdzBhWmdnYkx2YmpjbW9uYzJxSkRCc1VRd2prMGZ0LTdzcVBob2kwM3N5U3AxVmlxZUM1TThHMUUxZGdzUU1FdmVfcTNLNjlFUVBDYmpNSjhqZTJKVGg4dEZvZWZHNG5qMDV6LUQ2ZF9UUENQd2tBTjhVNWRTMElMSlRYVDg2ODVxdm5LVG9iOHI1d0JoT0NOREVfRkhjeTFfaVQ?oc=5)
 
 2026-11-24 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
@@ -140,7 +180,7 @@ Source: [Gizmodo](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnBpajNPV
 
 ### [Prehospital Antibiotics for Patients With Suspected Sepsis The PITSTOP-Antibiotics Factorial Randomized Clinical Trial](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yNkd5Q1JoZVBlZUhFSm5wajBQOVB2bEMtWDhXM2NoaXY5bXVBeUtCcEppbzZBSVc3a19LRmxuaV9XWTlrTmdQZXlYMVQ0U1JYcW4zcGIwcURibVkxV2otbTJZUGdteWlE?oc=5)
 
-2026-11-24 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
+2026-11-24 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span> <span class="news-indication-tag">CAD</span>
 
 Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yNkd5Q1JoZVBlZUhFSm5wajBQOVB2bEMtWDhXM2NoaXY5bXVBeUtCcEppbzZBSVc3a19LRmxuaV9XWTlrTmdQZXlYMVQ0U1JYcW4zcGIwcURibVkxV2otbTJZUGdteWlE?oc=5)
 
@@ -159,6 +199,14 @@ Source: [StudyFinds](https://news.google.com/rss/articles/CBMib0FVX3lxTE9WUFJvYV
 2026-11-24 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [FOX8 WGHP](https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXVIY05yRTlRaDNETTlhMGdaVTE4TkNwUW5OYmo4UGVRbDBqMGE5X2FFdTBlOVEzN2hIVG92TmIyQ2REXzk2dEluMnFlUVNnTmlJN1J0QU1vNGNYVXJIU29Ob3gxMGtpTFR4NFhnMThtU2MwclFkblIwbTBYSzFjRDc1SdIBiAFBVV95cUxQUFYwVHRzOGhtWldIal9DdUtfU09KckE5Q0JzV2p4OW9nSVhKQkR2N1k1TXl6SXFLa2hzVy1jZW84X2lSWGhOYkhtRjdkTFNENmRJQW56TkVxbnFDWDV1ZVNZS3VXZ0I3aUNhN1diY2FCeWxBWHFJc05Ud0VVMzlic0ZBN1gzUG9i?oc=5)
+
+---
+
+### [Soaring popularity of pickleball linked to eye injuries and disease, doctors warn - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRkdUN3NLdndWakw1d2xWUkp5dnJFZjZHWHN0NlVUUHliNWk1ZEQwZmY4LUltRXhwTlotUHJoOGVTMFJGZm9tQzVUTDZpcEZnYVdWQ2s1YkpjNS1xZ1M2aG5PWEp1QkRIWC1QeTBjS3dkUjZCdFAwOTc2N213WkluYVdOSHFNZlZMejA1bTV6YzlyaFBDNXZF?oc=5)
+
+2026-11-24 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRkdUN3NLdndWakw1d2xWUkp5dnJFZjZHWHN0NlVUUHliNWk1ZEQwZmY4LUltRXhwTlotUHJoOGVTMFJGZm9tQzVUTDZpcEZnYVdWQ2s1YkpjNS1xZ1M2aG5PWEp1QkRIWC1QeTBjS3dkUjZCdFAwOTc2N213WkluYVdOSHFNZlZMejA1bTV6YzlyaFBDNXZF?oc=5)
 
 ---
 
@@ -188,7 +236,7 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMiggFBVV95cUxQQU9iRkNk
 
 ### [Complete biosynthesis and production of paclitaxel in a plant host](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VZE1PNm5jdlJCV3JrLUdKR201X1ZhTDVnamhITUR1UktJbHZleXJIaGp1UE5wT0pQWVJRUFdFcEY2Y2pNOGx4N2R2WG1VT3hQUzJNRlBvY2E3cVpJcTU4?oc=5)
 
-2026-11-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-11-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span> <span class="news-indication-tag">MI</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VZE1PNm5jdlJCV3JrLUdKR201X1ZhTDVnamhITUR1UktJbHZleXJIaGp1UE5wT0pQWVJRUFdFcEY2Y2pNOGx4N2R2WG1VT3hQUzJNRlBvY2E3cVpJcTU4?oc=5)
 
@@ -244,7 +292,7 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE
 
 ### [GLP-1 weight-loss drugs could change far more than waistlines, study suggests](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
-2026-11-23 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-23 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span> <span class="news-indication-tag">RA</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
@@ -436,7 +484,7 @@ Source: [Health.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE5KZ2Q1TG
 
 ### [“Bikini Medicine” No More—Major Medical Societies Propose New Framework for Female Heart Health](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BUmxpRG8tbEVFRGxYd2NrbkE4czJ6REhWMW9uWjFYY0lJMTFrVllnY0QtXzJNOXd1NjRaYzl4akhtSV9sZVRtUGZad2hSR1JjbWxjcFpXd1hzVTVwUXpfTUw3RVZPcndS?oc=5)
 
-2026-11-20 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BUmxpRG8tbEVFRGxYd2NrbkE4czJ6REhWMW9uWjFYY0lJMTFrVllnY0QtXzJNOXd1NjRaYzl4akhtSV9sZVRtUGZad2hSR1JjbWxjcFpXd1hzVTVwUXpfTUw3RVZPcndS?oc=5)
 

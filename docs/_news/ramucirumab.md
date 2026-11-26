@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>82 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>85 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (82)
+## Related News (85)
+
+### [Can Sparkling Water Increase Your Risk Of Colorectal Cancer?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFhiTmVUOGoxNkpPYVFhN3JORkhyUnFTaF9ybXYzZjJ4YWV6aUNmeHMxQkFZdU9FdzBBY0NZUUZJY1I1V20tUEJ0d3Nudnl4cmx4TFlqNWJnVDdsQ0YzNF9NQWVaeFBTRFFLQzdsLXVldkVIeGV3WWR1WEQySGpaQkdReXFOVXNQY1VWRHM2LWNabjJjaHBwcHhZOGNlS1hzcXB6YkRFN0I3OW9yVGZpU2dMbWJmTVNYQzFJ0gHAAUFVX3lxTFBYTGdPdmVkZGF1Q2JDeVlSYWtlQzdmdGxEUmRtX28yQUoyc29NbUdaS0kya25SUnRpR3NheHFNbUlOalR2cHBqMEg5NnRpd0Q1bW5ZdXBVenhfMUw2OVVIU01ScGJmZlFjM1drbDBiYWdDQnpZd2xlWUwwdVl2V294MDdUSlFHaXhGNlVOVDA0ZC1sRlkwVjRpQWJJV3A2NUd3UDNlYmNEeHltQU5LMnNhdEFTb205R2ZGdkg0cjFRMA?oc=5)
+
+2026-11-26 <span class="news-indication-tag">cancer</span>
+
+Source: [HuffPost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFhiTmVUOGoxNkpPYVFhN3JORkhyUnFTaF9ybXYzZjJ4YWV6aUNmeHMxQkFZdU9FdzBBY0NZUUZJY1I1V20tUEJ0d3Nudnl4cmx4TFlqNWJnVDdsQ0YzNF9NQWVaeFBTRFFLQzdsLXVldkVIeGV3WWR1WEQySGpaQkdReXFOVXNQY1VWRHM2LWNabjJjaHBwcHhZOGNlS1hzcXB6YkRFN0I3OW9yVGZpU2dMbWJmTVNYQzFJ0gHAAUFVX3lxTFBYTGdPdmVkZGF1Q2JDeVlSYWtlQzdmdGxEUmRtX28yQUoyc29NbUdaS0kya25SUnRpR3NheHFNbUlOalR2cHBqMEg5NnRpd0Q1bW5ZdXBVenhfMUw2OVVIU01ScGJmZlFjM1drbDBiYWdDQnpZd2xlWUwwdVl2V294MDdUSlFHaXhGNlVOVDA0ZC1sRlkwVjRpQWJJV3A2NUd3UDNlYmNEeHltQU5LMnNhdEFTb205R2ZGdkg0cjFRMA?oc=5)
+
+---
+
+### [Heterogeneity co-evolves with architecture to determine colon cancer outcome](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MSlZhWnB4SDdQQXhKN0JIT0hPSVpEVGdnVk1GWFB6dmROWk90QVNfSXVqT2pvRzMtcndSWmJfWGVfTURpX0RPM1dZX1BpQU00OG1YTVhEYVpfUG9TdS1Z?oc=5)
+
+2026-11-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MSlZhWnB4SDdQQXhKN0JIT0hPSVpEVGdnVk1GWFB6dmROWk90QVNfSXVqT2pvRzMtcndSWmJfWGVfTURpX0RPM1dZX1BpQU00OG1YTVhEYVpfUG9TdS1Z?oc=5)
+
+---
 
 ### [Photothermally gated nanorobots for active blood-brain barrier transcytosis and brain delivery - Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
 
@@ -92,6 +108,14 @@ Source: [Gizmodo](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnBpajNPV
 
 ---
 
+### [Rewiring cancer: peripheral nerves control tumours](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aMWJMQ05XN2V1MVBCSDU3b0NtcjVmcWVkeHVMQnVDQ0c0b0pJcnBuRlM4SlJER05oZWI2QktFQjFOV3JJZ1IzRDNIQUxiUld2VWdrWGIxY3lkWnZUSVBZ?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aMWJMQ05XN2V1MVBCSDU3b0NtcjVmcWVkeHVMQnVDQ0c0b0pJcnBuRlM4SlJER05oZWI2QktFQjFOV3JJZ1IzRDNIQUxiUld2VWdrWGIxY3lkWnZUSVBZ?oc=5)
+
+---
+
 ### [The Mortality Gap Between Black and White Americans Is Shrinking - The New York Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnlpYU96SUUydnc2OFNXTG9CNmZDWUFud3B4NzAzQmJhQk9ZS3RSWEh5Y2hwWHViUVlpTEpGSU1HUmRFbjJpeFRpRWEtQzdkeE1QQ0NKYVBCUC1KU3hLNWVONlZveXFxbkdHMG45X2tNbVcyTEtldjZZdkcySzNrSHhKa1lFVWIzTFV0Mnd3?oc=5)
 
 2026-11-24 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
@@ -134,7 +158,7 @@ Source: [Gizmodo](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEdmUG5FT
 
 ### [Complete biosynthesis and production of paclitaxel in a plant host](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VZE1PNm5jdlJCV3JrLUdKR201X1ZhTDVnamhITUR1UktJbHZleXJIaGp1UE5wT0pQWVJRUFdFcEY2Y2pNOGx4N2R2WG1VT3hQUzJNRlBvY2E3cVpJcTU4?oc=5)
 
-2026-11-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-11-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span> <span class="news-indication-tag">MI</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VZE1PNm5jdlJCV3JrLUdKR201X1ZhTDVnamhITUR1UktJbHZleXJIaGp1UE5wT0pQWVJRUFdFcEY2Y2pNOGx4N2R2WG1VT3hQUzJNRlBvY2E3cVpJcTU4?oc=5)
 

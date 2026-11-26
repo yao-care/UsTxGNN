@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 121 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 127 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-11-26
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>121 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>127 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (121)
+## Related News (127)
+
+### [NASA nuclear propulsion demo mission to make limited use of nuclear propulsion](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGYxYVJvZmE2ZzVYTmFUWV95RTZQVkhQR2toQnlhWUpnMkQxSUJPcm1Vdm5tT0dJZ0lNMWFRMGlJOFJXcUNXVGg1WnY5OVVvRXBQMDVtYVVmbmVBSExQSk0tRG1FSVpZdzNfcnVnUFptZkQtZUNDNTVQMHhBTWJaTXdTX0x1ejdydXBPOUdkRWRYc0NRSTN5WlFGOUw3a1Y0VFM4?oc=5)
+
+2026-11-25
+
+Source: [SpaceNews](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGYxYVJvZmE2ZzVYTmFUWV95RTZQVkhQR2toQnlhWUpnMkQxSUJPcm1Vdm5tT0dJZ0lNMWFRMGlJOFJXcUNXVGg1WnY5OVVvRXBQMDVtYVVmbmVBSExQSk0tRG1FSVpZdzNfcnVnUFptZkQtZUNDNTVQMHhBTWJaTXdTX0x1ejdydXBPOUdkRWRYc0NRSTN5WlFGOUw3a1Y0VFM4?oc=5)
+
+---
 
 ### [Photothermally gated nanorobots for active blood-brain barrier transcytosis and brain delivery - Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
 
@@ -50,6 +58,14 @@ Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQV
 2026-11-25
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhsbGpTNjRVWjVxbkROX3habmZQX2syWHMwSDA5NkZ6TThjNllXRGFNZ3lDa3F4Tjd5anQ4NW1fSjJWTm9aVi1DQWpQcmF0dTI4dlpBbWVFam8yWEFwVWd5NjA3cmJnT1JxVG1uS2NXNWhPR1g0eG52OEtfakRtaml2ZjUtMU5rdDNMdnljT3VhUVktRXNCdXpZaDh4bkFaaUNRZGs3TFR3T1kxM0pieFJXbGVjaHJWeHVaRg?oc=5)
+
+---
+
+### [Hidden health risk in young adulthood linked to worse memory by age 55: study - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxObHMzTnhiYVFZQm93YkFmbHF3X1ZHYkxuUDVxSFBpb0ZTQjUxVnVMNnRzYU9SLXlMaTZsS21lMG43SGZnWS01Yl9oYkowVEVMYXlxWGZKcVNHZnY1S2RweFVYQ3pMRWg1WVlYTVhHOGlkaGVnWmpRRHJ3MXBYRW9ZY196anZ3UUJsQl9SclhYazM2c1ptWW15dHk2aXoxM1lvWTNWSg?oc=5)
+
+2026-11-25
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxObHMzTnhiYVFZQm93YkFmbHF3X1ZHYkxuUDVxSFBpb0ZTQjUxVnVMNnRzYU9SLXlMaTZsS21lMG43SGZnWS01Yl9oYkowVEVMYXlxWGZKcVNHZnY1S2RweFVYQ3pMRWg1WVlYTVhHOGlkaGVnWmpRRHJ3MXBYRW9ZY196anZ3UUJsQl9SclhYazM2c1ptWW15dHk2aXoxM1lvWTNWSg?oc=5)
 
 ---
 
@@ -74,6 +90,22 @@ Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTHYwWi
 2026-11-25
 
 Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5WQnVwWGZqV3FwRkJzQTZBY0daR2xJMDQycGpqZGNfaGtVbE5Nd1I1SXVIOVJ4R0NQUnAzQktVT3kyTW5mUjI1alNpN0gtdWlXX0V1ZG05T1JZc05va1dhM083OTdvYnhiUGNnRGg1MA?oc=5)
+
+---
+
+### [Peppermint oil significantly lowers blood pressure in just 20 days - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5nZGJCQmV6Y040Y0N2MGhWMkJpWms2SmZzem43RUVTRlRLR2plWklQaVIteGxKb1pldGY2OGpBUk1YLVpRVFEzd3NBUDBZRnNhdjRlcVhUcGJRZWZGV2xjTnZzZjlEd2JxLTdLNVdBTQ?oc=5)
+
+2026-11-25
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5nZGJCQmV6Y040Y0N2MGhWMkJpWms2SmZzem43RUVTRlRLR2plWklQaVIteGxKb1pldGY2OGpBUk1YLVpRVFEzd3NBUDBZRnNhdjRlcVhUcGJRZWZGV2xjTnZzZjlEd2JxLTdLNVdBTQ?oc=5)
+
+---
+
+### [Summer vitamin D levels may say more about your health than in winter](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVFlqNjBSa29wT3BtbmhzZ1JXUkZYelo0VGhVLXNZaFgzcnk1dzBTcDgxaXdOLUhLYkM0VVZGSzZPNDlzR1Zmazc3ekNwTDkyZXNiOXREWkNZWnFjUmNsR2c5MFU1b1Baa1d3cVhGUTRLWHJxaVBhNnpKYWk4aVljMWNIelZDT3l1WlZ3UXhMM05haG9EQV9sVUVHUGd3Mk5vOEh4MDJZUl9oZ1pZR1I2c01hWFdXY3VXbnNFYXVB?oc=5)
+
+2026-11-25
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVFlqNjBSa29wT3BtbmhzZ1JXUkZYelo0VGhVLXNZaFgzcnk1dzBTcDgxaXdOLUhLYkM0VVZGSzZPNDlzR1Zmazc3ekNwTDkyZXNiOXREWkNZWnFjUmNsR2c5MFU1b1Baa1d3cVhGUTRLWHJxaVBhNnpKYWk4aVljMWNIelZDT3l1WlZ3UXhMM05haG9EQV9sVUVHUGd3Mk5vOEh4MDJZUl9oZ1pZR1I2c01hWFdXY3VXbnNFYXVB?oc=5)
 
 ---
 
@@ -106,6 +138,14 @@ Source: [EatingWell](https://news.google.com/rss/articles/CBMijgFBVV95cUxNd050bX
 2026-11-25
 
 Source: [KFOR](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTh1SUIyR0NFV0Q4MVgzeHJsVS01cEJ3aW9uaG0yTk14UkF1djBQMC1pNi1nR2ctQzgtT1dhTHp5dVN0UzZwUU1aX2FpbEVKYVAtbG5tX0ttczgwa3ROd1hLbjVYQUpPYndoVk9Mak1HUDh0NTN1VlRpbXZZR2RHaGx0bjEwVm5Zd1UxTkFJNXloaUpOZ1pTQ0N3bjlBU3h5Q0wxQjRMQVpmQdIBrwFBVV95cUxNZzNMTm11bjZkZDdFWVA1MFRERVRmSnNKM3VDLUVaZXBwa3lBcDVYMUloem9uN1lMU2RuYUlOMTNiRnFWb3ZJYWl0eW95THhPTGt3SWIxR0FJaFRqUlVha3B4dlk5eGZ3ZUtUeF95REktOHZuNmdYeFROVjFDbEZKQ2hUcDBaMFM3R1lkY1BacThFc1lTckJoeUVVdUdWM2JFQkluNWE1QkVfNzR6TUZn?oc=5)
+
+---
+
+### [Fossil Scorpion from Alabama Coal Mine is Oldest of Its Kind in North America](https://news.google.com/rss/articles/CBMihAFBVV95cUxNYlJsUXJWTEY2OUpiRmQ5c1hWX2NvbzBUa0FXbGhnT21JSUpTWFBicmJQbnN2VGZ3QXpaSW85bFE5bmVGTE1mbzZ6c0NZWHNYYVVuYTRiZVp6QjlxSzUtbjRRNy1BVHZVSVc1ZnJlRHR5Uk1QcE00UmRyTURsNFByRFpnSlM?oc=5)
+
+2026-11-24
+
+Source: [Sci.News](https://news.google.com/rss/articles/CBMihAFBVV95cUxNYlJsUXJWTEY2OUpiRmQ5c1hWX2NvbzBUa0FXbGhnT21JSUpTWFBicmJQbnN2VGZ3QXpaSW85bFE5bmVGTE1mbzZ6c0NZWHNYYVVuYTRiZVp6QjlxSzUtbjRRNy1BVHZVSVc1ZnJlRHR5Uk1QcE00UmRyTURsNFByRFpnSlM?oc=5)
 
 ---
 
@@ -154,6 +194,14 @@ Source: [StudyFinds](https://news.google.com/rss/articles/CBMib0FVX3lxTE9WUFJvYV
 2026-11-24
 
 Source: [FOX8 WGHP](https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXVIY05yRTlRaDNETTlhMGdaVTE4TkNwUW5OYmo4UGVRbDBqMGE5X2FFdTBlOVEzN2hIVG92TmIyQ2REXzk2dEluMnFlUVNnTmlJN1J0QU1vNGNYVXJIU29Ob3gxMGtpTFR4NFhnMThtU2MwclFkblIwbTBYSzFjRDc1SdIBiAFBVV95cUxQUFYwVHRzOGhtWldIal9DdUtfU09KckE5Q0JzV2p4OW9nSVhKQkR2N1k1TXl6SXFLa2hzVy1jZW84X2lSWGhOYkhtRjdkTFNENmRJQW56TkVxbnFDWDV1ZVNZS3VXZ0I3aUNhN1diY2FCeWxBWHFJc05Ud0VVMzlic0ZBN1gzUG9i?oc=5)
+
+---
+
+### [Soaring popularity of pickleball linked to eye injuries and disease, doctors warn - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRkdUN3NLdndWakw1d2xWUkp5dnJFZjZHWHN0NlVUUHliNWk1ZEQwZmY4LUltRXhwTlotUHJoOGVTMFJGZm9tQzVUTDZpcEZnYVdWQ2s1YkpjNS1xZ1M2aG5PWEp1QkRIWC1QeTBjS3dkUjZCdFAwOTc2N213WkluYVdOSHFNZlZMejA1bTV6YzlyaFBDNXZF?oc=5)
+
+2026-11-24
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRkdUN3NLdndWakw1d2xWUkp5dnJFZjZHWHN0NlVUUHliNWk1ZEQwZmY4LUltRXhwTlotUHJoOGVTMFJGZm9tQzVUTDZpcEZnYVdWQ2s1YkpjNS1xZ1M2aG5PWEp1QkRIWC1QeTBjS3dkUjZCdFAwOTc2N213WkluYVdOSHFNZlZMejA1bTV6YzlyaFBDNXZF?oc=5)
 
 ---
 

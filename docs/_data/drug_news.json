@@ -3,112 +3,112 @@
     {
       "url": "/news/baricitinib/",
       "title": "Baricitinib News",
-      "count": 534
+      "count": 554
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 466
+      "count": 485
     },
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 310
+      "count": 326
     }
   ],
   "/drugs/insulin-glargine/": [
     {
       "url": "/news/insulin_glargine/",
       "title": "Insulin glargine News",
-      "count": 553
+      "count": 573
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 466
+      "count": 485
     },
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 310
+      "count": 326
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 121
+      "count": 127
     }
   ],
   "/drugs/insulin-human/": [
     {
       "url": "/news/insulin_human/",
       "title": "Insulin human News",
-      "count": 553
+      "count": 573
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 466
+      "count": 485
     },
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 310
+      "count": 326
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 121
+      "count": 127
     }
   ],
   "/drugs/insulin-lispro/": [
     {
       "url": "/news/insulin_lispro/",
       "title": "Insulin lispro News",
-      "count": 553
+      "count": 573
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 466
+      "count": 485
     },
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 310
+      "count": 326
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 121
+      "count": 127
     }
   ],
   "/drugs/lasmiditan/": [
     {
       "url": "/news/lasmiditan/",
       "title": "Lasmiditan News",
-      "count": 310
+      "count": 326
     },
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 310
+      "count": 326
     }
   ],
   "/drugs/raloxifene/": [
     {
       "url": "/news/raloxifene/",
       "title": "Raloxifene News",
-      "count": 394
+      "count": 410
     },
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 310
+      "count": 326
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 121
+      "count": 127
     },
     {
       "url": "/news/influenza/",
@@ -120,36 +120,36 @@
     {
       "url": "/news/ramucirumab/",
       "title": "Ramucirumab News",
-      "count": 82
+      "count": 85
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 82
+      "count": 85
     }
   ],
   "/drugs/rutin/": [
     {
       "url": "/news/rutin/",
       "title": "Rutin News",
-      "count": 123
+      "count": 129
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 121
+      "count": 127
     }
   ],
   "/drugs/selpercatinib/": [
     {
       "url": "/news/selpercatinib/",
       "title": "Selpercatinib News",
-      "count": 313
+      "count": 329
     },
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 310
+      "count": 326
     },
     {
       "url": "/news/hypertension/",
@@ -161,56 +161,56 @@
     {
       "url": "/news/sodium_acetate/",
       "title": "Sodium acetate News",
-      "count": 466
+      "count": 485
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 466
+      "count": 485
     }
   ],
   "/drugs/tadalafil/": [
     {
       "url": "/news/tadalafil/",
       "title": "Tadalafil News",
-      "count": 545
+      "count": 564
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 466
+      "count": 485
     },
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 310
+      "count": 326
     },
     {
       "url": "/news/heart-disease/",
-      "title": "CVD (heart disease) News",
-      "count": 51
+      "title": "CAD (heart disease) News",
+      "count": 54
     }
   ],
   "/drugs/teriparatide/": [
     {
       "url": "/news/teriparatide/",
       "title": "Teriparatide News",
-      "count": 557
+      "count": 577
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 466
+      "count": 485
     },
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 310
+      "count": 326
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 121
+      "count": 127
     },
     {
       "url": "/news/influenza/",

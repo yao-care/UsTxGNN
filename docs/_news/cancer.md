@@ -3,7 +3,7 @@ layout: default
 title: "tumor (cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 82 articles, 1 related drugs."
+description: "Health news about tumor (cancer). 85 articles, 1 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-11-26
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>82 news articles</strong> and 1 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>85 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (82)
+## Related News (85)
+
+### [Can Sparkling Water Increase Your Risk Of Colorectal Cancer?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFhiTmVUOGoxNkpPYVFhN3JORkhyUnFTaF9ybXYzZjJ4YWV6aUNmeHMxQkFZdU9FdzBBY0NZUUZJY1I1V20tUEJ0d3Nudnl4cmx4TFlqNWJnVDdsQ0YzNF9NQWVaeFBTRFFLQzdsLXVldkVIeGV3WWR1WEQySGpaQkdReXFOVXNQY1VWRHM2LWNabjJjaHBwcHhZOGNlS1hzcXB6YkRFN0I3OW9yVGZpU2dMbWJmTVNYQzFJ0gHAAUFVX3lxTFBYTGdPdmVkZGF1Q2JDeVlSYWtlQzdmdGxEUmRtX28yQUoyc29NbUdaS0kya25SUnRpR3NheHFNbUlOalR2cHBqMEg5NnRpd0Q1bW5ZdXBVenhfMUw2OVVIU01ScGJmZlFjM1drbDBiYWdDQnpZd2xlWUwwdVl2V294MDdUSlFHaXhGNlVOVDA0ZC1sRlkwVjRpQWJJV3A2NUd3UDNlYmNEeHltQU5LMnNhdEFTb205R2ZGdkg0cjFRMA?oc=5)
+
+2026-11-26
+
+Source: [HuffPost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFhiTmVUOGoxNkpPYVFhN3JORkhyUnFTaF9ybXYzZjJ4YWV6aUNmeHMxQkFZdU9FdzBBY0NZUUZJY1I1V20tUEJ0d3Nudnl4cmx4TFlqNWJnVDdsQ0YzNF9NQWVaeFBTRFFLQzdsLXVldkVIeGV3WWR1WEQySGpaQkdReXFOVXNQY1VWRHM2LWNabjJjaHBwcHhZOGNlS1hzcXB6YkRFN0I3OW9yVGZpU2dMbWJmTVNYQzFJ0gHAAUFVX3lxTFBYTGdPdmVkZGF1Q2JDeVlSYWtlQzdmdGxEUmRtX28yQUoyc29NbUdaS0kya25SUnRpR3NheHFNbUlOalR2cHBqMEg5NnRpd0Q1bW5ZdXBVenhfMUw2OVVIU01ScGJmZlFjM1drbDBiYWdDQnpZd2xlWUwwdVl2V294MDdUSlFHaXhGNlVOVDA0ZC1sRlkwVjRpQWJJV3A2NUd3UDNlYmNEeHltQU5LMnNhdEFTb205R2ZGdkg0cjFRMA?oc=5)
+
+---
+
+### [Heterogeneity co-evolves with architecture to determine colon cancer outcome](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MSlZhWnB4SDdQQXhKN0JIT0hPSVpEVGdnVk1GWFB6dmROWk90QVNfSXVqT2pvRzMtcndSWmJfWGVfTURpX0RPM1dZX1BpQU00OG1YTVhEYVpfUG9TdS1Z?oc=5)
+
+2026-11-25
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MSlZhWnB4SDdQQXhKN0JIT0hPSVpEVGdnVk1GWFB6dmROWk90QVNfSXVqT2pvRzMtcndSWmJfWGVfTURpX0RPM1dZX1BpQU00OG1YTVhEYVpfUG9TdS1Z?oc=5)
+
+---
 
 ### [Photothermally gated nanorobots for active blood-brain barrier transcytosis and brain delivery - Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
 
@@ -77,6 +93,14 @@ Source: [Newser](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkJJOWF3NU
 2026-11-24
 
 Source: [Gizmodo](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnBpajNPVHdPVDBOV2pkdUJWeTc2cWVVVW5JdVZHNVY4M2liMVhQMVYzVGVsNFRFdERmM3lvRUkxSE43N1ZvM1BPTWtObkpmOERYYkxob1JNNkFqTlJwTXFjSEc0dU1HZzZQWG1xTkd4dWJHSDRjM0pXYktLb0dxRkFyQm9ILWpwOEdiVndZVGRXUXp5NXZlRUNYOHBuZXZ4R2xTSlNKUGJKVmJVUFozcw?oc=5)
+
+---
+
+### [Rewiring cancer: peripheral nerves control tumours](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aMWJMQ05XN2V1MVBCSDU3b0NtcjVmcWVkeHVMQnVDQ0c0b0pJcnBuRlM4SlJER05oZWI2QktFQjFOV3JJZ1IzRDNIQUxiUld2VWdrWGIxY3lkWnZUSVBZ?oc=5)
+
+2026-11-24
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aMWJMQ05XN2V1MVBCSDU3b0NtcjVmcWVkeHVMQnVDQ0c0b0pJcnBuRlM4SlJER05oZWI2QktFQjFOV3JJZ1IzRDNIQUxiUld2VWdrWGIxY3lkWnZUSVBZ?oc=5)
 
 ---
 

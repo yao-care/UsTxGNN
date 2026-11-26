@@ -3,9 +3,9 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 115 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 121 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # UC (inflammatory bowel disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>115 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>121 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,23 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (115)
+## Related News (121)
+
+### [Photothermally gated nanorobots for active blood-brain barrier transcytosis and brain delivery - Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
+
+2026-11-25
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
+
+---
+
+### [Human 'Mini Brains' Spent 40 Days in Space. Scientists Found Clues to Alzheimer's.](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhsbGpTNjRVWjVxbkROX3habmZQX2syWHMwSDA5NkZ6TThjNllXRGFNZ3lDa3F4Tjd5anQ4NW1fSjJWTm9aVi1DQWpQcmF0dTI4dlpBbWVFam8yWEFwVWd5NjA3cmJnT1JxVG1uS2NXNWhPR1g0eG52OEtfakRtaml2ZjUtMU5rdDNMdnljT3VhUVktRXNCdXpZaDh4bkFaaUNRZGs3TFR3T1kxM0pieFJXbGVjaHJWeHVaRg?oc=5)
+
+2026-11-25
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhsbGpTNjRVWjVxbkROX3habmZQX2syWHMwSDA5NkZ6TThjNllXRGFNZ3lDa3F4Tjd5anQ4NW1fSjJWTm9aVi1DQWpQcmF0dTI4dlpBbWVFam8yWEFwVWd5NjA3cmJnT1JxVG1uS2NXNWhPR1g0eG52OEtfakRtaml2ZjUtMU5rdDNMdnljT3VhUVktRXNCdXpZaDh4bkFaaUNRZGs3TFR3T1kxM0pieFJXbGVjaHJWeHVaRg?oc=5)
+
+---
 
 ### [WA measles situation ‘much worse,’ with five outbreaks so far - The Seattle Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdms1cXJSREoyV04tRHBOS05KczBmMkMtb3NEU0dEcTJkb3BKOEp0a0dHY0IzZF9fUlR1YVp3MkVzdmd4TDd2LXFJeXp2Nld1M3M3bExBdGt6MGIzbWI2X2VsR3VZQzRsYWNyQTBWbHFxbG1CclhFX0FFNWxEeVM4ZXZZQU5QZmFTNEg5UXVVbnlRQVgtelgxSHRJN0diSUN3RmxZOUk5dkdrdVVsYVZmZDE4VTBKUG9LZEIwVw?oc=5)
 
@@ -45,11 +61,27 @@ Source: [The Seattle Times](https://news.google.com/rss/articles/CBMivAFBVV95cUx
 
 ---
 
+### [MRI shows how vaping impairs vascular function, even after one use](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTHYwWi1FZDZuTHlMY0pfVktRUGZYbEZ6ZTVoLWtRMVR5T0NacnB6Mk5FMmRRTDV1MEtBWi1VRk1Uc2NYVzF5aE56emhGdS1TNlIwdHQyM0d4MG9LUFdZNFZNSXhtbUU5ZXpGNTQ0QTJSalNUOS16TUE2bDcyNzJhT204MDFwSnBvTktWek1RSnFZUnlyY3RMMkxqcGN1YThxVElkaFhkYmE5VkpGSk4wTmRjQXl0QXBPZVZSYVMzZVlrN3lCMGxFbURqYXc3RFNwWVg3WURSSQ?oc=5)
+
+2026-11-25
+
+Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTHYwWi1FZDZuTHlMY0pfVktRUGZYbEZ6ZTVoLWtRMVR5T0NacnB6Mk5FMmRRTDV1MEtBWi1VRk1Uc2NYVzF5aE56emhGdS1TNlIwdHQyM0d4MG9LUFdZNFZNSXhtbUU5ZXpGNTQ0QTJSalNUOS16TUE2bDcyNzJhT204MDFwSnBvTktWek1RSnFZUnlyY3RMMkxqcGN1YThxVElkaFhkYmE5VkpGSk4wTmRjQXl0QXBPZVZSYVMzZVlrN3lCMGxFbURqYXc3RFNwWVg3WURSSQ?oc=5)
+
+---
+
 ### [Common sleep and anxiety drugs could be harming aging brains](https://news.google.com/rss/articles/CBMib0FVX3lxTE5WQnVwWGZqV3FwRkJzQTZBY0daR2xJMDQycGpqZGNfaGtVbE5Nd1I1SXVIOVJ4R0NQUnAzQktVT3kyTW5mUjI1alNpN0gtdWlXX0V1ZG05T1JZc05va1dhM083OTdvYnhiUGNnRGg1MA?oc=5)
 
 2026-11-25
 
 Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5WQnVwWGZqV3FwRkJzQTZBY0daR2xJMDQycGpqZGNfaGtVbE5Nd1I1SXVIOVJ4R0NQUnAzQktVT3kyTW5mUjI1alNpN0gtdWlXX0V1ZG05T1JZc05va1dhM083OTdvYnhiUGNnRGg1MA?oc=5)
+
+---
+
+### [Disrupting a brain pathway during adolescence reduces adult social motivation](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlZjdGFSY1lBRUtOaVBGSXd2X3VjRWxHeVBVb2QwMmZXeEx4MXlDMGhOUjFLZWdzQi1xVFVHQ01raWZVbzRtVlNSblNZZ0Q0UURsVXVoRGpBaHJBTmt0bVpINHowdmkzWmo1d1Y0MUF5UmhJWG55SFJrWmVseVllcnVzeUdhUnpuWkFtVUhSWHkwWGhhRDhEWDl0b2lZRWtBRV8zTFVuTXE5emRlcHV2RmIzbjhpbmxJM19waHE0NzdDUlk?oc=5)
+
+2026-11-25
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlZjdGFSY1lBRUtOaVBGSXd2X3VjRWxHeVBVb2QwMmZXeEx4MXlDMGhOUjFLZWdzQi1xVFVHQ01raWZVbzRtVlNSblNZZ0Q0UURsVXVoRGpBaHJBTmt0bVpINHowdmkzWmo1d1Y0MUF5UmhJWG55SFJrWmVseVllcnVzeUdhUnpuWkFtVUhSWHkwWGhhRDhEWDl0b2lZRWtBRV8zTFVuTXE5emRlcHV2RmIzbjhpbmxJM19waHE0NzdDUlk?oc=5)
 
 ---
 
@@ -122,6 +154,14 @@ Source: [StudyFinds](https://news.google.com/rss/articles/CBMib0FVX3lxTE9WUFJvYV
 2026-11-24
 
 Source: [FOX8 WGHP](https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXVIY05yRTlRaDNETTlhMGdaVTE4TkNwUW5OYmo4UGVRbDBqMGE5X2FFdTBlOVEzN2hIVG92TmIyQ2REXzk2dEluMnFlUVNnTmlJN1J0QU1vNGNYVXJIU29Ob3gxMGtpTFR4NFhnMThtU2MwclFkblIwbTBYSzFjRDc1SdIBiAFBVV95cUxQUFYwVHRzOGhtWldIal9DdUtfU09KckE5Q0JzV2p4OW9nSVhKQkR2N1k1TXl6SXFLa2hzVy1jZW84X2lSWGhOYkhtRjdkTFNENmRJQW56TkVxbnFDWDV1ZVNZS3VXZ0I3aUNhN1diY2FCeWxBWHFJc05Ud0VVMzlic0ZBN1gzUG9i?oc=5)
+
+---
+
+### [Significant decrease in Black-white mortality gap during past 30 years - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQkkwSER0cEVCMGtpa3JvWExLQS1nRmpOTVo4d0VVN09BRy1IX2RBOWdSdEZraHRPNnU2TnI4OWJ1aDktS0lhWkNTMnJIangyTGlteWthNFAyY0xpc0tsRmV4LXlzblJpWDhqZXhaNkowLTBIa3hxVnRRNmJFR3JFcHVPSXFwVUZNRmdDZmVSMA?oc=5)
+
+2026-11-23
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQkkwSER0cEVCMGtpa3JvWExLQS1nRmpOTVo4d0VVN09BRy1IX2RBOWdSdEZraHRPNnU2TnI4OWJ1aDktS0lhWkNTMnJIangyTGlteWthNFAyY0xpc0tsRmV4LXlzblJpWDhqZXhaNkowLTBIa3hxVnRRNmJFR3JFcHVPSXFwVUZNRmdDZmVSMA?oc=5)
 
 ---
 
@@ -386,6 +426,14 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95c
 2026-11-20
 
 Source: [Health.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE5KZ2Q1TGVtekJxWWxnLWZDbmxRYy1TWTNoQWhVc2FSLVQ2dl9XcmZhRW8xY1ZDUmhDdmxORUJEdFpjV0Rxbk1RVzZuZHdpZHNzOVBJbFU0QmdRWDIzaHhxTFVaRTdudWEwUnV1RkZhbjQ?oc=5)
+
+---
+
+### [“Bikini Medicine” No More—Major Medical Societies Propose New Framework for Female Heart Health](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BUmxpRG8tbEVFRGxYd2NrbkE4czJ6REhWMW9uWjFYY0lJMTFrVllnY0QtXzJNOXd1NjRaYzl4akhtSV9sZVRtUGZad2hSR1JjbWxjcFpXd1hzVTVwUXpfTUw3RVZPcndS?oc=5)
+
+2026-11-20
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BUmxpRG8tbEVFRGxYd2NrbkE4czJ6REhWMW9uWjFYY0lJMTFrVllnY0QtXzJNOXd1NjRaYzl4akhtSV9sZVRtUGZad2hSR1JjbWxjcFpXd1hzVTVwUXpfTUw3RVZPcndS?oc=5)
 
 ---
 

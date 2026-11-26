@@ -3,9 +3,9 @@ layout: default
 title: "CVD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CVD (heart disease). 49 articles, 1 related drugs."
+description: "Health news about CVD (heart disease). 51 articles, 1 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # CVD (heart disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about CVD (heart disease)?">
-<strong>CVD (heart disease)</strong> currently has <strong>49 news articles</strong> and 1 related drugs.
+<strong>CVD (heart disease)</strong> currently has <strong>51 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “CVD” and lists the d
 </ul>
 </div>
 
-## Related News (49)
+## Related News (51)
 
 ### [Single-cell variant-to-enhancer-to-gene map for coronary artery disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
 
@@ -64,11 +64,27 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMijgFBVV95cU
 
 ---
 
+### [Vermont measles outbreak grows to 13 cases in Orleans County](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWRXa043c19jZkxNV0laaUpUMGk3OG0wS1dCR3N6bFpudXBmbjBQLThsS1hmSWVUdEpXOGxibk9ndmhFWjd3amplektJZENPWGZlRGN5clFyWFphdjN3SXZub3otOFBfTGxYUFpsMzdLSFZFN2FoeXFUUmI4MEFkUTY0akZXMTVHYnNZQURmWWjSAaQBQVVfeXFMUGtUXzFZNHRSdGpmcVNNbFdPeHZnMmd1TE5oSGlnRnVORC1nZFVaX0p0WVBweXN6eS11ZGt1RWlzSGZZTUNpS2x2ZnVCbGxJdmstaTNvVHJMWktuTVNPaUpVc2Y2elVBWDVDY1MtZ0p1N3Y3S3ltcDBaanRRbTFNRlFKUG9QcnlELVJTb0VZYm1nUnZmS2lYSWszU195eER6NGlBTnM?oc=5)
+
+2026-11-24
+
+Source: [WCAX](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWRXa043c19jZkxNV0laaUpUMGk3OG0wS1dCR3N6bFpudXBmbjBQLThsS1hmSWVUdEpXOGxibk9ndmhFWjd3amplektJZENPWGZlRGN5clFyWFphdjN3SXZub3otOFBfTGxYUFpsMzdLSFZFN2FoeXFUUmI4MEFkUTY0akZXMTVHYnNZQURmWWjSAaQBQVVfeXFMUGtUXzFZNHRSdGpmcVNNbFdPeHZnMmd1TE5oSGlnRnVORC1nZFVaX0p0WVBweXN6eS11ZGt1RWlzSGZZTUNpS2x2ZnVCbGxJdmstaTNvVHJMWktuTVNPaUpVc2Y2elVBWDVDY1MtZ0p1N3Y3S3ltcDBaanRRbTFNRlFKUG9QcnlELVJTb0VZYm1nUnZmS2lYSWszU195eER6NGlBTnM?oc=5)
+
+---
+
 ### [HIV infections could rise from historic lows starting next year, UN says](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc1phV2NkV1NfbGtaWTM5Rko4T3VqdEd5REdnQ0IteU5nMFlFTjhWV1ZUdThndjl5dFY1N0lIX1h2V1JicVN5RHlNb3VRLWY1bmxQcGhJengtZUxVbmwzYkFnWUEzbEM1dF9sd29hclkySXU5cUtRODlndU05REs0eEhFMGdMM091eXljeFFwVURCVWtUd2tTempZLUxQejA3c2hFUDY1NjhWd1ppc0YtRTRfa2doWmFGQV9TMTVwbDd0MU8xVlhFZXdqRU9OX2J0TTJMOA?oc=5)
 
 2026-11-24
 
 Source: [Reuters](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc1phV2NkV1NfbGtaWTM5Rko4T3VqdEd5REdnQ0IteU5nMFlFTjhWV1ZUdThndjl5dFY1N0lIX1h2V1JicVN5RHlNb3VRLWY1bmxQcGhJengtZUxVbmwzYkFnWUEzbEM1dF9sd29hclkySXU5cUtRODlndU05REs0eEhFMGdMM091eXljeFFwVURCVWtUd2tTempZLUxQejA3c2hFUDY1NjhWd1ppc0YtRTRfa2doWmFGQV9TMTVwbDd0MU8xVlhFZXdqRU9OX2J0TTJMOA?oc=5)
+
+---
+
+### [Prehospital Antibiotics for Patients With Suspected Sepsis The PITSTOP-Antibiotics Factorial Randomized Clinical Trial](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yNkd5Q1JoZVBlZUhFSm5wajBQOVB2bEMtWDhXM2NoaXY5bXVBeUtCcEppbzZBSVc3a19LRmxuaV9XWTlrTmdQZXlYMVQ0U1JYcW4zcGIwcURibVkxV2otbTJZUGdteWlE?oc=5)
+
+2026-11-24
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yNkd5Q1JoZVBlZUhFSm5wajBQOVB2bEMtWDhXM2NoaXY5bXVBeUtCcEppbzZBSVc3a19LRmxuaV9XWTlrTmdQZXlYMVQ0U1JYcW4zcGIwcURibVkxV2otbTJZUGdteWlE?oc=5)
 
 ---
 

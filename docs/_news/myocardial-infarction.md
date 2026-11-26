@@ -3,9 +3,9 @@ layout: default
 title: "MI (myocardial infarction) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about MI (myocardial infarction). 301 articles, 9 related drugs."
+description: "Health news about MI (myocardial infarction). 310 articles, 9 related drugs."
 permalink: /news/myocardial-infarction/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # MI (myocardial infarction) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about MI (myocardial infarction)?">
-<strong>MI (myocardial infarction)</strong> currently has <strong>301 news articles</strong> and 9 related drugs.
+<strong>MI (myocardial infarction)</strong> currently has <strong>310 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,23 @@ This page brings together the latest health news about “MI” and lists the dr
 </ul>
 </div>
 
-## Related News (301)
+## Related News (310)
+
+### [Single-cell variant-to-enhancer-to-gene map for coronary artery disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
+
+2026-11-25
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
+
+---
+
+### [Human 'Mini Brains' Spent 40 Days in Space. Scientists Found Clues to Alzheimer's.](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhsbGpTNjRVWjVxbkROX3habmZQX2syWHMwSDA5NkZ6TThjNllXRGFNZ3lDa3F4Tjd5anQ4NW1fSjJWTm9aVi1DQWpQcmF0dTI4dlpBbWVFam8yWEFwVWd5NjA3cmJnT1JxVG1uS2NXNWhPR1g0eG52OEtfakRtaml2ZjUtMU5rdDNMdnljT3VhUVktRXNCdXpZaDh4bkFaaUNRZGs3TFR3T1kxM0pieFJXbGVjaHJWeHVaRg?oc=5)
+
+2026-11-25
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhsbGpTNjRVWjVxbkROX3habmZQX2syWHMwSDA5NkZ6TThjNllXRGFNZ3lDa3F4Tjd5anQ4NW1fSjJWTm9aVi1DQWpQcmF0dTI4dlpBbWVFam8yWEFwVWd5NjA3cmJnT1JxVG1uS2NXNWhPR1g0eG52OEtfakRtaml2ZjUtMU5rdDNMdnljT3VhUVktRXNCdXpZaDh4bkFaaUNRZGs3TFR3T1kxM0pieFJXbGVjaHJWeHVaRg?oc=5)
+
+---
 
 ### [COVID on the rise heading into Thanksgiving](https://news.google.com/rss/articles/CBMid0FVX3lxTE1GbEw4OWRKeVhnbnVrcWg3clhEQzBmVVplbjhyLXJIeVBvYWtPc3JaWW9hUk5wSjFiMEwzUGxTOTdOTENfOE44N1Jsc1BiNG16ckFoaWV0V3FDT0ltT0g4b3ZyZVFUMEZMZjIxdzc2QUZlQVRldDlF?oc=5)
 
@@ -64,6 +80,14 @@ Source: [The Seattle Times](https://news.google.com/rss/articles/CBMivAFBVV95cUx
 
 ---
 
+### [MRI shows how vaping impairs vascular function, even after one use](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTHYwWi1FZDZuTHlMY0pfVktRUGZYbEZ6ZTVoLWtRMVR5T0NacnB6Mk5FMmRRTDV1MEtBWi1VRk1Uc2NYVzF5aE56emhGdS1TNlIwdHQyM0d4MG9LUFdZNFZNSXhtbUU5ZXpGNTQ0QTJSalNUOS16TUE2bDcyNzJhT204MDFwSnBvTktWek1RSnFZUnlyY3RMMkxqcGN1YThxVElkaFhkYmE5VkpGSk4wTmRjQXl0QXBPZVZSYVMzZVlrN3lCMGxFbURqYXc3RFNwWVg3WURSSQ?oc=5)
+
+2026-11-25
+
+Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTHYwWi1FZDZuTHlMY0pfVktRUGZYbEZ6ZTVoLWtRMVR5T0NacnB6Mk5FMmRRTDV1MEtBWi1VRk1Uc2NYVzF5aE56emhGdS1TNlIwdHQyM0d4MG9LUFdZNFZNSXhtbUU5ZXpGNTQ0QTJSalNUOS16TUE2bDcyNzJhT204MDFwSnBvTktWek1RSnFZUnlyY3RMMkxqcGN1YThxVElkaFhkYmE5VkpGSk4wTmRjQXl0QXBPZVZSYVMzZVlrN3lCMGxFbURqYXc3RFNwWVg3WURSSQ?oc=5)
+
+---
+
 ### [Common sleep and anxiety drugs could be harming aging brains](https://news.google.com/rss/articles/CBMib0FVX3lxTE5WQnVwWGZqV3FwRkJzQTZBY0daR2xJMDQycGpqZGNfaGtVbE5Nd1I1SXVIOVJ4R0NQUnAzQktVT3kyTW5mUjI1alNpN0gtdWlXX0V1ZG05T1JZc05va1dhM083OTdvYnhiUGNnRGg1MA?oc=5)
 
 2026-11-25
@@ -80,6 +104,14 @@ Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5nZGJC
 
 ---
 
+### [With Measles on the Rise, Some Families Are Forgoing Thanksgiving Travel - The New York Times](https://news.google.com/rss/articles/CBMieEFVX3lxTE4wNnV6cmNOR2NIVXd0T2F0bVNNeFhFOWdvSGg4d0ZwUGVzZFphR2Y5MjFIQ0dvQ1M4UEFMWUZOeVRZV3hvekNVVEw3YWN6a19kZURJVVU2Y1dobnJVM2FUemZraDVRRW4zR2dkcTExN0xlUkM1NFQxdA?oc=5)
+
+2026-11-25
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMieEFVX3lxTE4wNnV6cmNOR2NIVXd0T2F0bVNNeFhFOWdvSGg4d0ZwUGVzZFphR2Y5MjFIQ0dvQ1M4UEFMWUZOeVRZV3hvekNVVEw3YWN6a19kZURJVVU2Y1dobnJVM2FUemZraDVRRW4zR2dkcTExN0xlUkM1NFQxdA?oc=5)
+
+---
+
 ### [The Next Miracle Drug for Cancer Is Being Developed in Space](https://news.google.com/rss/articles/CBMilAFBVV95cUxQTlBiaHBRdmNweVFjekNaU2RxTlIyX3ZiN2FJQ1o5SDV1dk9uZzZLV25LYWVDa2x4OTJ5RzFYcUFwckxvT2hHWHJnalJDWVNpUEhqMXdQTHczdXR4Y0lOdXpGekdOYVZWakVGQTRhdlpiTFVobXdTSFA5MU1KOGtjbVhHbGdZQmRYSFBQQlFTSkx2RUpH?oc=5)
 
 2026-11-25
@@ -93,6 +125,14 @@ Source: [Newsweek](https://news.google.com/rss/articles/CBMilAFBVV95cUxQTlBiaHBR
 2026-11-25
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNThKOWdTTF9lNUg3cXlDY25NYWUwMjVtb1JZM1loWFBvY0hVcGpBbzhyOU03b3NqclNRNDR4NnRIejJyTTBSVWpNUHpLT1RxM0hkTzUyOGNBVmNlZGZHWlBVa3VTU3d3T19mWWRhX1p3a0hDSWw1N3NoeTZ3VUM0d3hkcW43Skd5MFE3Sw?oc=5)
+
+---
+
+### [Summer vitamin D levels may say more about your health than in winter](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVFlqNjBSa29wT3BtbmhzZ1JXUkZYelo0VGhVLXNZaFgzcnk1dzBTcDgxaXdOLUhLYkM0VVZGSzZPNDlzR1Zmazc3ekNwTDkyZXNiOXREWkNZWnFjUmNsR2c5MFU1b1Baa1d3cVhGUTRLWHJxaVBhNnpKYWk4aVljMWNIelZDT3l1WlZ3UXhMM05haG9EQV9sVUVHUGd3Mk5vOEh4MDJZUl9oZ1pZR1I2c01hWFdXY3VXbnNFYXVB?oc=5)
+
+2026-11-25
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVFlqNjBSa29wT3BtbmhzZ1JXUkZYelo0VGhVLXNZaFgzcnk1dzBTcDgxaXdOLUhLYkM0VVZGSzZPNDlzR1Zmazc3ekNwTDkyZXNiOXREWkNZWnFjUmNsR2c5MFU1b1Baa1d3cVhGUTRLWHJxaVBhNnpKYWk4aVljMWNIelZDT3l1WlZ3UXhMM05haG9EQV9sVUVHUGd3Mk5vOEh4MDJZUl9oZ1pZR1I2c01hWFdXY3VXbnNFYXVB?oc=5)
 
 ---
 
@@ -197,6 +237,14 @@ Source: [Newsweek](https://news.google.com/rss/articles/CBMipgFBVV95cUxPT09YNHd1
 2026-11-24
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnlpYU96SUUydnc2OFNXTG9CNmZDWUFud3B4NzAzQmJhQk9ZS3RSWEh5Y2hwWHViUVlpTEpGSU1HUmRFbjJpeFRpRWEtQzdkeE1QQ0NKYVBCUC1KU3hLNWVONlZveXFxbkdHMG45X2tNbVcyTEtldjZZdkcySzNrSHhKa1lFVWIzTFV0Mnd3?oc=5)
+
+---
+
+### [Spacecraft overcomes glitch to reach Mercury's orbit after 8-year journey - CBS News](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWkdqV2xOUXZpa2ZfaGlNQjFSUHowSGpGU3ZGZ18tNDkwNFVmR2hLZFZDbzZlVzB0MWpGQTg0VHhPd3VuanlLNVR4RkJjcHp6bWFMQS16Z1NEaHdOUE5sbEhseDA4RDY4UEdzc3Z4NUNuVjZ2SnI2dFpHVUV0d2R4SWxhNA?oc=5)
+
+2026-11-24
+
+Source: [CBS News](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWkdqV2xOUXZpa2ZfaGlNQjFSUHowSGpGU3ZGZ18tNDkwNFVmR2hLZFZDbzZlVzB0MWpGQTg0VHhPd3VuanlLNVR4RkJjcHp6bWFMQS16Z1NEaHdOUE5sbEhseDA4RDY4UEdzc3Z4NUNuVjZ2SnI2dFpHVUV0d2R4SWxhNA?oc=5)
 
 ---
 
@@ -557,6 +605,14 @@ Source: [13WHAM-TV](https://news.google.com/rss/articles/CBMijgJBVV95cUxQc3lnZEF
 2026-11-23
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMinAJBVV95cUxNUkRBZl9rcGU3OW9GTWZqY19JRFhWd1l3cndZLXBEYTZVU1NpeXdfQm04M2pzQm1ydUVzc1pTOWEtWnkyY0dBd0FPMHhPcTRVbEVuVVpId3EyQjFDYzFiOG9wUk80bkJuUktEMy1CcjU4c1B1aG9SQWdmdTRtTC05T2ZHYXhTVlNmZzVIMkNVOTAzcVQtdDFrZUxNNWdlaE5NZTl6eE82QS1lQXp2UUs4NXJQWjN5eWw3SjhEMDJpdUlGc1pfZTFaYzNpZzRTR3pkd0d6VVd0MTdPVGtfd2lDZFhwcE1Zekl1aEVZcGxKV3hYRDA3NTNDMXJrSzc3QkJYMWE5QUNtaF9ja0ZPYjZyWnEyT0IwSHQ0Y1R0VdIBpAJBVV95cUxOZGhGT1hMa05IVW9OTlRoeEhiTkFCNVlMbHVSWTRFT1ltQ0JGTnN3ZEJVSERaa0RWSThJbTh0YzRsY3dHZlJMd2ZCRUViX1lPRGQ5N05KUWppY25iR0lCZ0FDVHFRcXNoYUJJTnBXTHlJMWItbDFoRGZvd3FKMlRSSVp4UUNISUVfYzFVbWlzSW5HQm1BVkJ2MVJnU21uRWZhbnVhSXozS1ppYlp4TnZIZXU2UmdmTUliX0lFNkxlM21rRGVzTkZTX3pfOVotYVh0QS1NZEoyOUxPMU1NRXd2WlpIeFRyTnFaWlF5MUNVT2pWV0E1dVdEUzM4dmR3dXNnN0dTQUJhaTdrZ0l0UG40VmczQnZTSkF2TEJpaFYzT2dHU1Yx?oc=5)
+
+---
+
+### [GLP-1 weight-loss drugs could change far more than waistlines, study suggests](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
+
+2026-11-23
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
 ---
 
@@ -1024,6 +1080,14 @@ Source: [PBS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN05RdkxIb0ZSV
 
 ---
 
+### [Massive hope for pancreatic cancer pill after trial saw tumours vanish](https://news.google.com/rss/articles/CBMiW0FVX3lxTE82dWNyajI5V2RpWmkyN3U0TWx6dDE1UXI3UVMtdkktYXM3R09CS2Ezb19OZ20xYjZmNUpDd2VQMzlGVXNkR0YyLUR5T0FNR0JJanpHRnJNalZOaVU?oc=5)
+
+2026-11-20
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE82dWNyajI5V2RpWmkyN3U0TWx6dDE1UXI3UVMtdkktYXM3R09CS2Ezb19OZ20xYjZmNUpDd2VQMzlGVXNkR0YyLUR5T0FNR0JJanpHRnJNalZOaVU?oc=5)
+
+---
+
 ### [If tiny 'primordial' black holes exist, here's how we might find them](https://news.google.com/rss/articles/CBMib0FVX3lxTFBVU21BYTFSVHg5ckdLcUdKT2gtZDBiX3UzelRVTWtvTXdCN2g1RWxsTFFhc2hzelBLVjR6alNQX0kwT2dIQlVFa2VVY3UtY2p3TFVsODJvV3lFYkZyNlVYMmxlcmZnRThxcUg5YjI1SQ?oc=5)
 
 2026-11-19
@@ -1165,6 +1229,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuU3ZOelNMck
 2026-11-19
 
 Source: [NEJM](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nbUQwZlBBZFBfZk40QWdBelpPR0s0dm1Rd2JZcXdubHNzQm5uSUR4M2RXVC1xVTJiNkNuQmhCSVlWbnNTVFh3TTJxcVpRLW0xM1NJTTMycVhYOWtDckR0Zg?oc=5)
+
+---
+
+### [Frequent night shifts linked to changes in heart structure and function](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ1lYdWZaVzc0R3pEemRhYmdoalVVWGxFODdhUWZ1UWZrYmVaS1pBUnJfYkE1MzBkeUpOdTc0VVJUM2JLNFBndmxQQmpCWjBJSldCeFBzelkxNVFwU2dzUlJxRUI5SUNoM3Bfc2NWOURmdVZac3l2QzZ3eERkNmdBU19ENWE4LVpFT05GX0J6dzBLamRrOU4wdlZtalNCNGdsZ09BZkw4b3dlbG04S1dkaUlFclZsV0l1ak0w?oc=5)
+
+2026-11-19
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ1lYdWZaVzc0R3pEemRhYmdoalVVWGxFODdhUWZ1UWZrYmVaS1pBUnJfYkE1MzBkeUpOdTc0VVJUM2JLNFBndmxQQmpCWjBJSldCeFBzelkxNVFwU2dzUlJxRUI5SUNoM3Bfc2NWOURmdVZac3l2QzZ3eERkNmdBU19ENWE4LVpFT05GX0J6dzBLamRrOU4wdlZtalNCNGdsZ09BZkw4b3dlbG04S1dkaUlFclZsV0l1ak0w?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Rutin. 8 predicted indications."
 permalink: /news/rutin/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Rutin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>117 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>123 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,37 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (117)
+## Related News (123)
 
-### [WA measles situation ‘much worse,’ with five outbreaks so far - The Seattle Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdms1cXJSREoyV04tRHBOS05KczBmMkMtb3NEU0dEcTJkb3BKOEp0a0dHY0IzZF9fUlR1YVp3MkVzdmd4TDd2LXFJeXp2Nld1M3M3bExBdGt6MGIzbWI2X2VsR3VZQzRsYWNyQTBWbHFxbG1CclhFX0FFNWxEeVM4ZXZZQU5QZmFTNEg5UXVVbnlRQVgtelgxSHRJN0diSUN3RmxZOUk5dkdrdVVsYVZmZDE4VTBKUG9LZEIwVw?oc=5)
+### [Photothermally gated nanorobots for active blood-brain barrier transcytosis and brain delivery - Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
+
+---
+
+### [Human 'Mini Brains' Spent 40 Days in Space. Scientists Found Clues to Alzheimer's.](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhsbGpTNjRVWjVxbkROX3habmZQX2syWHMwSDA5NkZ6TThjNllXRGFNZ3lDa3F4Tjd5anQ4NW1fSjJWTm9aVi1DQWpQcmF0dTI4dlpBbWVFam8yWEFwVWd5NjA3cmJnT1JxVG1uS2NXNWhPR1g0eG52OEtfakRtaml2ZjUtMU5rdDNMdnljT3VhUVktRXNCdXpZaDh4bkFaaUNRZGs3TFR3T1kxM0pieFJXbGVjaHJWeHVaRg?oc=5)
 
 2026-11-25 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhsbGpTNjRVWjVxbkROX3habmZQX2syWHMwSDA5NkZ6TThjNllXRGFNZ3lDa3F4Tjd5anQ4NW1fSjJWTm9aVi1DQWpQcmF0dTI4dlpBbWVFam8yWEFwVWd5NjA3cmJnT1JxVG1uS2NXNWhPR1g0eG52OEtfakRtaml2ZjUtMU5rdDNMdnljT3VhUVktRXNCdXpZaDh4bkFaaUNRZGs3TFR3T1kxM0pieFJXbGVjaHJWeHVaRg?oc=5)
+
+---
+
+### [WA measles situation ‘much worse,’ with five outbreaks so far - The Seattle Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdms1cXJSREoyV04tRHBOS05KczBmMkMtb3NEU0dEcTJkb3BKOEp0a0dHY0IzZF9fUlR1YVp3MkVzdmd4TDd2LXFJeXp2Nld1M3M3bExBdGt6MGIzbWI2X2VsR3VZQzRsYWNyQTBWbHFxbG1CclhFX0FFNWxEeVM4ZXZZQU5QZmFTNEg5UXVVbnlRQVgtelgxSHRJN0diSUN3RmxZOUk5dkdrdVVsYVZmZDE4VTBKUG9LZEIwVw?oc=5)
+
+2026-11-25 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span> <span class="news-indication-tag">RA</span>
+
 Source: [The Seattle Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdms1cXJSREoyV04tRHBOS05KczBmMkMtb3NEU0dEcTJkb3BKOEp0a0dHY0IzZF9fUlR1YVp3MkVzdmd4TDd2LXFJeXp2Nld1M3M3bExBdGt6MGIzbWI2X2VsR3VZQzRsYWNyQTBWbHFxbG1CclhFX0FFNWxEeVM4ZXZZQU5QZmFTNEg5UXVVbnlRQVgtelgxSHRJN0diSUN3RmxZOUk5dkdrdVVsYVZmZDE4VTBKUG9LZEIwVw?oc=5)
+
+---
+
+### [MRI shows how vaping impairs vascular function, even after one use](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTHYwWi1FZDZuTHlMY0pfVktRUGZYbEZ6ZTVoLWtRMVR5T0NacnB6Mk5FMmRRTDV1MEtBWi1VRk1Uc2NYVzF5aE56emhGdS1TNlIwdHQyM0d4MG9LUFdZNFZNSXhtbUU5ZXpGNTQ0QTJSalNUOS16TUE2bDcyNzJhT204MDFwSnBvTktWek1RSnFZUnlyY3RMMkxqcGN1YThxVElkaFhkYmE5VkpGSk4wTmRjQXl0QXBPZVZSYVMzZVlrN3lCMGxFbURqYXc3RFNwWVg3WURSSQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTHYwWi1FZDZuTHlMY0pfVktRUGZYbEZ6ZTVoLWtRMVR5T0NacnB6Mk5FMmRRTDV1MEtBWi1VRk1Uc2NYVzF5aE56emhGdS1TNlIwdHQyM0d4MG9LUFdZNFZNSXhtbUU5ZXpGNTQ0QTJSalNUOS16TUE2bDcyNzJhT204MDFwSnBvTktWek1RSnFZUnlyY3RMMkxqcGN1YThxVElkaFhkYmE5VkpGSk4wTmRjQXl0QXBPZVZSYVMzZVlrN3lCMGxFbURqYXc3RFNwWVg3WURSSQ?oc=5)
 
 ---
 
@@ -55,6 +79,14 @@ Source: [The Seattle Times](https://news.google.com/rss/articles/CBMivAFBVV95cUx
 2026-11-25 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5WQnVwWGZqV3FwRkJzQTZBY0daR2xJMDQycGpqZGNfaGtVbE5Nd1I1SXVIOVJ4R0NQUnAzQktVT3kyTW5mUjI1alNpN0gtdWlXX0V1ZG05T1JZc05va1dhM083OTdvYnhiUGNnRGg1MA?oc=5)
+
+---
+
+### [Disrupting a brain pathway during adolescence reduces adult social motivation](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlZjdGFSY1lBRUtOaVBGSXd2X3VjRWxHeVBVb2QwMmZXeEx4MXlDMGhOUjFLZWdzQi1xVFVHQ01raWZVbzRtVlNSblNZZ0Q0UURsVXVoRGpBaHJBTmt0bVpINHowdmkzWmo1d1Y0MUF5UmhJWG55SFJrWmVseVllcnVzeUdhUnpuWkFtVUhSWHkwWGhhRDhEWDl0b2lZRWtBRV8zTFVuTXE5emRlcHV2RmIzbjhpbmxJM19waHE0NzdDUlk?oc=5)
+
+2026-11-25 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlZjdGFSY1lBRUtOaVBGSXd2X3VjRWxHeVBVb2QwMmZXeEx4MXlDMGhOUjFLZWdzQi1xVFVHQ01raWZVbzRtVlNSblNZZ0Q0UURsVXVoRGpBaHJBTmt0bVpINHowdmkzWmo1d1Y0MUF5UmhJWG55SFJrWmVseVllcnVzeUdhUnpuWkFtVUhSWHkwWGhhRDhEWDl0b2lZRWtBRV8zTFVuTXE5emRlcHV2RmIzbjhpbmxJM19waHE0NzdDUlk?oc=5)
 
 ---
 
@@ -108,7 +140,7 @@ Source: [Gizmodo](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnBpajNPV
 
 ### [Prehospital Antibiotics for Patients With Suspected Sepsis The PITSTOP-Antibiotics Factorial Randomized Clinical Trial](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yNkd5Q1JoZVBlZUhFSm5wajBQOVB2bEMtWDhXM2NoaXY5bXVBeUtCcEppbzZBSVc3a19LRmxuaV9XWTlrTmdQZXlYMVQ0U1JYcW4zcGIwcURibVkxV2otbTJZUGdteWlE?oc=5)
 
-2026-11-24 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
+2026-11-24 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
 
 Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yNkd5Q1JoZVBlZUhFSm5wajBQOVB2bEMtWDhXM2NoaXY5bXVBeUtCcEppbzZBSVc3a19LRmxuaV9XWTlrTmdQZXlYMVQ0U1JYcW4zcGIwcURibVkxV2otbTJZUGdteWlE?oc=5)
 
@@ -127,6 +159,14 @@ Source: [StudyFinds](https://news.google.com/rss/articles/CBMib0FVX3lxTE9WUFJvYV
 2026-11-24 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [FOX8 WGHP](https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXVIY05yRTlRaDNETTlhMGdaVTE4TkNwUW5OYmo4UGVRbDBqMGE5X2FFdTBlOVEzN2hIVG92TmIyQ2REXzk2dEluMnFlUVNnTmlJN1J0QU1vNGNYVXJIU29Ob3gxMGtpTFR4NFhnMThtU2MwclFkblIwbTBYSzFjRDc1SdIBiAFBVV95cUxQUFYwVHRzOGhtWldIal9DdUtfU09KckE5Q0JzV2p4OW9nSVhKQkR2N1k1TXl6SXFLa2hzVy1jZW84X2lSWGhOYkhtRjdkTFNENmRJQW56TkVxbnFDWDV1ZVNZS3VXZ0I3aUNhN1diY2FCeWxBWHFJc05Ud0VVMzlic0ZBN1gzUG9i?oc=5)
+
+---
+
+### [Significant decrease in Black-white mortality gap during past 30 years - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQkkwSER0cEVCMGtpa3JvWExLQS1nRmpOTVo4d0VVN09BRy1IX2RBOWdSdEZraHRPNnU2TnI4OWJ1aDktS0lhWkNTMnJIangyTGlteWthNFAyY0xpc0tsRmV4LXlzblJpWDhqZXhaNkowLTBIa3hxVnRRNmJFR3JFcHVPSXFwVUZNRmdDZmVSMA?oc=5)
+
+2026-11-23 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQkkwSER0cEVCMGtpa3JvWExLQS1nRmpOTVo4d0VVN09BRy1IX2RBOWdSdEZraHRPNnU2TnI4OWJ1aDktS0lhWkNTMnJIangyTGlteWthNFAyY0xpc0tsRmV4LXlzblJpWDhqZXhaNkowLTBIa3hxVnRRNmJFR3JFcHVPSXFwVUZNRmdDZmVSMA?oc=5)
 
 ---
 
@@ -204,7 +244,7 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE
 
 ### [GLP-1 weight-loss drugs could change far more than waistlines, study suggests](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
-2026-11-23 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-23 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
@@ -394,6 +434,14 @@ Source: [Health.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE5KZ2Q1TG
 
 ---
 
+### [“Bikini Medicine” No More—Major Medical Societies Propose New Framework for Female Heart Health](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BUmxpRG8tbEVFRGxYd2NrbkE4czJ6REhWMW9uWjFYY0lJMTFrVllnY0QtXzJNOXd1NjRaYzl4akhtSV9sZVRtUGZad2hSR1JjbWxjcFpXd1hzVTVwUXpfTUw3RVZPcndS?oc=5)
+
+2026-11-20 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BUmxpRG8tbEVFRGxYd2NrbkE4czJ6REhWMW9uWjFYY0lJMTFrVllnY0QtXzJNOXd1NjRaYzl4akhtSV9sZVRtUGZad2hSR1JjbWxjcFpXd1hzVTVwUXpfTUw3RVZPcndS?oc=5)
+
+---
+
 ### [Are some salts healthier than others? - The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
 
 2026-11-20 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
@@ -540,7 +588,7 @@ Source: [Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWhSRzFsU
 
 ### [Frequent night shifts linked to changes in heart structure and function](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ1lYdWZaVzc0R3pEemRhYmdoalVVWGxFODdhUWZ1UWZrYmVaS1pBUnJfYkE1MzBkeUpOdTc0VVJUM2JLNFBndmxQQmpCWjBJSldCeFBzelkxNVFwU2dzUlJxRUI5SUNoM3Bfc2NWOURmdVZac3l2QzZ3eERkNmdBU19ENWE4LVpFT05GX0J6dzBLamRrOU4wdlZtalNCNGdsZ09BZkw4b3dlbG04S1dkaUlFclZsV0l1ak0w?oc=5)
 
-2026-11-19 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-19 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ1lYdWZaVzc0R3pEemRhYmdoalVVWGxFODdhUWZ1UWZrYmVaS1pBUnJfYkE1MzBkeUpOdTc0VVJUM2JLNFBndmxQQmpCWjBJSldCeFBzelkxNVFwU2dzUlJxRUI5SUNoM3Bfc2NWOURmdVZac3l2QzZ3eERkNmdBU19ENWE4LVpFT05GX0J6dzBLamRrOU4wdlZtalNCNGdsZ09BZkw4b3dlbG04S1dkaUlFclZsV0l1ak0w?oc=5)
 

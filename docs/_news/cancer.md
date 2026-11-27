@@ -3,7 +3,7 @@ layout: default
 title: "tumor (cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 90 articles, 1 related drugs."
+description: "Health news about tumor (cancer). 95 articles, 1 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-11-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>90 news articles</strong> and 1 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>95 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,31 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (90)
+## Related News (95)
+
+### [Scientists ‘reprogramme’ immune system to fight melanoma - The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUZvaGtzWVg5LUtZcFBOWjd6bE5XMDNoc2pLanI2blJ1MnlOVm93c21JR1F5SDRZZlk4ODZsaHpzc1IwTWFpdU9GbnhRMkd3ZjlqWWVwclo5M0ZHOThMRTQ3b1ZVa28wZURzWlVOQ1ZZd2lhN2FqdWFNR1ZTbHBZYVEtTHRKaDdrT2dWNlpzT2RqeEx5aUpoQ3Vjak9iQ0VEQ0E?oc=5)
+
+2026-11-27
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUZvaGtzWVg5LUtZcFBOWjd6bE5XMDNoc2pLanI2blJ1MnlOVm93c21JR1F5SDRZZlk4ODZsaHpzc1IwTWFpdU9GbnhRMkd3ZjlqWWVwclo5M0ZHOThMRTQ3b1ZVa28wZURzWlVOQ1ZZd2lhN2FqdWFNR1ZTbHBZYVEtTHRKaDdrT2dWNlpzT2RqeEx5aUpoQ3Vjak9iQ0VEQ0E?oc=5)
+
+---
+
+### [Doctors Say This 'Embarrassing' Symptom Could Be A Warning Sign Of Colorectal Cancer](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd1Z2LXloMDBjQW1MdkR1aGVxdmduRzlmeXdlSTM4amF1ZV9LR040aVhmVjA2bElVVXU0cXIySGloYUxWX2RlZW5KWEZST3V4UjVKWmdpX0N4LWRFZGJob0R0XzNQQ3FTd0NZQk92TEs0aWM2NlhYU0E5RnlCeFJIT1Z2bWMzdkN6c1NCZ3VoQy10aEk2dXFDWjhrV0ozQnhZVHdWMlhlTEpGbXZJWWY5b1RkbGNKSWU0TTBtaUJZbzFjcUhDMG1ZcDdTTmJfb0JMUkhoemtabFN6Z9IB3wFBVV95cUxQVHZSV2FPMmlqS2Ryd05CM3ZyZENjX1lfMFBzY00xdjRvQmQ1dU9NRXRMOXRvTWFPLWRyR1JqUzljdl9HLW1CX0xWZ0gweVEyUlBCa1UtUGUteDJfUXdsYkYyNDl2NTN3MTlwNmhIUzQzSDlfQ0F0Y18xdjBlSFRlTUFyUWdhUml5eWUyV2Vlc0lYZE1qcS1nbkUxLVlVWlN1bGhodWFJNVV5Q0MxcmplRjgwQTNldjloQ3lJck52aGQ1ZEdaQWtfUjlXWVgtblFRNS1EdG1PVHcxWTRLWVNZ?oc=5)
+
+2026-11-27
+
+Source: [HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd1Z2LXloMDBjQW1MdkR1aGVxdmduRzlmeXdlSTM4amF1ZV9LR040aVhmVjA2bElVVXU0cXIySGloYUxWX2RlZW5KWEZST3V4UjVKWmdpX0N4LWRFZGJob0R0XzNQQ3FTd0NZQk92TEs0aWM2NlhYU0E5RnlCeFJIT1Z2bWMzdkN6c1NCZ3VoQy10aEk2dXFDWjhrV0ozQnhZVHdWMlhlTEpGbXZJWWY5b1RkbGNKSWU0TTBtaUJZbzFjcUhDMG1ZcDdTTmJfb0JMUkhoemtabFN6Z9IB3wFBVV95cUxQVHZSV2FPMmlqS2Ryd05CM3ZyZENjX1lfMFBzY00xdjRvQmQ1dU9NRXRMOXRvTWFPLWRyR1JqUzljdl9HLW1CX0xWZ0gweVEyUlBCa1UtUGUteDJfUXdsYkYyNDl2NTN3MTlwNmhIUzQzSDlfQ0F0Y18xdjBlSFRlTUFyUWdhUml5eWUyV2Vlc0lYZE1qcS1nbkUxLVlVWlN1bGhodWFJNVV5Q0MxcmplRjgwQTNldjloQ3lJck52aGQ1ZEdaQWtfUjlXWVgtblFRNS1EdG1PVHcxWTRLWVNZ?oc=5)
+
+---
+
+### [Philly-area cancer vaccine trials show new promise after decades of setbacks in the field](https://news.google.com/rss/articles/CBMingFBVV95cUxNaFlkZXB3ZHVRQkhWdkh2OTh6aVZaTE9BNUpXUHg0X1NxbF9kUWdvcGE0UFV1Qlp5TFlwd1hTdGNSQVFDSFJTN0g0S2F6enM1NVpvNE5zMmdyOFZTdlJTVGZ2WmtfWVYyaUQ1ZFBUbTJIc29VU1hMbnNQTC1UTnQzX2JtV0Z3T09BbzIxc0ZTcGRLY1pRUGF2dk1fTUxidw?oc=5)
+
+2026-11-27
+
+Source: [Inquirer.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNaFlkZXB3ZHVRQkhWdkh2OTh6aVZaTE9BNUpXUHg0X1NxbF9kUWdvcGE0UFV1Qlp5TFlwd1hTdGNSQVFDSFJTN0g0S2F6enM1NVpvNE5zMmdyOFZTdlJTVGZ2WmtfWVYyaUQ1ZFBUbTJIc29VU1hMbnNQTC1UTnQzX2JtV0Z3T09BbzIxc0ZTcGRLY1pRUGF2dk1fTUxidw?oc=5)
+
+---
 
 ### [Smithfield Father To Ride 112 Miles In Memory Of Wife Lost To Cancer - JoCo Report](https://news.google.com/rss/articles/CBMilwFBVV95cUxPTEJoRHpqc1Z5djlfNmUwc2FOS3BGaWR1OG8zLW9QcGdrZjRIaFpfenA0OGRxeTNmVkhITXJGWi1VUnNaMmd4NjNrbUwtakV5SGNHQW5tS0ZGMVlfejNzVURjMUFuaUZ6WEtFTTZvZ1psdFV6bDdVcW5BbzAza3VPcDEtM2JhamZZdkNyRnFubks1cXlUTnVF?oc=5)
 
@@ -53,6 +77,14 @@ Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xZj
 2026-11-26
 
 Source: [HuffPost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFhiTmVUOGoxNkpPYVFhN3JORkhyUnFTaF9ybXYzZjJ4YWV6aUNmeHMxQkFZdU9FdzBBY0NZUUZJY1I1V20tUEJ0d3Nudnl4cmx4TFlqNWJnVDdsQ0YzNF9NQWVaeFBTRFFLQzdsLXVldkVIeGV3WWR1WEQySGpaQkdReXFOVXNQY1VWRHM2LWNabjJjaHBwcHhZOGNlS1hzcXB6YkRFN0I3OW9yVGZpU2dMbWJmTVNYQzFJ0gHAAUFVX3lxTFBYTGdPdmVkZGF1Q2JDeVlSYWtlQzdmdGxEUmRtX28yQUoyc29NbUdaS0kya25SUnRpR3NheHFNbUlOalR2cHBqMEg5NnRpd0Q1bW5ZdXBVenhfMUw2OVVIU01ScGJmZlFjM1drbDBiYWdDQnpZd2xlWUwwdVl2V294MDdUSlFHaXhGNlVOVDA0ZC1sRlkwVjRpQWJJV3A2NUd3UDNlYmNEeHltQU5LMnNhdEFTb205R2ZGdkg0cjFRMA?oc=5)
+
+---
+
+### [Light-powered 250-nm nanobots boost brain drug delivery fivefold - Interesting Engineering](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmdqTWVtbU9IZU9pYVF2aVNvejBZRzBLN1JWX29aczdFdDR0ZWVFQ3Z3Zmg4Q0hONWhJbUdTQWpwTEpVM2JaWHY0TXhONWtRQjdGU3V5bkNCcWcxbXU2em1ycXlzTjRvb1FLSlY0YnZubTEyU2RvRWdUMk5maHd2c2xKLW1vVGdyRHlBaTdHQ1BZdnFVbkV3ZnB4OFJiTUE?oc=5)
+
+2026-11-26
+
+Source: [Interesting Engineering](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmdqTWVtbU9IZU9pYVF2aVNvejBZRzBLN1JWX29aczdFdDR0ZWVFQ3Z3Zmg4Q0hONWhJbUdTQWpwTEpVM2JaWHY0TXhONWtRQjdGU3V5bkNCcWcxbXU2em1ycXlzTjRvb1FLSlY0YnZubTEyU2RvRWdUMk5maHd2c2xKLW1vVGdyRHlBaTdHQ1BZdnFVbkV3ZnB4OFJiTUE?oc=5)
 
 ---
 
@@ -157,6 +189,14 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNY0
 2026-11-24
 
 Source: [NPR](https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3Q5bWtGNWdKTDRzSWtwN2pxUENOWXJhY2QxZENyR2k3aUF6NjNDazQ0bXpIbElUYzF4dGhyLTdKeVBBMWwtUzVHSGRYSU4td2FQNDRCV29hSnQ0SXBiRUdJX1l5MVlzTGc1QkFkZ00tQzgyR1JJYWNBM3pabU9jQktBYklXaWhJbDdfQndYb2VmYnNPQkloZ1k3TlRMQWsyTDBkUVowcTZWeWJkaUFMNHo3TQ?oc=5)
+
+---
+
+### [Tube Girl: Sabrina Bahsoon on being 'written off' as psychotic](https://news.google.com/rss/articles/CBMiW0FVX3lxTE10OUU1dHB4X05iZV9ndzdLWTBxUV94Y3pXbmx0TWRWVk5HcHBmbjNxOFRmT1ZmRUJiVUJYUXgtVFB4dUwyM0hKd09LTFZGQlBpdTBmaUpWb2Q3OVE?oc=5)
+
+2026-11-24
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE10OUU1dHB4X05iZV9ndzdLWTBxUV94Y3pXbmx0TWRWVk5HcHBmbjNxOFRmT1ZmRUJiVUJYUXgtVFB4dUwyM0hKd09LTFZGQlBpdTBmaUpWb2Q3OVE?oc=5)
 
 ---
 

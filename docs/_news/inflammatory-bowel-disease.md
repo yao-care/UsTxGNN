@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 134 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 137 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-11-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>134 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>137 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (134)
+## Related News (137)
+
+### [Common supplements rival antibiotics in treating severe gum disease - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5HdmNKYjdWQ1ExSWVGMGJrY2dpZHR3eG5EWmlMYnh5RnR5dFF2M2EwekozRGs2Zkc4Q014S3RpV1RmaVdlUFpqOHliN2RPaVZKZmt0UFVlR1hwM2YyOW1SWkxkdDhOQkFldGY3UW16bw?oc=5)
+
+2026-11-26
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5HdmNKYjdWQ1ExSWVGMGJrY2dpZHR3eG5EWmlMYnh5RnR5dFF2M2EwekozRGs2Zkc4Q014S3RpV1RmaVdlUFpqOHliN2RPaVZKZmt0UFVlR1hwM2YyOW1SWkxkdDhOQkFldGY3UW16bw?oc=5)
+
+---
 
 ### [Stellar discovery: Israeli researchers may have found faintest supernova ever recorded - The Times of Israel](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbjVXNEFXTzFReDE2WXJyV195aUJQTkJsZUFNN0RxMmNiREdsWGtzTndwV19RaENOaldVWWJ2Sjh4SUJXR0h0cjNCNDJVMUN0RFdjUHNwWEkxZUZPM29Fd3B1LW1LY3dpS0FqWmJtY0VOQlU4S2p5MHE1RDNjWU8wczM2ekwxWmJzUVNHdl9VX2RpZUZQOW9vX2U0dEVPcDdIdWFVMFZBbGxHVmRJUHFOQ01QLTd6MlnSAbwBQVVfeXFMTmdRWHZiNGw1b1h3b0FNR0RCR3hUYlBVUnk3RUtNMGtFWk8zUVpka2t2ZXVjUnFLRjhNcm9vUmVsZFRVU3paRWg0cjZUanJSQnFGakwwaExGSnA0a3kyUXhKRDFSZ3FwcEYwdzdmcmlkS2xVRDc5QUlSVnlyRlFnTWJGZVl2TEgwU3dZaVI1WF9sQjdQcTR2UzRvSUh1ZkZRTlNYMVl6T0IweGNmT0NNc0ZQY05xZDhfR3VDbVo?oc=5)
 
@@ -58,6 +66,14 @@ Source: [The Lancet](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnljbS
 2026-11-25
 
 Source: [SpaceNews](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGYxYVJvZmE2ZzVYTmFUWV95RTZQVkhQR2toQnlhWUpnMkQxSUJPcm1Vdm5tT0dJZ0lNMWFRMGlJOFJXcUNXVGg1WnY5OVVvRXBQMDVtYVVmbmVBSExQSk0tRG1FSVpZdzNfcnVnUFptZkQtZUNDNTVQMHhBTWJaTXdTX0x1ejdydXBPOUdkRWRYc0NRSTN5WlFGOUw3a1Y0VFM4?oc=5)
+
+---
+
+### [Exhausted After Training Hard but Unable to Sleep? Too Much Dopamine in the Brain May Explain Why - ZME Science](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkUyNmlIdlJWTVNnVFgxUTE4dkc2cTAwZXAtaTlGR0pRclA0Y2dGZ1ZobHAyU0hnNE5GdC1UVkk0bGtsWWt1LXFDMHJGbEkwRzFmUW1oa1VKaDhKLXBhMjVwaVNzSFlCM2tYeXJ5V0NwbkVjN2ktQzU3NGdXbEhLQ0tBZnFHaXM0WGZEcHJsWjlQQQ?oc=5)
+
+2026-11-25
+
+Source: [ZME Science](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkUyNmlIdlJWTVNnVFgxUTE4dkc2cTAwZXAtaTlGR0pRclA0Y2dGZ1ZobHAyU0hnNE5GdC1UVkk0bGtsWWt1LXFDMHJGbEkwRzFmUW1oa1VKaDhKLXBhMjVwaVNzSFlCM2tYeXJ5V0NwbkVjN2ktQzU3NGdXbEhLQ0tBZnFHaXM0WGZEcHJsWjlQQQ?oc=5)
 
 ---
 
@@ -290,6 +306,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VZE1PNm5jdl
 2026-11-23
 
 Source: [WHAS11](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaWxhVmNBZmM3WVVmcUF5ZENKRmoyc284Y3lpS3ZTb0xzcmFfOWktSlRvN3lLV1RQdXFYRkliOERtckNXUVVVZzZsa0JtbVJVb0dSNmJIWDFNbEF1ak5VcXlFM2lFX0dhejRENFUySzI4alFGYndQNmFOTFBjTkdkY1ltS2NDTS1pekFrOXVoS2htcl8tdFJnMXpldXlObTJfS0cwZE5aZUd5TGxiSWFxTDRSVlExQTZNMF9PcTF0N0pJSThQZWNWcGZFV0p0dUpPTzZMMzN5U20?oc=5)
+
+---
+
+### [Measles Is a Growing Risk for Adults in the United States - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGtaQzBHT0syWURzekZ3WkxPWEVlcXFlZXRGVXZHNGh1akRVTlA4c2dxNHlJbzNNWnBIekU5Wi1VRkhOUEhNU0lPNmRsVnE2TXJIVURzYkFWektCTk1fVXMwQmFBMmdpUXdUcndKemV5R2g4eXBRVmRzSnN6S0c3QjRVN28?oc=5)
+
+2026-11-23
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGtaQzBHT0syWURzekZ3WkxPWEVlcXFlZXRGVXZHNGh1akRVTlA4c2dxNHlJbzNNWnBIekU5Wi1VRkhOUEhNU0lPNmRsVnE2TXJIVURzYkFWektCTk1fVXMwQmFBMmdpUXdUcndKemV5R2g4eXBRVmRzSnN6S0c3QjRVN28?oc=5)
 
 ---
 

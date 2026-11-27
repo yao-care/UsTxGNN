@@ -3,9 +3,9 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 50 articles, 2 related drugs."
+description: "Health news about flu (influenza). 51 articles, 2 related drugs."
 permalink: /news/influenza/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # flu (influenza) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>50 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>51 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (50)
+## Related News (51)
 
 ### [Flu cases and deaths are climbing early this year. Here’s what you need to know. - The Boston Globe](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRmx5SHlGWklRbDBFd3VtVkZrTzdveDRmOFdYRnF3RldhMUtXWlJoYXctUl9oMHVwOWxVRFhOMTZKRm9KYm5MUjJ6dlBYdVNVV0hVOFZRdUdVV24weUR6WnU3U1hmNE5MR0ZxRDM2UHJWOTVYMkI0VlBZajNmR002ckdtRW5md0VmQkFJZmdn?oc=5)
 
@@ -54,6 +54,14 @@ Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yNkd5Q1JoZVBl
 2026-11-24
 
 Source: [CNN](https://news.google.com/rss/articles/CBMibkFVX3lxTFBaSDVQX2tUa2Z5ZHcwRV8ycmZ1dWMxSWoyZ19fbW9iVnNPNG1XWTdqS0Z4OVZ3Mm9VS01yTW9uZTJMb2h4blBUbGl5aFg0eG9WalV2bGQ5cWNyMGw2UUhpWW4tcFZXRkxaVWRsQUJ3?oc=5)
+
+---
+
+### [Tube Girl: Sabrina Bahsoon on being 'written off' as psychotic](https://news.google.com/rss/articles/CBMiW0FVX3lxTE10OUU1dHB4X05iZV9ndzdLWTBxUV94Y3pXbmx0TWRWVk5HcHBmbjNxOFRmT1ZmRUJiVUJYUXgtVFB4dUwyM0hKd09LTFZGQlBpdTBmaUpWb2Q3OVE?oc=5)
+
+2026-11-24
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE10OUU1dHB4X05iZV9ndzdLWTBxUV94Y3pXbmx0TWRWVk5HcHBmbjNxOFRmT1ZmRUJiVUJYUXgtVFB4dUwyM0hKd09LTFZGQlBpdTBmaUpWb2Q3OVE?oc=5)
 
 ---
 

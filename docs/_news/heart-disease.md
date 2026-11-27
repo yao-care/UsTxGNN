@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 56 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 59 articles, 1 related drugs."
 permalink: /news/heart-disease/
 last_modified_at: 2026-11-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>56 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>59 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (56)
+## Related News (59)
+
+### [Philly-area cancer vaccine trials show new promise after decades of setbacks in the field](https://news.google.com/rss/articles/CBMingFBVV95cUxNaFlkZXB3ZHVRQkhWdkh2OTh6aVZaTE9BNUpXUHg0X1NxbF9kUWdvcGE0UFV1Qlp5TFlwd1hTdGNSQVFDSFJTN0g0S2F6enM1NVpvNE5zMmdyOFZTdlJTVGZ2WmtfWVYyaUQ1ZFBUbTJIc29VU1hMbnNQTC1UTnQzX2JtV0Z3T09BbzIxc0ZTcGRLY1pRUGF2dk1fTUxidw?oc=5)
+
+2026-11-27
+
+Source: [Inquirer.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNaFlkZXB3ZHVRQkhWdkh2OTh6aVZaTE9BNUpXUHg0X1NxbF9kUWdvcGE0UFV1Qlp5TFlwd1hTdGNSQVFDSFJTN0g0S2F6enM1NVpvNE5zMmdyOFZTdlJTVGZ2WmtfWVYyaUQ1ZFBUbTJIc29VU1hMbnNQTC1UTnQzX2JtV0Z3T09BbzIxc0ZTcGRLY1pRUGF2dk1fTUxidw?oc=5)
+
+---
+
+### [For decades, scientists may have misunderstood how brain cells work - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1EYU4zTzNjZ0NleHRsd1VOVDZESWc5NlpRMDJMTlVQb3h6a0dNZHhvOVB4LWZobEg2QkJLc2JQQ09yd2FuQzJPV3VsRUxnU2dESkt6N0VVa1dSOF9lQ3k0YmZYWlFpR0lPb05tdnE2aw?oc=5)
+
+2026-11-26
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1EYU4zTzNjZ0NleHRsd1VOVDZESWc5NlpRMDJMTlVQb3h6a0dNZHhvOVB4LWZobEg2QkJLc2JQQ09yd2FuQzJPV3VsRUxnU2dESkt6N0VVa1dSOF9lQ3k0YmZYWlFpR0lPb05tdnE2aw?oc=5)
+
+---
 
 ### [This 345-million-year-old fossil had scientists fooled for decades - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBXOGZDQXNUbk8tMGVDS005QXkydXlWLXFoLWNCaEFuY3BtSHZhbm14MVFQc1g5SlRmcThaWU1JdE5pcDRXakl6N2w4VFVnalBiQ2J3VUplX0V4STB6M0tzN0Y3TTJ1SVUtVDE0Vk9jYw?oc=5)
 
@@ -109,6 +125,14 @@ Source: [Reuters](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc1phV2NkV
 2026-11-24
 
 Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yNkd5Q1JoZVBlZUhFSm5wajBQOVB2bEMtWDhXM2NoaXY5bXVBeUtCcEppbzZBSVc3a19LRmxuaV9XWTlrTmdQZXlYMVQ0U1JYcW4zcGIwcURibVkxV2otbTJZUGdteWlE?oc=5)
+
+---
+
+### [Is There Such a Thing as Too Much Sleep? - The New York Times](https://news.google.com/rss/articles/CBMia0FVX3lxTE5tT0lsdVRYVzRzcVQ4TG9CWl90aVNiRjdqbVBfSHBxMzRERkdHNG8wUHdyRDFzZUx6TUx6bHNxeEtBS0ZaQmdfRFFiT1lQT192M3dDaUMyNUw1WWJUdlZjLVYxZjMyQ3VZN1BJ?oc=5)
+
+2026-11-24
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMia0FVX3lxTE5tT0lsdVRYVzRzcVQ4TG9CWl90aVNiRjdqbVBfSHBxMzRERkdHNG8wUHdyRDFzZUx6TUx6bHNxeEtBS0ZaQmdfRFFiT1lQT192M3dDaUMyNUw1WWJUdlZjLVYxZjMyQ3VZN1BJ?oc=5)
 
 ---
 

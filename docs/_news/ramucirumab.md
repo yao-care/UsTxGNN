@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ramucirumab. 10 predicted indications."
 permalink: /news/ramucirumab/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Ramucirumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>85 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>90 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (85)
+## Related News (90)
+
+### [Smithfield Father To Ride 112 Miles In Memory Of Wife Lost To Cancer - JoCo Report](https://news.google.com/rss/articles/CBMilwFBVV95cUxPTEJoRHpqc1Z5djlfNmUwc2FOS3BGaWR1OG8zLW9QcGdrZjRIaFpfenA0OGRxeTNmVkhITXJGWi1VUnNaMmd4NjNrbUwtakV5SGNHQW5tS0ZGMVlfejNzVURjMUFuaUZ6WEtFTTZvZ1psdFV6bDdVcW5BbzAza3VPcDEtM2JhamZZdkNyRnFubks1cXlUTnVF?oc=5)
+
+2026-11-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+
+Source: [JoCo Report](https://news.google.com/rss/articles/CBMilwFBVV95cUxPTEJoRHpqc1Z5djlfNmUwc2FOS3BGaWR1OG8zLW9QcGdrZjRIaFpfenA0OGRxeTNmVkhITXJGWi1VUnNaMmd4NjNrbUwtakV5SGNHQW5tS0ZGMVlfejNzVURjMUFuaUZ6WEtFTTZvZ1psdFV6bDdVcW5BbzAza3VPcDEtM2JhamZZdkNyRnFubks1cXlUTnVF?oc=5)
+
+---
+
+### [Mitochondrial profiling links tumor genotype to metabolic and immune vulnerabilities in liver cancer - Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xZjBNOWhHeUdxXzhYOE5oa3JMUXZpSTNZWXBPWFBhV2ZLdHhZYlhzQ2VmTlY3SmpmVEYzOXN6dFBUQkpocEhsVFFodmRuenZiMVk3cGxBWTdCUUhrVEpaUg?oc=5)
+
+2026-11-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xZjBNOWhHeUdxXzhYOE5oa3JMUXZpSTNZWXBPWFBhV2ZLdHhZYlhzQ2VmTlY3SmpmVEYzOXN6dFBUQkpocEhsVFFodmRuenZiMVk3cGxBWTdCUUhrVEpaUg?oc=5)
+
+---
 
 ### [Can Sparkling Water Increase Your Risk Of Colorectal Cancer?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFhiTmVUOGoxNkpPYVFhN3JORkhyUnFTaF9ybXYzZjJ4YWV6aUNmeHMxQkFZdU9FdzBBY0NZUUZJY1I1V20tUEJ0d3Nudnl4cmx4TFlqNWJnVDdsQ0YzNF9NQWVaeFBTRFFLQzdsLXVldkVIeGV3WWR1WEQySGpaQkdReXFOVXNQY1VWRHM2LWNabjJjaHBwcHhZOGNlS1hzcXB6YkRFN0I3OW9yVGZpU2dMbWJmTVNYQzFJ0gHAAUFVX3lxTFBYTGdPdmVkZGF1Q2JDeVlSYWtlQzdmdGxEUmRtX28yQUoyc29NbUdaS0kya25SUnRpR3NheHFNbUlOalR2cHBqMEg5NnRpd0Q1bW5ZdXBVenhfMUw2OVVIU01ScGJmZlFjM1drbDBiYWdDQnpZd2xlWUwwdVl2V294MDdUSlFHaXhGNlVOVDA0ZC1sRlkwVjRpQWJJV3A2NUd3UDNlYmNEeHltQU5LMnNhdEFTb205R2ZGdkg0cjFRMA?oc=5)
 
 2026-11-26 <span class="news-indication-tag">cancer</span>
 
 Source: [HuffPost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFhiTmVUOGoxNkpPYVFhN3JORkhyUnFTaF9ybXYzZjJ4YWV6aUNmeHMxQkFZdU9FdzBBY0NZUUZJY1I1V20tUEJ0d3Nudnl4cmx4TFlqNWJnVDdsQ0YzNF9NQWVaeFBTRFFLQzdsLXVldkVIeGV3WWR1WEQySGpaQkdReXFOVXNQY1VWRHM2LWNabjJjaHBwcHhZOGNlS1hzcXB6YkRFN0I3OW9yVGZpU2dMbWJmTVNYQzFJ0gHAAUFVX3lxTFBYTGdPdmVkZGF1Q2JDeVlSYWtlQzdmdGxEUmRtX28yQUoyc29NbUdaS0kya25SUnRpR3NheHFNbUlOalR2cHBqMEg5NnRpd0Q1bW5ZdXBVenhfMUw2OVVIU01ScGJmZlFjM1drbDBiYWdDQnpZd2xlWUwwdVl2V294MDdUSlFHaXhGNlVOVDA0ZC1sRlkwVjRpQWJJV3A2NUd3UDNlYmNEeHltQU5LMnNhdEFTb205R2ZGdkg0cjFRMA?oc=5)
+
+---
+
+### [Context-dependent response of endothelial cells to PIK3CA mutation](https://news.google.com/rss/articles/CBMiX0FVX3lxTE11Wnpfa3oyZ3FKQWllLVpCOW1NWUtwRG53RHdFNS1pT2Y4SWxNc1p6eURXM2wtVTg5ajlVcGM3RGhUei03ME15UUtJeUdFMGxVOVVOREJRcjR1V0x4V1lz?oc=5)
+
+2026-11-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE11Wnpfa3oyZ3FKQWllLVpCOW1NWUtwRG53RHdFNS1pT2Y4SWxNc1p6eURXM2wtVTg5ajlVcGM3RGhUei03ME15UUtJeUdFMGxVOVVOREJRcjR1V0x4V1lz?oc=5)
 
 ---
 
@@ -65,6 +89,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MSlZhWnB4SD
 2026-11-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
+
+---
+
+### [Light-activated nano-robots bring more drugs to the brain - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVVBR2lOd1Rzd0RMWlh0ODBWbUFKMFpJR2daTDFxWm44eWk2TkU5LTVhVGRmUEN0eFRIamhsT0hJT3NYZExPZ1lhc0I3OUtXWWIxZng2RjB6ZG1sUjlEOG1qX2ZrMXJjVG9fLXRsR3FZajlXVEZoTkhqT3Izb2NocVRGQUc?oc=5)
+
+2026-11-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVVBR2lOd1Rzd0RMWlh0ODBWbUFKMFpJR2daTDFxWm44eWk2TkU5LTVhVGRmUEN0eFRIamhsT0hJT3NYZExPZ1lhc0I3OUtXWWIxZng2RjB6ZG1sUjlEOG1qX2ZrMXJjVG9fLXRsR3FZajlXVEZoTkhqT3Izb2NocVRGQUc?oc=5)
 
 ---
 
@@ -118,7 +150,7 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aMWJMQ05XN2
 
 ### [The Mortality Gap Between Black and White Americans Is Shrinking - The New York Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnlpYU96SUUydnc2OFNXTG9CNmZDWUFud3B4NzAzQmJhQk9ZS3RSWEh5Y2hwWHViUVlpTEpGSU1HUmRFbjJpeFRpRWEtQzdkeE1QQ0NKYVBCUC1KU3hLNWVONlZveXFxbkdHMG45X2tNbVcyTEtldjZZdkcySzNrSHhKa1lFVWIzTFV0Mnd3?oc=5)
 
-2026-11-24 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+2026-11-24 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnlpYU96SUUydnc2OFNXTG9CNmZDWUFud3B4NzAzQmJhQk9ZS3RSWEh5Y2hwWHViUVlpTEpGSU1HUmRFbjJpeFRpRWEtQzdkeE1QQ0NKYVBCUC1KU3hLNWVONlZveXFxbkdHMG45X2tNbVcyTEtldjZZdkcySzNrSHhKa1lFVWIzTFV0Mnd3?oc=5)
 
@@ -134,9 +166,17 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNY0
 
 ### [Doctors struggle to save babies after parents refuse vitamin K](https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3Q5bWtGNWdKTDRzSWtwN2pxUENOWXJhY2QxZENyR2k3aUF6NjNDazQ0bXpIbElUYzF4dGhyLTdKeVBBMWwtUzVHSGRYSU4td2FQNDRCV29hSnQ0SXBiRUdJX1l5MVlzTGc1QkFkZ00tQzgyR1JJYWNBM3pabU9jQktBYklXaWhJbDdfQndYb2VmYnNPQkloZ1k3TlRMQWsyTDBkUVowcTZWeWJkaUFMNHo3TQ?oc=5)
 
-2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-11-24 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [NPR](https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3Q5bWtGNWdKTDRzSWtwN2pxUENOWXJhY2QxZENyR2k3aUF6NjNDazQ0bXpIbElUYzF4dGhyLTdKeVBBMWwtUzVHSGRYSU4td2FQNDRCV29hSnQ0SXBiRUdJX1l5MVlzTGc1QkFkZ00tQzgyR1JJYWNBM3pabU9jQktBYklXaWhJbDdfQndYb2VmYnNPQkloZ1k3TlRMQWsyTDBkUVowcTZWeWJkaUFMNHo3TQ?oc=5)
+
+---
+
+### [These Babies Grew Up With Strict Sugar Limits. Decades Later, The Health Results Are Dramatic.](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUY2VDZSTlRpdklrbGFIcC1TZ0Jxd2hTQkdFV0tsU3k1WlJSRXp1Y0Z1WFVwLTJzbzJWZmM5d01pM0dOQUtPanVtTzRNbG9SWm8tbFFFZEFwSXpfYTB4YWs1eVBrTm1Cal9peUFFWmRpZ2ZrT2QyNzlDOFpZM2ZqM0s4cU1YMmdza2x5Vy1RYW42Mnk1alJiMmxCT0J0bExzUGZHa091eW5wMmFtVGRhV3ZxS3Npdl9qOE5oXw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUY2VDZSTlRpdklrbGFIcC1TZ0Jxd2hTQkdFV0tsU3k1WlJSRXp1Y0Z1WFVwLTJzbzJWZmM5d01pM0dOQUtPanVtTzRNbG9SWm8tbFFFZEFwSXpfYTB4YWs1eVBrTm1Cal9peUFFWmRpZ2ZrT2QyNzlDOFpZM2ZqM0s4cU1YMmdza2x5Vy1RYW42Mnk1alJiMmxCT0J0bExzUGZHa091eW5wMmFtVGRhV3ZxS3Npdl9qOE5oXw?oc=5)
 
 ---
 
@@ -366,7 +406,7 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3B5
 
 ### [Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ | Pancreas cancer - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
 
-2026-11-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-11-20 <span class="news-drug-tag">Tadalafil</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
 

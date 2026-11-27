@@ -3,9 +3,9 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 54 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 56 articles, 1 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # CAD (heart disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>54 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>56 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (54)
+## Related News (56)
+
+### [This 345-million-year-old fossil had scientists fooled for decades - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBXOGZDQXNUbk8tMGVDS005QXkydXlWLXFoLWNCaEFuY3BtSHZhbm14MVFQc1g5SlRmcThaWU1JdE5pcDRXakl6N2w4VFVnalBiQ2J3VUplX0V4STB6M0tzN0Y3TTJ1SVUtVDE0Vk9jYw?oc=5)
+
+2026-11-26
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBXOGZDQXNUbk8tMGVDS005QXkydXlWLXFoLWNCaEFuY3BtSHZhbm14MVFQc1g5SlRmcThaWU1JdE5pcDRXakl6N2w4VFVnalBiQ2J3VUplX0V4STB6M0tzN0Y3TTJ1SVUtVDE0Vk9jYw?oc=5)
+
+---
 
 ### [Single-cell variant-to-enhancer-to-gene map for coronary artery disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
 
@@ -101,6 +109,14 @@ Source: [Reuters](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc1phV2NkV
 2026-11-24
 
 Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yNkd5Q1JoZVBlZUhFSm5wajBQOVB2bEMtWDhXM2NoaXY5bXVBeUtCcEppbzZBSVc3a19LRmxuaV9XWTlrTmdQZXlYMVQ0U1JYcW4zcGIwcURibVkxV2otbTJZUGdteWlE?oc=5)
+
+---
+
+### [These Babies Grew Up With Strict Sugar Limits. Decades Later, The Health Results Are Dramatic.](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUY2VDZSTlRpdklrbGFIcC1TZ0Jxd2hTQkdFV0tsU3k1WlJSRXp1Y0Z1WFVwLTJzbzJWZmM5d01pM0dOQUtPanVtTzRNbG9SWm8tbFFFZEFwSXpfYTB4YWs1eVBrTm1Cal9peUFFWmRpZ2ZrT2QyNzlDOFpZM2ZqM0s4cU1YMmdza2x5Vy1RYW42Mnk1alJiMmxCT0J0bExzUGZHa091eW5wMmFtVGRhV3ZxS3Npdl9qOE5oXw?oc=5)
+
+2026-11-24
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUY2VDZSTlRpdklrbGFIcC1TZ0Jxd2hTQkdFV0tsU3k1WlJSRXp1Y0Z1WFVwLTJzbzJWZmM5d01pM0dOQUtPanVtTzRNbG9SWm8tbFFFZEFwSXpfYTB4YWs1eVBrTm1Cal9peUFFWmRpZ2ZrT2QyNzlDOFpZM2ZqM0s4cU1YMmdza2x5Vy1RYW42Mnk1alJiMmxCT0J0bExzUGZHa091eW5wMmFtVGRhV3ZxS3Npdl9qOE5oXw?oc=5)
 
 ---
 

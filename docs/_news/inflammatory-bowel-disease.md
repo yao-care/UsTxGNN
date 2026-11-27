@@ -3,9 +3,9 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 127 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 134 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # UC (inflammatory bowel disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>127 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>134 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,23 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (127)
+## Related News (134)
+
+### [Stellar discovery: Israeli researchers may have found faintest supernova ever recorded - The Times of Israel](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbjVXNEFXTzFReDE2WXJyV195aUJQTkJsZUFNN0RxMmNiREdsWGtzTndwV19RaENOaldVWWJ2Sjh4SUJXR0h0cjNCNDJVMUN0RFdjUHNwWEkxZUZPM29Fd3B1LW1LY3dpS0FqWmJtY0VOQlU4S2p5MHE1RDNjWU8wczM2ekwxWmJzUVNHdl9VX2RpZUZQOW9vX2U0dEVPcDdIdWFVMFZBbGxHVmRJUHFOQ01QLTd6MlnSAbwBQVVfeXFMTmdRWHZiNGw1b1h3b0FNR0RCR3hUYlBVUnk3RUtNMGtFWk8zUVpka2t2ZXVjUnFLRjhNcm9vUmVsZFRVU3paRWg0cjZUanJSQnFGakwwaExGSnA0a3kyUXhKRDFSZ3FwcEYwdzdmcmlkS2xVRDc5QUlSVnlyRlFnTWJGZVl2TEgwU3dZaVI1WF9sQjdQcTR2UzRvSUh1ZkZRTlNYMVl6T0IweGNmT0NNc0ZQY05xZDhfR3VDbVo?oc=5)
+
+2026-11-26
+
+Source: [The Times of Israel](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbjVXNEFXTzFReDE2WXJyV195aUJQTkJsZUFNN0RxMmNiREdsWGtzTndwV19RaENOaldVWWJ2Sjh4SUJXR0h0cjNCNDJVMUN0RFdjUHNwWEkxZUZPM29Fd3B1LW1LY3dpS0FqWmJtY0VOQlU4S2p5MHE1RDNjWU8wczM2ekwxWmJzUVNHdl9VX2RpZUZQOW9vX2U0dEVPcDdIdWFVMFZBbGxHVmRJUHFOQ01QLTd6MlnSAbwBQVVfeXFMTmdRWHZiNGw1b1h3b0FNR0RCR3hUYlBVUnk3RUtNMGtFWk8zUVpka2t2ZXVjUnFLRjhNcm9vUmVsZFRVU3paRWg0cjZUanJSQnFGakwwaExGSnA0a3kyUXhKRDFSZ3FwcEYwdzdmcmlkS2xVRDc5QUlSVnlyRlFnTWJGZVl2TEgwU3dZaVI1WF9sQjdQcTR2UzRvSUh1ZkZRTlNYMVl6T0IweGNmT0NNc0ZQY05xZDhfR3VDbVo?oc=5)
+
+---
+
+### [Myocardial injury with non-obstructive coronary arteries: diagnostic pathways and stratified treatment - The Lancet](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnljbS1qVHRfVEt4dGw3dmtQTUEzZUpUdEtyX3gzZmVJdGVqMXBETEZhQXRyMjZVODBqY3E0YjZLc25xeU8xVnBCS21PY2FBbzJvNUh0REdXQXNZZFA1M3R4eW9DTEdnUDF3YzNqV29zX0NYLXNxN1NQSVBkOGVnVkZSNEMzSkZvNlE4?oc=5)
+
+2026-11-26
+
+Source: [The Lancet](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnljbS1qVHRfVEt4dGw3dmtQTUEzZUpUdEtyX3gzZmVJdGVqMXBETEZhQXRyMjZVODBqY3E0YjZLc25xeU8xVnBCS21PY2FBbzJvNUh0REdXQXNZZFA1M3R4eW9DTEdnUDF3YzNqV29zX0NYLXNxN1NQSVBkOGVnVkZSNEMzSkZvNlE4?oc=5)
+
+---
 
 ### [NASA nuclear propulsion demo mission to make limited use of nuclear propulsion](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGYxYVJvZmE2ZzVYTmFUWV95RTZQVkhQR2toQnlhWUpnMkQxSUJPcm1Vdm5tT0dJZ0lNMWFRMGlJOFJXcUNXVGg1WnY5OVVvRXBQMDVtYVVmbmVBSExQSk0tRG1FSVpZdzNfcnVnUFptZkQtZUNDNTVQMHhBTWJaTXdTX0x1ejdydXBPOUdkRWRYc0NRSTN5WlFGOUw3a1Y0VFM4?oc=5)
 
@@ -53,11 +69,11 @@ Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQV
 
 ---
 
-### [Human 'Mini Brains' Spent 40 Days in Space. Scientists Found Clues to Alzheimer's.](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhsbGpTNjRVWjVxbkROX3habmZQX2syWHMwSDA5NkZ6TThjNllXRGFNZ3lDa3F4Tjd5anQ4NW1fSjJWTm9aVi1DQWpQcmF0dTI4dlpBbWVFam8yWEFwVWd5NjA3cmJnT1JxVG1uS2NXNWhPR1g0eG52OEtfakRtaml2ZjUtMU5rdDNMdnljT3VhUVktRXNCdXpZaDh4bkFaaUNRZGs3TFR3T1kxM0pieFJXbGVjaHJWeHVaRg?oc=5)
+### [Light-activated nano-robots bring more drugs to the brain - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVVBR2lOd1Rzd0RMWlh0ODBWbUFKMFpJR2daTDFxWm44eWk2TkU5LTVhVGRmUEN0eFRIamhsT0hJT3NYZExPZ1lhc0I3OUtXWWIxZng2RjB6ZG1sUjlEOG1qX2ZrMXJjVG9fLXRsR3FZajlXVEZoTkhqT3Izb2NocVRGQUc?oc=5)
 
 2026-11-25
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhsbGpTNjRVWjVxbkROX3habmZQX2syWHMwSDA5NkZ6TThjNllXRGFNZ3lDa3F4Tjd5anQ4NW1fSjJWTm9aVi1DQWpQcmF0dTI4dlpBbWVFam8yWEFwVWd5NjA3cmJnT1JxVG1uS2NXNWhPR1g0eG52OEtfakRtaml2ZjUtMU5rdDNMdnljT3VhUVktRXNCdXpZaDh4bkFaaUNRZGs3TFR3T1kxM0pieFJXbGVjaHJWeHVaRg?oc=5)
+Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVVBR2lOd1Rzd0RMWlh0ODBWbUFKMFpJR2daTDFxWm44eWk2TkU5LTVhVGRmUEN0eFRIamhsT0hJT3NYZExPZ1lhc0I3OUtXWWIxZng2RjB6ZG1sUjlEOG1qX2ZrMXJjVG9fLXRsR3FZajlXVEZoTkhqT3Izb2NocVRGQUc?oc=5)
 
 ---
 
@@ -173,6 +189,22 @@ Source: [Gizmodo](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnBpajNPV
 
 ---
 
+### [The Mortality Gap Between Black and White Americans Is Shrinking - The New York Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnlpYU96SUUydnc2OFNXTG9CNmZDWUFud3B4NzAzQmJhQk9ZS3RSWEh5Y2hwWHViUVlpTEpGSU1HUmRFbjJpeFRpRWEtQzdkeE1QQ0NKYVBCUC1KU3hLNWVONlZveXFxbkdHMG45X2tNbVcyTEtldjZZdkcySzNrSHhKa1lFVWIzTFV0Mnd3?oc=5)
+
+2026-11-24
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnlpYU96SUUydnc2OFNXTG9CNmZDWUFud3B4NzAzQmJhQk9ZS3RSWEh5Y2hwWHViUVlpTEpGSU1HUmRFbjJpeFRpRWEtQzdkeE1QQ0NKYVBCUC1KU3hLNWVONlZveXFxbkdHMG45X2tNbVcyTEtldjZZdkcySzNrSHhKa1lFVWIzTFV0Mnd3?oc=5)
+
+---
+
+### [3 common drugs older adults might be overusing](https://news.google.com/rss/articles/CBMie0FVX3lxTFBMYUF0QjIxQ2tQenVZWmd0Z3lFcGs4dm1KUU96LTNrdDhIbXlVTGNTRHZfNUhmc3llYzJhc1VPNzM4Ri1iR3hrLU16LWV0SXpkZmRsdDAycENrWkRJNW93LWNMZTJDTlA1dGY0Y0Z1X0U1Um1Cc3B4NFotOA?oc=5)
+
+2026-11-24
+
+Source: [AOL.com](https://news.google.com/rss/articles/CBMie0FVX3lxTFBMYUF0QjIxQ2tQenVZWmd0Z3lFcGs4dm1KUU96LTNrdDhIbXlVTGNTRHZfNUhmc3llYzJhc1VPNzM4Ri1iR3hrLU16LWV0SXpkZmRsdDAycENrWkRJNW93LWNMZTJDTlA1dGY0Y0Z1X0U1Um1Cc3B4NFotOA?oc=5)
+
+---
+
 ### [Prehospital Antibiotics for Patients With Suspected Sepsis The PITSTOP-Antibiotics Factorial Randomized Clinical Trial](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yNkd5Q1JoZVBlZUhFSm5wajBQOVB2bEMtWDhXM2NoaXY5bXVBeUtCcEppbzZBSVc3a19LRmxuaV9XWTlrTmdQZXlYMVQ0U1JYcW4zcGIwcURibVkxV2otbTJZUGdteWlE?oc=5)
 
 2026-11-24
@@ -202,6 +234,22 @@ Source: [FOX8 WGHP](https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXVIY05
 2026-11-24
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRkdUN3NLdndWakw1d2xWUkp5dnJFZjZHWHN0NlVUUHliNWk1ZEQwZmY4LUltRXhwTlotUHJoOGVTMFJGZm9tQzVUTDZpcEZnYVdWQ2s1YkpjNS1xZ1M2aG5PWEp1QkRIWC1QeTBjS3dkUjZCdFAwOTc2N213WkluYVdOSHFNZlZMejA1bTV6YzlyaFBDNXZF?oc=5)
+
+---
+
+### [Is There Such a Thing as Too Much Sleep? - The New York Times](https://news.google.com/rss/articles/CBMia0FVX3lxTE5tT0lsdVRYVzRzcVQ4TG9CWl90aVNiRjdqbVBfSHBxMzRERkdHNG8wUHdyRDFzZUx6TUx6bHNxeEtBS0ZaQmdfRFFiT1lQT192M3dDaUMyNUw1WWJUdlZjLVYxZjMyQ3VZN1BJ?oc=5)
+
+2026-11-24
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMia0FVX3lxTE5tT0lsdVRYVzRzcVQ4TG9CWl90aVNiRjdqbVBfSHBxMzRERkdHNG8wUHdyRDFzZUx6TUx6bHNxeEtBS0ZaQmdfRFFiT1lQT192M3dDaUMyNUw1WWJUdlZjLVYxZjMyQ3VZN1BJ?oc=5)
+
+---
+
+### [These Babies Grew Up With Strict Sugar Limits. Decades Later, The Health Results Are Dramatic.](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUY2VDZSTlRpdklrbGFIcC1TZ0Jxd2hTQkdFV0tsU3k1WlJSRXp1Y0Z1WFVwLTJzbzJWZmM5d01pM0dOQUtPanVtTzRNbG9SWm8tbFFFZEFwSXpfYTB4YWs1eVBrTm1Cal9peUFFWmRpZ2ZrT2QyNzlDOFpZM2ZqM0s4cU1YMmdza2x5Vy1RYW42Mnk1alJiMmxCT0J0bExzUGZHa091eW5wMmFtVGRhV3ZxS3Npdl9qOE5oXw?oc=5)
+
+2026-11-24
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUY2VDZSTlRpdklrbGFIcC1TZ0Jxd2hTQkdFV0tsU3k1WlJSRXp1Y0Z1WFVwLTJzbzJWZmM5d01pM0dOQUtPanVtTzRNbG9SWm8tbFFFZEFwSXpfYTB4YWs1eVBrTm1Cal9peUFFWmRpZ2ZrT2QyNzlDOFpZM2ZqM0s4cU1YMmdza2x5Vy1RYW42Mnk1alJiMmxCT0J0bExzUGZHa091eW5wMmFtVGRhV3ZxS3Npdl9qOE5oXw?oc=5)
 
 ---
 
@@ -546,6 +594,14 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMia0FVX3lxTE1Va01KUWhf
 2026-11-20
 
 Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1ZzM2EtSS1xOTk3QmktdWJBWGFacTdIM1RaQ3dkRDdNUXVKSGZNa2l4b2pXNkxrYk5aTVNpSzE1X0lVcEdVM0hBc1BzSTA1SmJKTjBjY2VmWl9vSEZieTBRSFBPN2U3QVBjbW9JRF9sQjcyclcyNUFVM3A5QzBfX3BjNkhza29RUkxhSlltRHBMQzI5VUlsRDZ3M1kwR3U5VGd3YmMtRC1OcmpYUnItN0d1bEU?oc=5)
+
+---
+
+### [Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ | Pancreas cancer - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
+
+2026-11-20
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
 
 ---
 

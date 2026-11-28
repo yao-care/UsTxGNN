@@ -3,9 +3,9 @@ layout: default
 title: "RA (arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (arthritis). 526 articles, 7 related drugs."
+description: "Health news about RA (arthritis). 535 articles, 7 related drugs."
 permalink: /news/arthritis/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # RA (arthritis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about RA (arthritis)?">
-<strong>RA (arthritis)</strong> currently has <strong>526 news articles</strong> and 7 related drugs.
+<strong>RA (arthritis)</strong> currently has <strong>535 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,23 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (526)
+## Related News (535)
+
+### [Your scrambled eggs aren't just breakfast — scientists found eating at least five a week is linked to a 27 percent lower Alzheimer's risk](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOUZtbnJyRk5xVmZ4d3dqS1Jva3ozSWRuaXh1VDhCV2dKTVhHbVNYMm9pWVcyLWdGU0ZBa0xnTXBYbllPZnl5MFQ0bEhUVTRVTE83OEhnUldXc1M2ZjJDWFU0S3oxYWN4Y2VTU1JtUlN3ckdpUFFwU19VeEdkMGczTUgzcXA0VXBkWXpEY2dxeHMwUEJ1THdBVVhpT1VVMFdtOERGZl91SWlEUE9leWNtdGdZTUtIemxDZFdYSUM2WmdCSXp6dXd4M3A3dm9xZEQxc0tUQ2JlclhfRmpLVkdyQ3BWWnRrLWQ3ZkdTQjFRdw?oc=5)
+
+2026-11-27
+
+Source: [PsyPost](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOUZtbnJyRk5xVmZ4d3dqS1Jva3ozSWRuaXh1VDhCV2dKTVhHbVNYMm9pWVcyLWdGU0ZBa0xnTXBYbllPZnl5MFQ0bEhUVTRVTE83OEhnUldXc1M2ZjJDWFU0S3oxYWN4Y2VTU1JtUlN3ckdpUFFwU19VeEdkMGczTUgzcXA0VXBkWXpEY2dxeHMwUEJ1THdBVVhpT1VVMFdtOERGZl91SWlEUE9leWNtdGdZTUtIemxDZFdYSUM2WmdCSXp6dXd4M3A3dm9xZEQxc0tUQ2JlclhfRmpLVkdyQ3BWWnRrLWQ3ZkdTQjFRdw?oc=5)
+
+---
+
+### [MN, WI report new measles cases](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWtfNUk0bFpfVHlnbk13TmpuNERNZ0JSNW50Z1U2ZnpQUE9UeEx4TDZPdjF5eElGRlhSd1I5NjhpOU01TFZQVlBDeUdiWjdfRE9iR1ZTMFl1MzMxbmJvR1JueXFnWUdpOHhvSXZ5WUtyMEdnZi15TmtoZnRHc1lJRl9wQmsyNExsbWdyYnFrMFJwTjlIZmVUblRJaTU2NGUwSC1qQWN5d0tCNEhvWm9uMnM1RQ?oc=5)
+
+2026-11-27
+
+Source: [kare11.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWtfNUk0bFpfVHlnbk13TmpuNERNZ0JSNW50Z1U2ZnpQUE9UeEx4TDZPdjF5eElGRlhSd1I5NjhpOU01TFZQVlBDeUdiWjdfRE9iR1ZTMFl1MzMxbmJvR1JueXFnWUdpOHhvSXZ5WUtyMEdnZi15TmtoZnRHc1lJRl9wQmsyNExsbWdyYnFrMFJwTjlIZmVUblRJaTU2NGUwSC1qQWN5d0tCNEhvWm9uMnM1RQ?oc=5)
+
+---
 
 ### [More Utahns turning to alternative forms of birth control, research says](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUJRdGRQNFc3UjItZWJoQVJlczh3RTNnWVllZ2RKcV94akVqRWViZi1tdDRmeTA1d2dIWWNNbVQzQmRTenZrSDluN0VWMjhuV0VCVGdXdlphQV90UU5sV1dXRjNvTTE4d3lldEJvZFZ6S0VZUG9pMHl0OEVpZHdiS0N2OF8zTWdFTnpWQVR2NlBKejdlMV8xN1F0Ujk3SVB6elRYNkdJUmdRc2JK?oc=5)
 
@@ -46,11 +62,27 @@ Source: [KSL](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUJRdGRQNFc3U
 
 ---
 
+### [A small galaxy's giant dark matter core challenges the standard cosmological model](https://news.google.com/rss/articles/CBMicEFVX3lxTE5fTUxZRy1jRFdhY2x5ZlF3MHpaaFVSX1doLUV3OThodmc2S0d2ZWNkZmZFcEZqTXRfSldUYl9jUEYwMURHd0RhcWM2aW9LeVJPaUo2ZTNQTkk4UGJmNUl1UDBkNDI4bkcwdlZNUEpNSTE?oc=5)
+
+2026-11-27
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMicEFVX3lxTE5fTUxZRy1jRFdhY2x5ZlF3MHpaaFVSX1doLUV3OThodmc2S0d2ZWNkZmZFcEZqTXRfSldUYl9jUEYwMURHd0RhcWM2aW9LeVJPaUo2ZTNQTkk4UGJmNUl1UDBkNDI4bkcwdlZNUEpNSTE?oc=5)
+
+---
+
 ### [Millions of Americans Have This Condition. It Might Raise Your Risk of Alzheimer’s by 53%](https://news.google.com/rss/articles/CBMiigFBVV95cUxObWR5TEtuWGxCVFFzSC1jR01zbGtaSTkzUHgteTJqRVh4SGU1YVhSWDVyMmtNcHdENEk1ODB1MzMtN0xMbGZXRlgzWUpmeVgyZTdFUVpuX2FJZ0NacFlJa1dxd1h5anJZQ3ExV3JrWkVZYjF2QnBDaWw3RUJUbEVFZ3M4U1ZweWVoclE?oc=5)
 
 2026-11-27
 
 Source: [Prevention](https://news.google.com/rss/articles/CBMiigFBVV95cUxObWR5TEtuWGxCVFFzSC1jR01zbGtaSTkzUHgteTJqRVh4SGU1YVhSWDVyMmtNcHdENEk1ODB1MzMtN0xMbGZXRlgzWUpmeVgyZTdFUVpuX2FJZ0NacFlJa1dxd1h5anJZQ3ExV3JrWkVZYjF2QnBDaWw3RUJUbEVFZ3M4U1ZweWVoclE?oc=5)
+
+---
+
+### [Supplements in the spotlight as longevity doctor shares his personal daily routine - Fox News](https://news.google.com/rss/articles/CBMioAFBVV95cUxOblhDMDgzTjdpc3JfUmJ4MWFyMEdfMThZNWRONGJIN3Jud1NWWFpSN0QwV2NNcHhEM0JqMXhIQ0NCLTB6NkZITVV0b3FuOXRUTDF6NjE3REVLM1F2d1VnNWZXT0g2S1FrOTdSQXVpdTRPVm1RMlVmSGZvQjNjS1F4ejhmeTIyWXdURTlaMm9ybk1aemk4OUZob3ptVDdZcld00gGmAUFVX3lxTE9TZnhfRjh0bV95dGZPQUVXOXIyTUk2MU1wdHVZNXV4enN2UmNZQ3d5YjAyV3BKR3FEZktRQmNMbTNtRERuVGFHOWZQYWJIUTFJa2NrNjNRdFZSdXlPaUxxYUF6SVBIMjNVelg4TjJ6czRwc0Nha1Yza0FTbV9qMDVvS3RNNTM4VFBCc1QzZjJMM2RqVWRoaFNFZlZmUHZ3Yml5d2dDNnc?oc=5)
+
+2026-11-27
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMioAFBVV95cUxOblhDMDgzTjdpc3JfUmJ4MWFyMEdfMThZNWRONGJIN3Jud1NWWFpSN0QwV2NNcHhEM0JqMXhIQ0NCLTB6NkZITVV0b3FuOXRUTDF6NjE3REVLM1F2d1VnNWZXT0g2S1FrOTdSQXVpdTRPVm1RMlVmSGZvQjNjS1F4ejhmeTIyWXdURTlaMm9ybk1aemk4OUZob3ptVDdZcld00gGmAUFVX3lxTE9TZnhfRjh0bV95dGZPQUVXOXIyTUk2MU1wdHVZNXV4enN2UmNZQ3d5YjAyV3BKR3FEZktRQmNMbTNtRERuVGFHOWZQYWJIUTFJa2NrNjNRdFZSdXlPaUxxYUF6SVBIMjNVelg4TjJ6czRwc0Nha1Yza0FTbV9qMDVvS3RNNTM4VFBCc1QzZjJMM2RqVWRoaFNFZlZmUHZ3Yml5d2dDNnc?oc=5)
 
 ---
 
@@ -75,6 +107,22 @@ Source: [HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd1Z2LXlo
 2026-11-27
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGRwaUJHWjJYVEw4OTBmNjU2N2FqeGpjWVdIaWhqa01ORVdpU3JIZHdCTk9RSldmeG1sUnlBU2w4WkdCTDByNHgwM0VLU0o1bFJXeVp1YXhaRENwS2lVVEY4N0w1d3lRQXlTQUQ3TU1KVnVJWlhYVG94YlVudmtlWmFVSU85S0dxRUo2SHpjSjR2SHhQTUdSckZ1aG1IeV9pWGFrQUl4SVE0TE9MNDZsYXBn?oc=5)
+
+---
+
+### [Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9BMTlzcWp3TTRSSnFCR29lSnNjSGVWdGRGM3Y4NTdNUWp3V1VFVTd3QUx0aEx4QmNJZ1hhSVRBd0RqcDNqRk8tbVE1eVhkamZ1MTE2S1I0LTA1ZGwyYlhORHVZOHhVSHZlZTRvOVRtSQ?oc=5)
+
+2026-11-27
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9BMTlzcWp3TTRSSnFCR29lSnNjSGVWdGRGM3Y4NTdNUWp3V1VFVTd3QUx0aEx4QmNJZ1hhSVRBd0RqcDNqRk8tbVE1eVhkamZ1MTE2S1I0LTA1ZGwyYlhORHVZOHhVSHZlZTRvOVRtSQ?oc=5)
+
+---
+
+### [Philly-area cancer vaccine trials show new promise after decades of setbacks in the field](https://news.google.com/rss/articles/CBMingFBVV95cUxNaFlkZXB3ZHVRQkhWdkh2OTh6aVZaTE9BNUpXUHg0X1NxbF9kUWdvcGE0UFV1Qlp5TFlwd1hTdGNSQVFDSFJTN0g0S2F6enM1NVpvNE5zMmdyOFZTdlJTVGZ2WmtfWVYyaUQ1ZFBUbTJIc29VU1hMbnNQTC1UTnQzX2JtV0Z3T09BbzIxc0ZTcGRLY1pRUGF2dk1fTUxidw?oc=5)
+
+2026-11-27
+
+Source: [Inquirer.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNaFlkZXB3ZHVRQkhWdkh2OTh6aVZaTE9BNUpXUHg0X1NxbF9kUWdvcGE0UFV1Qlp5TFlwd1hTdGNSQVFDSFJTN0g0S2F6enM1NVpvNE5zMmdyOFZTdlJTVGZ2WmtfWVYyaUQ1ZFBUbTJIc29VU1hMbnNQTC1UTnQzX2JtV0Z3T09BbzIxc0ZTcGRLY1pRUGF2dk1fTUxidw?oc=5)
 
 ---
 
@@ -198,6 +246,14 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZE
 
 ---
 
+### [Congo Ebola outbreak reaches 12,000 cases as some responders evacuate](https://news.google.com/rss/articles/CBMic0FVX3lxTE5uQzZ2Z05RVGJOSUNFUUc5MkFqWG01c2FkQjA0TllLdGY2cGc2MFplakYwWFVlcGFiWVlIdy1FWnAzVkJIejNtMk9FU0Z2QWhfUXFVSW9Qd2UwV1JiaGlKRjVVYi1qZ0NYOE1yT1BTRlNRdGc?oc=5)
+
+2026-11-26
+
+Source: [NPR](https://news.google.com/rss/articles/CBMic0FVX3lxTE5uQzZ2Z05RVGJOSUNFUUc5MkFqWG01c2FkQjA0TllLdGY2cGc2MFplakYwWFVlcGFiWVlIdy1FWnAzVkJIejNtMk9FU0Z2QWhfUXFVSW9Qd2UwV1JiaGlKRjVVYi1qZ0NYOE1yT1BTRlNRdGc?oc=5)
+
+---
+
 ### [Measles exposure under investigation at Wisconsin restaurant - Bring Me The News](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbV9fSG8zc19nVWJ2LTk2UkRSbWZnWW1hanAxenFKMTBIM3RfdGs5X1ZsOHlJSUNXbUkxLTMwaDc2R1hvNV9rbUlUSGVlSFEyMjQxdUhTRjl6bDFBTDEwVlpUdDBKeWp6bzBPWVdwM1pmZEh1Y3VNWnFZVEsxR1ZnYUh5Z2w1MDdDakVYdEVZMkM4R1hjUFpDMzN5QzI1cnJFVmVqSw?oc=5)
 
 2026-11-26
@@ -235,6 +291,14 @@ Source: [Syracuse.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxPV0pm
 2026-11-26
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFdkakluX1M0SUFKekpVcWJZYkcxYWRtejJINndQUWhGRUowRkNDdk9YM2FkTGFoZEVvU3JVNUxRX0J6dEY4czAzakFmTlc4ZWVlc2dVa2R5aV9mZFl6ckhRLWw5ZjVaUXRzLW1EdFVsdlM2MnlkY1ZDMFVCX25DTDRaUWppVncyY0c3cVNERXhsTTc2cnRyQ1FMZ19sUUVsZjF6bnlB?oc=5)
+
+---
+
+### [CWD cases grow in New York state, second confirmed in Livingston County](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWdWSkkxQ010LWNRTTFMM0ZvRkNVOXRfUnZGNWNRMW1ZOXlxaGw4MkF2Ni1mT2YyZlFadTlvakZtNDAxUWM5THVDWmhxY3pXVkxMTll3bEVibV9zSjNKWDBaTTlqbWNwVktCakhCZjIyTjlxQkl2czIwUTF4c3NnZWtHMzU1Zw?oc=5)
+
+2026-11-26
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWdWSkkxQ010LWNRTTFMM0ZvRkNVOXRfUnZGNWNRMW1ZOXlxaGw4MkF2Ni1mT2YyZlFadTlvakZtNDAxUWM5THVDWmhxY3pXVkxMTll3bEVibV9zSjNKWDBaTTlqbWNwVktCakhCZjIyTjlxQkl2czIwUTF4c3NnZWtHMzU1Zw?oc=5)
 
 ---
 
@@ -1675,6 +1739,14 @@ Source: [Futurism](https://news.google.com/rss/articles/CBMidkFVX3lxTE9lSFNhWXVF
 2026-11-21
 
 Source: [The Jerusalem Post](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11LXNFZm1aSWh1M3N1QWdPb3l4eUVITFVaTU1wUGdiSXZuR2p4OUR6Qm0zM25CR3lYRTF0anpVR3QxU0thZUtNTDVlbEdLSEpFel9tUDN5VFlXNjdRVWI3RktGbXhNTVk?oc=5)
+
+---
+
+### [Bizarre 'Vampire Camel' Discovered in Museum Fossils Collected Decades Ago](https://news.google.com/rss/articles/CBMiowFBVV95cUxORDRYYkNMc0JUVlAxYndycEhxTmtqbXZYS1oxZ3l6Vno2ampjVXFFZnpXcFNGT3NZV214YkxZR3E3WktRUWF5eDFWbWU5cUJLbWVwTmhWcTZFR2VLc3lEM004RE5tQ0ZicGU2VWNIQnZDSnlud0hYSkRWeXMzYWxnZ2EwQ3NKT1IzYWlZTDlMbHlyR1VJd0Z2TDl1ekx2Q2YtSGFr?oc=5)
+
+2026-11-21
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxORDRYYkNMc0JUVlAxYndycEhxTmtqbXZYS1oxZ3l6Vno2ampjVXFFZnpXcFNGT3NZV214YkxZR3E3WktRUWF5eDFWbWU5cUJLbWVwTmhWcTZFR2VLc3lEM004RE5tQ0ZicGU2VWNIQnZDSnlud0hYSkRWeXMzYWxnZ2EwQ3NKT1IzYWlZTDlMbHlyR1VJd0Z2TDl1ekx2Q2YtSGFr?oc=5)
 
 ---
 

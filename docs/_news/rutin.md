@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Rutin. 8 predicted indications."
 permalink: /news/rutin/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Rutin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>139 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>141 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (139)
+## Related News (141)
+
+### [Tinnitus Is Connected Somehow to a Crucial Bodily Function](https://news.google.com/rss/articles/CBMikAFBVV95cUxONDM0OHJsY1RzanY0YUtsbmZRMVJ3dHBaVlFybk5Xam1hUVJmVlJYUlZzc0djNURhVWtYMGhvQVRiYUQ2cm9fZFd6Y1FJWE1UYWFrQ0JIcDR1d0VCZ2Q2SzcwU3E1UkRib3ZGa0RXVXYyWDZuQlBGTGE5NDE4a3NCX3cxQ2xpRlJrQmtkUnJYVmU?oc=5)
+
+2026-11-27 <span class="news-indication-tag">UC</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMikAFBVV95cUxONDM0OHJsY1RzanY0YUtsbmZRMVJ3dHBaVlFybk5Xam1hUVJmVlJYUlZzc0djNURhVWtYMGhvQVRiYUQ2cm9fZFd6Y1FJWE1UYWFrQ0JIcDR1d0VCZ2Q2SzcwU3E1UkRib3ZGa0RXVXYyWDZuQlBGTGE5NDE4a3NCX3cxQ2xpRlJrQmtkUnJYVmU?oc=5)
+
+---
+
+### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE85V3RpWXBnc2wxQTdDaFdpQmxYZTlISmpzZUtZal83SjZob0VOUjFHeTRJbHRQc0JReU53eEp0eUIweVI5YThxdTA5QkdPT196YzM0R3Y1Y1JOdFg2Rk1LYjBpMlR5VFpXNmJYZWd6TG54ZGtmTW9pcWNQUmtWdw?oc=5)
+
+2026-11-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE85V3RpWXBnc2wxQTdDaFdpQmxYZTlISmpzZUtZal83SjZob0VOUjFHeTRJbHRQc0JReU53eEp0eUIweVI5YThxdTA5QkdPT196YzM0R3Y1Y1JOdFg2Rk1LYjBpMlR5VFpXNmJYZWd6TG54ZGtmTW9pcWNQUmtWdw?oc=5)
+
+---
 
 ### [Common supplements rival antibiotics in treating severe gum disease - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5HdmNKYjdWQ1ExSWVGMGJrY2dpZHR3eG5EWmlMYnh5RnR5dFF2M2EwekozRGs2Zkc4Q014S3RpV1RmaVdlUFpqOHliN2RPaVZKZmt0UFVlR1hwM2YyOW1SWkxkdDhOQkFldGY3UW16bw?oc=5)
 
@@ -84,7 +100,7 @@ Source: [ZME Science](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkUyN
 
 ### [Photothermally gated nanorobots for active blood-brain barrier transcytosis and brain delivery - Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
 
-2026-11-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-25 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">UC</span>
 
 Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
 

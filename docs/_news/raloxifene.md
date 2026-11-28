@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Raloxifene. 4 predicted indications."
 permalink: /news/raloxifene/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Raloxifene News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene?">
-<strong>Raloxifene</strong> currently has <strong>442 news articles</strong>, with 4 predicted indications.
+<strong>Raloxifene</strong> currently has <strong>449 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Raloxifene with the latest h
 <p><a href="{{ '/drugs/raloxifene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (442)
+## Related News (449)
+
+### [Mpox cases double in San Diego County, officials urge two-dose vaccine](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNng5dFZrdE1kNGxsS1I0R0F3d2ZpRVVUMW1kNndqUlBnUXl5WjlnV250TE9RaHF2dUNJTkZCeUt5Q1JKSElFeExzSFR2czYyOVN2VVVJVE5ndUpDVjkteXVsQ29LYUVaWk1VcHNCVHVvNUhISklmMDF6b3pPRlNDdUJ0VmhBOW1qWVJRSExySUt2U25KQ1gwSEVsZmk0ZDR1SWhMd0NmbXVUSXpONVpRR2hLcWVJa1lXRF81dGxGNjNwVy1DdExnVms4LUVvSFhreV9SeVlfZkR5QmJvXzZ3WWlCTzVzZw?oc=5)
+
+2026-11-27 <span class="news-indication-tag">MI</span>
+
+Source: [cbs8.com](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNng5dFZrdE1kNGxsS1I0R0F3d2ZpRVVUMW1kNndqUlBnUXl5WjlnV250TE9RaHF2dUNJTkZCeUt5Q1JKSElFeExzSFR2czYyOVN2VVVJVE5ndUpDVjkteXVsQ29LYUVaWk1VcHNCVHVvNUhISklmMDF6b3pPRlNDdUJ0VmhBOW1qWVJRSExySUt2U25KQ1gwSEVsZmk0ZDR1SWhMd0NmbXVUSXpONVpRR2hLcWVJa1lXRF81dGxGNjNwVy1DdExnVms4LUVvSFhreV9SeVlfZkR5QmJvXzZ3WWlCTzVzZw?oc=5)
+
+---
 
 ### [More Utahns turning to alternative forms of birth control, research says](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUJRdGRQNFc3UjItZWJoQVJlczh3RTNnWVllZ2RKcV94akVqRWViZi1tdDRmeTA1d2dIWWNNbVQzQmRTenZrSDluN0VWMjhuV0VCVGdXdlphQV90UU5sV1dXRjNvTTE4d3lldEJvZFZ6S0VZUG9pMHl0OEVpZHdiS0N2OF8zTWdFTnpWQVR2NlBKejdlMV8xN1F0Ujk3SVB6elRYNkdJUmdRc2JK?oc=5)
 
@@ -46,11 +54,27 @@ Source: [KSL](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUJRdGRQNFc3U
 
 ---
 
+### [A small galaxy's giant dark matter core challenges the standard cosmological model](https://news.google.com/rss/articles/CBMicEFVX3lxTE5fTUxZRy1jRFdhY2x5ZlF3MHpaaFVSX1doLUV3OThodmc2S0d2ZWNkZmZFcEZqTXRfSldUYl9jUEYwMURHd0RhcWM2aW9LeVJPaUo2ZTNQTkk4UGJmNUl1UDBkNDI4bkcwdlZNUEpNSTE?oc=5)
+
+2026-11-27 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMicEFVX3lxTE5fTUxZRy1jRFdhY2x5ZlF3MHpaaFVSX1doLUV3OThodmc2S0d2ZWNkZmZFcEZqTXRfSldUYl9jUEYwMURHd0RhcWM2aW9LeVJPaUo2ZTNQTkk4UGJmNUl1UDBkNDI4bkcwdlZNUEpNSTE?oc=5)
+
+---
+
 ### [Millions of Americans Have This Condition. It Might Raise Your Risk of Alzheimer’s by 53%](https://news.google.com/rss/articles/CBMiigFBVV95cUxObWR5TEtuWGxCVFFzSC1jR01zbGtaSTkzUHgteTJqRVh4SGU1YVhSWDVyMmtNcHdENEk1ODB1MzMtN0xMbGZXRlgzWUpmeVgyZTdFUVpuX2FJZ0NacFlJa1dxd1h5anJZQ3ExV3JrWkVZYjF2QnBDaWw3RUJUbEVFZ3M4U1ZweWVoclE?oc=5)
 
 2026-11-27 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [Prevention](https://news.google.com/rss/articles/CBMiigFBVV95cUxObWR5TEtuWGxCVFFzSC1jR01zbGtaSTkzUHgteTJqRVh4SGU1YVhSWDVyMmtNcHdENEk1ODB1MzMtN0xMbGZXRlgzWUpmeVgyZTdFUVpuX2FJZ0NacFlJa1dxd1h5anJZQ3ExV3JrWkVZYjF2QnBDaWw3RUJUbEVFZ3M4U1ZweWVoclE?oc=5)
+
+---
+
+### [Scientists Find Early 'Red Flags' That Can Predict Cardiovascular Events Decades Ahead](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQck1LOUtuNWQ2STFtM2hMdzVTQ1FvR3hKR0I2X0k3V3hWTUVUSHJ2MFhoLUNRa3dBMDFrYVVyYWphTzN4OFhiVEJUUnlWZ01kV1dlajY0QTBvSk4wUlI1d1FfOHM3RUNpS180QmVyVlNseTNsT0ZhR0k0QW5hMnBldWlQbjQ3cG5OMzkzb1lobkpRdkM4Q1hselNfWXNuaDc0dUV6bUV2SG13SmJJN2NGNkV6b0NfcVNENkJteE1HM09EdEltMHE4alJ6S0gyVE9WR2c?oc=5)
+
+2026-11-27 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">heart attack</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQck1LOUtuNWQ2STFtM2hMdzVTQ1FvR3hKR0I2X0k3V3hWTUVUSHJ2MFhoLUNRa3dBMDFrYVVyYWphTzN4OFhiVEJUUnlWZ01kV1dlajY0QTBvSk4wUlI1d1FfOHM3RUNpS180QmVyVlNseTNsT0ZhR0k0QW5hMnBldWlQbjQ3cG5OMzkzb1lobkpRdkM4Q1hselNfWXNuaDc0dUV6bUV2SG13SmJJN2NGNkV6b0NfcVNENkJteE1HM09EdEltMHE4alJ6S0gyVE9WR2c?oc=5)
 
 ---
 
@@ -70,9 +94,17 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMisgFBVV95cUxOO
 
 ---
 
+### [Tinnitus Is Connected Somehow to a Crucial Bodily Function](https://news.google.com/rss/articles/CBMikAFBVV95cUxONDM0OHJsY1RzanY0YUtsbmZRMVJ3dHBaVlFybk5Xam1hUVJmVlJYUlZzc0djNURhVWtYMGhvQVRiYUQ2cm9fZFd6Y1FJWE1UYWFrQ0JIcDR1d0VCZ2Q2SzcwU3E1UkRib3ZGa0RXVXYyWDZuQlBGTGE5NDE4a3NCX3cxQ2xpRlJrQmtkUnJYVmU?oc=5)
+
+2026-11-27 <span class="news-indication-tag">UC</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMikAFBVV95cUxONDM0OHJsY1RzanY0YUtsbmZRMVJ3dHBaVlFybk5Xam1hUVJmVlJYUlZzc0djNURhVWtYMGhvQVRiYUQ2cm9fZFd6Y1FJWE1UYWFrQ0JIcDR1d0VCZ2Q2SzcwU3E1UkRib3ZGa0RXVXYyWDZuQlBGTGE5NDE4a3NCX3cxQ2xpRlJrQmtkUnJYVmU?oc=5)
+
+---
+
 ### [Philly-area cancer vaccine trials show new promise after decades of setbacks in the field](https://news.google.com/rss/articles/CBMingFBVV95cUxNaFlkZXB3ZHVRQkhWdkh2OTh6aVZaTE9BNUpXUHg0X1NxbF9kUWdvcGE0UFV1Qlp5TFlwd1hTdGNSQVFDSFJTN0g0S2F6enM1NVpvNE5zMmdyOFZTdlJTVGZ2WmtfWVYyaUQ1ZFBUbTJIc29VU1hMbnNQTC1UTnQzX2JtV0Z3T09BbzIxc0ZTcGRLY1pRUGF2dk1fTUxidw?oc=5)
 
-2026-11-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span>
+2026-11-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [Inquirer.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNaFlkZXB3ZHVRQkhWdkh2OTh6aVZaTE9BNUpXUHg0X1NxbF9kUWdvcGE0UFV1Qlp5TFlwd1hTdGNSQVFDSFJTN0g0S2F6enM1NVpvNE5zMmdyOFZTdlJTVGZ2WmtfWVYyaUQ1ZFBUbTJIc29VU1hMbnNQTC1UTnQzX2JtV0Z3T09BbzIxc0ZTcGRLY1pRUGF2dk1fTUxidw?oc=5)
 
@@ -80,9 +112,17 @@ Source: [Inquirer.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNaFlk
 
 ### [12 strategies to cut your risk of dementia. Take this quiz to start](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVFhFZ19kRm1iM0xwRG0zeEN4UFNLVFVtd2NfTWJzUWFDQUlmRFhLQm1CTHdRR0RtdU1BUGVsdF9jV2hiMXllYU1LNXlOSHNDVF80SnJvVWVqU2ZtQkdoekZpUjBiX1FkYXI1ZmFtbzU2alVERnp4b3J2U3cySjhkMUxGc3dKMW9GMmc?oc=5)
 
-2026-11-27 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-11-27 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">MI</span>
 
 Source: [NPR](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVFhFZ19kRm1iM0xwRG0zeEN4UFNLVFVtd2NfTWJzUWFDQUlmRFhLQm1CTHdRR0RtdU1BUGVsdF9jV2hiMXllYU1LNXlOSHNDVF80SnJvVWVqU2ZtQkdoekZpUjBiX1FkYXI1ZmFtbzU2alVERnp4b3J2U3cySjhkMUxGc3dKMW9GMmc?oc=5)
+
+---
+
+### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE85V3RpWXBnc2wxQTdDaFdpQmxYZTlISmpzZUtZal83SjZob0VOUjFHeTRJbHRQc0JReU53eEp0eUIweVI5YThxdTA5QkdPT196YzM0R3Y1Y1JOdFg2Rk1LYjBpMlR5VFpXNmJYZWd6TG54ZGtmTW9pcWNQUmtWdw?oc=5)
+
+2026-11-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE85V3RpWXBnc2wxQTdDaFdpQmxYZTlISmpzZUtZal83SjZob0VOUjFHeTRJbHRQc0JReU53eEp0eUIweVI5YThxdTA5QkdPT196YzM0R3Y1Y1JOdFg2Rk1LYjBpMlR5VFpXNmJYZWd6TG54ZGtmTW9pcWNQUmtWdw?oc=5)
 
 ---
 
@@ -182,6 +222,14 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBXOGZ
 
 ---
 
+### [CWD cases grow in New York state, second confirmed in Livingston County](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWdWSkkxQ010LWNRTTFMM0ZvRkNVOXRfUnZGNWNRMW1ZOXlxaGw4MkF2Ni1mT2YyZlFadTlvakZtNDAxUWM5THVDWmhxY3pXVkxMTll3bEVibV9zSjNKWDBaTTlqbWNwVktCakhCZjIyTjlxQkl2czIwUTF4c3NnZWtHMzU1Zw?oc=5)
+
+2026-11-26 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWdWSkkxQ010LWNRTTFMM0ZvRkNVOXRfUnZGNWNRMW1ZOXlxaGw4MkF2Ni1mT2YyZlFadTlvakZtNDAxUWM5THVDWmhxY3pXVkxMTll3bEVibV9zSjNKWDBaTTlqbWNwVktCakhCZjIyTjlxQkl2czIwUTF4c3NnZWtHMzU1Zw?oc=5)
+
+---
+
 ### [CWD cases grow in New York state, second confirmed in Livingston County - Hornell Evening Tribune](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYXRIeTJjRlhaS091NjJIRHk3Mm5ia3BvSzQ5Wm9HcFhjUVMyNDRjSHp5bFhkdGRnRU1PbkJkclg3RHFxS2FVMVZBZ1JhZmtScWNDYVloSjdxc1llT1BFNV9XVnlfdGdfUVBYQjFlQlpFNGpmSmVINjAxN21IaUJSWXZfRnl1bC1QU1JCSmNWRmYycEp3RVc3MFZNa0l3dkJRRFdzVTB0ZEE3Qm1ldGpNWktHTGFEeHFsVDBGam1vTmxrVlphN1ZVOVAwaTEzN1dqb1E?oc=5)
 
 2026-11-26 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
@@ -240,7 +288,7 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MSlZhWnB4SD
 
 ### [Single-cell variant-to-enhancer-to-gene map for coronary artery disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
 
-2026-11-25 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">MI</span>
+2026-11-25 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
 
@@ -256,7 +304,7 @@ Source: [ZME Science](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkUyN
 
 ### [Photothermally gated nanorobots for active blood-brain barrier transcytosis and brain delivery - Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
 
-2026-11-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-25 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">UC</span>
 
 Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
 
@@ -566,6 +614,14 @@ Source: [American College of Cardiology](https://news.google.com/rss/articles/CB
 
 ---
 
+### [‘Shocking’ drop in hep B vaccination, including babies with infected mothers - NBC News](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSG1aSWY0Z0VucTRnUEVoODR3dnlUazFFOFNDcEVEcVZWR29mVUhEQlBJY1VBNDYzR1ZjRGltMmREcFFPbVBUVi1FYlpiU2RwUUkxN0s3ZWx2dzd1aXZDcGtGYmE2dFhHQzlfRGp1MXR1VExkLWJvQmpSb2x6TVpEQ2h6VHp1VHRvTWFHQmFNVWtNRDJHd3R6VktrY2ZSRWJDRmFrRGhxdGhjUTdMNHh0TmRCVHA?oc=5)
+
+2026-11-24 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [NBC News](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSG1aSWY0Z0VucTRnUEVoODR3dnlUazFFOFNDcEVEcVZWR29mVUhEQlBJY1VBNDYzR1ZjRGltMmREcFFPbVBUVi1FYlpiU2RwUUkxN0s3ZWx2dzd1aXZDcGtGYmE2dFhHQzlfRGp1MXR1VExkLWJvQmpSb2x6TVpEQ2h6VHp1VHRvTWFHQmFNVWtNRDJHd3R6VktrY2ZSRWJDRmFrRGhxdGhjUTdMNHh0TmRCVHA?oc=5)
+
+---
+
 ### [Scientists Used Tobacco to Affordably Grow Anti-Cancer Drug Taxol](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnBpajNPVHdPVDBOV2pkdUJWeTc2cWVVVW5JdVZHNVY4M2liMVhQMVYzVGVsNFRFdERmM3lvRUkxSE43N1ZvM1BPTWtObkpmOERYYkxob1JNNkFqTlJwTXFjSEc0dU1HZzZQWG1xTkd4dWJHSDRjM0pXYktLb0dxRkFyQm9ILWpwOEdiVndZVGRXUXp5NXZlRUNYOHBuZXZ4R2xTSlNKUGJKVmJVUFozcw?oc=5)
 
 2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
@@ -672,7 +728,7 @@ Source: [FOX8 WGHP](https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXVIY05
 
 ### [The CDC stays quiet on flu as an early season catches many Americans off-guard](https://news.google.com/rss/articles/CBMibkFVX3lxTFBaSDVQX2tUa2Z5ZHcwRV8ycmZ1dWMxSWoyZ19fbW9iVnNPNG1XWTdqS0Z4OVZ3Mm9VS01yTW9uZTJMb2h4blBUbGl5aFg0eG9WalV2bGQ5cWNyMGw2UUhpWW4tcFZXRkxaVWRsQUJ3?oc=5)
 
-2026-11-24 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">influenza</span> <span class="news-indication-tag">RA</span>
+2026-11-24 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">RA</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMibkFVX3lxTFBaSDVQX2tUa2Z5ZHcwRV8ycmZ1dWMxSWoyZ19fbW9iVnNPNG1XWTdqS0Z4OVZ3Mm9VS01yTW9uZTJMb2h4blBUbGl5aFg0eG9WalV2bGQ5cWNyMGw2UUhpWW4tcFZXRkxaVWRsQUJ3?oc=5)
 
@@ -736,7 +792,7 @@ Source: [NBC News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNN0pUUUsw
 
 ### [Why So Many of Us Have Chronic Back Pain, and Why It Won’t Go Away - The New York Times](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWV3X1g2aGxKUFMzekM3bkJDZkZzOUlYQm5MdTR2cXRXcFJCQ0pMWllPSHFqejM1M2lfc3c1OTF5RldTVG1Jay0wM3JEanhUbmFDMDhOVG9hajl3RjN0cGtGdUVNblNGSFhWeW9LWEVpRHdLMlpJVDRIS2drRmlOZ0Jn?oc=5)
 
-2026-11-24 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">MI</span>
+2026-11-24 <span class="news-drug-tag">Tadalafil</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWV3X1g2aGxKUFMzekM3bkJDZkZzOUlYQm5MdTR2cXRXcFJCQ0pMWllPSHFqejM1M2lfc3c1OTF5RldTVG1Jay0wM3JEanhUbmFDMDhOVG9hajl3RjN0cGtGdUVNblNGSFhWeW9LWEVpRHdLMlpJVDRIS2drRmlOZ0Jn?oc=5)
 

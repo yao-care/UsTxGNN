@@ -3,9 +3,9 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 59 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 61 articles, 1 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # CAD (heart disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>59 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>61 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (59)
+## Related News (61)
+
+### [Scientists Find Early 'Red Flags' That Can Predict Cardiovascular Events Decades Ahead](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQck1LOUtuNWQ2STFtM2hMdzVTQ1FvR3hKR0I2X0k3V3hWTUVUSHJ2MFhoLUNRa3dBMDFrYVVyYWphTzN4OFhiVEJUUnlWZ01kV1dlajY0QTBvSk4wUlI1d1FfOHM3RUNpS180QmVyVlNseTNsT0ZhR0k0QW5hMnBldWlQbjQ3cG5OMzkzb1lobkpRdkM4Q1hselNfWXNuaDc0dUV6bUV2SG13SmJJN2NGNkV6b0NfcVNENkJteE1HM09EdEltMHE4alJ6S0gyVE9WR2c?oc=5)
+
+2026-11-27
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQck1LOUtuNWQ2STFtM2hMdzVTQ1FvR3hKR0I2X0k3V3hWTUVUSHJ2MFhoLUNRa3dBMDFrYVVyYWphTzN4OFhiVEJUUnlWZ01kV1dlajY0QTBvSk4wUlI1d1FfOHM3RUNpS180QmVyVlNseTNsT0ZhR0k0QW5hMnBldWlQbjQ3cG5OMzkzb1lobkpRdkM4Q1hselNfWXNuaDc0dUV6bUV2SG13SmJJN2NGNkV6b0NfcVNENkJteE1HM09EdEltMHE4alJ6S0gyVE9WR2c?oc=5)
+
+---
 
 ### [Philly-area cancer vaccine trials show new promise after decades of setbacks in the field](https://news.google.com/rss/articles/CBMingFBVV95cUxNaFlkZXB3ZHVRQkhWdkh2OTh6aVZaTE9BNUpXUHg0X1NxbF9kUWdvcGE0UFV1Qlp5TFlwd1hTdGNSQVFDSFJTN0g0S2F6enM1NVpvNE5zMmdyOFZTdlJTVGZ2WmtfWVYyaUQ1ZFBUbTJIc29VU1hMbnNQTC1UTnQzX2JtV0Z3T09BbzIxc0ZTcGRLY1pRUGF2dk1fTUxidw?oc=5)
 
@@ -229,6 +237,14 @@ Source: [NewsNation](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEU1WU
 2026-11-21
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQckhpUXNVWXJrVGVkeGZJYVh4aXN2VlV4UHR2SXJMS0V6WFlYVnBjRjNkRldNVDVzTVZiSkFoN3Jqdy01aEMyYWkxRFJSR2FQelg0UnFvcms2NzlIRnJvLWlsQnl1aVFkVXl2MGhRY09OYnNoZ0ZCUDN6cVplS0NhN3g4dHRUZ2JqRFU4QXRoMThiMU9xZC1NRWtOMExHWlJyUDlXUVVXZ0xRWkhsSmc?oc=5)
+
+---
+
+### [Bizarre 'Vampire Camel' Discovered in Museum Fossils Collected Decades Ago](https://news.google.com/rss/articles/CBMiowFBVV95cUxORDRYYkNMc0JUVlAxYndycEhxTmtqbXZYS1oxZ3l6Vno2ampjVXFFZnpXcFNGT3NZV214YkxZR3E3WktRUWF5eDFWbWU5cUJLbWVwTmhWcTZFR2VLc3lEM004RE5tQ0ZicGU2VWNIQnZDSnlud0hYSkRWeXMzYWxnZ2EwQ3NKT1IzYWlZTDlMbHlyR1VJd0Z2TDl1ekx2Q2YtSGFr?oc=5)
+
+2026-11-21
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxORDRYYkNMc0JUVlAxYndycEhxTmtqbXZYS1oxZ3l6Vno2ampjVXFFZnpXcFNGT3NZV214YkxZR3E3WktRUWF5eDFWbWU5cUJLbWVwTmhWcTZFR2VLc3lEM004RE5tQ0ZicGU2VWNIQnZDSnlud0hYSkRWeXMzYWxnZ2EwQ3NKT1IzYWlZTDlMbHlyR1VJd0Z2TDl1ekx2Q2YtSGFr?oc=5)
 
 ---
 

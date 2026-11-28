@@ -3,9 +3,9 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 137 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 139 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # UC (inflammatory bowel disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>137 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>139 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,23 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (137)
+## Related News (139)
+
+### [Tinnitus Is Connected Somehow to a Crucial Bodily Function](https://news.google.com/rss/articles/CBMikAFBVV95cUxONDM0OHJsY1RzanY0YUtsbmZRMVJ3dHBaVlFybk5Xam1hUVJmVlJYUlZzc0djNURhVWtYMGhvQVRiYUQ2cm9fZFd6Y1FJWE1UYWFrQ0JIcDR1d0VCZ2Q2SzcwU3E1UkRib3ZGa0RXVXYyWDZuQlBGTGE5NDE4a3NCX3cxQ2xpRlJrQmtkUnJYVmU?oc=5)
+
+2026-11-27
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMikAFBVV95cUxONDM0OHJsY1RzanY0YUtsbmZRMVJ3dHBaVlFybk5Xam1hUVJmVlJYUlZzc0djNURhVWtYMGhvQVRiYUQ2cm9fZFd6Y1FJWE1UYWFrQ0JIcDR1d0VCZ2Q2SzcwU3E1UkRib3ZGa0RXVXYyWDZuQlBGTGE5NDE4a3NCX3cxQ2xpRlJrQmtkUnJYVmU?oc=5)
+
+---
+
+### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE85V3RpWXBnc2wxQTdDaFdpQmxYZTlISmpzZUtZal83SjZob0VOUjFHeTRJbHRQc0JReU53eEp0eUIweVI5YThxdTA5QkdPT196YzM0R3Y1Y1JOdFg2Rk1LYjBpMlR5VFpXNmJYZWd6TG54ZGtmTW9pcWNQUmtWdw?oc=5)
+
+2026-11-27
+
+Source: [Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE85V3RpWXBnc2wxQTdDaFdpQmxYZTlISmpzZUtZal83SjZob0VOUjFHeTRJbHRQc0JReU53eEp0eUIweVI5YThxdTA5QkdPT196YzM0R3Y1Y1JOdFg2Rk1LYjBpMlR5VFpXNmJYZWd6TG54ZGtmTW9pcWNQUmtWdw?oc=5)
+
+---
 
 ### [Common supplements rival antibiotics in treating severe gum disease - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5HdmNKYjdWQ1ExSWVGMGJrY2dpZHR3eG5EWmlMYnh5RnR5dFF2M2EwekozRGs2Zkc4Q014S3RpV1RmaVdlUFpqOHliN2RPaVZKZmt0UFVlR1hwM2YyOW1SWkxkdDhOQkFldGY3UW16bw?oc=5)
 

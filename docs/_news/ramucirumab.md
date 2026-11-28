@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ramucirumab. 10 predicted indications."
 permalink: /news/ramucirumab/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Ramucirumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>95 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>96 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (95)
+## Related News (96)
 
 ### [Scientists ‘reprogramme’ immune system to fight melanoma - The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUZvaGtzWVg5LUtZcFBOWjd6bE5XMDNoc2pLanI2blJ1MnlOVm93c21JR1F5SDRZZlk4ODZsaHpzc1IwTWFpdU9GbnhRMkd3ZjlqWWVwclo5M0ZHOThMRTQ3b1ZVa28wZURzWlVOQ1ZZd2lhN2FqdWFNR1ZTbHBZYVEtTHRKaDdrT2dWNlpzT2RqeEx5aUpoQ3Vjak9iQ0VEQ0E?oc=5)
 
@@ -62,9 +62,17 @@ Source: [HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd1Z2LXlo
 
 ### [Philly-area cancer vaccine trials show new promise after decades of setbacks in the field](https://news.google.com/rss/articles/CBMingFBVV95cUxNaFlkZXB3ZHVRQkhWdkh2OTh6aVZaTE9BNUpXUHg0X1NxbF9kUWdvcGE0UFV1Qlp5TFlwd1hTdGNSQVFDSFJTN0g0S2F6enM1NVpvNE5zMmdyOFZTdlJTVGZ2WmtfWVYyaUQ1ZFBUbTJIc29VU1hMbnNQTC1UTnQzX2JtV0Z3T09BbzIxc0ZTcGRLY1pRUGF2dk1fTUxidw?oc=5)
 
-2026-11-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span>
+2026-11-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [Inquirer.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNaFlkZXB3ZHVRQkhWdkh2OTh6aVZaTE9BNUpXUHg0X1NxbF9kUWdvcGE0UFV1Qlp5TFlwd1hTdGNSQVFDSFJTN0g0S2F6enM1NVpvNE5zMmdyOFZTdlJTVGZ2WmtfWVYyaUQ1ZFBUbTJIc29VU1hMbnNQTC1UTnQzX2JtV0Z3T09BbzIxc0ZTcGRLY1pRUGF2dk1fTUxidw?oc=5)
+
+---
+
+### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE85V3RpWXBnc2wxQTdDaFdpQmxYZTlISmpzZUtZal83SjZob0VOUjFHeTRJbHRQc0JReU53eEp0eUIweVI5YThxdTA5QkdPT196YzM0R3Y1Y1JOdFg2Rk1LYjBpMlR5VFpXNmJYZWd6TG54ZGtmTW9pcWNQUmtWdw?oc=5)
+
+2026-11-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE85V3RpWXBnc2wxQTdDaFdpQmxYZTlISmpzZUtZal83SjZob0VOUjFHeTRJbHRQc0JReU53eEp0eUIweVI5YThxdTA5QkdPT196YzM0R3Y1Y1JOdFg2Rk1LYjBpMlR5VFpXNmJYZWd6TG54ZGtmTW9pcWNQUmtWdw?oc=5)
 
 ---
 
@@ -118,7 +126,7 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MSlZhWnB4SD
 
 ### [Photothermally gated nanorobots for active blood-brain barrier transcytosis and brain delivery - Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
 
-2026-11-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-25 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">UC</span>
 
 Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZURlZ6b0R0aFhmQkR3aUd1MXRUSmVPUy0tenlhMnlXcHFMalpHel9zTnE3UEZaWU9qbDltZ2N6aFViQlc4TEVCT3dfYnlFTHZQMnNHd2ZvZHljVE95Q2U1VjhwUQ?oc=5)
 

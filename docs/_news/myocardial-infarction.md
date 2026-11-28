@@ -3,9 +3,9 @@ layout: default
 title: "MI (myocardial infarction) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about MI (myocardial infarction). 359 articles, 9 related drugs."
+description: "Health news about MI (myocardial infarction). 365 articles, 9 related drugs."
 permalink: /news/myocardial-infarction/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # MI (myocardial infarction) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about MI (myocardial infarction)?">
-<strong>MI (myocardial infarction)</strong> currently has <strong>359 news articles</strong> and 9 related drugs.
+<strong>MI (myocardial infarction)</strong> currently has <strong>365 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page brings together the latest health news about “MI” and lists the dr
 </ul>
 </div>
 
-## Related News (359)
+## Related News (365)
+
+### [Mpox cases double in San Diego County, officials urge two-dose vaccine](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNng5dFZrdE1kNGxsS1I0R0F3d2ZpRVVUMW1kNndqUlBnUXl5WjlnV250TE9RaHF2dUNJTkZCeUt5Q1JKSElFeExzSFR2czYyOVN2VVVJVE5ndUpDVjkteXVsQ29LYUVaWk1VcHNCVHVvNUhISklmMDF6b3pPRlNDdUJ0VmhBOW1qWVJRSExySUt2U25KQ1gwSEVsZmk0ZDR1SWhMd0NmbXVUSXpONVpRR2hLcWVJa1lXRF81dGxGNjNwVy1DdExnVms4LUVvSFhreV9SeVlfZkR5QmJvXzZ3WWlCTzVzZw?oc=5)
+
+2026-11-27
+
+Source: [cbs8.com](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNng5dFZrdE1kNGxsS1I0R0F3d2ZpRVVUMW1kNndqUlBnUXl5WjlnV250TE9RaHF2dUNJTkZCeUt5Q1JKSElFeExzSFR2czYyOVN2VVVJVE5ndUpDVjkteXVsQ29LYUVaWk1VcHNCVHVvNUhISklmMDF6b3pPRlNDdUJ0VmhBOW1qWVJRSExySUt2U25KQ1gwSEVsZmk0ZDR1SWhMd0NmbXVUSXpONVpRR2hLcWVJa1lXRF81dGxGNjNwVy1DdExnVms4LUVvSFhreV9SeVlfZkR5QmJvXzZ3WWlCTzVzZw?oc=5)
+
+---
 
 ### [More Utahns turning to alternative forms of birth control, research says](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUJRdGRQNFc3UjItZWJoQVJlczh3RTNnWVllZ2RKcV94akVqRWViZi1tdDRmeTA1d2dIWWNNbVQzQmRTenZrSDluN0VWMjhuV0VCVGdXdlphQV90UU5sV1dXRjNvTTE4d3lldEJvZFZ6S0VZUG9pMHl0OEVpZHdiS0N2OF8zTWdFTnpWQVR2NlBKejdlMV8xN1F0Ujk3SVB6elRYNkdJUmdRc2JK?oc=5)
 
@@ -48,11 +56,27 @@ Source: [KSL](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUJRdGRQNFc3U
 
 ---
 
+### [A small galaxy's giant dark matter core challenges the standard cosmological model](https://news.google.com/rss/articles/CBMicEFVX3lxTE5fTUxZRy1jRFdhY2x5ZlF3MHpaaFVSX1doLUV3OThodmc2S0d2ZWNkZmZFcEZqTXRfSldUYl9jUEYwMURHd0RhcWM2aW9LeVJPaUo2ZTNQTkk4UGJmNUl1UDBkNDI4bkcwdlZNUEpNSTE?oc=5)
+
+2026-11-27
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMicEFVX3lxTE5fTUxZRy1jRFdhY2x5ZlF3MHpaaFVSX1doLUV3OThodmc2S0d2ZWNkZmZFcEZqTXRfSldUYl9jUEYwMURHd0RhcWM2aW9LeVJPaUo2ZTNQTkk4UGJmNUl1UDBkNDI4bkcwdlZNUEpNSTE?oc=5)
+
+---
+
 ### [Millions of Americans Have This Condition. It Might Raise Your Risk of Alzheimer’s by 53%](https://news.google.com/rss/articles/CBMiigFBVV95cUxObWR5TEtuWGxCVFFzSC1jR01zbGtaSTkzUHgteTJqRVh4SGU1YVhSWDVyMmtNcHdENEk1ODB1MzMtN0xMbGZXRlgzWUpmeVgyZTdFUVpuX2FJZ0NacFlJa1dxd1h5anJZQ3ExV3JrWkVZYjF2QnBDaWw3RUJUbEVFZ3M4U1ZweWVoclE?oc=5)
 
 2026-11-27
 
 Source: [Prevention](https://news.google.com/rss/articles/CBMiigFBVV95cUxObWR5TEtuWGxCVFFzSC1jR01zbGtaSTkzUHgteTJqRVh4SGU1YVhSWDVyMmtNcHdENEk1ODB1MzMtN0xMbGZXRlgzWUpmeVgyZTdFUVpuX2FJZ0NacFlJa1dxd1h5anJZQ3ExV3JrWkVZYjF2QnBDaWw3RUJUbEVFZ3M4U1ZweWVoclE?oc=5)
+
+---
+
+### [Scientists Find Early 'Red Flags' That Can Predict Cardiovascular Events Decades Ahead](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQck1LOUtuNWQ2STFtM2hMdzVTQ1FvR3hKR0I2X0k3V3hWTUVUSHJ2MFhoLUNRa3dBMDFrYVVyYWphTzN4OFhiVEJUUnlWZ01kV1dlajY0QTBvSk4wUlI1d1FfOHM3RUNpS180QmVyVlNseTNsT0ZhR0k0QW5hMnBldWlQbjQ3cG5OMzkzb1lobkpRdkM4Q1hselNfWXNuaDc0dUV6bUV2SG13SmJJN2NGNkV6b0NfcVNENkJteE1HM09EdEltMHE4alJ6S0gyVE9WR2c?oc=5)
+
+2026-11-27
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQck1LOUtuNWQ2STFtM2hMdzVTQ1FvR3hKR0I2X0k3V3hWTUVUSHJ2MFhoLUNRa3dBMDFrYVVyYWphTzN4OFhiVEJUUnlWZ01kV1dlajY0QTBvSk4wUlI1d1FfOHM3RUNpS180QmVyVlNseTNsT0ZhR0k0QW5hMnBldWlQbjQ3cG5OMzkzb1lobkpRdkM4Q1hselNfWXNuaDc0dUV6bUV2SG13SmJJN2NGNkV6b0NfcVNENkJteE1HM09EdEltMHE4alJ6S0gyVE9WR2c?oc=5)
 
 ---
 
@@ -85,6 +109,14 @@ Source: [Inquirer.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNaFlk
 2026-11-27
 
 Source: [NPR](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVFhFZ19kRm1iM0xwRG0zeEN4UFNLVFVtd2NfTWJzUWFDQUlmRFhLQm1CTHdRR0RtdU1BUGVsdF9jV2hiMXllYU1LNXlOSHNDVF80SnJvVWVqU2ZtQkdoekZpUjBiX1FkYXI1ZmFtbzU2alVERnp4b3J2U3cySjhkMUxGc3dKMW9GMmc?oc=5)
+
+---
+
+### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE85V3RpWXBnc2wxQTdDaFdpQmxYZTlISmpzZUtZal83SjZob0VOUjFHeTRJbHRQc0JReU53eEp0eUIweVI5YThxdTA5QkdPT196YzM0R3Y1Y1JOdFg2Rk1LYjBpMlR5VFpXNmJYZWd6TG54ZGtmTW9pcWNQUmtWdw?oc=5)
+
+2026-11-27
+
+Source: [Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE85V3RpWXBnc2wxQTdDaFdpQmxYZTlISmpzZUtZal83SjZob0VOUjFHeTRJbHRQc0JReU53eEp0eUIweVI5YThxdTA5QkdPT196YzM0R3Y1Y1JOdFg2Rk1LYjBpMlR5VFpXNmJYZWd6TG54ZGtmTW9pcWNQUmtWdw?oc=5)
 
 ---
 
@@ -181,6 +213,14 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMipgFBVV95c
 2026-11-26
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBXOGZDQXNUbk8tMGVDS005QXkydXlWLXFoLWNCaEFuY3BtSHZhbm14MVFQc1g5SlRmcThaWU1JdE5pcDRXakl6N2w4VFVnalBiQ2J3VUplX0V4STB6M0tzN0Y3TTJ1SVUtVDE0Vk9jYw?oc=5)
+
+---
+
+### [CWD cases grow in New York state, second confirmed in Livingston County](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWdWSkkxQ010LWNRTTFMM0ZvRkNVOXRfUnZGNWNRMW1ZOXlxaGw4MkF2Ni1mT2YyZlFadTlvakZtNDAxUWM5THVDWmhxY3pXVkxMTll3bEVibV9zSjNKWDBaTTlqbWNwVktCakhCZjIyTjlxQkl2czIwUTF4c3NnZWtHMzU1Zw?oc=5)
+
+2026-11-26
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWdWSkkxQ010LWNRTTFMM0ZvRkNVOXRfUnZGNWNRMW1ZOXlxaGw4MkF2Ni1mT2YyZlFadTlvakZtNDAxUWM5THVDWmhxY3pXVkxMTll3bEVibV9zSjNKWDBaTTlqbWNwVktCakhCZjIyTjlxQkl2czIwUTF4c3NnZWtHMzU1Zw?oc=5)
 
 ---
 
@@ -517,6 +557,14 @@ Source: [TribLIVE.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNW41
 2026-11-24
 
 Source: [American College of Cardiology](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkhOMFYyYnNscTk4bTZfelNMWlAyMzdiZlpXWjRTelFmQllZTDJkQzR2TGdTcjZDZ0s1cTZuaFVBZTFNN19xUUU3RThuaWVxcUlxZkhMVHV5c3VPQ3NNUkJwQXhUVDJlRTRUakRqVTJFbi1ScUNRRk5HcnFxbXFGOW5kZ1pCRm9EdlA0dnZNQ0hBWXZ5Und2Z05aMUg5MDEt?oc=5)
+
+---
+
+### [‘Shocking’ drop in hep B vaccination, including babies with infected mothers - NBC News](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSG1aSWY0Z0VucTRnUEVoODR3dnlUazFFOFNDcEVEcVZWR29mVUhEQlBJY1VBNDYzR1ZjRGltMmREcFFPbVBUVi1FYlpiU2RwUUkxN0s3ZWx2dzd1aXZDcGtGYmE2dFhHQzlfRGp1MXR1VExkLWJvQmpSb2x6TVpEQ2h6VHp1VHRvTWFHQmFNVWtNRDJHd3R6VktrY2ZSRWJDRmFrRGhxdGhjUTdMNHh0TmRCVHA?oc=5)
+
+2026-11-24
+
+Source: [NBC News](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSG1aSWY0Z0VucTRnUEVoODR3dnlUazFFOFNDcEVEcVZWR29mVUhEQlBJY1VBNDYzR1ZjRGltMmREcFFPbVBUVi1FYlpiU2RwUUkxN0s3ZWx2dzd1aXZDcGtGYmE2dFhHQzlfRGp1MXR1VExkLWJvQmpSb2x6TVpEQ2h6VHp1VHRvTWFHQmFNVWtNRDJHd3R6VktrY2ZSRWJDRmFrRGhxdGhjUTdMNHh0TmRCVHA?oc=5)
 
 ---
 
